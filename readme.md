@@ -38,3 +38,4 @@
     - also, last version that runs on windows is tf-text 2.10, so...
     - rebuilt conda env with python 3.10, jupyter, tf-text 2.10.0, tf 2.10.1 
   - <**> data prep complete, beginning work on the encoder
+  - <**> wrote the decoder and overall model, training and some simple tests
