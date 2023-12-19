@@ -21,4 +21,5 @@
   - add utilities to vectorize and sequence the data
   - turn data sequences into training batches for the model
   - <**> checkin - data loaded - prior to model construction 
+  - <**> checkin - built the model and started to train
     

@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="first commit - setup environment with jupyter and tensorflow with RNN notebook">
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="data loaded - prior to model construction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RNN-text-generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RNN-text-generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <workItem from="1702953561466" duration="3006000" />
       <workItem from="1702957494281" duration="1204000" />
       <workItem from="1702959690480" duration="1371000" />
-      <workItem from="1702964529597" duration="2303000" />
+      <workItem from="1702964529597" duration="4013000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -97,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702954396213</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="data loaded - prior to model construction">
+      <option name="closed" value="true" />
+      <created>1702967204551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702967204551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit - setup environment with jupyter and tensorflow with RNN notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit - setup environment with jupyter and tensorflow with RNN notebook" />
+    <MESSAGE value="data loaded - prior to model construction" />
+    <option name="LAST_COMMIT_MESSAGE" value="data loaded - prior to model construction" />
   </component>
 </project>
