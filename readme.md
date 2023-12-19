@@ -22,4 +22,8 @@
   - turn data sequences into training batches for the model
   - <**> checkin - data loaded - prior to model construction 
   - <**> checkin - built the model and started to train
+  - after training, write code to use the trained model to generate text
+  - <**> checkin 
+    - after training, write code to use the trained model to generate text
+    - also export the full generator, reload it from disk and show it still works
     
