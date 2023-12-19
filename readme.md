@@ -32,3 +32,9 @@
     - added source data to the project folder
     - split the load/save cell to allow a user to load the model directly and run it without training
     - added a "still to do" section at the end of the notebook to point to future learning to be done shortly
+- seq2seq work
+  - Environment setup
+    - requires tensorflow-text, which only supports Python 3.10, so downgraded the env to that
+    - also, last version that runs on windows is tf-text 2.10, so...
+    - rebuilt conda env with python 3.10, jupyter, tf-text 2.10.0, tf 2.10.1 
+  - <**> data prep complete, beginning work on the encoder
