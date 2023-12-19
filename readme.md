@@ -10,5 +10,15 @@
   - setup this file
   - baseline notebook for first project
 - test drive the notebook env - hello world
-  - first checkin into the repo
+  - first checkin into the repo <**> (<- this is a checkin marker)
+- reconfigure to start the RNN work
+  - had the recurring issue where the notebook doesn't use the interpreter from the configured python environment
+  - "conda install nb_conda_kernels" as per [this link](https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook)
+  - reconfigured the python interpreter properly in PyCharm as well - required pip install -U charset to remove a chardet module error
+  - actually pulled the conda and python environments off of a spinning drive, onto M2 - much faster
+- Actual RNN work
+  - load and validate the data
+  - add utilities to vectorize and sequence the data
+  - turn data sequences into training batches for the model
+  - <**> checkin - data loaded - prior to model construction 
     
