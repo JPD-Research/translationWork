@@ -1,4 +1,4 @@
-18-Dec - pulled everything together into this set of notebooks
+- (18-Dec-23) pulled everything together into this set of notebooks
 - config conda
   - setup git repo in JPD-Research organization  
   - ensure env is setup to store EVERYTHING locally 
@@ -8,7 +8,7 @@
 - config pycharm
   - pointed to the env setup above 
   - setup this file
-  - baseline notebook for first project
+  - baseline notebook for first project - RNN-text-generation
 - test drive the notebook env - hello world
   - first checkin into the repo <**> (<- this is a checkin marker)
 - reconfigure to start the RNN work
@@ -20,10 +20,15 @@
   - load and validate the data
   - add utilities to vectorize and sequence the data
   - turn data sequences into training batches for the model
+  - (19-Dec-23)
   - <**> checkin - data loaded - prior to model construction 
   - <**> checkin - built the model and started to train
   - after training, write code to use the trained model to generate text
   - <**> checkin 
     - after training, write code to use the trained model to generate text
     - also export the full generator, reload it from disk and show it still works
-    
+  - <**> checkin
+    - initial work nominally complete
+    - added source data to the project folder
+    - split the load/save cell to allow a user to load the model directly and run it without training
+    - added a "still to do" section at the end of the notebook to point to future learning to be done shortly
