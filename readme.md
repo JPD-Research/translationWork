@@ -39,3 +39,8 @@
     - rebuilt conda env with python 3.10, jupyter, tf-text 2.10.0, tf 2.10.1 
   - <**> data prep complete, beginning work on the encoder
   - <**> wrote the decoder and overall model, training and some simple tests
+  - (20-Dec-23)
+  - <**> finished the seq2seq model, updated the translate() method to use a tensorflow loop - significantly increased performance
+      - added next steps to the bottom of the notebook
+      - still do to - complete documentation of this notebook
+      - small text edit to rnn notebook, placeholder for translator notebook
