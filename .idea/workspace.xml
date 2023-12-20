@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn">
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff">
+      <change afterPath="$PROJECT_DIR$/data/ted_hrlr_translate/.config/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ted_hrlr_translate/pt_to_en/1.0.0/dataset_info.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ted_hrlr_translate/pt_to_en/1.0.0/features.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ted_hrlr_translate/pt_to_en/1.0.0/ted_hrlr_translate-test.tfrecord-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ted_hrlr_translate/pt_to_en/1.0.0/ted_hrlr_translate-train.tfrecord-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ted_hrlr_translate/pt_to_en/1.0.0/ted_hrlr_translate-validation.tfrecord-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ted_hrlr_translate_pt_en_converter.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ted_hrlr_translate_pt_en_converter/assets/en_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ted_hrlr_translate_pt_en_converter/assets/pt_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ted_hrlr_translate_pt_en_converter/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ted_hrlr_translate_pt_en_converter/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/ted_hrlr_translate_pt_en_converter/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocab/en_vocab.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vocab/pt_vocab.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RNN-text-generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RNN-text-generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seq2seq-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq-translation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformer-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformer-translation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subword-tokenizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/subword-tokenizer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +129,7 @@
       <workItem from="1703018518842" duration="4004000" />
       <workItem from="1703085636096" duration="3189000" />
       <workItem from="1703089399031" duration="1026000" />
-      <workItem from="1703090684949" duration="788000" />
+      <workItem from="1703090684949" duration="5560000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -197,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703089603039</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff">
+      <option name="closed" value="true" />
+      <created>1703091866118</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703091866118</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +284,7 @@
     <MESSAGE value="seq2seq work - data prep complete, data added to repo, beginning work on the encoder" />
     <MESSAGE value="seq2seq work - decoder and overall model, training and some simple tests" />
     <MESSAGE value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
-    <option name="LAST_COMMIT_MESSAGE" value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
+    <MESSAGE value="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff" />
   </component>
 </project>

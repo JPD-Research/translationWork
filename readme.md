@@ -41,6 +41,10 @@
   - <**> wrote the decoder and overall model, training and some simple tests
   - (20-Dec-23)
   - <**> finished the seq2seq model, updated the translate() method to use a tensorflow loop - significantly increased performance
-      - added next steps to the bottom of the notebook
-      - still do to - complete documentation of this notebook
-      - small text edit to rnn notebook, placeholder for translator notebook
+    - added next steps to the bottom of the notebook
+    - still do to - complete documentation of this notebook
+    - small text edit to rnn notebook, placeholder for translator notebook
+  - translator work
+    - needed subwork tokenizer model completed as input
+      - needed to be explicit about encoding for the vocab to store/reload properly
+      - <**> completed the code for the subword tokenizer - saved model for translator usage
