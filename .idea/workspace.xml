@@ -4,18 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="seq2seq work - decoder and overall model, training and some simple tests">
-      <change afterPath="$PROJECT_DIR$/models/dynamic_translator/saved_model.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/dynamic_translator/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/dynamic_translator/variables/variables.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/translator/saved_model.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/translator/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/translator/variables/variables.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transformer-translation.ipynb" afterDir="false" />
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RNN-text-generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RNN-text-generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seq2seq-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq-translation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformer-translation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +114,8 @@
       <workItem from="1703012859253" duration="4408000" />
       <workItem from="1703018518842" duration="4004000" />
       <workItem from="1703085636096" duration="3189000" />
+      <workItem from="1703089399031" duration="1026000" />
+      <workItem from="1703090684949" duration="788000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -194,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703028671004</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn">
+      <option name="closed" value="true" />
+      <created>1703089603039</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1703089603039</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +261,7 @@
     <MESSAGE value="initial work nominally done - added source data, made loading the saved model easier, and added &quot;to do&quot; section to RNN notebook" />
     <MESSAGE value="seq2seq work - data prep complete, data added to repo, beginning work on the encoder" />
     <MESSAGE value="seq2seq work - decoder and overall model, training and some simple tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="seq2seq work - decoder and overall model, training and some simple tests" />
+    <MESSAGE value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
   </component>
 </project>
