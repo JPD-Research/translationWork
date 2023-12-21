@@ -48,3 +48,5 @@
     - needed subwork tokenizer model completed as input
       - needed to be explicit about encoding for the vocab to store/reload properly
       - <**> completed the code for the subword tokenizer - saved model for translator usage
+      - standardized the path locations in all notebooks
+    - <**> completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete
