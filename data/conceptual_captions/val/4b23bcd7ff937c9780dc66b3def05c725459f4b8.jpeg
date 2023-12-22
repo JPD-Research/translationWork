@@ -1,0 +1,1960 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+    <meta name="format-detection" content="telephone=no">
+    
+    <link rel="preload" as="style" href="/css/bundle.css?v=99gDbd9vrbxUpPWinYwpjqXm5l8" />
+    <link rel="preload" as="image" href="https://cdn.soglos.com/images/website/logos/soglos-logo-2023.svg" />
+    <link rel="preload" as="image" href="https://cdn.soglos.com/img/fallback-mpu.png?quality=85" media="(max-width: 1058px)" />
+
+        
+            
+<title>SoGlos - Gloucestershire's leading media brand</title>
+<meta itemprop="name" content="SoGlos - Gloucestershire's leading media brand">
+<meta name="description" content="Latest news, events, things to do, places to eat, business in Cheltenham, Cotswolds, Gloucester, Stroud, Forest of Dean and Tewkesbury.">
+<meta itemprop="description" content="Latest news, events, things to do, places to eat, business in Cheltenham, Cotswolds, Gloucester, Stroud, Forest of Dean and Tewkesbury.">
+<meta name="author" content="SoGlos">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://www.soglos.com/">
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="website">
+<meta property="og:title" content="SoGlos - Gloucestershire's leading media brand">
+<meta property="og:description" content="Latest news, events, things to do, places to eat, business in Cheltenham, Cotswolds, Gloucester, Stroud, Forest of Dean and Tewkesbury.">
+<meta property="og:image" content="https://www.soglos.com/images/website/socms-content-fallback-image-2023.jpg?width=1200&height=630&rmode=max">
+<meta property="og:url" content="https://www.soglos.com/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SoGlos - Gloucestershire's leading media brand">
+<meta name="twitter:description" content="Latest news, events, things to do, places to eat, business in Cheltenham, Cotswolds, Gloucester, Stroud, Forest of Dean and Tewkesbury.">
+<meta name="twitter:image" content="https://www.soglos.com/images/website/socms-content-fallback-image-2023.jpg?width=1024&height=512&rmode=max">
+
+        
+
+            <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+    <script>
+        window.googletag = window.googletag || {cmd: []};
+        googletag.cmd.push(function() {
+            var mapWallpaper = googletag.sizeMapping()
+                                        .addSize([0, 0], [])
+                                        .addSize([1060, 200], [2100, 1200])
+                                        .build();
+
+            var mapWallMobile = googletag.sizeMapping()
+                                        .addSize([0, 0], [300, 250])
+                                        .addSize([1059, 200], [])
+                                        .build();
+
+            var mapBill = googletag.sizeMapping()
+                                    .addSize([0, 0], [300, 250])
+                                    .addSize([1059, 200], [970, 250])
+                                    .build();
+
+            var mapSkyDesktop = googletag.sizeMapping()
+                                            .addSize([0, 0], [])
+                                            .addSize([768, 200], [300, 600])
+                                            .build();
+
+            var mapMPUMobile = googletag.sizeMapping()
+                                        .addSize([0, 0], [300, 250])
+                                        .addSize([768, 200], [])
+                                        .build();
+
+googletag.defineSlot('/61019217/sg-home-wallpaper', [2100, 1200], 'gdfpUnit_10').defineSizeMapping(mapWallpaper).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-wallpaper-mpu', [300, 250], 'gdfpUnit_11').defineSizeMapping(mapWallMobile).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-leaderboard//l-mpu', [[970, 250], [300, 250]], 'gdfpUnit_20').defineSizeMapping(mapBill).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-ws1', [300, 600], 'gdfpUnit_30').defineSizeMapping(mapSkyDesktop).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-ws2', [300, 600], 'gdfpUnit_40').defineSizeMapping(mapSkyDesktop).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-ws3', [300, 600], 'gdfpUnit_50').defineSizeMapping(mapSkyDesktop).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-ws1-mpu', [300, 250], 'gdfpUnit_31').defineSizeMapping(mapMPUMobile).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-ws2-mpu', [300, 250], 'gdfpUnit_41').defineSizeMapping(mapMPUMobile).addService(googletag.pubads());googletag.defineSlot('/61019217/sg-home-ws3-mpu', [300, 250], 'gdfpUnit_51').defineSizeMapping(mapMPUMobile).addService(googletag.pubads());
+            googletag.pubads().collapseEmptyDivs();
+            googletag.pubads().enableLazyLoad({
+              fetchMarginPercent: 200,  // Fetch slots within 2 viewports.
+              renderMarginPercent: 100,  // Render slots within 1 viewports.
+              mobileScaling: 2.0  // Double the above values on mobile.
+            });
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+
+
+            
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KBD5N6L');</script>
+<!-- End Google Tag Manager -->
+
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=619663189bce3d00135422a1&product=inline-share-buttons' async='async' defer></script>
+
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '274963673073834');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=274963673073834&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->            
+
+    <link rel="stylesheet" href="/css/bundle.css?v=99gDbd9vrbxUpPWinYwpjqXm5l8" />
+
+        
+            <!-- FAVICON -->
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/favicons/site.webmanifest">
+<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#000000">
+<link rel="shortcut icon" href="/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#feca26">
+<meta name="msapplication-config" content="/favicons/browserconfig.xml">
+<meta name="theme-color" content="#feca26">
+        
+        
+            
+
+
+        
+
+</head>
+<body>
+        
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBD5N6L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->        
+
+    <header class="header" id="header">
+        <div class="header__wrapper">
+                
+                    
+<div class="header__left">
+    <button type="button" aria-label="Open Navigation" onclick="openSlideout();" data-open-slideout>
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__hamburger"></use>
+        </svg>
+    </button>
+
+    
+    <a href="https://www.facebook.com/soglos" target="_blank" title="Follow us on Facebook" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__facebook"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.threads.net/@soglos" target="_blank" title="Follow us on Threads" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__threads"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.instagram.com/soglos/" target="_blank" title="Follow us on Instagram" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__instagram"></use>
+        </svg>
+    </a>
+
+    <a href="https://twitter.com/soglos" target="_blank" title="Follow us on Twitter" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__x"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.linkedin.com/company/soglos/" target="_blank" title="Follow us on LinkedIn" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__linkedin"></use>
+        </svg>
+    </a>
+
+    <a href="https://studio.youtube.com/channel/UCKgfFcmpgd4oQ4hhGe-1iew?c=UCKgfFcmpgd4oQ4hhGe-1iew" target="_blank" title="Follow us on YouTube" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__youtube-new"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.tiktok.com/@soglos" target="_blank" title="Follow us on TikTok" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__tiktok"></use>
+        </svg>
+    </a>
+
+<a href="/feeds/latest" target="_blank" title="View RSS Feed" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__rss"></use>
+        </svg>
+    </a>
+
+
+</div>
+
+                    
+<div class="header__brand">
+    <a href="/" title="SoGlos">
+        <img src="https://cdn.soglos.com/images/website/logos/soglos-logo-2023.svg" alt="SoGlos" width="280" height="95" />
+    </a>
+</div>
+                
+
+            
+<div class="header__right">
+
+        <a href="/member/sign-up/" title="Become a member">Become a member</a>
+        <span class="x-divider"></span>
+        <a href="/member/sign-in/" title="Sign in">Sign in</a>        
+
+    <button type="button" aria-label="Toggle Search" onclick="openSearchInput(this);" data-search-toggle>
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__search"></use>
+        </svg>
+    </button>
+    <div class="header__search" data-search-wrapper>
+        <form id="searchboxMain_008168177380084756780:r_3_febehd0" action="/search-results/">
+            <input value="searchboxMain_008168177380084756780:r_3_febehd0" name="cx" type="hidden"/>
+            <input value="FORID:11" name="cof" type="hidden"/>
+            <input id="query" name="query" type="search" placeholder="Search" data-search-input >
+        </form>
+    </div>
+
+</div>
+        </div>
+    </header>
+
+        
+            
+
+    <nav class="navigation" id="navigation">
+                <a class="" href="/christmas/" target="_self" title="Christmas" >Christmas</a>
+                <span class="x-divider"></span>
+                <a class="" href="/business/" target="_self" title="Business" >Business</a>
+                <a class="" href="/food-drink/" target="_self" title="Food &amp; Drink" >Food &amp; Drink</a>
+                <a class="" href="/family/" target="_self" title="Family" >Family</a>
+                <a class="" href="/entertainment/" target="_self" title="Entertainment" >Entertainment</a>
+                <a class="" href="/culture/" target="_self" title="Culture" >Culture</a>
+                <a class="" href="/outdoors/" target="_self" title="Outdoors" >Outdoors</a>
+                <a class="" href="/health-wellbeing/" target="_self" title="Health &amp; Wellbeing" >Health &amp; Wellbeing</a>
+                <a class="" href="/property-interiors/" target="_self" title="Property &amp; Interiors" >Property &amp; Interiors</a>
+                <a class="" href="/weddings/" target="_self" title="Weddings" >Weddings</a>
+                <a class="" href="/visit/" target="_self" title="Visit" >Visit</a>
+    </nav>
+
+        
+
+        <div class="promo__grid">
+                
+                    
+<section class='promo promo--wallpaper-mpu'><div class='promo__wrapper'><div id='gdfpUnit_11' class='gau  gau__wpmpu'><img src='https://cdn.soglos.com/img/fallback-mpu.png?quality=85' alt='awaiting image load placeholder' /><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_11'); });</script></div></div></section>
+                    
+<section class='promo promo--billboard'><div class='promo__wrapper'><div id='gdfpUnit_20' class='gau  gau__bb'><img src='https://cdn.soglos.com/img/fallback-mpu.png?quality=85' alt='awaiting image load placeholder' class='ph' /><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_20'); });</script></div></div></section>
+
+                
+        </div>
+
+    
+
+<section class="main-content__wrapper">
+
+    <main class="main-content" id="main-content">
+
+
+
+                        
+
+        
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/guide/culture/gloucestershire-christmas-gift-guide/11604/" title="Gloucestershire Christmas gift guide">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/culture/sg-culture-gloucestershirechristmasgiftguide-2023-guide.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/culture/sg-culture-gloucestershirechristmasgiftguide-2023-guide.jpg?width=1460&height=766&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/culture/sg-culture-gloucestershirechristmasgiftguide-2023-guide.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire Christmas gift guide" width="300" height="157"  />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+                <h1><a href="/guide/culture/gloucestershire-christmas-gift-guide/11604/" title="Gloucestershire Christmas gift guide">Gloucestershire Christmas gift guide</a></h1>
+<p>With gift ideas including unique handmade jewellery, hampers packed with delicious local treats, family fun and even presents for your pooch, SoGlos has rounded up some of the best Christmas gift ideas in Gloucestershire.</p>
+
+
+	</div>
+
+    </div>
+
+</div>
+            
+<section class='promo'><div class='promo__wrapper'><div id='gdfpUnit_31' class='gau  gau__mpu'><img src='https://cdn.soglos.com/img/fallback-mpu.png?quality=85' alt='awaiting image load placeholder' /><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_31'); });</script></div></div></section>
+            <div class="y-spacer__50"></div>
+<div class='cards__wrapper cards__wrapper--3-col'>        
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" title="Daylesford makeover gives 18th century Cotswolds pub a new lease of life">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=1460&height=766&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85" alt="Daylesford makeover gives 18th century Cotswolds pub a new lease of life" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" title="Daylesford makeover gives 18th century Cotswolds pub a new lease of life">Daylesford makeover gives 18th century Cotswolds pub a new lease of life</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+        
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" title="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=1460&height=766&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85" alt="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" title="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub">Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+        
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/outdoors/the-most-beautiful-walks-in-gloucestershire/13028/" title="11 most beautiful walks in Gloucestershire">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/outdoors/sg-outdoors-themostbeautifulwalksingloucestershire-forestryengland-2022-hotlist.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/outdoors/sg-outdoors-themostbeautifulwalksingloucestershire-forestryengland-2022-hotlist.jpg?width=1460&height=766&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/outdoors/sg-outdoors-themostbeautifulwalksingloucestershire-forestryengland-2022-hotlist.jpg?width=730&height=383&rmode=pad&bgcolor=ffffff&quality=85" alt="11 most beautiful walks in Gloucestershire" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/outdoors/the-most-beautiful-walks-in-gloucestershire/13028/" title="11 most beautiful walks in Gloucestershire">11 most beautiful walks in Gloucestershire</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+</div>    <div class="y-spacer__70"></div>
+
+
+<section class='promo'><div class='promo__wrapper'><div id='gdfpUnit_41' class='gau  gau__mpu'><img src='https://cdn.soglos.com/img/fallback-mpu.png?quality=85' alt='awaiting image load placeholder' /><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_41'); });</script></div></div></section>
+
+            <h2 class="h2-line">Events <a href="/events/" title="View more Events items">More</a></h2>
+                        <div class="cards__filter">
+                            <a href="/events/?date=today&amp;date_from=2023-12-22&amp;date_to=2023-12-22" title="Today's Events'">Today</a>
+                            <a href="/events/?date=week&amp;date_from=2023-12-23&amp;date_to=2023-12-24" title="Events this weekend">This weekend</a>
+                            <a href="/events/?date=week&amp;date_from=2023-12-22&amp;date_to=2023-12-29" title="Events in the next 7 days">Next 7 days</a>
+                            <a href="/events/?date=month&amp;date_from=2023-12-22&amp;date_to=2024-01-21" title="Events in the next 30 days">Next 30 days</a>
+                        </div>
+                        <div class="y-spacer__40"></div>
+<div class='cards__wrapper cards__wrapper--2-col'>                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/entertainment/12-colourful-runaway-reindeer-bring-festive-cheer-to-gloucester-this-christmas/22304/" title="Runaway Reindeers">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/entertainment/sg-runaway-reindeers-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/entertainment/sg-runaway-reindeers-image-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/entertainment/sg-runaway-reindeers-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Runaway Reindeers" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/entertainment/12-colourful-runaway-reindeer-bring-festive-cheer-to-gloucester-this-christmas/22304/" title="Runaway Reindeers">Runaway Reindeers</a></h3>
+
+
+                    <time>Friday 22 December 2023 to Sunday 7 January 2024</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/breakfast-with-santa-at-slimbridge-wetland-centre/19669/" title="Breakfast with Santa at Slimbridge Wetland Centre">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-breakfastwithsantaatslimbridgewetlandcentre-slimbridgewetlandcentre-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-breakfastwithsantaatslimbridgewetlandcentre-slimbridgewetlandcentre-2023-eep.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-breakfastwithsantaatslimbridgewetlandcentre-slimbridgewetlandcentre-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Breakfast with Santa at Slimbridge Wetland Centre" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/breakfast-with-santa-at-slimbridge-wetland-centre/19669/" title="Breakfast with Santa at Slimbridge Wetland Centre">Breakfast with Santa at Slimbridge Wetland Centre</a></h3>
+
+
+                    <time>Friday 22 to Saturday 23 December 2023</time>
+
+	</div>
+
+    </div>
+
+</div>
+</div>                                <div class="y-spacer__50"></div>
+<div class='cards__wrapper cards__wrapper--3-col'>                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/enchanted-light-trail-at-cotswold-farm-park/19657/" title="Cotswold Farm Park&#x27;s Enchanted Light Trail">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-visit-enchanted-light-trail-2023-event.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-visit-enchanted-light-trail-2023-event.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-visit-enchanted-light-trail-2023-event.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Cotswold Farm Park&#x27;s Enchanted Light Trail" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/enchanted-light-trail-at-cotswold-farm-park/19657/" title="Cotswold Farm Park&#x27;s Enchanted Light Trail">Cotswold Farm Park&#x27;s Enchanted Light Trail</a></h3>
+
+
+                    <time>Friday 22 to Sunday 31 December 2023</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/jack-and-the-beanstalk-pantomime-at-cidermill-theatre/22123/" title="Jack and the Beanstalk">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-jackandthebeanstalkatcidermilltheatre2-eep-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-jackandthebeanstalkatcidermilltheatre2-eep-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-jackandthebeanstalkatcidermilltheatre2-eep-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Jack and the Beanstalk" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/jack-and-the-beanstalk-pantomime-at-cidermill-theatre/22123/" title="Jack and the Beanstalk">Jack and the Beanstalk</a></h3>
+
+
+                    <time>Friday 22 December 2023 to Sunday 7 January 2024</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/entertainment/a-christmas-carol-at-the-everyman-theatre/19651/" title="A Christmas Carol at the Everyman Theatre">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/entertainment/sg-everymantheatre-ebp4.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/entertainment/sg-everymantheatre-ebp4.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/entertainment/sg-everymantheatre-ebp4.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="A Christmas Carol at the Everyman Theatre" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/entertainment/a-christmas-carol-at-the-everyman-theatre/19651/" title="A Christmas Carol at the Everyman Theatre">A Christmas Carol at the Everyman Theatre</a></h3>
+
+
+                    <time>Friday 22 to Saturday 30 December 2023</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/enchanted-christmas-at-westonbirt-arboretum/17935/" title="Enchanted Christmas at Westonbirt Arboretum">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-enchantedchristmasatwestonbirtarboretum-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-enchantedchristmasatwestonbirtarboretum-2023-eep.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-enchantedchristmasatwestonbirtarboretum-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Enchanted Christmas at Westonbirt Arboretum" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/enchanted-christmas-at-westonbirt-arboretum/17935/" title="Enchanted Christmas at Westonbirt Arboretum">Enchanted Christmas at Westonbirt Arboretum</a></h3>
+
+
+                    <time>Friday 22 to Saturday 23 December 2023</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/snow-white-and-the-seven-dwarfs-at-the-sub-rooms/18732/" title="Snow White and the Seven Dwarfs pantomime at The Sub Rooms">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-snowwhitesubrooms-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-snowwhitesubrooms-image-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-snowwhitesubrooms-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Snow White and the Seven Dwarfs pantomime at The Sub Rooms" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/snow-white-and-the-seven-dwarfs-at-the-sub-rooms/18732/" title="Snow White and the Seven Dwarfs pantomime at The Sub Rooms">Snow White and the Seven Dwarfs pantomime at The Sub Rooms</a></h3>
+
+
+                    <time>Friday 22 December 2023 to Saturday 6 January 2024</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/mother-goose-pantomime-at-everyman-theatre-cheltenham/21931/" title="Mother Goose pantomime at the Everyman Theatre">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-mothergooserehearsals-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-mothergooserehearsals-image-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-mothergooserehearsals-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Mother Goose pantomime at the Everyman Theatre" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/mother-goose-pantomime-at-everyman-theatre-cheltenham/21931/" title="Mother Goose pantomime at the Everyman Theatre">Mother Goose pantomime at the Everyman Theatre</a></h3>
+
+
+                    <time>Friday 22 December 2023 to Sunday 7 January 2024</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/beauty-and-the-beast-pantomime-at-the-roses-theatre/22136/" title="Beauty And The Beast at The Roses Theatre">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-beautyandthebeastpantomimeattherosestheatre-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-beautyandthebeastpantomimeattherosestheatre-2023-eep.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-beautyandthebeastpantomimeattherosestheatre-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Beauty And The Beast at The Roses Theatre" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/beauty-and-the-beast-pantomime-at-the-roses-theatre/22136/" title="Beauty And The Beast at The Roses Theatre">Beauty And The Beast at The Roses Theatre</a></h3>
+
+
+                    <time>Friday 22 December 2023 to Saturday 6 January 2024</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/outdoors/outdoor-ice-rink-at-gloucester-quays/22171/" title="Outdoor ice rink at Gloucester Quays">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/outdoors/sg-outdoors-outdooricerinkreturnstogloucesterquaysthischristmas-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/outdoors/sg-outdoors-outdooricerinkreturnstogloucesterquaysthischristmas-2023-eep.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/outdoors/sg-outdoors-outdooricerinkreturnstogloucesterquaysthischristmas-2023-eep.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Outdoor ice rink at Gloucester Quays" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/outdoors/outdoor-ice-rink-at-gloucester-quays/22171/" title="Outdoor ice rink at Gloucester Quays">Outdoor ice rink at Gloucester Quays</a></h3>
+
+
+                    <time>Friday 22 December 2023 to Sunday 7 January 2024</time>
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/event/family/bibury-duck-race/17941/" title="Bibury Duck Race 2023">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/visit/sg-visit-biburyduckrace-ep-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-visit-biburyduckrace-ep-2023-ec.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/visit/sg-visit-biburyduckrace-ep-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Bibury Duck Race 2023" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/event/family/bibury-duck-race/17941/" title="Bibury Duck Race 2023">Bibury Duck Race 2023</a></h3>
+
+
+                    <time>Tuesday 26 December 2023</time>
+
+	</div>
+
+    </div>
+
+</div>
+</div>                
+<section class='promo'><div class='promo__wrapper'><div id='gdfpUnit_51' style='display: none; width:300px; height:250px;'><img src='https://cdn.soglos.com/img/fallback-mpu.png?quality=85' alt='awaiting image load placeholder' /><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_51'); });</script></div></div></section>
+            <div class="y-spacer__70"></div>
+            <h2 class="h2-line">Hot lists <a href="/hot-lists/" title="View more Hot lists items">More</a></h2>
+<div class='cards__wrapper cards__wrapper--2-col'>                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/visit/wonderful-cotswold-hotels-to-escape-to-this-winter/20877/" title="19 charming Cotswold hotels to escape to this winter">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/visit/sg-visit-charmingcotswoldhotelstoescapetothiswinter-hotlist-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-visit-charmingcotswoldhotelstoescapetothiswinter-hotlist-2023-ec.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/visit/sg-visit-charmingcotswoldhotelstoescapetothiswinter-hotlist-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="19 charming Cotswold hotels to escape to this winter" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/visit/wonderful-cotswold-hotels-to-escape-to-this-winter/20877/" title="19 charming Cotswold hotels to escape to this winter">19 charming Cotswold hotels to escape to this winter</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/food-drink/places-to-find-non-alcoholic-drinks-this-dry-january-in-gloucestershire/17248/" title="14 places to find non-alcoholic drinks this Dry January in Gloucestershire">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-14placestofindnonalcoholicdrinksthisdryjanuaryingloucestershire-hotlist-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/food-drink/sg-foodanddrink-14placestofindnonalcoholicdrinksthisdryjanuaryingloucestershire-hotlist-2023-ec.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-14placestofindnonalcoholicdrinksthisdryjanuaryingloucestershire-hotlist-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="14 places to find non-alcoholic drinks this Dry January in Gloucestershire" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/food-drink/places-to-find-non-alcoholic-drinks-this-dry-january-in-gloucestershire/17248/" title="14 places to find non-alcoholic drinks this Dry January in Gloucestershire">14 places to find non-alcoholic drinks this Dry January in Gloucestershire</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+</div>                                <div class="y-spacer__50"></div>
+<div class='cards__wrapper cards__wrapper--3-col'>                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/outdoors/the-most-beautiful-walks-in-gloucestershire/13028/" title="11 most beautiful walks in Gloucestershire">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/outdoors/sg-outdoors-themostbeautifulwalksingloucestershire-forestryengland-2022-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/outdoors/sg-outdoors-themostbeautifulwalksingloucestershire-forestryengland-2022-hotlist.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/outdoors/sg-outdoors-themostbeautifulwalksingloucestershire-forestryengland-2022-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="11 most beautiful walks in Gloucestershire" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/outdoors/the-most-beautiful-walks-in-gloucestershire/13028/" title="11 most beautiful walks in Gloucestershire">11 most beautiful walks in Gloucestershire</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/outdoors/the-best-places-to-walk-your-dog-in-gloucestershire/13382/" title="14 best places to walk your dog in Gloucestershire">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/outdoors/sg-outdoors-14ofthebestplacestowalkyourdogingloucestershire-forestryenglandforestofdean-2021-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/outdoors/sg-outdoors-14ofthebestplacestowalkyourdogingloucestershire-forestryenglandforestofdean-2021-hotlist.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/outdoors/sg-outdoors-14ofthebestplacestowalkyourdogingloucestershire-forestryenglandforestofdean-2021-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="14 best places to walk your dog in Gloucestershire" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/outdoors/the-best-places-to-walk-your-dog-in-gloucestershire/13382/" title="14 best places to walk your dog in Gloucestershire">14 best places to walk your dog in Gloucestershire</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/outdoors/gloucestershire-parkruns-to-complete/17286/" title="9 Gloucestershire parkruns to take on in 2024">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/outdoors/sg-outdoors-8gloucestershireparkrunstotakeon-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/outdoors/sg-outdoors-8gloucestershireparkrunstotakeon-2023-hotlist.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/outdoors/sg-outdoors-8gloucestershireparkrunstotakeon-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="9 Gloucestershire parkruns to take on in 2024" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/outdoors/gloucestershire-parkruns-to-complete/17286/" title="9 Gloucestershire parkruns to take on in 2024">9 Gloucestershire parkruns to take on in 2024</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/unmissable-things-to-do-in-gloucestershire-this-january/12323/" title="10 unmissable things to do in Gloucestershire this January">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/home/sg-home-10unmissablethingstodoingloucestershirethisjanuary-cleevelyevandcleevelymotors-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/home/sg-home-10unmissablethingstodoingloucestershirethisjanuary-cleevelyevandcleevelymotors-2023-hotlist.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/home/sg-home-10unmissablethingstodoingloucestershirethisjanuary-cleevelyevandcleevelymotors-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="10 unmissable things to do in Gloucestershire this January" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/unmissable-things-to-do-in-gloucestershire-this-january/12323/" title="10 unmissable things to do in Gloucestershire this January">10 unmissable things to do in Gloucestershire this January</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/health-wellbeing/wonderful-lilian-faithfull-care-services-you-might-not-know-about/22354/" title="5 wonderful Lilian Faithfull Care services you might not know about">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/health-wellbeing/sg-healthandwellbeing-5wonderfullilianfaithfullcareservicesyoumightnotknowabout-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/health-wellbeing/sg-healthandwellbeing-5wonderfullilianfaithfullcareservicesyoumightnotknowabout-2023-hotlist.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/health-wellbeing/sg-healthandwellbeing-5wonderfullilianfaithfullcareservicesyoumightnotknowabout-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="5 wonderful Lilian Faithfull Care services you might not know about" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/health-wellbeing/wonderful-lilian-faithfull-care-services-you-might-not-know-about/22354/" title="5 wonderful Lilian Faithfull Care services you might not know about">5 wonderful Lilian Faithfull Care services you might not know about</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/hot-list/culture/hobbies-to-try-in-gloucestershire/20960/" title="17 new hobbies to try in Gloucestershire this year">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/culture/sg-culture-newhobbiestotryingloucestershirethisyear-eastglosclub-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/culture/sg-culture-newhobbiestotryingloucestershirethisyear-eastglosclub-2023-hotlist.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/culture/sg-culture-newhobbiestotryingloucestershirethisyear-eastglosclub-2023-hotlist.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="17 new hobbies to try in Gloucestershire this year" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/hot-list/culture/hobbies-to-try-in-gloucestershire/20960/" title="17 new hobbies to try in Gloucestershire this year">17 new hobbies to try in Gloucestershire this year</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+</div>            <div class="y-spacer__70"></div>
+            <h2 class="h2-line">News <a href="/news/" title="View more News items">More</a></h2>
+<div class='cards__wrapper cards__wrapper--2-col'>                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/1-point-4-million-pound-investment-takes-cheltenham-council-houses-towards-a-greener-future/22383/" title="&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-business-cheltenham-council-homes-green-upgrade-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-cheltenham-council-homes-green-upgrade-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-business-cheltenham-council-homes-green-upgrade-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/1-point-4-million-pound-investment-takes-cheltenham-council-houses-towards-a-greener-future/22383/" title="&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future">&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/award-winning-care-and-wellbeing-centre-is-heading-to-gloucester-quays/22381/" title="Award-winning care and wellbeing centre is heading to Gloucester Quays">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-business-prosperitynew-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-prosperitynew-image-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-business-prosperitynew-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Award-winning care and wellbeing centre is heading to Gloucester Quays" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/award-winning-care-and-wellbeing-centre-is-heading-to-gloucester-quays/22381/" title="Award-winning care and wellbeing centre is heading to Gloucester Quays">Award-winning care and wellbeing centre is heading to Gloucester Quays</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+</div>                                <div class="y-spacer__50"></div>
+<div class='cards__wrapper cards__wrapper--3-col'>                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" title="Daylesford makeover gives 18th century Cotswolds pub a new lease of life">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Daylesford makeover gives 18th century Cotswolds pub a new lease of life" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" title="Daylesford makeover gives 18th century Cotswolds pub a new lease of life">Daylesford makeover gives 18th century Cotswolds pub a new lease of life</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/prima-dental-ends-2023-on-a-high-with-string-of-award-wins/22358/" title="Prima Dental ends 2023 on a high with string of award wins">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-business-primadentalmanufacturing-image-2023(1).jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-primadentalmanufacturing-image-2023(1).jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-business-primadentalmanufacturing-image-2023(1).jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Prima Dental ends 2023 on a high with string of award wins" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/prima-dental-ends-2023-on-a-high-with-string-of-award-wins/22358/" title="Prima Dental ends 2023 on a high with string of award wins">Prima Dental ends 2023 on a high with string of award wins</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" title="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" title="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub">Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/food-drink/gloucester-brewery-signs-new-partnership-with-gloucester-city-afc/22375/" title="Gloucester Brewery signs new partnership with Gloucester City AFC">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-gloucesterbrewerysignsnewpartnershipwithgloucestercityafc-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/food-drink/sg-foodanddrink-gloucesterbrewerysignsnewpartnershipwithgloucestercityafc-2023-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-gloucesterbrewerysignsnewpartnershipwithgloucestercityafc-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucester Brewery signs new partnership with Gloucester City AFC" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/food-drink/gloucester-brewery-signs-new-partnership-with-gloucester-city-afc/22375/" title="Gloucester Brewery signs new partnership with Gloucester City AFC">Gloucester Brewery signs new partnership with Gloucester City AFC</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/entertainment/gloucestershire-music-festivals-win-big-at-national-awards/22374/" title="Gloucestershire music festivals win big at national awards">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/entertainment/sg-entertainment-gloucestershirefestivalswinnationalawards-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/entertainment/sg-entertainment-gloucestershirefestivalswinnationalawards-2023-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/entertainment/sg-entertainment-gloucestershirefestivalswinnationalawards-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire music festivals win big at national awards" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/entertainment/gloucestershire-music-festivals-win-big-at-national-awards/22374/" title="Gloucestershire music festivals win big at national awards">Gloucestershire music festivals win big at national awards</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/new-director-appointed-for-leading-cotswolds-housebuilding-firm/22373/" title="New director appointed for leading Cotswolds housebuilding firm">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/john-gantlett-extended.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/john-gantlett-extended.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/john-gantlett-extended.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="New director appointed for leading Cotswolds housebuilding firm" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/new-director-appointed-for-leading-cotswolds-housebuilding-firm/22373/" title="New director appointed for leading Cotswolds housebuilding firm">New director appointed for leading Cotswolds housebuilding firm</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/housing-developer-wins-award-for-supporting-apprentices-in-gloucestershire/22368/" title="Housing developer wins award for supporting apprentices in Gloucestershire">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-accxel-persimmon-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-accxel-persimmon-image-2023.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-accxel-persimmon-image-2023.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Housing developer wins award for supporting apprentices in Gloucestershire" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/housing-developer-wins-award-for-supporting-apprentices-in-gloucestershire/22368/" title="Housing developer wins award for supporting apprentices in Gloucestershire">Housing developer wins award for supporting apprentices in Gloucestershire</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/visit/stagecoach-west-extends-2-bus-fares-until-june-2024/22372/" title="Stagecoach West extends &#xA3;2 bus fares until June 2024">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/visit/sg-visit-stagecoachwestextends2busfaresuntiljune2024-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-visit-stagecoachwestextends2busfaresuntiljune2024-2023-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/visit/sg-visit-stagecoachwestextends2busfaresuntiljune2024-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Stagecoach West extends &#xA3;2 bus fares until June 2024" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/visit/stagecoach-west-extends-2-bus-fares-until-june-2024/22372/" title="Stagecoach West extends &#xA3;2 bus fares until June 2024">Stagecoach West extends &#xA3;2 bus fares until June 2024</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/health-wellbeing/a-new-baby-remembrance-garden-is-opening-at-gloucestershire-royal-hospital/22371/" title="A new baby remembrance garden is opening at Gloucestershire Royal Hospital">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/family/sg-family-anewbabyremembrancegardenisopeningatgloucestershireroyalhospital-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-anewbabyremembrancegardenisopeningatgloucestershireroyalhospital-2023-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/family/sg-family-anewbabyremembrancegardenisopeningatgloucestershireroyalhospital-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="A new baby remembrance garden is opening at Gloucestershire Royal Hospital" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/health-wellbeing/a-new-baby-remembrance-garden-is-opening-at-gloucestershire-royal-hospital/22371/" title="A new baby remembrance garden is opening at Gloucestershire Royal Hospital">A new baby remembrance garden is opening at Gloucestershire Royal Hospital</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/free-net-zero-support-for-gloucestershire-businesses-following-successful-net-zero-conference/22348/" title="Free net zero support for Gloucestershire businesses following successful Net Zero Conference">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-business-freenetzerosupportforgloucestershirebusinessesfollowingsuccessfulnetzeroconference-thegrowthhub-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-freenetzerosupportforgloucestershirebusinessesfollowingsuccessfulnetzeroconference-thegrowthhub-2023-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-business-freenetzerosupportforgloucestershirebusinessesfollowingsuccessfulnetzeroconference-thegrowthhub-2023-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Free net zero support for Gloucestershire businesses following successful Net Zero Conference" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/free-net-zero-support-for-gloucestershire-businesses-following-successful-net-zero-conference/22348/" title="Free net zero support for Gloucestershire businesses following successful Net Zero Conference">Free net zero support for Gloucestershire businesses following successful Net Zero Conference</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/university-of-gloucestershire-appoints-new-operator-for-oxstalls-sports-facilities/22362/" title="University of Gloucestershire appoints new operator for Oxstalls sports facilities">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-business-freedomleisurepartnerswithuniversityofgloucestershire-news-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-freedomleisurepartnerswithuniversityofgloucestershire-news-2023-ec.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-business-freedomleisurepartnerswithuniversityofgloucestershire-news-2023-ec.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="University of Gloucestershire appoints new operator for Oxstalls sports facilities" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/university-of-gloucestershire-appoints-new-operator-for-oxstalls-sports-facilities/22362/" title="University of Gloucestershire appoints new operator for Oxstalls sports facilities">University of Gloucestershire appoints new operator for Oxstalls sports facilities</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+                            
+
+
+<div class="card card--stacked">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/news/business/gloucestershire-b-corp-increases-staff-productivity-and-happiness-with-four-day-week/22369/" title="Gloucestershire B Corp increases staff productivity and happiness with four-day week">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/business/sg-business-b-corp-four-day-week-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-b-corp-four-day-week-news.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/business/sg-business-b-corp-four-day-week-news.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire B Corp increases staff productivity and happiness with four-day week" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/news/business/gloucestershire-b-corp-increases-staff-productivity-and-happiness-with-four-day-week/22369/" title="Gloucestershire B Corp increases staff productivity and happiness with four-day week">Gloucestershire B Corp increases staff productivity and happiness with four-day week</a></h3>
+
+
+
+	</div>
+
+    </div>
+
+</div>
+</div>            <div class="y-spacer__70"></div>
+            <h2 class="h2-line">Interviews <a href="/interviews/" title="View more Interviews items">More</a></h2>
+                        
+
+
+<div class="card card--alt">
+    <div class="card__inner">
+
+        <div class="card__image">
+            <a href="/interview/health-wellbeing/cheltenham-clinic-offers-treatment-to-help-men-after-prostate-cancer-surgery/22320/" title="Cheltenham clinic offers treatment to help men after prostate cancer surgery">
+                <picture>
+                    <source srcset="https://cdn.soglos.com/images/health-wellbeing/sg-health-cheltenhamclinicofferstreatmenttohelpmenafterprostatecancersurgery-auberginephysio-2023-interview1.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/health-wellbeing/sg-health-cheltenhamclinicofferstreatmenttohelpmenafterprostatecancersurgery-auberginephysio-2023-interview1.jpg?width=1380&height=722&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                    <img src="https://cdn.soglos.com/images/health-wellbeing/sg-health-cheltenhamclinicofferstreatmenttohelpmenafterprostatecancersurgery-auberginephysio-2023-interview1.jpg?width=690&height=361&rmode=pad&bgcolor=ffffff&quality=85" alt="Cheltenham clinic offers treatment to help men after prostate cancer surgery" width="300" height="157" loading="lazy" />
+                </picture>
+            </a>
+        </div>
+
+	<div class="card__content">
+
+
+            <h3><a href="/interview/health-wellbeing/cheltenham-clinic-offers-treatment-to-help-men-after-prostate-cancer-surgery/22320/" title="Cheltenham clinic offers treatment to help men after prostate cancer surgery">Cheltenham clinic offers treatment to help men after prostate cancer surgery</a></h3>
+
+
+
+Gloucestershire's specialist men’s health physiotherapy clinic, Aubergine Physio, explains how it can support men with prostate...	</div>
+
+    </div>
+
+</div>
+            <div class="y-spacer__70"></div>
+
+
+
+
+    </main>
+
+        <aside class="sidebar" id="sidebar">
+                 
+                    
+<div id='gdfpUnit_30' class='sidebar__promo  gau  gau__ws'><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_30'); });</script></div>
+                    
+<div id='gdfpUnit_40' class='sidebar__promo  gau  gau__ws'><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_40'); });</script></div>
+                    
+<div id='gdfpUnit_50' class='sidebar__promo' style='display: none; width:300px; height:600px; '><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_50'); });</script></div>
+                
+
+                     
+                        
+    <div class="trending">
+    <h2 class="h2-chapter align--left">Trending</h2>
+        <div class="trending__item">
+            <div class="trending__item-num">1.</div>
+            <a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" class="trending__item-link">Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub</a>
+        </div>
+        <div class="trending__item">
+            <div class="trending__item-num">2.</div>
+            <a href="/news/business/award-winning-care-and-wellbeing-centre-is-heading-to-gloucester-quays/22381/" class="trending__item-link">Award-winning care and wellbeing centre is heading to Gloucester Quays</a>
+        </div>
+        <div class="trending__item">
+            <div class="trending__item-num">3.</div>
+            <a href="/news/business/1-point-4-million-pound-investment-takes-cheltenham-council-houses-towards-a-greener-future/22383/" class="trending__item-link">&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future</a>
+        </div>
+        <div class="trending__item">
+            <div class="trending__item-num">4.</div>
+            <a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" class="trending__item-link">Daylesford makeover gives 18th century Cotswolds pub a new lease of life</a>
+        </div>
+        <div class="trending__item">
+            <div class="trending__item-num">5.</div>
+            <a href="/news/visit/uks-first-treehouse-hotel-to-open-in-the-cotswolds-in-2024/22352/" class="trending__item-link">UK&#x27;s first treehouse hotel to open in the Cotswolds in 2024</a>
+        </div>
+    
+</div>
+<div class="y-spacer__50"></div>
+
+                    
+
+                
+
+    <div class="dont-miss">
+        <h2 class="h2-chapter align--left">Don't miss</h2>
+
+            <div class="dont-miss__item">
+                <div class="dont-miss__item-image">
+                    <a href="/hot-list/unmissable-things-to-do-in-gloucestershire-this-december/12553/" title="10 unmissable things to do in Gloucestershire this December">
+                        <picture>
+                            <source srcset="https://cdn.soglos.com/images/home/sg-home-10unmissablethingstodoingloucestershirethisdecember-cleevelyevandcleevelymotors-2023-hotlist.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/home/sg-home-10unmissablethingstodoingloucestershirethisdecember-cleevelyevandcleevelymotors-2023-hotlist.jpg?width=1260&height=660&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                            <img src="https://cdn.soglos.com/images/home/sg-home-10unmissablethingstodoingloucestershirethisdecember-cleevelyevandcleevelymotors-2023-hotlist.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85" alt="10 unmissable things to do in Gloucestershire this December" loading="lazy" width="240" height="126" />
+                        </picture>
+                    </a>
+                </div>
+                <a href="/hot-list/unmissable-things-to-do-in-gloucestershire-this-december/12553/" class="dont-miss__item-link">10 unmissable things to do in Gloucestershire this December</a>
+            </div>
+            <div class="dont-miss__item">
+                <div class="dont-miss__item-image">
+                    <a href="/guide/family/gloucestershire-christmas-events-guide/11486/" title="Gloucestershire Christmas events guide">
+                        <picture>
+                            <source srcset="https://cdn.soglos.com/images/family/sg-family-gloucestershirechristmaseventsguide-2022-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-gloucestershirechristmaseventsguide-2022-guide.jpg?width=1260&height=660&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                            <img src="https://cdn.soglos.com/images/family/sg-family-gloucestershirechristmaseventsguide-2022-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire Christmas events guide" loading="lazy" width="240" height="126" />
+                        </picture>
+                    </a>
+                </div>
+                <a href="/guide/family/gloucestershire-christmas-events-guide/11486/" class="dont-miss__item-link">Gloucestershire Christmas events guide</a>
+            </div>
+            <div class="dont-miss__item">
+                <div class="dont-miss__item-image">
+                    <a href="/guide/food-drink/gloucestershire-christmas-party-guide/11481/" title="Gloucestershire Christmas party guide">
+                        <picture>
+                            <source srcset="https://cdn.soglos.com/images/food-drink/sg-food-gloucestershirechristmaspartyguide-2023-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/food-drink/sg-food-gloucestershirechristmaspartyguide-2023-guide.jpg?width=1260&height=660&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                            <img src="https://cdn.soglos.com/images/food-drink/sg-food-gloucestershirechristmaspartyguide-2023-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire Christmas party guide" loading="lazy" width="240" height="126" />
+                        </picture>
+                    </a>
+                </div>
+                <a href="/guide/food-drink/gloucestershire-christmas-party-guide/11481/" class="dont-miss__item-link">Gloucestershire Christmas party guide</a>
+            </div>
+            <div class="dont-miss__item">
+                <div class="dont-miss__item-image">
+                    <a href="/guide/culture/gloucestershire-christmas-gift-guide/11604/" title="Gloucestershire Christmas gift guide">
+                        <picture>
+                            <source srcset="https://cdn.soglos.com/images/culture/sg-culture-gloucestershirechristmasgiftguide-2023-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/culture/sg-culture-gloucestershirechristmasgiftguide-2023-guide.jpg?width=1260&height=660&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                            <img src="https://cdn.soglos.com/images/culture/sg-culture-gloucestershirechristmasgiftguide-2023-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire Christmas gift guide" loading="lazy" width="240" height="126" />
+                        </picture>
+                    </a>
+                </div>
+                <a href="/guide/culture/gloucestershire-christmas-gift-guide/11604/" class="dont-miss__item-link">Gloucestershire Christmas gift guide</a>
+            </div>
+            <div class="dont-miss__item">
+                <div class="dont-miss__item-image">
+                    <a href="/hot-list/entertainment/festive-films-to-sprinkle-christmas-cheer-in-gloucestershire/12311/" title="11 festive films to sprinkle Christmas cheer in Gloucestershire">
+                        <picture>
+                            <source srcset="https://cdn.soglos.com/images/visit/sg-visit-8festivefilmstosprinklechristmascheeringloucestershire-2022-ec.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-visit-8festivefilmstosprinklechristmascheeringloucestershire-2022-ec.jpg?width=1260&height=660&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                            <img src="https://cdn.soglos.com/images/visit/sg-visit-8festivefilmstosprinklechristmascheeringloucestershire-2022-ec.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85" alt="11 festive films to sprinkle Christmas cheer in Gloucestershire" loading="lazy" width="240" height="126" />
+                        </picture>
+                    </a>
+                </div>
+                <a href="/hot-list/entertainment/festive-films-to-sprinkle-christmas-cheer-in-gloucestershire/12311/" class="dont-miss__item-link">11 festive films to sprinkle Christmas cheer in Gloucestershire</a>
+            </div>
+            <div class="dont-miss__item">
+                <div class="dont-miss__item-image">
+                    <a href="/guide/family/gloucestershire-independent-schools-guide/11982/" title="Gloucestershire independent schools guide">
+                        <picture>
+                            <source srcset="https://cdn.soglos.com/images/family/sg-family-gloucestershireindependentschoolsguide-cheltenhamladiescollege-2023-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/family/sg-family-gloucestershireindependentschoolsguide-cheltenhamladiescollege-2023-guide.jpg?width=1260&height=660&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                            <img src="https://cdn.soglos.com/images/family/sg-family-gloucestershireindependentschoolsguide-cheltenhamladiescollege-2023-guide.jpg?width=630&height=330&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire independent schools guide" loading="lazy" width="240" height="126" />
+                        </picture>
+                    </a>
+                </div>
+                <a href="/guide/family/gloucestershire-independent-schools-guide/11982/" class="dont-miss__item-link">Gloucestershire independent schools guide</a>
+            </div>
+    </div>
+
+
+        </aside>
+</section>
+
+        
+            
+
+    <div class="latest-carousel">
+        <div class="latest-carousel__title">
+            <h2  class="h2--large">Latest articles
+                <button type="button" aria-label="Previous Item" data-latest-prev>
+                    <svg>
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__left-arrow"></use>
+                    </svg>
+                </button>
+                <button type="button" aria-label="Next Item" data-latest-next>
+                    <svg>
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__right-arrow"></use>
+                    </svg>
+                </button>
+            </h2>
+        </div>
+        <div class="latest-carousel__wrapper" data-latest-carousel>
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/hot-list/visit/wonderful-cotswold-hotels-to-escape-to-this-winter/20877/" title="19 charming Cotswold hotels to escape to this winter">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/visit/sg-visit-charmingcotswoldhotelstoescapetothiswinter-hotlist-2023-ec.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-visit-charmingcotswoldhotelstoescapetothiswinter-hotlist-2023-ec.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/visit/sg-visit-charmingcotswoldhotelstoescapetothiswinter-hotlist-2023-ec.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="19 charming Cotswold hotels to escape to this winter" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/hot-list/visit/wonderful-cotswold-hotels-to-escape-to-this-winter/20877/" class="dont-miss__item-link">19 charming Cotswold hotels to escape to this winter</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/business/1-point-4-million-pound-investment-takes-cheltenham-council-houses-towards-a-greener-future/22383/" title="&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/business/sg-business-cheltenham-council-homes-green-upgrade-news.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-cheltenham-council-homes-green-upgrade-news.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/business/sg-business-cheltenham-council-homes-green-upgrade-news.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/business/1-point-4-million-pound-investment-takes-cheltenham-council-houses-towards-a-greener-future/22383/" class="dont-miss__item-link">&#xA3;1.4 million investment takes Cheltenham council houses towards a greener future</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/business/award-winning-care-and-wellbeing-centre-is-heading-to-gloucester-quays/22381/" title="Award-winning care and wellbeing centre is heading to Gloucester Quays">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/business/sg-business-prosperitynew-image-2023.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-prosperitynew-image-2023.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/business/sg-business-prosperitynew-image-2023.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="Award-winning care and wellbeing centre is heading to Gloucester Quays" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/business/award-winning-care-and-wellbeing-centre-is-heading-to-gloucester-quays/22381/" class="dont-miss__item-link">Award-winning care and wellbeing centre is heading to Gloucester Quays</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/hot-list/food-drink/places-to-find-non-alcoholic-drinks-this-dry-january-in-gloucestershire/17248/" title="14 places to find non-alcoholic drinks this Dry January in Gloucestershire">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-14placestofindnonalcoholicdrinksthisdryjanuaryingloucestershire-hotlist-2023-ec.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/food-drink/sg-foodanddrink-14placestofindnonalcoholicdrinksthisdryjanuaryingloucestershire-hotlist-2023-ec.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-14placestofindnonalcoholicdrinksthisdryjanuaryingloucestershire-hotlist-2023-ec.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="14 places to find non-alcoholic drinks this Dry January in Gloucestershire" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/hot-list/food-drink/places-to-find-non-alcoholic-drinks-this-dry-january-in-gloucestershire/17248/" class="dont-miss__item-link">14 places to find non-alcoholic drinks this Dry January in Gloucestershire</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" title="Daylesford makeover gives 18th century Cotswolds pub a new lease of life">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/visit/sg-three-horseshoes-image-2023.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="Daylesford makeover gives 18th century Cotswolds pub a new lease of life" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/business/daylesford-makeover-gives-18th-century-cotswolds-pub-a-new-lease-of-life/22380/" class="dont-miss__item-link">Daylesford makeover gives 18th century Cotswolds pub a new lease of life</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/business/prima-dental-ends-2023-on-a-high-with-string-of-award-wins/22358/" title="Prima Dental ends 2023 on a high with string of award wins">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/business/sg-business-primadentalmanufacturing-image-2023(1).jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-business-primadentalmanufacturing-image-2023(1).jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/business/sg-business-primadentalmanufacturing-image-2023(1).jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="Prima Dental ends 2023 on a high with string of award wins" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/business/prima-dental-ends-2023-on-a-high-with-string-of-award-wins/22358/" class="dont-miss__item-link">Prima Dental ends 2023 on a high with string of award wins</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" title="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/business/sg-2023-black-bear-tewkesbury-image.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/business/outdoor-new-years-eve-party-saved-at-tewkesburys-the-black-bear-pub/22379/" class="dont-miss__item-link">Outdoor New Year&#x2019;s Eve party saved at Tewkesbury&#x27;s The Black Bear pub</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/food-drink/gloucester-brewery-signs-new-partnership-with-gloucester-city-afc/22375/" title="Gloucester Brewery signs new partnership with Gloucester City AFC">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-gloucesterbrewerysignsnewpartnershipwithgloucestercityafc-2023-news.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/food-drink/sg-foodanddrink-gloucesterbrewerysignsnewpartnershipwithgloucestercityafc-2023-news.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/food-drink/sg-foodanddrink-gloucesterbrewerysignsnewpartnershipwithgloucestercityafc-2023-news.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucester Brewery signs new partnership with Gloucester City AFC" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/food-drink/gloucester-brewery-signs-new-partnership-with-gloucester-city-afc/22375/" class="dont-miss__item-link">Gloucester Brewery signs new partnership with Gloucester City AFC</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/entertainment/gloucestershire-music-festivals-win-big-at-national-awards/22374/" title="Gloucestershire music festivals win big at national awards">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/entertainment/sg-entertainment-gloucestershirefestivalswinnationalawards-2023-news.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/entertainment/sg-entertainment-gloucestershirefestivalswinnationalawards-2023-news.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/entertainment/sg-entertainment-gloucestershirefestivalswinnationalawards-2023-news.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="Gloucestershire music festivals win big at national awards" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/entertainment/gloucestershire-music-festivals-win-big-at-national-awards/22374/" class="dont-miss__item-link">Gloucestershire music festivals win big at national awards</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+                <div class="latest-carousel__cell">
+                    <div class="card card--stacked">
+                        <div class="card__inner">
+                            <div class="card__image">
+                                <a href="/news/business/new-director-appointed-for-leading-cotswolds-housebuilding-firm/22373/" title="New director appointed for leading Cotswolds housebuilding firm">
+                                    <picture>
+                                        <source srcset="https://cdn.soglos.com/images/business/john-gantlett-extended.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85&format=webp, https://cdn.soglos.com/images/business/john-gantlett-extended.jpg?width=864&height=454&rmode=pad&bgcolor=ffffff&quality=85&format=webp 1.5x" type="image/webp">
+                                        <img src="https://cdn.soglos.com/images/business/john-gantlett-extended.jpg?width=432&height=227&rmode=pad&bgcolor=ffffff&quality=85" alt="New director appointed for leading Cotswolds housebuilding firm" width="300" height="157" loading="lazy" />
+                                    </picture>
+                                </a>
+                            </div>
+                            <h3><a href="/news/business/new-director-appointed-for-leading-cotswolds-housebuilding-firm/22373/" class="dont-miss__item-link">New director appointed for leading Cotswolds housebuilding firm</a></h3>                    
+                        </div>
+                    </div>
+                </div>               
+        </div>
+    </div>
+
+
+        
+
+     
+        <div class="newsletter">
+    <div class="newsletter__text">
+        <h2>Newsletters</h2>
+        <p class="font-size--15">Weekly lifestyle and business highlights straight to your inbox</p>
+    </div>
+    <div class="newsletter__form">
+        <input type="email" name="EmailAddress" data-val="true" class="form__input" id="tbx_Newsletter_Email" placeholder="Email address" required data-val-email="&lt;div class=&#x27;form__message form__message--error&#x27;&gt;Invalid email address&lt;/div&gt;" data-val-required="&lt;div class=&#x27;form__message form__message--error&#x27;&gt;Please enter your email address&lt;/div&gt;" value="" />
+        <button type="button" class="button button--primary" id="btn_Newsletter_Subscribe" onclick="module.Newsletter()">Subscribe</button>            
+    </div>
+    <span id="newsletter_email_validation" class="field-validation-valid" data-valmsg-for="EmailAddress" data-valmsg-replace="true" ></span>
+</div>
+
+    
+
+
+
+
+
+
+        
+            <footer class="footer">
+                
+    <div class="footer__partners">
+        <div class="footer__partners-header">
+            <h4>Key partners</h4>
+        </div>
+        <div class="footer__partners-grid">
+                    <a href="https://www.cheltladiescollege.org/" title="" target="Self" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-cheltenhamladiescollege.png?width=130&height=130&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-cheltenhamladiescollege.png?width=260&height=260&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-cheltenhamladiescollege.png?width=130&height=130&rmode=max&quality=85" alt="Cheltenham Ladies&#x27; College" loading="lazy" />
+                        </picture>
+                    </a>    
+                    <a href="http://www.everymantheatre.org.uk/" title="" target="Self" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-everymantheatre.png?width=130&height=130&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-everymantheatre.png?width=260&height=260&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-everymantheatre.png?width=130&height=130&rmode=max&quality=85" alt="Everyman Theatre Cheltenham" loading="lazy" />
+                        </picture>
+                    </a>    
+                    <a href="https://www.thekingsschool.co.uk/" title="" target="Self" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-kingsschoolgloucester.png?width=130&height=130&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-kingsschoolgloucester.png?width=260&height=260&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-kingsschoolgloucester.png?width=130&height=130&rmode=max&quality=85" alt="King&#x27;s School Gloucester" loading="lazy" />
+                        </picture>
+                    </a>    
+                    <a href="https://nimble-elearning.com/" title="" target="Self" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-nimble-v2.png?width=130&height=130&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-nimble-v2.png?width=260&height=260&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-nimble-v2.png?width=130&height=130&rmode=max&quality=85" alt="Nimble Elearning" loading="lazy" />
+                        </picture>
+                    </a>    
+                    <a href="https://reformit.co.uk/" title="" target="Self" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-reformit-v3.png?width=130&height=130&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-reformit-v3.png?width=260&height=260&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-reformit-v3.png?width=130&height=130&rmode=max&quality=85" alt="ReformIT" loading="lazy" />
+                        </picture>
+                    </a>    
+                    <a href="https://www.thejockeyclub.co.uk/cheltenham/" title="" target="Self" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-thejockeyclub.png?width=130&height=130&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-thejockeyclub.png?width=260&height=260&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/key-partner/sg-key-partner-thejockeyclub.png?width=130&height=130&rmode=max&quality=85" alt="The Jockey Club Cheltenham" loading="lazy" />
+                        </picture>
+                    </a>    
+        </div>
+    </div>
+
+
+                
+<div class="footer__mid">
+
+        <div class="footer__mid-accreditation"> 
+                <a href="https://www.ipso.co.uk/" title="IPSO Regulated" target="_blank" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/footer/ipso-regulated.png?width=130&height=104&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/footer/ipso-regulated.png?width=260&height=208&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/footer/ipso-regulated.png?width=130&height=104&rmode=max&quality=85" alt="IPSO Regulated" loading="lazy" width="130" height="46" />
+                        </picture>
+                </a>
+            
+        </div>
+    
+
+        <div class="footer__mid-charity"> Charity of the Year 2023
+                <a href="https://www.sueryder.org/how-we-can-help/sue-ryder-leckhampton-court-hospice" title="Sue Ryder Leckhampton Court Hospice" target="_blank" rel="noreferrer noopener">
+                        <picture>
+                          <source srcset="https://cdn.soglos.com/images/website/logos/charity/sue-ryder.png?width=130&height=104&rmode=max&quality=85&format=webp, https://cdn.soglos.com/images/website/logos/charity/sue-ryder.png?width=260&height=208&rmode=max&quality=85&format=webp 1.5x" type="image/webp">
+                          <img src="https://cdn.soglos.com/images/website/logos/charity/sue-ryder.png?width=130&height=104&rmode=max&quality=85" alt="Sue Ryder Leckhampton Court Hospice" loading="lazy" width="130" height="88" />
+                        </picture>
+                </a>
+        </div>
+    
+    <div class="footer__break"></div>
+    
+    <div class="footer__mid-social">
+        
+    <a href="https://www.facebook.com/soglos" target="_blank" title="Follow us on Facebook" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__facebook"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.threads.net/@soglos" target="_blank" title="Follow us on Threads" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__threads"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.instagram.com/soglos/" target="_blank" title="Follow us on Instagram" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__instagram"></use>
+        </svg>
+    </a>
+
+    <a href="https://twitter.com/soglos" target="_blank" title="Follow us on Twitter" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__x"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.linkedin.com/company/soglos/" target="_blank" title="Follow us on LinkedIn" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__linkedin"></use>
+        </svg>
+    </a>
+
+    <a href="https://studio.youtube.com/channel/UCKgfFcmpgd4oQ4hhGe-1iew?c=UCKgfFcmpgd4oQ4hhGe-1iew" target="_blank" title="Follow us on YouTube" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__youtube-new"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.tiktok.com/@soglos" target="_blank" title="Follow us on TikTok" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__tiktok"></use>
+        </svg>
+    </a>
+
+<a href="/feeds/latest" target="_blank" title="View RSS Feed" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__rss"></use>
+        </svg>
+    </a>
+
+
+    </div>
+
+    <div class="footer__mid-links">
+                <a href="/contact/" target="_self" title="Contact us">Contact us</a>    
+                <a href="/partner/" target="_self" title="Partner with us">Partner with us</a>    
+                <a href="/partner/testimonials/" target="_self" title="Testimonials">Testimonials</a>    
+                <a href="/about/meet-the-team/" target="_self" title="Meet the team">Meet the team</a>    
+                <a href="/member/sign-up" target="_self" title="Become a member">Become a member</a>    
+                <a href="/about/careers/" target="_self" title="Careers with SoGlos">Careers</a>    
+    </div>
+
+</div>
+
+                <div class="footer__meta">
+        <div class="footer__meta-links">
+                <a href="/cookies-policy/" target="_self" title="Cookies policy">Cookies policy</a>
+                <a href="/privacy-policy/" target="_self" title="Privacy policy">Privacy policy</a>
+                <a href="/legal-notices/" target="_self" title="Legal notices">Legal notices</a>
+        </div>
+
+    <div class="footer__meta-copyright"> © 2007 to 2023 SoPublishing Ltd. All rights reserved. </div>
+
+    <div class="footer__meta-back-to-top">
+        <button type="button" aria-label="Back to top" onclick="backToTop();">
+            Back to top
+            <svg>
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__up-arrow"></use>
+            </svg>
+        </button>
+    </div>
+
+    <div class="footer__meta-powered-by"> Powered by <a href="#" title="" target="_blank" rel="noreferrer noopener"><span>So</span>CMS</a>
+    </div>
+</div>    
+            </footer>
+
+            
+<div class="slideout" onclick="closeSlideout(event);" data-slideout>
+    <div class="slideout__panel">
+         <div class="slideout__panel-header">
+            <button type="button" aria-label="Close Navigation" onclick="closeSlideout(event);" data-close-slideout>
+                <svg>
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__close"></use>
+                </svg>
+            </button>
+            <button type="button" aria-label="Toggle Search" onclick="openSearchInput(this);" data-search-toggle>
+                <svg>
+                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__search"></use>
+                </svg>
+            </button>
+            <div class="slideout__panel-header-search" data-search-wrapper>
+                <form id="searchboxSide_008168177380084756780:r_3_febehd0" action="/search-results/">
+                    <input value="searchboxSide_008168177380084756780:r_3_febehd0" name="cx" type="hidden"/>
+                    <input value="FORID:11" name="cof" type="hidden"/>
+                    <input id="query" name="query" type="search" placeholder="Search" data-search-input >
+                </form>
+            </div>
+        </div>
+        <div class="slideout__panel-primary">
+            <div>
+                <h5>Sections</h5>
+                <a href="/" target="_self" title="Home" >Home</a>
+                            <a href="/christmas/" target="_self" title="Christmas" >Christmas</a>
+                            <a href="/business/" target="_self" title="Business" >Business</a>
+                            <a href="/food-drink/" target="_self" title="Food &amp; Drink" >Food &amp; Drink</a>
+                            <a href="/family/" target="_self" title="Family" >Family</a>
+                            <a href="/entertainment/" target="_self" title="Entertainment" >Entertainment</a>
+                            <a href="/culture/" target="_self" title="Culture" >Culture</a>
+                            <a href="/outdoors/" target="_self" title="Outdoors" >Outdoors</a>
+                            <a href="/health-wellbeing/" target="_self" title="Health &amp; Wellbeing" >Health &amp; Wellbeing</a>
+                            <a href="/property-interiors/" target="_self" title="Property &amp; Interiors" >Property &amp; Interiors</a>
+                            <a href="/weddings/" target="_self" title="Weddings" >Weddings</a>
+                            <a href="/visit/" target="_self" title="Visit" >Visit</a>
+            </div>
+            
+
+                <div>
+                    <h5>Quick links</h5>
+                            <a href="/business-awards/" target="_self" title="Business Awards" >Business Awards</a>    
+                            <a href="/lifestyle-awards/" target="_self" title="Lifestyle Awards" >Lifestyle Awards</a>    
+                            <span class="divider"></span>
+                            <a href="/news/" target="_self" title="News" >News</a>    
+                            <a href="/hot-lists/" target="_self" title="Hot lists" >Hot lists</a>    
+                            <a href="/interviews/" target="_self" title="Interviews" >Interviews</a>    
+                            <a href="/events/" target="_self" title="Events" >Events</a>    
+                            <a href="/guides/" target="_self" title="Guides" >Guides</a>    
+                            <a href="/competitions/" target="_self" title="Competitions" >Competitions</a>    
+                            <a href="/business-profiles/" target="_self" title="Business profiles" >Business profiles</a>    
+                            <a href="/featured-properties/" target="_self" title="Featured properties" >Featured properties</a>    
+                            <a href="/series/" target="_self" title="Series" >Series</a>    
+                            <a href="/videos/" target="_self" title="Videos" >Videos</a>    
+                            <span class="divider"></span>
+                            <a href="https://www.soglos.com/hot-list/the-gloucestershire-bucket-list/12329/" target="_self" title="Bucket List" >Bucket List</a>    
+                            <a href="https://www.soglos.com/hot-list/the-gloucestershire-family-bucket-list/21261/" target="_self" title="Gloucestershire Family Bucket List" >Family Bucket List</a>    
+                            <span class="divider"></span>
+                            <a href="https://www.soglos.com/tag/soglos-insights/" target="_self" title="#SoGlosInsights" >#SoGlosInsights</a>    
+                </div>
+        </div>
+
+            <div class="slideout__panel-secondary">
+                    <a href="/partner" target="_self" title="Partner with us" >Partner with us</a>
+                    <a href="/partner/testimonials/" target="_self" title="Testimonials" >Testimonials</a>
+                    <a href="/contact" target="_self" title="Contact us" >Contact us</a>
+                    <a href="/about/meet-the-team/" target="_self" title="Meet the team" >Meet the team</a>
+            </div>
+
+        <div class="slideout__panel-footer">
+            
+    <a href="https://www.facebook.com/soglos" target="_blank" title="Follow us on Facebook" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__facebook"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.threads.net/@soglos" target="_blank" title="Follow us on Threads" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__threads"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.instagram.com/soglos/" target="_blank" title="Follow us on Instagram" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__instagram"></use>
+        </svg>
+    </a>
+
+    <a href="https://twitter.com/soglos" target="_blank" title="Follow us on Twitter" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__x"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.linkedin.com/company/soglos/" target="_blank" title="Follow us on LinkedIn" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__linkedin"></use>
+        </svg>
+    </a>
+
+    <a href="https://studio.youtube.com/channel/UCKgfFcmpgd4oQ4hhGe-1iew?c=UCKgfFcmpgd4oQ4hhGe-1iew" target="_blank" title="Follow us on YouTube" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__youtube-new"></use>
+        </svg>
+    </a>
+
+    <a href="https://www.tiktok.com/@soglos" target="_blank" title="Follow us on TikTok" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__tiktok"></use>
+        </svg>
+    </a>
+
+<a href="/feeds/latest" target="_blank" title="View RSS Feed" rel="noreferrer noopener">
+        <svg>
+            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/img/icons__def.svg#icon__rss"></use>
+        </svg>
+    </a>
+
+
+        </div>
+
+    </div>
+</div>
+
+
+            
+<div class="cookie-bar">
+    <div class="cookie-bar__text">
+    </div>
+    <div class="cookie-bar__button">
+    </div>
+</div>
+        
+
+        
+            
+<div id='gdfpUnit_10' class='backgroundAdvert' style='display: none; height:1200px; width:2100px;'><script>googletag.cmd.push(function() { googletag.display('gdfpUnit_10'); });</script></div>
+        
+
+        
+        
+
+
+    <script src="/js/bundle.js?v=KVvYqqAdaceNrQCW8dg2bUVeT3o"></script>
+
+</body>
+</html>

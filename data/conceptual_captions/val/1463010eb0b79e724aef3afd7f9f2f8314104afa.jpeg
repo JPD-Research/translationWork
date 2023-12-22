@@ -1,0 +1,1444 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+<meta name="be:drupal-theme" content="1.0.0">
+
+<meta name="be:sdk" content="php_sdk_1.5.3" />
+<meta name="be:timer" content="31ms" />
+<meta name="be:norm_url" content="https%3A%2F%2Fwww.ama-assn.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fhub_card_2x3%2Fpublic%2Fmedia-browser%2Fmember%2Fmembership%2Fphysician_regulatory.jpg" />
+<meta name="be:capsule_url" content="https%3A%2F%2Fixfd1-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000255577%2F1565273353" />
+<meta name="be:api_dt" content="-06:00y_2023;-06:00m_03;-06:00d_02;-06:00h_09;-06:00mh_43;p_epoch:1677771831" />
+<meta name="be:mod_dt" content="-06:00y_2023;-06:00m_03;-06:00d_02;-06:00h_09;-06:00mh_43;p_epoch:1677771831" />
+<meta name="be:diag" content="n6U+WZHWFnx7/bsHmZ5NiO8hwPJCy/TN734nqxoAAmPs6Qb2Pe6aj9QKGIexFONVr7mQBnxRo8rAPOxM789V+4TV0T9mJazV43/UzQlEOD/WytfZQDuq3IwS2m7mHGMRnVhGCHN1Mt60M7e8NZKq35uwm0dUshHeWlh2AxydFGewvxnz5h2ZijKRkbPMlHZDkSr0o2Eaj9qUxvMr+hmcof3K0la31l5fqKl0MTPh2AcFpXDX5YsnwadCzNnZarLOj7NsQIe2DOmiD6x5LruR89Wq6BmlPM6fyXhWQ5MtGkm6wIWZeOPCVUdPLckoVX1DJaSZGp4/+7HSYx902k2W44fgosgrWO7Zjxbhn2/HGAQZP+TBwtz+mJiXnnqrEVQeZjzFhxl8m9r+PredUzCkN2xsQCEIRAO5j20jd2L9+2uu7z1OscjdRHt9SXk5GokWYksoQu2PxNqlgGkBIzaPlrGhWe+pSf6csMM9nAwsoMNJ77AfcQ8hfaqAzQftDuK9fipp+ejLEXHADjh8PZKulCi2rA1Eb9FBdvJaEyEWOe7JDpnX+v1vz0sraVtvfY+YbfdeAPiN4G+2lkFTqqIxlXaTwTdeP3GjFOfOBklKuRuif4EbvPNo50MiSwl9tzOeGBkGj5BenB/t1m/Ga4QKRSLUcolz9XIj+eA8cgxWftDimIw1ROVtMPanPI5Mb0rEzyzGvYzkVeUuXRYQsOcbP/phLERiyGWLFptoRUVZj8/y+3YYLhZwGtVgeAgqESzWbWIWNQbw2K6xQzkzwbKiJizDkOk4ORZW+puoP+7e9WRDKZ32bU8NgMrrs6Aaes9WicTEMv0bDxAXnMOJ93JycGh48119ACKufxSddBSLticJp7Xb39MkIFaiOBPniJrIWWvRkxSCOQXZLjmSKXEi/koIrfpbp0X7oHvSWfseic/n3ne7ECXi3lkCLA/k0LXMVBNGcEKGgrtFnKYIEix1stYbI/yG9p/L8MaucHqdZitHq+ApXyg1Y7j356ZaivgeDvc/oNGaNhJ3VE1ggf5dklcS+VKgcH/PsqY76+5dglPUdUy9mL98f6Ol2AwYWK3kzxj81e9yUc80oqOz23np4a3tVfqpjr6e+luOmD0UeCgehbhfy+VZ/ojjTY7ZL/pIaTbXmrYBUZlP41ypoUW8Ah9/WFMiEJB9OkCHTOKgCUN+YukfLBpvSmO4tQPoZq88SGg/0D7ZLGSkz+6pRXfumi2bopw1ud0Chl/7F7thQHyGKYnWyAPCFOcXkxePQZzBk2KBvmaUCi4Kq5HcDEEj02UgQegvhDyK7GkyIfyqb9ZYGZXFvWmqvGVVPpbMKZi4snxiXn+EXjR43GCn0cWxIeuzQKdZOqdX+UYKM8kBgCsJov5tYEnT4kHCaxKhIKvHfEs2nSC3aluuvZDeUXSlh0r1f81iBqDwaQQQ9hNUYqlJrwGo84ea5l2hCszAmXJgiWHSY4K5x63oLULj+ffP5plXFsMOz/etoCVFjWh2u3QdFp4gldYsfZQufebyqsLl0xFE7QghWDfcfsTiGzLMbRNwDpbpe2tl6BmZxR/IiOo2jThpRSqoC+Y5j7PUPgvnincHdSB5HYFOetiHkuTeqfkLhF3TuKciYxZMKfn6589dKiX6Jh6ahq3O5vPaNT8lhoqTnIRczvzfTWU/lduSXDrd3Sd5xtdtnPnEmKQGStmiydrPfmNXp7BWT38UujSQA155rJlohDi/m4t2hu3AgbBAAaMTA+JKssBzYANMtWcsZD/9KSXaGSpbkKhaU58WBiUKdMmVqx1XEJz2Nib/p448u7ZT0cnPkhW8xshlk3yOuhnZIJvP7jLXtDMYxEsUX0lFeltpDGFaKlcI9Pf2nTkk8DOFQUpecyWSg1QADZJLNhrTFcZ8+xOvNOZtORjGOI5+Dgovpt9TqyS2/+sdkpmMCUJTf4d1bd5CnPyxdwHxW1dpz8xZ55B0tp4zsrRGp58WxekY8Cj40ac4VsjnvQMAO6hyr2o2YGIFnrt0SLjYfHqwjgMw1f440WOGQ7cEYGpg+jYokRlFe0zzBMfv1EtF3o+5MborVDOY6MXuRZVFIWiImFVIJ8GPiFWJpIhtggwtfxzAeTqm8PvkkcVobVjocG4PBYplBLC4vybiEX4NEAQFSmfYv7ymjUsqpx6nYPMWefrt+TRZou+7u1S2Dm4wldXzQP7BJZfPgquzTuZldKWg3Q55FObsVOAOPbHYXsI5JqhKCWAuMQZ5aOgaJ8141OFQsACVS3kPHzPr21c3GDisTMaJvEaTpYxICeulxkjBrX2/6NCaU6KoJYPvJrjqo78l20Nd5BgWpqCZJbJnBHFl8evOvewEbY6f/KZfmuWkBcbe3aI3p1HZNUcBNMz6WrSb6rLbMKxsqIy8/QNKTre9wLxp1cLT8OJ0WNwypk7x9LnnT3FzrlLpAFzquOGIgGvQdOzfkvVvgkN/zeWktdGNg0Dt3/BfhO7RpRECoa960z7zc4ZshhoH8Ix6XKWbFBTMrdaQFBsjef39hOQx8nt5UljVB0EoBMHyfU+b3Lxs2Nu0QZG82HZkNNZrD41pYaqGIVuyhUHGjhUO5LKESxnC5w5YIFoxMersQ53dk/QMA01K4E7WmFrOAQpe46MVcTRAZT6SYzucSNe8tKLEDKUal00OwP3oj+mhI6qV940QGOiXk6tZ4QRQPLuCpqbZuw5F9fqfsRYwgkQntYJaYw1xfuacNW1A20jiB3xkKxRIAYG6bIGn1EOAHr26cywydfHjjmsNdxpEtNA6aKIvP7dz/aniGkmYZC5blPrag/Hsy9dOsSgPVhE2VJf8MX/9St+WE+Y49dM1VFBeeqs1dYnUo5wBeR02TH/5LP2Y1KXHe4HNid9qwixQjh5dRKnME1ZxuQuxl/fWp7mKCfRjxH+wi/lChzmarlvpt6gfz5eGSbyMGKzEz7jWInCs2A==" />
+<meta name="be:messages" content="false" />
+<style>
+.be-ix-link-block .be-related-link-container {margin-top: 35px;}
+.be-ix-link-block .be-related-link-container .be-label {margin: 0;font-family: "myriad-pro","Helvetica","Arial","Open Sans",sans-serif;font-weight: bold;font-size: 0.9em;color:#000}
+.be-ix-link-block .be-related-link-container .be-list { display: inline-block; list-style: none;margin: 0; padding: 0;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item {display: inline-block;margin-right: 20px;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item .be-related-link {font-family: "myriad-pro","Helvetica","Arial","Open Sans",sans-serif;font-weight: bold;font-size: 0.9em;text-decoration: none;color:#46166B;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item .be-related-link:hover {text-decoration: underline;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item:last-child { margin-right: 0;}
+
+@media (max-width: 767px) {
+  .be-ix-link-block .be-related-link-container {text-align: center;}
+  .be-ix-link-block .be-related-link-container .be-label {width: 100%;margin-bottom: 10.5px;}
+  .be-ix-link-block .be-related-link-container .be-list { display: block;width: 100%;}
+  .be-ix-link-block .be-related-link-container .be-list .be-list-item {display: block;margin-right: 0;}
+}
+
+@media (min-width: 768px) {
+  .be-ix-link-block .be-related-link-container {display: flex;justify-content: center;align-items: baseline;}
+  .be-ix-link-block .be-related-link-container .be-label {display: inline-block;margin-right: 20px;flex-grow: 0;flex-shrink: 0;}
+}
+</style>
+<script data-cfasync="false" data-testmode="true" id="marvel" data-customerid="f00000000255577" src="https://marvel-b2-cdn.bc0a.com/marvel.js"></script>
+<script>
+      (function() {
+      var bec = document.createElement('script');
+      bec.type = 'text/javascript';
+      bec.async = true;
+      bec.setAttribute("data-id", "bec");
+      bec.setAttribute("org-id", "f00000000255577");
+      bec.setAttribute("domain", ".ama-assn.org");
+      bec.setAttribute("session-timeout", 86400000);
+      bec.src = document.location.protocol + '//cdn.b0e8.com/conv_v3.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(bec, s);
+})();
+</script>
+<meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"22656e4355",applicationID:"153878993"};;/*! For license information please see nr-loader-rum-1.249.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>A,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const a={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const r=(0,n.ek)(e);r&&(r.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},w={};function A(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!w[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return w[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");w[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=w[e])}const x=(0,n.mF)().o;var D=r(385),k=r(6818);const E={buildEnv:k.Re,customTransaction:void 0,disabled:!1,distMethod:k.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(D._A?.performance?.timeOrigin||D._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+D._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof D._A.XMLHttpRequest?.prototype?.addEventListener,version:k.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,E);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>a,q4:()=>n});const n="1.249.0",i="PROD",a="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>a});var n=r(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),a=r(4322),o=r(3325);const s={};function c(e,t){const r={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const r=[...s[e]];function o(t){const r=e?n.ee.get(e):n.ee,o=a.X.handlers;if(r.backlog&&o){var s=r.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete o[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),o(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),a=r(234);class o{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,r,n);for(var o=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,r);var f=b()[s[e]];f&&f.push([g,e,r,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>a});var n=r(5546);a.on=o;var i=a.handlers={};function a(e,t,r,a){o(a||n.E,i,e,t,r)}function o(e,t,r,i,a){a||(a="feature"),e||(e=n.E);var o=t[a]=t[a]||{};(o[r]=o[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var n=r(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>o,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?a(t,r++).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var s=0;s<e;s++)o.push(a(r,++i).toString(16));return o.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,oD:()=>i});const n="NRBA",i=144e5,a=18e5},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),a=r(3325),o=r(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>a});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>o,b2:()=>a});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,n.bP)("load",e,t)}function o(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=o();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>a,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>o});const n=r(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),a=r(5546),o=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...n))})),a.length>1?a:a[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,a){const o=(0,i.C5)(e);return null===r?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:r}}),A(v,n,!0,a||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,a.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function A(e,t,r,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var a=n[e]={exports:{}};return r[e](a,a.exports,i),a.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.249.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.249.0.PROD:",i.l=(r,n,a,o)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+a){s=l;break}}if(!s){c=!0;var f={75:"sha512-HcXyAuaRbdfES7GuZJPwimpBfHQYAggUt+9f7v0xmtqSP1pSPK/chshT+kmNNfPfvD1QbPyikVNC4frs8IQYkw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[o]&&(s.integrity=f[o])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var a=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var a=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,a,[o,s,c]=r,u=0;if(o.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},r=self["webpackChunk:NRBA-1.249.0.PROD"]=self["webpackChunk:NRBA-1.249.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(e){return"Call to agent api ".concat(e," failed. The agent is not currently initialized.")}addPageAction(t,r){(0,e.Z)(this.#e("addPageAction"))}setPageViewName(t,r){(0,e.Z)(this.#e("setPageViewName"))}setCustomAttribute(t,r,n){(0,e.Z)(this.#e("setCustomAttribute"))}noticeError(t,r){(0,e.Z)(this.#e("noticeError"))}setUserId(t){(0,e.Z)(this.#e("setUserId"))}setApplicationVersion(t){(0,e.Z)(this.#e("setApplicationVersion"))}setErrorHandler(t){(0,e.Z)(this.#e("setErrorHandler"))}finished(t){(0,e.Z)(this.#e("finished"))}addRelease(t,r){(0,e.Z)(this.#e("addRelease"))}start(t){(0,e.Z)(this.#e("start"))}recordReplay(){(0,e.Z)(this.#e("recordReplay"))}pauseReplay(){(0,e.Z)(this.#e("pauseReplay"))}}var r=i(3325),n=i(234);const a=Object.values(r.D);function o(e){const t={};return a.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var a=this.getBucket(e,t,r,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,a.metrics),a}merge(e,t,r,n,i){var a=this.getBucket(e,t,n,i);if(a.metrics){var o=a.metrics;o.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=o[e],i=r[e];i&&!i.c?o[e]=b(i.t,n):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=w(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class N extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,T,N],loaderType:"lite"})})()})();</script>
+<meta name="description" content="Looks like something went wrong, and we couldn’t find that page. Please visit our home page for other AMA news and information, and learn more about our featured products and initiatives. For immediate assistance, please call 800-621-8335." />
+<link rel="canonical" href="https://www.ama-assn.org/error/404" />
+<meta name="robots" content="noindex" />
+<meta property="og:site_name" content="American Medical Association" />
+<meta property="og:url" content="https://www.ama-assn.org/error/404" />
+<meta property="og:title" content="404 Page Not Found" />
+<meta property="og:image" content="https://www.ama-assn.org/sites/ama-assn.org/files/2019-01/2018-11-19-GENERICSOCIAL.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="404 Page Not Found" />
+<meta name="twitter:site" content="@AmerMedicalAssn" />
+<meta name="twitter:image" content="https://www.ama-assn.org/sites/ama-assn.org/files/2019-01/2018-11-19-GENERICSOCIAL.jpg" />
+<meta name="twitter:image:alt" content="AMA social image" />
+<meta name="google-site-verification" content="qTlw2hoa2lLahNZDxI3kj1BY7UyPNFlfPWs5jV7CC0M" />
+<script type="text/javascript" src="//cdn.optimizely.com/js/1063362107.js"></script>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/sites/ama-assn.org/files/favicons/apple-touch-icon-152x152.png" />
+<link rel="icon" type="image/png" href="/sites/ama-assn.org/files/favicons/favicon-196x196.png" sizes="196x196" />
+<link rel="icon" type="image/png" href="/sites/ama-assn.org/files/favicons/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/sites/ama-assn.org/files/favicons/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/sites/ama-assn.org/files/favicons/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/sites/ama-assn.org/files/favicons/favicon-128.png" sizes="128x128" />
+<meta name="application-name" content="&#xA0;" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/sites/ama-assn.org/files/favicons/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="/mstile-310x310.png" />
+<meta name="favicon-generator" content="Drupal responsive_favicons + realfavicongenerator.net" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="theme-color" content="#000000" />
+<script>var _dl = [{"drupalLanguage":"en","drupalCountry":"","siteName":"American Medical Association","entityUid":"1","entityCreated":"1539838820","entityType":"node","page_template":"basic","entityId":"24396","entityTitle":"404 Page Not Found","primaryCategory":"sites","subCategory1":"default","subCategory2":"files","audience_segment_terms":[],"business_unit_terms":[{"term":"IT","id":"4796","parents":[{"term":"BU","id":"4716"}]}],"evergreen_terms":[],"userUid":0,"life_stage":"unknown","member_status":"unknown","tam_id":"","page_upvote_count":null,"publish_date":"10\/18\/2018","content_type_taxonomy_terms":[{"term":"Other Resources","id":"8336","parents":[]}]}]; var gaDataLayer = _dl;</script>
+<meta itemprop="acquia_lift:content_title" content="404 Page Not Found" />
+<meta itemprop="acquia_lift:content_type" content="basic" />
+<meta itemprop="acquia_lift:page_type" content="node page" />
+<meta itemprop="acquia_lift:language" content="en" />
+<meta itemprop="acquia_lift:content_section" content />
+<meta itemprop="acquia_lift:content_keywords" content />
+<meta itemprop="acquia_lift:post_id" content="24396" />
+<meta itemprop="acquia_lift:content_uuid" content="666a8084-3d12-402c-8655-d52faa5afe29" />
+<meta itemprop="acquia_lift:published_date" content="1539838820" />
+<meta itemprop="acquia_lift:persona" content />
+<meta itemprop="acquia_lift:engagement_score" content="1" />
+<meta itemprop="acquia_lift:account_id" content="AMA" />
+<meta itemprop="acquia_lift:site_id" content="ama_one_production" />
+<meta itemprop="acquia_lift:liftAssetsURL" content="https://builder.lift.acquia.com" />
+<meta itemprop="acquia_lift:liftDecisionAPIURL" content="https://us.perz-api.cloudservices.acquia.io" />
+<meta itemprop="acquia_lift:bootstrapMode" content="auto" />
+<meta itemprop="acquia_lift:contentReplacementMode" content="trusted" />
+<meta itemprop="acquia_lift:apiVersion" content="v3" />
+<script src="https://builder.lift.acquia.com/lift.js" async></script>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebPage",
+            "@id": "https://www.ama-assn.org/error/404",
+            "breadcrumb": {
+                "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {
+                        "@type": "ListItem",
+                        "position": 1,
+                        "name": "Home",
+                        "item": "https://www.ama-assn.org/"
+                    }
+                ]
+            },
+            "author": {
+                "@type": "Organization",
+                "@id": "https://www.ama-assn.org/",
+                "name": "American Medical Association",
+                "url": "https://www.ama-assn.org/",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.ama-assn.org/themes/custom/ama_one/ama-logo-small.png",
+                    "width": "114",
+                    "height": "60"
+                }
+            },
+            "publisher": {
+                "@type": "Organization",
+                "@id": "https://www.ama-assn.org/",
+                "name": "American Medical Association",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.ama-assn.org/themes/custom/ama_one/ama-logo-small.png",
+                    "width": "116",
+                    "height": "60"
+                }
+            }
+        },
+        {
+            "publisher": {
+                "@id": "American Medical Association",
+                "name": "American Medical Association",
+                "url": "https://www.ama-assn.org",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://www.ama-assn.org/themes/custom/ama_one/ama-logo-small.png",
+                    "width": "114",
+                    "height": "60"
+                }
+            }
+        }
+    ]
+}</script>
+<meta name="a1-twitter-hashtags" />
+<link rel="manifest" href="/manifest.json?_format=json" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};  a2a_config.callbacks.push({
+
+    share: function(share_data) {
+        var params = '?utm_medium=Social_AMA&utm_campaign=amaone_shared_articles&utm_source=' +  share_data.node.a2a.safename;
+        var old_url = share_data.url;
+        // Initialize new shared URL
+        var new_url = share_data.url + params;
+        if (new_url != old_url) {
+            return {
+                url: new_url,
+            };
+        }
+    },
+})</script>
+<style>.ama__addtoany a {
+  margin: 0 0 0 15px;
+}
+.ama__social-share--fixed a {
+    margin: 0 0 15px 0;
+}</style>
+<title>404 Page Not Found | American Medical Association</title>
+<link rel="stylesheet" href="https://use.typekit.net/nuq0rob.css">
+<link rel="stylesheet" media="all" href="/sites/ama-assn.org/files/css/css_eAGJ55lXma-xdIF1Gd1N5DBojNG8gvzrmh-lNNt7fa4.css?delta=0&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA" />
+<link rel="stylesheet" media="all" href="/sites/ama-assn.org/files/css/css_l5jPedcsC-SHj9WA9i1zreDg0fvnVphgbIt2s8NCv4k.css?delta=1&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA" />
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"itok":"xQ0gMums"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtm":{"tagId":null,"settings":{"data_layer":"gaDataLayer","include_classes":false,"allowlist_classes":"google\nnonGooglePixels\nnonGoogleScripts\nnonGoogleIframes","blocklist_classes":"customScripts\ncustomPixels","include_environment":false,"environment_id":"","environment_token":""},"tagIds":["GTM-PKMFTL7"]},"gtag":{"tagId":"","otherIds":[],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"addtoany\/addtoany.front,aimtell\/aimtell,ama_analytics\/analytics-events,ama_analytics\/brightedge,ama_analytics\/external-links,ama_analytics\/footer,ama_analytics\/footer-email-validation,ama_analytics\/ip-tracking,ama_analytics\/lift-data,ama_analytics\/locker,ama_one\/global-styling,ama_one\/jquery-basictable,ama_one\/jquery-smartmenus,ama_one\/jquery-validate,ama_one\/jquery.mask,ama_one\/jquery.smartmenus,ama_one\/jquery.ui.checkList,ama_one\/typekit,ama_one_social_share\/addtoany_custom,clientside_validation_jquery\/cv.jquery.ckeditor,clientside_validation_jquery\/cv.jquery.ife,clientside_validation_jquery\/cv.jquery.validate,core\/drupal.ajax,core\/internal.jquery.form,datalayer\/behaviors,extlink\/drupal.extlink,google_tag\/gtag,google_tag\/gtag.ajax,google_tag\/gtm,paragraphs\/drupal.paragraphs.unpublished,system\/base,views\/views.ajax,views\/views.module,views_infinite_scroll\/views-infinite-scroll","theme":"ama_one","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/error\/404?destination=\/\u0026_exception_statuscode=404\u0026ajax_form=1":true},"aimtell":{"domain":"www.ama-assn.org","owner":"37a6cfeca26b","site_id":"18086","webpush_id":"web.44.aimtell.com","enable_branding":false},"clientside_validation_jquery":{"validate_all_ajax_forms":0,"force_validate_on_blur":false,"messages":{"required":"This field is required.","remote":"Please fix this field.","email":"Please enter a valid email address.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"(^https:\/\/fsso(?:\\-test)?\\.ama-assn\\.org\/sign-up)","extInclude":"(media.([0-9]+))|(http(.*pdf|.*doc$|.*docx$|.*xls.|.*ppt.|.*jp.*g))","extExcludeNoreferrer":"(\/system(.*pdf|.*doc.|.*xls.|.*ppt.|.*jp.*g))|(media.([0-9]+))|(http(.*pdf|.*doc.|.*xls.|.*ppt.|.*jp.*g))|(ama\\.desk\\.com)|(([a-z,0-9]+)\\.ama-assn\\.org)|(ama-career-planning-resource\\.com)|(ama-charting-change\\.com)|(ama-ihmi\\.org)|(ama-roi-calculator\\.appspot\\.com)|(amacontrolbp\\.org)|(amanetwork\\.org)|(amapreventdiabetes\\.org)|(amatoday\\.sharepoint\\.com)|(ampaconline\\.org)|(app\\.svwps\\.com)|(end-opioid-epidemic\\.org)|(fixpriorauth\\.org)|(ihm\\.amanetwork\\.org)|(innovatewithama\\.com)|(jamanetwork\\.com)|(jamanetwork\\.org)|(([a-z,0-9]+)\\.jamanetwork\\.com)|(([a-z,0-9]+)\\.jamanetwork\\.org)|(managedcarecontracting\\.org)|(patientsbeforepolitics\\.org)|(physician-wellbeing-conference\\.org)|(physicianinnovationnetwork\\.org)|(physiciansgrassrootsnetwork\\.org)|(preventdiabetesstat\\.org)|(savegme\\.org)|(stepsforward\\.org)|(targetbp\\.org)|(headspace\\.grsm\\.io)|(patientsactionnetwork.com)|(physicianseconomicimpact.org)","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"ajax":{"edit-footer-mr-submit":{"callback":"::amaEmailSubscriptionFooterPromptCallback","wrapper":"footer-form-container","event":"mousedown","keypress":true,"prevent":"click","url":"\/error\/404?destination=\/\u0026_exception_statuscode=404\u0026ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Subscribe"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:80106147b74bdecb3a75bf5eb0c7bfe7a934a96ca7e3ce7006f48ce69209a844":{"view_name":"author_article_listing","view_display_id":"block_1","view_args":"24396","view_path":"\/sites\/default\/files\/styles\/hub_card_2x3\/public\/media-browser\/member\/membership\/physician_regulatory.jpg","view_base_path":null,"view_dom_id":"80106147b74bdecb3a75bf5eb0c7bfe7a934a96ca7e3ce7006f48ce69209a844","pager_element":0}}},"user":{"uid":0,"permissionsHash":"bc5e5a1c6ed9f2c6ce2a01307add556ad048efd6be009a12513c7d59ab40fe71"}}</script>
+<script src="/sites/ama-assn.org/files/js/js_JIopadxc4ozibDVL37SZv1R8Em72j_gIn5BbgQAnNN4.js?scope=header&amp;delta=0&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA"></script>
+</head>
+<body class="ama__basic">
+<a href="#main-content" class="visually-hidden focusable">
+Skip to main content
+</a>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PKMFTL7"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<div class="layout-container">
+<header role="banner">
+<div class="ama__main-navigation">
+<div class="container">
+<div id="block-ama-one-main-menu" class="ama__global-menu">
+<input id="global-menu" class="ama__global-menu__burger-input ui-checkboxradio ui-helper-hidden-accessible" type="checkbox">
+<label for="global-menu" class="ui-checkboxradio-label ui-corner-all ui-button ui-widget">
+<span class="ui-checkboxradio-icon ui-corner-all ui-icon ui-icon-background ui-icon-blank"></span>
+<span class="ui-checkboxradio-icon-space"></span>
+<div class="ama__global-menu__burger"></div>
+</label>
+<span class="ama__global-menu__menu-text">Menu</span>
+</div>
+<div id="categoryNavigation" class="ama_category_navigation_wrapper">
+<nav id="ama_category_navigation_menu" class="ama_category_navigation_menu">
+<ul class="ama_category_navigation_menu__group sm sm-vertical" body-scroll-lock-ignore>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/delivering-care" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Delivering Care" data-ga-link_url="/delivering-care" data-drupal-link-system-path="taxonomy/term/2216">Delivering Care</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Delivering Care</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/coronavirus" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Coronavirus" data-ga-link_url="/delivering-care/coronavirus" data-drupal-link-system-path="taxonomy/term/6591">Coronavirus</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/ama-guides" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Guides®" data-ga-link_url="/delivering-care/ama-guides" data-drupal-link-system-path="taxonomy/term/6361">AMA Guides®</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/health-equity" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Health Equity" data-ga-link_url="/delivering-care/health-equity" data-drupal-link-system-path="taxonomy/term/6446">Health Equity</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/public-health" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Public Health" data-ga-link_url="/delivering-care/public-health" data-drupal-link-system-path="taxonomy/term/2256">Public Health</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/physician-patient-relationship" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Physician-Patient Relationship" data-ga-link_url="/delivering-care/physician-patient-relationship" data-drupal-link-system-path="taxonomy/term/4371">Physician-Patient Relationship</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/overdose-epidemic" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Overdose Epidemic" data-ga-link_url="/delivering-care/overdose-epidemic" data-drupal-link-system-path="taxonomy/term/2236">Overdose Epidemic</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/hypertension" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Hypertension" data-ga-link_url="/delivering-care/hypertension" data-drupal-link-system-path="taxonomy/term/2231">Hypertension</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/diabetes" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Diabetes" data-ga-link_url="/delivering-care/diabetes" data-drupal-link-system-path="taxonomy/term/2221">Diabetes</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/population-care" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Population Care" data-ga-link_url="/delivering-care/population-care" data-drupal-link-system-path="taxonomy/term/2246">Population Care</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/precision-medicine" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Precision Medicine" data-ga-link_url="/delivering-care/precision-medicine" data-drupal-link-system-path="taxonomy/term/2251">Precision Medicine</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/patient-support-advocacy" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Patient Support &amp; Advocacy" data-ga-link_url="/delivering-care/patient-support-advocacy" data-drupal-link-system-path="taxonomy/term/2241">Patient Support &amp; Advocacy</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/delivering-care/ethics" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Ethics" data-ga-link_url="/delivering-care/ethics" data-drupal-link-system-path="taxonomy/term/2226">Ethics</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-6b4fb8c1dd2662509fc67220f95704735fa6f6228ae6a115321efcb6e4307a76">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="114226" about="/delivering-care/public-health/what-doctors-wish-patients-knew-about-their-family-health-history">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2023-12/2023-11-22-FAMILYWISH_Index-1170x780.jpg?itok=sI2Xh-BM" width="800" height="600" alt="Patient in hospital room in discussion with physician" typeof="foaf:Image" class="ama__image" />
+<a href="/delivering-care/public-health/what-doctors-wish-patients-knew-about-their-family-health-history" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/delivering-care/public-health/what-doctors-wish-patients-knew-about-their-family-health-history">
+<h2 class="ama__h2 ama__article-stub__title">
+What doctors wish patients knew about their family health history
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Family health history is a big predictor of overall health risk. An Atlantic Health System physician discusses what to know about family health history.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="114286" about="/delivering-care/public-health/ozempic-weight-loss-zepbound-jama-study-new-sickle-cell-treatments">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2023-12/au-index-122023.jpg?itok=dyof6DKj" width="800" height="600" alt="AMA Update for Dec. 20, 2023: Ozempic for weight loss, Zepbound JAMA study, new sickle cell treatments and Medicare payment cuts" typeof="foaf:Image" class="ama__image" />
+<a href="/delivering-care/public-health/ozempic-weight-loss-zepbound-jama-study-new-sickle-cell-treatments" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/delivering-care/public-health/ozempic-weight-loss-zepbound-jama-study-new-sickle-cell-treatments">
+<h2 class="ama__h2 ama__article-stub__title">
+Ozempic for weight loss, Zepbound JAMA study, new sickle cell treatments and Medicare payment cuts
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about Ozempic for weight loss, sickle cell treatments and more.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/practice-management" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Practice Management" data-ga-link_url="/practice-management" data-drupal-link-system-path="taxonomy/term/2136">Practice Management</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Practice Management</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/ama-steps-forward" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA STEPS Forward®" data-ga-link_url="/practice-management/ama-steps-forward" data-drupal-link-system-path="taxonomy/term/8771">AMA STEPS Forward®</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/ama-store" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Store" data-ga-link_url="/practice-management/ama-store" data-drupal-link-system-path="taxonomy/term/9811">AMA Store</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="https://www.ama-assn.org/practice-management/sustainability/practice-transformation" title="AMA’s work in practice transformation aims to create the conditions where joy, purpose &amp; meaning are possible for physicians &amp; other health professionals." class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Practice Transformation" data-ga-link_url="https://www.ama-assn.org/practice-management/sustainability/practice-transformation">Practice Transformation</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/cpt" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="CPT®" data-ga-link_url="/practice-management/cpt" data-drupal-link-system-path="taxonomy/term/2271">CPT®</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/prior-authorization" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Prior Authorization" data-ga-link_url="/practice-management/prior-authorization" data-drupal-link-system-path="taxonomy/term/9001">Prior Authorization</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/reducing-administrative-burden" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Reducing Administrative Burden" data-ga-link_url="/practice-management/reducing-administrative-burden" data-drupal-link-system-path="taxonomy/term/5726">Reducing Administrative Burden</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/scope-practice" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Scope of Practice" data-ga-link_url="/practice-management/scope-practice" data-drupal-link-system-path="taxonomy/term/7526">Scope of Practice</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/sustainability" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Sustainability" data-ga-link_url="/practice-management/sustainability" data-drupal-link-system-path="taxonomy/term/2311">Sustainability</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/physician-health" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Physician Health" data-ga-link_url="/practice-management/physician-health" data-drupal-link-system-path="taxonomy/term/2316">Physician Health</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/claims-processing" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Claims Processing" data-ga-link_url="/practice-management/claims-processing" data-drupal-link-system-path="taxonomy/term/2266">Claims Processing</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/private-practices" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Private Practices" data-ga-link_url="/practice-management/private-practices" data-drupal-link-system-path="taxonomy/term/4421">Private Practices</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/payment-delivery-models" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Payment &amp; Delivery Models" data-ga-link_url="/practice-management/payment-delivery-models" data-drupal-link-system-path="taxonomy/term/2301">Payment &amp; Delivery Models</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/medicare-medicaid" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medicare &amp; Medicaid" data-ga-link_url="/practice-management/medicare-medicaid" data-drupal-link-system-path="taxonomy/term/2296">Medicare &amp; Medicaid</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/digital" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Digital" data-ga-link_url="/practice-management/digital" data-drupal-link-system-path="taxonomy/term/2276">Digital</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/hipaa" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="HIPAA" data-ga-link_url="/practice-management/hipaa" data-drupal-link-system-path="taxonomy/term/2286">HIPAA</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/practice-management/career-development" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Career Development" data-ga-link_url="/practice-management/career-development" data-drupal-link-system-path="taxonomy/term/2261">Career Development</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-1167b0bbfe2a31299e5f436b83193e5e72d001957f3d6208a1ab6ce7200652f6">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="114251" about="/practice-management/physician-health/pharmacy-it-ochsner-health-uses-teamwork-beat-burnout">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2023-12/2023-12-07-AU_GIRGRAH23_Index-1170x780.jpg?itok=SGuSF31H" width="800" height="600" alt="Four males with hands stacked together" typeof="foaf:Image" class="ama__image" />
+<a href="/practice-management/physician-health/pharmacy-it-ochsner-health-uses-teamwork-beat-burnout" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/practice-management/physician-health/pharmacy-it-ochsner-health-uses-teamwork-beat-burnout">
+<h2 class="ama__h2 ama__article-stub__title">
+From pharmacy to IT, Ochsner Health uses teamwork to beat burnout
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>The factors that impede physician well-being vary across settings. Learn how Ochsner Health’s leaders work with the AMA to customize fixes.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="113581" about="/practice-management/digital/future-health-issue-brief-advancing-data-sharing-support-digitally">
+<a href="/practice-management/digital/future-health-issue-brief-advancing-data-sharing-support-digitally" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/practice-management/digital/future-health-issue-brief-advancing-data-sharing-support-digitally">
+<h2 class="ama__h2 ama__article-stub__title">
+Future of Health issue brief: Advancing data sharing to support digitally enabled care
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>The AMA’s latest future of health issue brief PDF explores how organizations can best work together to advance data sharing in the delivery of digitally enabled care.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/education" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Education" data-ga-link_url="/education" data-drupal-link-system-path="taxonomy/term/2106">Education</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Education</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/online-learning-cme" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Online Learning &amp; CME" data-ga-link_url="/education/online-learning-cme" data-drupal-link-system-path="taxonomy/term/8356">Online Learning &amp; CME</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/ama-pra-credit-system" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA PRA Credit System" data-ga-link_url="/education/ama-pra-credit-system" data-drupal-link-system-path="taxonomy/term/2141">AMA PRA Credit System</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/improve-gme" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Improve GME" data-ga-link_url="/education/improve-gme" data-drupal-link-system-path="taxonomy/term/2151">Improve GME</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/gme-funding" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="GME Funding" data-ga-link_url="/education/gme-funding" data-drupal-link-system-path="taxonomy/term/2146">GME Funding</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/medical-school-diversity" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical School Diversity" data-ga-link_url="/education/medical-school-diversity" data-drupal-link-system-path="taxonomy/term/2156">Medical School Diversity</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/changemeded-initiative" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="ChangeMedEd Initiative" data-ga-link_url="/education/changemeded-initiative" data-drupal-link-system-path="taxonomy/term/2161">ChangeMedEd Initiative</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/education/international-medical-education" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="International Medical Education" data-ga-link_url="/education/international-medical-education" data-drupal-link-system-path="taxonomy/term/2166">International Medical Education</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-34470a32a30097d4952e4599e85eb06694c1169e71638f3f02bbd3c0fbe2252b">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="114296" about="/education/medical-school-diversity/medical-student-diversity-sees-uptick-now">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2023-12/2023-12-18-DIVERSE23_Index-1170x780.jpg?itok=ElxpYdsx" width="800" height="600" alt="Student standing in a hallway solo" typeof="foaf:Image" class="ama__image" />
+<a href="/education/medical-school-diversity/medical-student-diversity-sees-uptick-now" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/education/medical-school-diversity/medical-student-diversity-sees-uptick-now">
+<h2 class="ama__h2 ama__article-stub__title">
+Medical student diversity sees uptick—for now
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>New AAMC enrollment data tells the tale, but sustaining the momentum will be hard in light of the Supreme Court’s affirmative-action ruling. Learn more.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="10726" about="/education/changemeded-initiative/top-10-ethical-issues-medical-students-should-be-taught">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2020-02/2020-01-29-REFRESH10ETHICS-Index_1170x780.jpg?itok=wjZBtgW7" width="800" height="600" alt="Woman physician looking out the window" typeof="foaf:Image" class="ama__image" />
+<a href="/education/changemeded-initiative/top-10-ethical-issues-medical-students-should-be-taught" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/education/changemeded-initiative/top-10-ethical-issues-medical-students-should-be-taught">
+<h2 class="ama__h2 ama__article-stub__title">
+The top 10 ethical issues medical students should be taught
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Get key background from the AMA on the emerging medical ethics topics that medical students should be learning about in medical school.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/medical-students" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Students" data-ga-link_url="/medical-students" data-drupal-link-system-path="taxonomy/term/2171">Medical Students</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Medical Students</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/preparing-medical-school" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Preparing for Medical School" data-ga-link_url="/medical-students/preparing-medical-school" data-drupal-link-system-path="taxonomy/term/4451">Preparing for Medical School</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/usmle-step-1-2" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="USMLE® Step 1 &amp; 2" data-ga-link_url="/medical-students/usmle-step-1-2" data-drupal-link-system-path="taxonomy/term/2181">USMLE® Step 1 &amp; 2</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/medical-school-life" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical School Life" data-ga-link_url="/medical-students/medical-school-life" data-drupal-link-system-path="taxonomy/term/2176">Medical School Life</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/medical-student-health" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Student Health" data-ga-link_url="/medical-students/medical-student-health" data-drupal-link-system-path="taxonomy/term/2201">Medical Student Health</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/medical-student-finance" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Student Finance" data-ga-link_url="/medical-students/medical-student-finance" data-drupal-link-system-path="taxonomy/term/9161">Medical Student Finance</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/clinical-rotations" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Clinical Rotations" data-ga-link_url="/medical-students/clinical-rotations" data-drupal-link-system-path="taxonomy/term/9146">Clinical Rotations</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/publishing-research" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Publishing Research" data-ga-link_url="/medical-students/publishing-research" data-drupal-link-system-path="taxonomy/term/9151">Publishing Research</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/medical-student-advocacy" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Student Advocacy" data-ga-link_url="/medical-students/medical-student-advocacy" data-drupal-link-system-path="taxonomy/term/9156">Medical Student Advocacy</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/specialty-profiles" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Specialty Profiles" data-ga-link_url="/medical-students/specialty-profiles" data-drupal-link-system-path="taxonomy/term/2186">Specialty Profiles</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-students/preparing-residency" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Preparing for Residency" data-ga-link_url="/medical-students/preparing-residency" data-drupal-link-system-path="taxonomy/term/2191">Preparing for Residency</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-d2469545ae37688cd96749556c646dc5b319b78cffbcc5b15d26f29cbd92bcd6">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="113891" about="/medical-students/medical-school-life/will-research-year-boost-your-residency-application-no">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2022-06/2022-06-03-RESEARCHAPPS-Index_1170x780.jpg?itok=_9mBt-mu" width="800" height="600" alt="Magnifying glasses" typeof="foaf:Image" class="ama__image" />
+<a href="/medical-students/medical-school-life/will-research-year-boost-your-residency-application-no" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/medical-students/medical-school-life/will-research-year-boost-your-residency-application-no">
+<h2 class="ama__h2 ama__article-stub__title">
+Will a research year boost your residency application? No guarantee
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>A productive research year can make a residency applicant stand out, but that shouldn’t be your primary motivation, the experts say.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="108921" about="/medical-students/medical-school-life/section-involvement-grant-event-month">
+<a href="/medical-students/medical-school-life/section-involvement-grant-event-month" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/medical-students/medical-school-life/section-involvement-grant-event-month">
+<h2 class="ama__h2 ama__article-stub__title">
+Section Involvement Grant Event of the Month
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Each month, the AMA Medical Student Outreach Program (MSOP) identifies one event to highlight as the Section Involvement Grant Event of the Month. Find out more.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/medical-residents" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Residents" data-ga-link_url="/medical-residents" data-drupal-link-system-path="taxonomy/term/9196">Medical Residents</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Medical Residents</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/residency-life" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Residency Life" data-ga-link_url="/medical-residents/residency-life" data-drupal-link-system-path="taxonomy/term/2196">Residency Life</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/research-during-residency" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Research During Residency" data-ga-link_url="/medical-residents/research-during-residency" data-drupal-link-system-path="taxonomy/term/9166">Research During Residency</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/medical-fellowships" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Fellowships" data-ga-link_url="/medical-residents/medical-fellowships" data-drupal-link-system-path="taxonomy/term/9171">Medical Fellowships</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/medical-resident-wellness" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Resident Wellness" data-ga-link_url="/medical-residents/medical-resident-wellness" data-drupal-link-system-path="taxonomy/term/9176">Medical Resident Wellness</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/medical-resident-advocacy" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Resident Advocacy" data-ga-link_url="/medical-residents/medical-resident-advocacy" data-drupal-link-system-path="taxonomy/term/9181">Medical Resident Advocacy</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/medical-residency-personal-finance" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Residency Personal Finance" data-ga-link_url="/medical-residents/medical-residency-personal-finance" data-drupal-link-system-path="taxonomy/term/2206">Medical Residency Personal Finance</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/usmle-step-3" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="USMLE® Step 3" data-ga-link_url="/medical-residents/usmle-step-3" data-drupal-link-system-path="taxonomy/term/9191">USMLE® Step 3</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/medical-residents/transition-resident-attending" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Transition from Resident to Attending" data-ga-link_url="/medical-residents/transition-resident-attending" data-drupal-link-system-path="taxonomy/term/2211">Transition from Resident to Attending</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-5c27746b8e4672764046636b25055111893edb6cf235eedfa59feb276fd3b5aa">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="113956" about="/medical-residents/medical-resident-wellness/pgy-2s-see-27-higher-rate-burnout-interns-heres-why">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2023-12/2023-12-04-rescompfollow1_Index-1170x780.jpg?itok=mfLTjTtu" width="800" height="600" alt="Full length side view of young woman carrying large block" typeof="foaf:Image" class="ama__image" />
+<a href="/medical-residents/medical-resident-wellness/pgy-2s-see-27-higher-rate-burnout-interns-heres-why" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/medical-residents/medical-resident-wellness/pgy-2s-see-27-higher-rate-burnout-interns-heres-why">
+<h2 class="ama__h2 ama__article-stub__title">
+PGY-2s see 27% higher rate of burnout than interns. Here&#039;s why.
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Second-year resident physicians take on more responsibility. Because of it, they get increased exposure to inefficiencies in the care system. </p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="94301" about="/medical-residents/transition-resident-attending/how-wide-net-should-doctors-cast-post-residency-job">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2022-10/2022-10-04-JOBNET-Index_1170x780.jpg?itok=yNo5j1bs" width="800" height="600" alt="Magnifying lens on a human figure centered in a maze" typeof="foaf:Image" class="ama__image" />
+<a href="/medical-residents/transition-resident-attending/how-wide-net-should-doctors-cast-post-residency-job" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/medical-residents/transition-resident-attending/how-wide-net-should-doctors-cast-post-residency-job">
+<h2 class="ama__h2 ama__article-stub__title">
+How wide a net should doctors cast in post-residency job search?
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Weighing personal, professional against available physician job opportunities can be a delicate balance. Learn more with the AMA.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Health Care Advocacy" data-ga-link_url="/health-care-advocacy" data-drupal-link-system-path="taxonomy/term/2101">Health Care Advocacy</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Health Care Advocacy</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/advocating-public-health" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Advocating for Public Health" data-ga-link_url="/health-care-advocacy/advocating-public-health" data-drupal-link-system-path="taxonomy/term/2121">Advocating for Public Health</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/access-care" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Access to Care" data-ga-link_url="/health-care-advocacy/access-care" data-drupal-link-system-path="taxonomy/term/2126">Access to Care</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/administrative-burdens" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Administrative Burdens" data-ga-link_url="/health-care-advocacy/administrative-burdens" data-drupal-link-system-path="taxonomy/term/3461">Administrative Burdens</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/payment-reform" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Payment Reform" data-ga-link_url="/health-care-advocacy/payment-reform" data-drupal-link-system-path="taxonomy/term/2131">Payment Reform</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/advocacy-update" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Advocacy Update" data-ga-link_url="/health-care-advocacy/advocacy-update" data-drupal-link-system-path="taxonomy/term/7516">Advocacy Update</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/federal-advocacy" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Federal Advocacy" data-ga-link_url="/health-care-advocacy/federal-advocacy" data-drupal-link-system-path="taxonomy/term/7511">Federal Advocacy</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/state-advocacy" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="State Advocacy" data-ga-link_url="/health-care-advocacy/state-advocacy" data-drupal-link-system-path="taxonomy/term/7506">State Advocacy</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/health-care-advocacy/judicial-advocacy" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Judicial Advocacy" data-ga-link_url="/health-care-advocacy/judicial-advocacy" data-drupal-link-system-path="taxonomy/term/2116">Judicial Advocacy</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-ba0152211e16a4efa4caa544f855c76eef535889163d13dcdaa144fd4fd1a24e">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="102201" about="/health-care-advocacy/federal-advocacy/ways-get-involved-ama-advocacy">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2022-12/2022-12-06-JOE122022-Index_1170x780.jpg?itok=c6YeDZnp" width="800" height="600" alt="Four health care workers walking in a row" typeof="foaf:Image" class="ama__image" />
+<a href="/health-care-advocacy/federal-advocacy/ways-get-involved-ama-advocacy" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/health-care-advocacy/federal-advocacy/ways-get-involved-ama-advocacy">
+<h2 class="ama__h2 ama__article-stub__title">
+Ways to get involved with AMA advocacy
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Physicians can get involved in advocacy efforts alongside the AMA. Learn more and get involved now.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="79696" about="/health-care-advocacy/federal-advocacy/ama-advocacy-events">
+<a href="/health-care-advocacy/federal-advocacy/ama-advocacy-events" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/health-care-advocacy/federal-advocacy/ama-advocacy-events">
+<h2 class="ama__h2 ama__article-stub__title">
+AMA advocacy events
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Collaborating and networking to advocate for patients and the medical profession.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/member-benefits" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Member Benefits" data-ga-link_url="/member-benefits" data-drupal-link-system-path="taxonomy/term/2371">Member Benefits</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Member Benefits</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-benefits/personal-member-benefits-discounts" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Personal Member Benefits &amp; Discounts" data-ga-link_url="/member-benefits/personal-member-benefits-discounts" data-drupal-link-system-path="taxonomy/term/2381">Personal Member Benefits &amp; Discounts</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-benefits/practice-benefits-discounts" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Practice Benefits &amp; Discounts" data-ga-link_url="/member-benefits/practice-benefits-discounts" data-drupal-link-system-path="taxonomy/term/2386">Practice Benefits &amp; Discounts</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-benefits/member-eligibility-dues" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Member Eligibility &amp; Dues" data-ga-link_url="/member-benefits/member-eligibility-dues" data-drupal-link-system-path="taxonomy/term/2376">Member Eligibility &amp; Dues</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-be356622ecc5b11b9aeec4e275ae974f99e064209ee7dd260d39d32ac682adc1">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="39536" about="/member-benefits/practice-benefits-discounts/practice-discounts">
+<a href="/member-benefits/practice-benefits-discounts/practice-discounts" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/member-benefits/practice-benefits-discounts/practice-discounts">
+<h2 class="ama__h2 ama__article-stub__title">
+Practice discounts
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Get preferred pricing and special offers on practice financing, shipping, payment processing, medical supplies and equipment.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="107896" about="/member-benefits/personal-member-benefits-discounts/mercedes-benz-discounts">
+<a href="/member-benefits/personal-member-benefits-discounts/mercedes-benz-discounts" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/member-benefits/personal-member-benefits-discounts/mercedes-benz-discounts">
+<h2 class="ama__h2 ama__article-stub__title">
+Mercedes-Benz discounts
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>As an AMA member, you can save up to $4,500 on a new Mercedes-Benz today. Learn more about this Mercedes exclusive discount. </p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section">
+<h6 class="ama__h6 ama_category_navigation_menu__section__divider">Organization</h6>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/about/board-trustees" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Board of Trustees" data-ga-link_url="/about/board-trustees" data-drupal-link-system-path="taxonomy/term/2701">Board of Trustees</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/house-delegates" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="House of Delegates" data-ga-link_url="/house-delegates" data-drupal-link-system-path="taxonomy/term/2446">House of Delegates</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>House of Delegates</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/house-delegates/hod-organization" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="HOD Organization" data-ga-link_url="/house-delegates/hod-organization" data-drupal-link-system-path="taxonomy/term/2461">HOD Organization</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/house-delegates/ama-policies" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Policies" data-ga-link_url="/house-delegates/ama-policies" data-drupal-link-system-path="taxonomy/term/2451">AMA Policies</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/house-delegates/annual-meeting" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Annual Meeting" data-ga-link_url="/house-delegates/annual-meeting" data-drupal-link-system-path="taxonomy/term/2456">Annual Meeting</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/house-delegates/interim-meeting" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Interim Meeting" data-ga-link_url="/house-delegates/interim-meeting" data-drupal-link-system-path="taxonomy/term/2471">Interim Meeting</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/house-delegates/ama-elections" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Elections" data-ga-link_url="/house-delegates/ama-elections" data-drupal-link-system-path="taxonomy/term/2466">AMA Elections</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-6db771f48453924e42397f4d47abb123859f5a2f8f9e4ac79478971a2d35dc23">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="73731" about="/house-delegates/ama-elections/hod-election-rules">
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/article_stub_800_x_600/public/2021-05/2021-04-27-TEMRSTUDY-Index_1170x780.jpg?itok=93QPPDJN" width="800" height="600" alt="Stethoscope on laptop keyboard" typeof="foaf:Image" class="ama__image" />
+<a href="/house-delegates/ama-elections/hod-election-rules" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/house-delegates/ama-elections/hod-election-rules">
+<h2 class="ama__h2 ama__article-stub__title">
+HOD election rules
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Find out about the election bylaws and policies for being elected to the AMA House of Delegates.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="3351" about="/house-delegates/hod-organization/member-organizations-ama-house-delegates">
+<a href="/house-delegates/hod-organization/member-organizations-ama-house-delegates" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/house-delegates/hod-organization/member-organizations-ama-house-delegates">
+<h2 class="ama__h2 ama__article-stub__title">
+Member organizations of the AMA House of Delegates
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>See a list of groups and organizations that are entitled to a seat(s) in the AMA House of Delegates.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/councils" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Councils" data-ga-link_url="/councils" data-drupal-link-system-path="taxonomy/term/2391">Councils</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Councils</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-constitution-bylaws" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Constitution &amp; Bylaws" data-ga-link_url="/councils/council-constitution-bylaws" data-drupal-link-system-path="taxonomy/term/2431">Council on Constitution &amp; Bylaws</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-ethical-judicial-affairs" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Ethical &amp; Judicial Affairs" data-ga-link_url="/councils/council-ethical-judicial-affairs" data-drupal-link-system-path="taxonomy/term/2401">Council on Ethical &amp; Judicial Affairs</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-legislation" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Legislation" data-ga-link_url="/councils/council-legislation" data-drupal-link-system-path="taxonomy/term/2406">Council on Legislation</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-long-range-planning-development" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Long Range Planning &amp; Development" data-ga-link_url="/councils/council-long-range-planning-development" data-drupal-link-system-path="taxonomy/term/2411">Council on Long Range Planning &amp; Development</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-medical-education" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Medical Education" data-ga-link_url="/councils/council-medical-education" data-drupal-link-system-path="taxonomy/term/2416">Council on Medical Education</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-medical-service" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Medical Service" data-ga-link_url="/councils/council-medical-service" data-drupal-link-system-path="taxonomy/term/2421">Council on Medical Service</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/councils/council-science-public-health" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Council on Science &amp; Public Health" data-ga-link_url="/councils/council-science-public-health" data-drupal-link-system-path="taxonomy/term/2426">Council on Science &amp; Public Health</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-ce5cecb47f05fe94076cf863fb16cdf3a308483493caa81519a1173351c0498d">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="32191" about="/councils/council-medical-service/physician-payment-reform-council-medical-service-reports">
+<a href="/councils/council-medical-service/physician-payment-reform-council-medical-service-reports" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/councils/council-medical-service/physician-payment-reform-council-medical-service-reports">
+<h2 class="ama__h2 ama__article-stub__title">
+Physician payment reform: Council on Medical Service reports
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Download PDFs of council reports that contribute to the policy options for reforming physician payment. Key council reports on this topic have addressed APMs, Medicaid expansion, the site-of-service differential and high-value care.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="32016" about="/councils/council-medical-service/delivery-reform-council-medical-service-reports">
+<a href="/councils/council-medical-service/delivery-reform-council-medical-service-reports" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/councils/council-medical-service/delivery-reform-council-medical-service-reports">
+<h2 class="ama__h2 ama__article-stub__title">
+Delivery reform: Council on Medical Service reports
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Download PDFs of council reports that advocate policies on emerging delivery systems that protect and foster the patient/physician relationship. Key Council reports on this topic have addressed patient-centered medical homes, precision medicine, APMs, telemedicine, and retail and store-based health clinics.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/member-groups-sections" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Member Groups (Sections)" data-ga-link_url="/member-groups-sections" data-drupal-link-system-path="taxonomy/term/2476">Member Groups (Sections)</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>Member Groups (Sections)</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/section-meetings" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Section Meetings" data-ga-link_url="/member-groups-sections/section-meetings" data-drupal-link-system-path="taxonomy/term/8441">Section Meetings</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/academic-physicians" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Academic Physicians" data-ga-link_url="/member-groups-sections/academic-physicians" data-drupal-link-system-path="taxonomy/term/2481">Academic Physicians</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/advisory-committee-lgbtq-issues" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Advisory Committee on LGBTQ Issues" data-ga-link_url="/member-groups-sections/advisory-committee-lgbtq-issues" data-drupal-link-system-path="taxonomy/term/2396">Advisory Committee on LGBTQ Issues</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/integrated-physician-practices" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Integrated Physician Practices" data-ga-link_url="/member-groups-sections/integrated-physician-practices" data-drupal-link-system-path="taxonomy/term/2486">Integrated Physician Practices</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/international-medical-graduates" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="International Medical Graduates" data-ga-link_url="/member-groups-sections/international-medical-graduates" data-drupal-link-system-path="taxonomy/term/2491">International Medical Graduates</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/medical-students" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Medical Students" data-ga-link_url="/member-groups-sections/medical-students" data-drupal-link-system-path="taxonomy/term/2496">Medical Students</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/minority-affairs" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Minority Affairs" data-ga-link_url="/member-groups-sections/minority-affairs" data-drupal-link-system-path="taxonomy/term/2501">Minority Affairs</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/organized-medical-staff" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Organized Medical Staff" data-ga-link_url="/member-groups-sections/organized-medical-staff" data-drupal-link-system-path="taxonomy/term/2506">Organized Medical Staff</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/private-practice-physicians" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Private Practice Physicians" data-ga-link_url="/member-groups-sections/private-practice-physicians" data-drupal-link-system-path="taxonomy/term/7806">Private Practice Physicians</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/residents-fellows" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Residents &amp; Fellows" data-ga-link_url="/member-groups-sections/residents-fellows" data-drupal-link-system-path="taxonomy/term/2511">Residents &amp; Fellows</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/senior-physicians" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Senior Physicians" data-ga-link_url="/member-groups-sections/senior-physicians" data-drupal-link-system-path="taxonomy/term/2516">Senior Physicians</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/women-physicians" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Women Physicians" data-ga-link_url="/member-groups-sections/women-physicians" data-drupal-link-system-path="taxonomy/term/2521">Women Physicians</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/member-groups-sections/young-physicians" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Young Physicians" data-ga-link_url="/member-groups-sections/young-physicians" data-drupal-link-system-path="taxonomy/term/2526">Young Physicians</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-c07fd727b61649e510676f79b76e283b969656b77500b9bdf38d8b2bf18c3563">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="90086" about="/member-groups-sections/young-physicians/2023-yps-interim-meeting-agenda-resources">
+<a href="/member-groups-sections/young-physicians/2023-yps-interim-meeting-agenda-resources" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/member-groups-sections/young-physicians/2023-yps-interim-meeting-agenda-resources">
+<h2 class="ama__h2 ama__article-stub__title">
+2023 YPS Interim Meeting agenda &amp; resources
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Find the agenda, documents and more information for the 2023 YPS Interim Meeting on Nov. 10 at the Gaylord National Resort &amp; Convention Center in National Harbor, Maryland. </p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="33061" about="/member-groups-sections/senior-physicians/senior-physicians-section-sps-governing-council-elections">
+<a href="/member-groups-sections/senior-physicians/senior-physicians-section-sps-governing-council-elections" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/member-groups-sections/senior-physicians/senior-physicians-section-sps-governing-council-elections">
+<h2 class="ama__h2 ama__article-stub__title">
+Senior Physicians Section (SPS) Governing Council elections
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>AMA members age 65 and above are eligible to vote in the Senior Physicians Section (SPS) Governing Council election in April.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/about" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="About" data-ga-link_url="/about" data-drupal-link-system-path="taxonomy/term/2321">About</a>
+<ul class="ama_category_navigation_menu__flyout">
+<li class="ama_category_navigation_menu__flyout__container">
+<div class="ama_category_navigation_menu__submenu">
+<ol>
+<li class="ama__h5 ama_category_navigation_menu__submenu__header">
+<span>About</span>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/events" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Events" data-ga-link_url="/about/events" data-drupal-link-system-path="taxonomy/term/9101">Events</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/ama-center-health-equity" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Center for Health Equity" data-ga-link_url="/about/ama-center-health-equity" data-drupal-link-system-path="taxonomy/term/7571">AMA Center for Health Equity</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/board-trustees" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Board of Trustees" data-ga-link_url="/about/board-trustees" data-drupal-link-system-path="taxonomy/term/2701">Board of Trustees</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/leadership" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Leadership" data-ga-link_url="/about/leadership" data-drupal-link-system-path="taxonomy/term/2351">Leadership</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/foundation" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Foundation" data-ga-link_url="/about/foundation" data-drupal-link-system-path="taxonomy/term/2331">Foundation</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/office-international-relations" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Office of International Relations" data-ga-link_url="/about/office-international-relations" data-drupal-link-system-path="taxonomy/term/2346">Office of International Relations</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/cpt-editorial-panel" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="CPT® Editorial Panel" data-ga-link_url="/about/cpt-editorial-panel" data-drupal-link-system-path="taxonomy/term/2706">CPT® Editorial Panel</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/rvs-update-committee-ruc" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="RVS Update Committee (RUC)" data-ga-link_url="/about/rvs-update-committee-ruc" data-drupal-link-system-path="taxonomy/term/2436">RVS Update Committee (RUC)</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/united-states-adopted-names" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="United States Adopted Names" data-ga-link_url="/about/united-states-adopted-names" data-drupal-link-system-path="taxonomy/term/2441">United States Adopted Names</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/publications-newsletters" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Publications &amp; Newsletters" data-ga-link_url="/about/publications-newsletters" data-drupal-link-system-path="taxonomy/term/2366">Publications &amp; Newsletters</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/research" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Research" data-ga-link_url="/about/research" data-drupal-link-system-path="taxonomy/term/2361">Research</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/ama-history" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA History" data-ga-link_url="/about/ama-history" data-drupal-link-system-path="taxonomy/term/2336">AMA History</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/awards" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Awards" data-ga-link_url="/about/awards" data-drupal-link-system-path="taxonomy/term/2326">Awards</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/ama-career-opportunities" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Career Opportunities" data-ga-link_url="/about/ama-career-opportunities" data-drupal-link-system-path="taxonomy/term/2731">AMA Career Opportunities</a>
+</li>
+<li data-sm-horizontal-sub="true">
+<a href="/about/physician-professional-data" class="ama__link ama__link--no-underline ama__link--purple" data-ga-site_events="header_site_menu_click" data-ga-link_text="Physician Professional Data™" data-ga-link_url="/about/physician-professional-data" data-drupal-link-system-path="taxonomy/term/2341">Physician Professional Data™</a>
+</li>
+</ol>
+</div>
+<div class="ama_category_navigation_menu__articles">
+<div class="views-element-container"><div class="js-view-dom-id-19641e0b1bf6eb5bd91baa4c9be958916e686b251f1977ce6babf9cb69b9a3ee">
+<div class="ama_category_navigation_menu__article-container">
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="89186" about="/about/events/ama-medical-student-advocacy-conference-mac">
+<a href="/about/events/ama-medical-student-advocacy-conference-mac" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/about/events/ama-medical-student-advocacy-conference-mac">
+<h2 class="ama__h2 ama__article-stub__title">
+AMA Medical Student Advocacy Conference (MAC)
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>The 2024 American Medical Association Medical Student Advocacy Conference (MAC) will be held March 7-8, 2024.</p></div>
+</div>
+</div>
+</div>
+</div>
+<div class="ama__article-stub ama__article-stub--image ama__article-stub--navigation"><div data-history-node-id="114056" about="/about/ama-center-health-equity/embedding-equity-crisis-preparedness-and-response-health-systems">
+<a href="/about/ama-center-health-equity/embedding-equity-crisis-preparedness-and-response-health-systems" data-ga-site_events="header_site_menu_click" data-ga-link_text="item.title" data-ga-link_url="/about/ama-center-health-equity/embedding-equity-crisis-preparedness-and-response-health-systems">
+<h2 class="ama__h2 ama__article-stub__title">
+Embedding equity in crisis preparedness and response in health systems
+</h2>
+</a>
+<div class="ama__article-stub__copy">
+<div class="ama__article-stub__description">
+<div class="text-body"><p>Download the PDF guide, <em>Embedding Equity in Crisis Preparedness and Response in Health Systems</em>, for tools on how health care organizations can embed equity during crises.</p></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="ama_category_navigation_menu__section">
+<h6 class="ama__h6 ama_category_navigation_menu__section__divider">Explore Products</h6>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://jamanetwork.com/" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="JAMA Network™" data-ga-link_url="https://jamanetwork.com/">JAMA Network™</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://freida.ama-assn.org/" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="FREIDA™" data-ga-link_url="https://freida.ama-assn.org/">FREIDA™</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://edhub.ama-assn.org" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Ed Hub™" data-ga-link_url="https://edhub.ama-assn.org">AMA Ed Hub™</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://journalofethics.ama-assn.org/home" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Journal of Ethics®" data-ga-link_url="https://journalofethics.ama-assn.org/home">AMA Journal of Ethics®</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="/practice-management/cpt" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="CPT" data-ga-link_url="/practice-management/cpt" data-drupal-link-system-path="taxonomy/term/2271">CPT</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://www.ama-assn.org/practice-management/ama-store" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="Store" data-ga-link_url="https://www.ama-assn.org/practice-management/ama-store">Store</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://amainsure.com/" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Insurance" data-ga-link_url="https://amainsure.com/">AMA Insurance</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://commerce.ama-assn.org/amaprofiles/" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="AMA Physician Profiles" data-ga-link_url="https://commerce.ama-assn.org/amaprofiles/">AMA Physician Profiles</a>
+</li>
+<li class="ama_category_navigation_menu__section" data-sm-horizontal-sub="true">
+<a href="https://signin.curriculum.ama-assn.org/gcep" class="ama_category_navigation_menu__section ama__link ama__link--no-underline ama__link--white" data-ga-site_events="header_site_menu_click" data-ga-link_text="GCEP" data-ga-link_url="https://signin.curriculum.ama-assn.org/gcep">GCEP</a>
+</li>
+</li>
+</ul>
+</nav>
+</div>
+<a href="https://www.ama-assn.org/" class="ama__site-logo">
+<img src="/themes/custom/ama_one/logo.svg" class="logo" alt="American Medical Association" />
+</a>
+<div class="ama__main-navigation__join--buttons">
+<a href="https://member.ama-assn.org/join-renew" class="ama__button ama__button--small ama__button--tertiary" aria-label="Join" data-ga-site_events="header_join_renew_button_click" data-ga-link_text="Join" data-ga-link_url="https://member.ama-assn.org/join-renew">
+Join
+</a>
+<a href="https://member.ama-assn.org/join-renew" class="ama__button ama__button--small ama__button--tertiary" aria-label="Renew" data-ga-site_events="header_join_renew_button_click" data-ga-link_text="Renew" data-ga-link_url="https://member.ama-assn.org/join-renew">
+Renew
+</a>
+</div>
+<div class="ama__main-navigation__join--links">
+<a href="https://member.ama-assn.org/join-renew" class="ama__link ama__link--white ama__link--no-underline" aria-label="Join" data-ga-site_events="header_join_renew_button_click" data-ga-link_text="Join" data-ga-link_url="https://member.ama-assn.org/join-renew">
+Join &#47;
+</a>
+<a href="https://member.ama-assn.org/join-renew" class="ama__link ama__link--white ama__link--no-underline" aria-label="Renew" data-ga-site_events="header_join_renew_button_click" data-ga-link_text="Renew" data-ga-link_url="https://member.ama-assn.org/join-renew">
+Renew
+</a>
+</div>
+<div class="ama__global-search">
+<form action="/search" method="get" class="views-exposed-form bef-exposed-form ama__global-search--desktop" data-bef-auto-submit-full-form data-bef-auto-submit data-bef-auto-submit-delay="500" data-drupal-selector="views-exposed-form-acquia-search-solr-page" id="block-exposedformacquia-search-solrpage">
+<div class="ama__search__field ama__search__field--in-body">
+<label for="ama__search__label"></label>
+<input placeholder="Enter Search Term" data-bef-auto-submit-exclude data-drupal-selector="edit-search" data-msg-maxlength="Search field has a maximum length of 128." type="text" id="edit-search" name="search" value size="30" maxlength="128" class="form-text" placeholder="Enter Search Term" />
+<div class="ama__global-search__action">
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-bef-auto-submit-click data-drupal-selector="edit-submit-acquia-search-solr" type="submit" id="edit-submit-acquia-search-solr" value="Search" class="button js-form-submit form-submit ama__button" />
+</div>
+</div>
+</div>
+</form>
+</div>
+<div class="global-search-trigger button ama__button" aria-label="Toggle search menu">
+<i class="global-search-trigger__icon icon--search-white" aria-label="Toggle search menu"></i>
+</div>
+<div class="ama__main-navigation__member-benefits-link">
+<a href="/amaone/ama-member-benefits" title="Member Benefits" target="_self" class="ama__link ama__link--white">
+<span>Member Benefits</span>
+</a>
+</div>
+<div id="ama__sign-in-dropdown" class="ama__sign-in-dropdown" aria-label="Toggle sign in menu">
+<i class="icon--usermenu-outline ama__sign-in-dropdown__user-icon" aria-label="Toggle sign in menu"></i>
+<a href="/saml/login?destination=sites/default/files/styles/hub_card_2x3/public/media-browser/member/membership/physician_regulatory.jpg%3Fitok%3DxQ0gMums" title="Sign In" target="_self" class="ama__sign-in-dropdown__text ama__link ama__link--no-underline ama__link--white">
+<span>Sign In</span>
+</a>
+<i class="ama__sign-in-dropdown__caret"></i>
+<div class="ama__sign-in-dropdown__menu">
+<ul class="ama__sign-in-dropdown__menu__group">
+<li>
+<a href="/saml/login?destination=sites/default/files/styles/hub_card_2x3/public/media-browser/member/membership/physician_regulatory.jpg%3Fitok%3DxQ0gMums" title="Sign In" target="_self" class="ama__link ama__link--no-underline">
+Sign In
+</a>
+</li>
+<li>
+<a href="https://fsso.ama-assn.org/sign-up?destination=sites/default/files/styles/hub_card_2x3/public/media-browser/member/membership/physician_regulatory.jpg?itok=xQ0gMums" title="Create free account" class="ama__link ama__link--no-underline">
+Create free account
+</a>
+</li>
+</ul>
+<ul class="ama__sign-in-dropdown__menu__group">
+<li>
+<a class="ama__link ama__link--no-underline" href="https://member.ama-assn.org/join-renew" title="Join/Renew">
+Join/Renew
+</a>
+</li>
+<li>
+<a class="ama__link ama__link--no-underline" href="/amaone/ama-member-benefits" title="Member Benefits" target="_self">
+<span>Member Benefits</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="views-element-container"><div class="js-view-dom-id-52ae81160f55e0bb9a339e138a27962d7bd7d8883f808d7513ad9d59f828ada4">
+<div class="ama_locker_navigation">
+<a class="subscriptions anonymous" aria-label="My Subscriptions" href="/saml/login?destination=/my-subscriptions">
+My Subscriptions
+</a>
+<a class="topics anonymous" aria-label="My Topics" href="/saml/login?destination=/my-topics">
+My Topics
+</a>
+<a class="bookmarks anonymous" aria-label="My Bookmarks" href="/saml/login?destination=/my-bookmarks">
+My Bookmarks
+</a>
+</div>
+</div>
+</div>
+<div class="ama_locker_navigation-catcher hidden"></div>
+<div class="ama_locker_navigation-trigger">
+<div class="dot"></div>
+<div class="dot"></div>
+<div class="dot"></div>
+</div>
+</header>
+<main role="main">
+<a id="main-content" tabindex="-1"></a>
+<div class="layout-content">
+<div>
+<div id="block-ama-one-content">
+<article data-history-node-id="24396" about="/error/404">
+<div>
+<div class="layout layout--one-col-class container">
+<div class="ama__layout--one-column layout__region layout__region--main">
+<section class="ama__layout--one-column__content-top">
+<h1 class="ama__page-title ">404 Page Not Found</h1>
+<div class="text-body"><p>Looks like something went wrong, and we couldn’t find that page. Please visit our <a href="https://www.ama-assn.org/">home page</a> for other AMA news and information, and learn more about our featured products and initiatives.</p>
+<p>For immediate assistance, please call 800-621-8335.</p>
+</div>
+</section>
+<article class="ama__layout--one-column__page-content">
+<div class="ama__promo-group">
+<div> <div class="paragraph paragraph--type--promo-stub paragraph--view-mode--default ama__promo--background">
+<div>
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/related_article_stub_image_1200x800_3_2/public/2022-09/recovery-plan-graphics-03.png?itok=bynJf8zc" width="1200" height="800" alt="AMA Recovery Plan with text" typeof="foaf:Image" class="ama__image" />
+</div>
+<div class="ama__promo--stub-body">
+<p>The AMA Recovery Plan for America’s Physicians renews our country’s commitment to meeting the needs of physicians so patients can receive the high-quality care they deserve.</p>
+</div>
+<a class="ama__button ama__button--secondary" href="https://www.ama-assn.org/amaone/ama-recovery-plan-america-s-physicians">Recovery Plan</a>
+</div>
+</div>
+<div> <div class="paragraph paragraph--type--promo-stub paragraph--view-mode--default ama__promo--background">
+<div>
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/related_article_stub_image_1200x800_3_2/public/2022-02/2022-01-25-studavsequel.jpg?itok=lqk9MDFf" width="1200" height="800" alt="Hand holding a smartphone" typeof="foaf:Image" class="ama__image" />
+</div>
+<div class="ama__promo--stub-body">
+<p>Join the nation’s largest physician organization and enjoy benefits to enhance your practice and personal and professional life.</p>
+</div>
+<a class="ama__button ama__button--secondary" href="https://www.ama-assn.org/member-benefits">Member Benefits</a>
+</div>
+</div>
+<div> <div class="paragraph paragraph--type--promo-stub paragraph--view-mode--default ama__promo--background">
+<div>
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/related_article_stub_image_1200x800_3_2/public/2022-06/2022-05-26-VERBALORDER-Index_1170x780.jpg?itok=plGbIk8P" width="1200" height="800" alt="Silhouette of a person holding a megaphone" typeof="foaf:Image" class="ama__image" />
+</div>
+<div class="ama__promo--stub-body">
+<p>Stay up to date with the latest information on hot topics in health care and medicine with the AMA.</p>
+</div>
+<a class="ama__button ama__button--secondary" href="https://www.ama-assn.org/press-center">Press Center</a>
+</div>
+</div>
+<div> <div class="paragraph paragraph--type--promo-stub paragraph--view-mode--default ama__promo--background">
+<div>
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/related_article_stub_image_1200x800_3_2/public/2020-11/cpt-logo-1170x780.jpg?itok=HNpxsfU0" width="1200" height="800" alt="CPT logo on purple background" typeof="foaf:Image" class="ama__image" />
+</div>
+<div class="ama__promo--stub-body">
+<p>Find resources from the AMA to help accurately bill outpatient and office procedures and services with Current Procedural Terminology (CPT) and Healthcare Common Procedure Coding System (HCPCS) codes.</p>
+</div>
+<a class="ama__button ama__button--secondary" href="https://www.ama-assn.org/practice-management/cpt">CPT®</a>
+</div>
+</div>
+<div> <div class="paragraph paragraph--type--promo-stub paragraph--view-mode--default ama__promo--background">
+<div>
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/related_article_stub_image_1200x800_3_2/public/2022-06/750_6476_Index-1170x780.jpg?itok=VnUsL-EG" width="1200" height="800" alt="2022 Annual Meeting of AMA House of Delegates session" typeof="foaf:Image" class="ama__image" />
+</div>
+<div class="ama__promo--stub-body">
+<p>Discover events advocating for the interests of American physicians, improving public health, and supporting sound medical policy at the federal and local levels.</p>
+</div>
+<a class="ama__button ama__button--secondary" href="https://www.ama-assn.org/events">Events</a>
+</div>
+</div>
+<div> <div class="paragraph paragraph--type--promo-stub paragraph--view-mode--default ama__promo--background">
+<div>
+<img loading="lazy" src="/sites/ama-assn.org/files/styles/related_article_stub_image_1200x800_3_2/public/2019-12/2019-12-04-index-HSSNBME.jpg?itok=jTgZuplO" width="1200" height="800" alt="Graphic of people icons around a table" typeof="foaf:Image" class="ama__image" />
+</div>
+<div class="ama__promo--stub-body">
+<p>Participate in groups that offer members the opportunity to shape AMA policy, increase knowledge and skills, and interact with peers with similar interests or backgrounds.</p>
+</div>
+<a class="ama__button ama__button--secondary" href="https://www.ama-assn.org/member-groups-sections">Member Groups (Sections)</a>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+</div>
+</main>
+<div class="be-ix-link-block">
+
+<div class="be-ix-link-block"><div class="be-related-link-container container"><div class="be-label">Also of Interest:</div><ul class="be-list"><li class="be-list-item"><a class="be-related-link" href="https://www.ama-assn.org/topics/health-information-technology">Health Information Technology</a></li><li class="be-list-item"><a class="be-related-link" href="https://www.ama-assn.org/topics/harm-reduction-centers">Harm Reduction Centers</a></li><li class="be-list-item"><a class="be-related-link" href="https://www.ama-assn.org/topics/gun-violence">Gun Violence</a></li></ul> </div></div>
+
+</div>
+<footer role="contentinfo" class="ama__footer">
+<div class="container">
+<a id="block-ama-one-footer" class="ama__site-logo--footer" href="/" title="Home" rel="home">
+<img src="/themes/custom/ama_one/images/brand/logo-reversed.svg" class="logo" alt="American Medical Association" />
+</a>
+<div class="ama__footer__left">
+<p class="ama__footer__mission"> The AMA promotes the art and science of medicine and the betterment of public health.</p>
+<ul class="ama__social-share">
+<li>
+<a data-ga-site_events="social_outbound_click" data-ga-social_action="channel" data-ga-social_network="facebook" href="https://www.facebook.com/AmericanMedicalAssociation" aria-label="Facebook" class="social--facebook-white" target="_blank"></a>
+</li>
+<li>
+<a data-ga-site_events="social_outbound_click" data-ga-social_action="channel" data-ga-social_network="twitter" href="https://twitter.com/AmerMedicalAssn" aria-label="Twitter" class="social--twitter-white" target="_blank"></a>
+</li>
+<li>
+<a data-ga-site_events="social_outbound_click" data-ga-social_action="channel" data-ga-social_network="linkedin" href="https://www.linkedin.com/company/american-medical-association" aria-label="LinkedIn" class="social--linkedin-white" target="_blank"></a>
+</li>
+<li>
+<a data-ga-site_events="social_outbound_click" data-ga-social_action="channel" data-ga-social_network="youtube" href="https://www.youtube.com/user/AmerMedicalAssn" aria-label="Youtube" class="social--youtube-white" target="_blank"></a>
+</li>
+<li>
+<a data-ga-site_events="social_outbound_click" data-ga-social_action="channel" data-ga-social_network="instagram" href="https://www.instagram.com/amermedicalassn/" aria-label="Instagram" class="social--instagram-white" target="_blank"></a>
+</li>
+</ul>
+<a href="/form/contact-us" class="ama__footer__connect">AMA Contact Us</a>
+<p class> Download AMA Connect app for
+<a style="text-decoration: underline;" href="http://itunes.apple.com/app/ama-connect/id1355068050?uo=5&amp;at=10l9yE">iPhone</a> or
+<a style="text-decoration: underline;" href="/store/apps/details?id=org.ama_assn.AMAConnect">Android</a></p>
+</div>
+<div class="ama__footer__right">
+<div class="ama__footer__menu-secondary-user">
+<ul>
+<li>
+<a href="/about-ama/ama-career-opportunities">AMA Careers</a>
+</li>
+<li>
+<a href="/events" data-drupal-link-system-path="events">Events</a>
+</li>
+<li>
+<a href="/press-center" data-drupal-link-system-path="taxonomy/term/2676">Press Center</a>
+</li>
+</ul>
+<ul>
+<li>
+<a href="https://www.amaalliance.org/">AMA Alliance</a>
+</li>
+<li>
+<a href="http://www.ampaconline.org/">AMPAC</a>
+</li>
+<li>
+<a href="https://amafoundation.org">AMA Foundation</a>
+</li>
+</ul>
+</div>
+<div class="ama__subscribe-promo--wide">
+<p>The best in medicine, delivered to your mailbox</p>
+<div class="ama__subscribe-promo__form" data-drupal-selector="ama-email-subscription-footer" id="block-ama-subscription-form-block">
+<div id="footer-form-container">
+<form action="/sites/default/files/styles/hub_card_2x3/public/media-browser/member/membership/physician_regulatory.jpg?itok=xQ0gMums" method="post" id="ama-email-subscription-footer" accept-charset="UTF-8">
+<form action="/sites/default/files/styles/hub_card_2x3/public/media-browser/member/membership/physician_regulatory.jpg?itok=xQ0gMums" method="post" id="ama-email-subscription-footer" accept-charset="UTF-8">
+<div class="ama__subscribe-promo__email-subscribe-container">
+<label id="footer-mr-email-label" for="edit-footer-mr-email">Please enter your email address.</label>
+<div class="js-form-item form-item js-form-type-textfield form-item-footer-mr-email js-form-item-footer-mr-email form-no-label">
+<input aria-labelledby="footer-mr-email-label" data-drupal-selector="edit-footer-mr-email" data-msg-required="Not a valid email" data-msg-maxlength="This field field has a maximum length of 128." type="text" id="edit-footer-mr-email" name="footer_mr_email" value size="60" maxlength="128" placeholder="Email Address" class="form-text required" required="required" aria-required="true" />
+</div>
+<div class="form-item">
+<input class="ama__button--subscribe button js-form-submit form-submit button ama__button  ama__button--secondary" data-ga-site_events="subscribe_promo_cta_click" data-ga-header_text="Email Subscription" data-ga-email data-ga-error="Not a valid email or Please check box to opt-in" data-ga-body_text="The best in medicine, delivered to your mailbox" data-ga-entity_type="node" data-ga-entity_id="24396" data-drupal-selector="edit-footer-mr-submit" type="submit" id="edit-footer-mr-submit" name="op" value="Subscribe" />
+</div>
+</div>
+<div id="footer-email-error" class="form-item--error-message"></div>
+<div class="js-form-item form-item js-form-type-checkbox form-item-footer-mr-us-citizen js-form-item-footer-mr-us-citizen ama__checkbox">
+<label class="js-form-item form-item js-form-type-checkbox form-item-footer-mr-us-citizen js-form-item-footer-mr-us-citizen ama__checkbox" for="edit-footer-mr-us-citizen">
+<span class="ui-checkboxradio-icon ui-corner-all ui-icon ui-icon-background ui-icon-blank" style="display: none"></span>
+<input data-drupal-selector="edit-footer-mr-us-citizen" data-msg-required="Please check box to opt-in" type="checkbox" id="edit-footer-mr-us-citizen" name="footer_mr_us_citizen" value="1" class="form-checkbox required" required="required" aria-required="true" />
+<span class="us-verify">I verify that I’m in the U.S. and agree to receive communication from the AMA or third parties on behalf of AMA.</span>
+</label>
+</div>
+<div id="footer-citizen-error" class="form-item--error-message"></div>
+<input autocomplete="off" data-drupal-selector="form-0ioq4q-dgavsdbnz9q3yjowou-fj85ufa1ho6kn8qi8" type="hidden" name="form_build_id" value="form-0iOQ4q-dgAvsDBNz9Q3YJowoU_fJ85UFa1ho6Kn8QI8" />
+<input data-drupal-selector="edit-ama-email-subscription-footer" type="hidden" name="form_id" value="ama_email_subscription__footer" />
+</form>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="block-product-nav-footer" class="ama__footer__menu-products">
+<ul>
+<li>
+<a href="https://jamanetwork.com/" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="JAMA Network™" data-ga-link_url="https://jamanetwork.com/">JAMA Network™</a>
+</li>
+<li>
+<a href="https://freida.ama-assn.org/" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="FREIDA™" data-ga-link_url="https://freida.ama-assn.org/">FREIDA™</a>
+</li>
+<li>
+<a href="https://edhub.ama-assn.org" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="AMA Ed Hub™" data-ga-link_url="https://edhub.ama-assn.org">AMA Ed Hub™</a>
+</li>
+<li>
+<a href="https://signin.curriculum.ama-assn.org/gcep" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="GCEP" data-ga-link_url="https://signin.curriculum.ama-assn.org/gcep">GCEP</a>
+</li>
+<li>
+<a href="https://journalofethics.ama-assn.org/home" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="AMA Journal of Ethics®" data-ga-link_url="https://journalofethics.ama-assn.org/home">AMA Journal of Ethics®</a>
+</li>
+<li>
+<a href="/practice-management/cpt" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="CPT" data-ga-link_url="/practice-management/cpt" data-drupal-link-system-path="taxonomy/term/2271">CPT</a>
+</li>
+<li>
+<a href="https://www.ama-assn.org/practice-management/ama-store" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="Store" data-ga-link_url="https://www.ama-assn.org/practice-management/ama-store">Store</a>
+</li>
+<li>
+<a href="https://commerce.ama-assn.org/amaprofiles/" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="AMA Physician Profiles" data-ga-link_url="https://commerce.ama-assn.org/amaprofiles/">AMA Physician Profiles</a>
+</li>
+<li>
+<a href="https://amainsure.com/" class="ama__link--white" data-ga-site_events="product_navigation_link_click" data-ga-link_text="AMA Insurance" data-ga-link_url="https://amainsure.com/">AMA Insurance</a>
+</li>
+</ul>
+</div>
+<div id="block-footer-utility-nav">
+<div class="ama__footer__bottom">
+<div class="container">
+<ul class="ama__footer__menu-utility">
+<li>
+<a href="/about/terms-use" title="Read the Terms of Use for accessing and using any AMA website or online property. If you do not agree to the Terms, please exit the AMA website." class="ama__link--white" data-drupal-link-system-path="node/88356">Terms of Use</a>
+</li>
+<li>
+<a href="/about/privacy-policy" title="The American Medical Association (AMA) respects your privacy and is committed to protecting it at all times. " class="ama__link--white" data-drupal-link-system-path="node/88361">Privacy Policy</a>
+</li>
+<li>
+<a href="/about/code-conduct" title="View the AMA Code of Conduct and Anti-harassment policy. " class="ama__link--white" data-drupal-link-system-path="node/88371">Code of Conduct</a>
+</li>
+<li>
+<a href="/about/accessibility-statement" title="Read about the American Medical Association&#039;s commitment to providing a website that is accessible to all users, including those with disabilities. " class="ama__link--white" data-drupal-link-system-path="node/88346">Website Accessibility</a>
+</li>
+</ul>
+<div class="ama__copyright ama__type--smaller">
+Copyright 1995 - 2023 American Medical Association. All rights reserved.
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script>window.dataLayer = window.dataLayer || []; window.dataLayer.push({"drupalLanguage":"en","drupalCountry":"","siteName":"American Medical Association","entityUid":"1","entityCreated":"1539838820","entityType":"node","page_template":"basic","entityId":"24396","entityTitle":"404 Page Not Found","primaryCategory":"sites","subCategory1":"default","subCategory2":"files","audience_segment_terms":[],"business_unit_terms":{"id":"4796","label":"IT","bundle":"bu_affiliates"},"evergreen_terms":[],"userUid":0,"life_stage":"unknown","member_status":"unknown","tam_id":""});</script>
+<script src="/sites/ama-assn.org/files/js/js_dyyVpQncb4zonDiGBvEZyGVSGb-pUM1zhqP6Do691M4.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/ama-assn.org/files/js/js_5dPgKWuB6-rsyjpKLds4b9ivCi_AZcCmrYn_L-w_cEc.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA"></script>
+<script src="/modules/contrib/google_tag/js/gtm.js?s4yr6w"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?s4yr6w"></script>
+<script src="/sites/ama-assn.org/files/js/js_9qiz0RM1291kRb5-Gwe_fNVmMpsnlBmgLSu5lv4XjCk.js?scope=footer&amp;delta=5&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/sites/ama-assn.org/files/js/js_AImeqbF1z1MnlGIGwuaBHfoNSYS6KGoCzOVFDcg_hME.js?scope=footer&amp;delta=7&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA"></script>
+<script src="https://api.ipify.org?format=jsonp&amp;callback=getIp" async defer></script>
+<script src="/sites/ama-assn.org/files/js/js_pvf3mzG-1LCCFbK5RRfO7RI-omLd5asvU5LCA3CUuJE.js?scope=footer&amp;delta=9&amp;language=en&amp;theme=ama_one&amp;include=eJydk2uWnSAMxzekspHuwRMhYq5ALInOuPvi43rv2GlPT7_w-CXAPw_AOWVIq4Fz0fSZk1ZAUTEEc84VRGg5YStsCUIrA2S8zrR2FuVYOVAIsGI2HQ6wEGepZBXFaDoQfF5idJ1wJL32j58z5rWZqbED2vEHiVaW89NQHVM7k6GkmBOEZsEsxOk706bidnW9QKDC8c4lQtaIaZa7mAgy3tkfvesSHlmFLuApXGrLPBK-Cfwg51FfoAVbfF2JwlyrN-v2jtmG6y0fuINQi66Bkq_wU8s8GpfnqYR9bivP7AO2Ct54jV-34A9555Eps88ocsArgWe0Ped4WDjZM64SYveKMjC4h3y50mHH8-V-QkjpdxjLw-Bvjg_4vCs-4JYDKOJWJSumZy5aa4xA4VnbLXs2ECYVcti-aHvE8yzi1Qp_dbZL85_-dkRHyvlf_anHaoIMPsM0yFWaizRzmuYukAzoqoXwQ8w-NpHdXCrxjvZU7cuWUk-JtPxYm7l85J3WT1of9JbWwEV8vsEukx8US-9-W4QbLF24N1G99aLc76de6-t7vvi1qnHZUnYz01RrBjuWpv8FvirUVA"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"22656e4355","applicationID":"153878993","transactionName":"YFQDZhFVWUpRVUZYWlkeIFEXXVhXH2p2Q0BHUA1uDVtTXGx1XV9BRV4NXgZGa3dfUldnXFJGIl0NQEVWXFpXQw8NRwhXFA==","queueTime":11,"applicationTime":2197,"atts":"TBMUEFlPShUSVxALTkpM","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

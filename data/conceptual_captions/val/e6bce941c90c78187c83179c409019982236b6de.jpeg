@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 8) ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<script type="text/javascript" src="https://cdn.cwmkt.app/cwh-gcp-support-minified.js"></script>
+<script type="text/javascript" src="https://cdn-prod.securiti.ai/consent/auto_blocking/52afb928-62c5-40e9-bd72-3da78cf079fb/63d9a66e-f4da-4aad-9c6b-0e10cc6bcd03.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-563H6RG');</script>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="facebook-domain-verification" content="1wlu0ek6xc5oivchc4toywkdc8ewyl" />
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://blog.goodsam.com/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="https://blog.goodsam.com/wp-content/themes/litemag/assets/js/html5shiv.js"></script>
+<script src="https://blog.goodsam.com/wp-content/themes/litemag/assets/js/respond.min.js"></script>
+<![endif]-->
+<meta name="robots" content="noindex, follow" />
+
+<title>Page Not Found - Good Sam Camping Blog</title>
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Page Not Found - Good Sam Camping Blog" />
+<meta property="og:site_name" content="Good Sam Camping Blog" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://blog.goodsam.com/#website","url":"https://blog.goodsam.com/","name":"Good Sam Camping Blog","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://blog.goodsam.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+
+<link rel="dns-prefetch" href="//blog.goodsam.com" />
+<link rel="dns-prefetch" href="//platform-api.sharethis.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="alternate" type="application/rss+xml" title="Good Sam Camping Blog &raquo; Feed" href="https://blog.goodsam.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Good Sam Camping Blog &raquo; Comments Feed" href="https://blog.goodsam.com/comments/feed/" />
+<link rel="stylesheet" id="wp-block-library-css" href="https://blog.goodsam.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="classic-theme-styles-css" href="https://blog.goodsam.com/wp-includes/css/classic-themes.min.css?ver=1" type="text/css" media="all" />
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="bcct_style-css" href="https://blog.goodsam.com/wp-content/plugins/better-click-to-tweet/assets/css/styles.css?ver=3.0" type="text/css" media="all" />
+<link rel="stylesheet" id="canada-html5-map-style-css" href="https://blog.goodsam.com/wp-content/plugins/canadahtmlmap/static/css/map.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="tm_clicktotweet-css" href="https://blog.goodsam.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="contact-form-7-css" href="https://blog.goodsam.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4" type="text/css" media="all" />
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://blog.goodsam.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.3" type="text/css" media="all" />
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="share-this-share-buttons-sticky-css" href="https://blog.goodsam.com/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1676296229" type="text/css" media="all" />
+<link rel="stylesheet" id="usa-html5-map-style-css" href="https://blog.goodsam.com/wp-content/plugins/usahtmlmap/static/css/map.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="ppress-frontend-css" href="https://blog.goodsam.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.8.0" type="text/css" media="all" />
+<link rel="stylesheet" id="ppress-flatpickr-css" href="https://blog.goodsam.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.8.0" type="text/css" media="all" />
+<link rel="stylesheet" id="ppress-select2-css" href="https://blog.goodsam.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="parent-theme-css" href="https://blog.goodsam.com/wp-content/themes/litemag/style.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="bluthcodes-style-css" href="https://blog.goodsam.com/wp-content/themes/litemag/assets/plugins/bluthcodes/style.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="fontawesome-style-css" href="https://blog.goodsam.com/wp-content/themes/litemag/assets/css/font-awesome.min.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="bootstrap-style-css" href="https://blog.goodsam.com/wp-content/themes/litemag/assets/css/bootstrap.min.css?ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="bluth-style-css" href="https://blog.goodsam.com/wp-content/themes/litemag-child/style.css?ver=6.1.4" type="text/css" media="all" />
+<link crossorigin="anonymous" rel="stylesheet" id="bluth-googlefonts-css" href="https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%2C900&#038;subset=latin&#038;ver=6.1.4" type="text/css" media="all" />
+<link rel="stylesheet" id="__EPYT__style-css" href="https://blog.goodsam.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=14.1.4.1" type="text/css" media="all" />
+<style id="__EPYT__style-inline-css" type="text/css">
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/canadahtmlmap/static/js/jquery.nicescroll.js?ver=6.1.4" id="canada-html5-map-nicescroll-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.7.3" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.3" id="revmin-js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js?ver=2.1.6#property=5d5aebb4c60153001277bda3&#038;product=sticky-buttons&#038;source=sharethis-share-buttons-wordpress" id="share-this-share-buttons-mu-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/usahtmlmap/static/js/jquery.nicescroll.js?ver=6.1.4" id="usa-html5-map-nicescroll-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.8.0" id="ppress-flatpickr-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.8.0" id="ppress-select2-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/themes/litemag-child/custom-scripts.js?ver=6.1.4" id="litemag-js"></script>
+<script type="text/javascript" id="__ytprefs__-js-extra">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/blog.goodsam.com\/wp-admin\/admin-ajax.php","security":"4db5a95081","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/blog.goodsam.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","eppath":"https:\/\/blog.goodsam.com\/wp-content\/plugins\/youtube-embed-plus\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"14.1.4.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","ytapi_load":"light","pause_others":"","stopMobileBuffer":"1","facade_mode":"","not_live_on_channel":"","vi_active":"","vi_js_posttypes":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=14.1.4.1" id="__ytprefs__-js"></script>
+<link rel="https://api.w.org/" href="https://blog.goodsam.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://blog.goodsam.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog.goodsam.com/wp-includes/wlwmanifest.xml" />
+<script>var adState ='';</script><meta property="og:site_name" content="Good Sam Camping Blog" /><meta property="og:title" content="Page Not Found - Good Sam Camping Blog" /><meta property="og:type" content="website" /><link rel="Shortcut Icon" type="image/x-icon" href="https://blog.goodsam.com/wp-content/uploads/2021/02/RGB-GS-Initials_Rev.ico" /><link rel="apple-touch-icon" href="https://blog.goodsam.com/wp-content/uploads/2021/01/RGB-GS-Initials_Rev.svg" /><meta name="generator" content="Powered by Slider Revolution 5.4.7.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://blog.goodsam.com/wp-content/uploads/2021/01/RGB-GS-Initials_Rev.svg" sizes="32x32" />
+<link rel="icon" href="https://blog.goodsam.com/wp-content/uploads/2021/01/RGB-GS-Initials_Rev.svg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://blog.goodsam.com/wp-content/uploads/2021/01/RGB-GS-Initials_Rev.svg" />
+<meta name="msapplication-TileImage" content="https://blog.goodsam.com/wp-content/uploads/2021/01/RGB-GS-Initials_Rev.svg" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style type="text/css"> #main-content.container, .container{ width: 1200px; }.menu-brand h1{font-family: "Roboto",serif;}h1,h2,h3,h4,h5{font-family: "Roboto",serif;} .widget_calendar table > caption{font-family: "Roboto",serif;} body, .meta-info{font-family: "Roboto",Helvetica,sans-serif;} #header-main-menu, #header-main-menu h1,#header-main-menu h2, #header-main-menu h3, #header-main-menu h4, #header-main-menu h5{font-family: "Roboto",Helvetica,sans-serif;} 		
+			body.boxed,
+			body.boxed #wrap,
+			body.boxed #footer{
+				width: 1240px;
+			}
+			body{ 
+				background: #f9f9f9;
+				background-size: auto;
+			}
+
+			/*****************/
+	 		/*	FONTS
+			/*****************/
+				body, article .entry-content, p{
+					font-size: 16px;
+				}
+				.entry-content, article .entry-content, p{
+					line-height: 1.7;
+				}
+
+			/*****************/
+	 		/*	THEME COLORS
+			/*****************/
+							
+				#header-main-menu > ul > li > a,
+				#header-main-menu .menu > li.is-category > .child-menu-wrap > .child-post > a, 
+				#header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li > a,
+				#header-main-menu .normal-menu .child-items a,
+				#header-main-menu li.super-menu .child-items .child-items a{
+					color: #333333;
+				}
+				/* full-width image captions */
+				.post-break .wp-caption-text{
+					background-color: #f9f9f9;
+				}
+
+				/* links */
+					a, a:hover, #content a:before, #content a:after, .bl_posts article .moretag:before, .bl_posts article .moretag:after{
+						border-bottom-color: #962A27;
+						color: #962A27;
+					}
+
+				/* theme background color */
+					.signature-animation:after, 
+					#header-main-menu > ul > li > a:after,
+					#header-main-menu li.super-menu .child-items .child-items a:after,
+					.widget_archive ul li span,
+					.widget_meta ul li span,
+					.widget_pages ul li span,
+					.widget_nav_menu ul li span,
+					.widget_categories ul li span,
+					.widget_archive ul li:after,
+					.widget_meta ul li:after,
+					.widget_pages ul li:after,
+					.widget_nav_menu ul li a:after,
+					.widget_tag_cloud a:after,
+					.widget_categories ul li:after,
+					.widget_calendar table td a:after,
+					.bl_posts article .post-image .info-category a:after,
+					.bl_posts article .post-footer .post-comments .info-comments span,
+					.bl_posts .widget-head .orderposts a.active, .bl_posts .widget-head .orderposts a:focus,
+					.bl_posts .bl_posts_information .loader .dot,
+					.bl_posts_slider .tabs a:before, .bl_posts_slider .tabs a:after,
+					.bl_posts_slider .info-category a:after,
+					.widget-head span:before, .comment-reply-title span:before,
+					.bl_posts article .post-image .post-icon
+					{
+						background-color: #ea4139;
+					}
+
+				/* theme border color */
+					#header-content,
+					#header-top,
+					#header-main-menu .menu > .normal-menu .menu-item-has-children > a,
+					.bl_posts article .post-image .info-category a:hover,
+					.bl_posts_slider .tabs a:before, .bl_posts_slider .tabs a:after,
+					.bl_posts_slider .info-category a:hover,
+					#header-main-menu > ul > li.super-menu .child-menu-wrap > .child-items,
+					.bl_tabs .tab-content img
+					{
+						border-color: #ea4139;
+					}
+				
+				/* theme font color */
+					#header-main-menu li.super-menu .child-menu-wrap .menu-item-has-children > a,
+					#header-main-menu li.super-menu .child-menu-wrap .menu-item-has-children > a:hover,
+					#header-main-menu .menu > li.is-category .child-menu-wrap .menu-item-title,
+					#header-main-menu .menu > li.is-category > .child-menu-wrap > .child-post.active > a,
+					#header-main-menu .menu > li.has-category-children .child-menu-wrap .menu-item-title,
+					#header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li.active > a,
+					#header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li > a:hover,
+					.widget_archive ul li:hover span,
+					.widget_meta ul li:hover span,
+					.widget_pages ul li:hover span,
+					.widget_nav_menu ul li:hover span,
+					.widget_categories ul li:hover span,
+					.bl_posts .loadmore .ajaxload,
+					button.navbar-toggle,
+					.bl_posts article:hover .post-title a,
+					.toggle-orderposts, .toggle-orderposts:hover
+					{
+						color: #ea4139;
+					}
+
+					.menu-brand-marker, .menu-brand span{
+						color: #333333;
+					}
+					#header-content{
+						background-color: #ffffff;
+					}
+
+					#header-main-menu .child-menu-wrap, 
+					#header-main-menu .menu > .normal-menu .child-items,
+					#header-main-menu > ul > li.super-menu .child-menu-wrap > .child-items > li{
+						background-color: #ffffff!important;
+					}
+
+			/*****************/
+	 		/*	HEADER / MENU
+			/*****************/
+
+				/* menu_height */
+
+					#header-content > .container > .row{
+						height: 100px;
+					}
+					#header-content.fixed  > .container > .row{
+						height: 60px;
+					}
+					#header-content{
+						background-image:url("");
+					}
+					.fixed .above_header{
+						display: none;
+					}
+					
+			/*****************/
+	 		/*	WIDGETS
+			/*****************/
+			
+				#side-bar .widget-head,
+				.bl_posts .widget-head .title-area{
+					color: #333333;
+				}
+
+			/*****************/
+	 		/*	FOOTER
+			/*****************/
+
+				body.boxed #footer, body.full_width #footer{
+					background-color: #333333;
+				}
+
+				#footer .widget-head{
+					color: #ffffff;
+				}
+
+				body #footer a{
+					color: #ffffff;
+				}
+
+	  	
+	</style> <style type="text/css" id="wp-custom-css">
+			.gs-logo {
+	width:180px!important;
+	height:71px!important;
+}
+
+.welcoming {
+	display:none;
+}		</style>
+<link rel="icon" href="https://blog.goodsam.com/wp-content/uploads/2021/02/RGB-GS-Initials_Rev.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://blog.goodsam.com/wp-content/uploads/2021/02/RGB-GS-Initials_Rev.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="https://blog.goodsam.com/wp-content/uploads/2021/02/apple-touch-icon-114x114-1.png" />
+<link rel="apple-touch-icon" href="https://blog.goodsam.com/wp-content/uploads/2021/02/apple-touch-icon-72x72-1.png" />
+<link rel="apple-touch-icon" href="https://blog.goodsam.com/wp-content/uploads/2021/02/apple-touch-icon.png" />
+
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('dataProcessingOptions', ['LDU'], 0, 0);
+fbq('init', '418297931664717');
+fbq('track', "PageView");</script>
+
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('dataProcessingOptions', ['LDU'], 0, 0);
+fbq('init', '538503523594540');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=538503523594540&ev=PageView&noscript=1"
+/></noscript>
+
+
+<script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+<script>var artid='';</script>
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+
+			window.googletag = window.googletag || {cmd: []};
+				  googletag.cmd.push(function() {
+					  googletag.defineSlot('/313395910/gs_blog', [728, 90], 'div-gpt-ad-1582060140383-0').setTargeting('artid', artid).setTargeting('pos', ['post-body']).addService(googletag.pubads());
+					  googletag.defineSlot('/313395910/gs_blog', [160, 600], 'div-gpt-ad-1582060140383-1').setTargeting('artid', artid).setTargeting('pos', ['sidebar']).addService(googletag.pubads());
+					  
+					  googletag.pubads().setPrivacySettings({
+							restrictDataProcessing: true
+					  });
+					  
+					  googletag.pubads().enableSingleRequest();
+					  googletag.pubads().collapseEmptyDivs();
+					  googletag.enableServices();
+				  });
+			</script>
+<style>
+
+		#header-content > .container > .row {
+			height:61px;
+		}
+
+		.dark-header
+		{
+			background-color:black!important;
+		}
+
+		#header-content, #header-top, #header-main-menu .menu > .normal-menu .menu-item-has-children > a, .bl_posts article .post-image .info-category a:hover, .bl_posts_slider .tabs a:before, .bl_posts_slider .tabs a:after, .bl_posts_slider .info-category a:hover, #header-main-menu > ul > li.super-menu .child-menu-wrap > .child-items, .bl_tabs .tab-content img
+		{
+			border-color:black!important;
+		}
+
+		#header-main-menu > ul > li > a
+		{
+			color:white!important;
+		}
+
+		#header-main-menu{
+			padding-top:13px;
+		}
+
+		.universal-header{
+
+		}
+
+		.uni-li {
+			color: white;
+		}
+
+		.uni-li-mobile {
+			color: black;
+			padding:5px 0 5px 10px;
+			font-size:20px;
+			font-weight:700;
+		}
+
+		a.uni-drop{
+			color:black;
+			font-size:14px;
+
+		}
+
+		a.uni-drop-mobile{
+			color:black;
+			font-size:14px;
+		}
+
+		#header-main-menu > ul > li > a {
+			text-transform:none!important;
+		}
+
+		.navbar-nav>li>a {
+			padding-top:5px;
+			padding-bottom:5px;
+		}
+
+		.uni-nav-active, .uni-nav-active:hover{
+			background-color:black!important;
+			color:white!important
+		}
+
+		.nav>li>a:hover, .nav>li>a:focus {
+			text-decoration: none;
+			background-color: inherit;
+		}
+
+		.fa-navicon:before, .fa-reorder:before, .fa-bars:before {
+			color:white;
+		}
+
+		.margin-top-15{
+			margin-top:15px;
+		}
+
+		.margin-top-40{
+			margin-top:40px;
+		}
+
+		#page-header
+		{
+			border-bottom: 2px #a52d32 solid;
+			background-color: #181818;
+			border-radius: 0px;
+		}
+
+		#header-content.fixed > .container > .row {
+			height: 80px;
+		}
+
+		navbar-toggle.navbar-left {
+			float: left!important;
+			margin-left: 20px;
+		}
+
+
+		#header-main-menu > ul > li > a {
+
+			font-size: 13px;
+			font-weight: 500;
+			padding: 7px 10px;
+
+		}
+
+		#searchForm{
+			padding-left:5px;
+		}
+
+		@media (max-width:766px)
+		{
+			.gs-logo{
+				margin-left:30%!important;
+				margin-top:0!important;
+			}
+
+			.admin-bar #header-content.shrink {
+				top: 0px!important;
+			}
+		}
+
+		@media screen and (min-width:767px) and (max-width:991px)
+		{
+			.gs-logo{
+				margin-left:300px!important;
+
+			}
+
+		}
+
+		button.navbar-toggle {
+			position: absolute;
+			top: 5px;
+			left: 30px;
+			z-index:9999;
+		}
+
+
+		.spacer{
+			margin-top:10px;
+		}
+
+		.search-box{
+
+			border:none;
+			height:35px;
+			border-radius: 4px 0px 0px 4px;
+
+		}
+
+		.search-container{
+			margin:20px 0 0 0;
+		}
+
+		.icon-box {
+			background-color: #F4BD3F;
+			border-radius: 0px 4px 4px 0px;
+			height: 35px;
+			width: 70px;
+			margin-left: -45px;
+			padding-top:6px;
+			display: inline-block;
+			background-image: none;
+		}
+
+		.gs-logo{
+			margin-bottom:15px;
+			margin-top:10px;	
+			max-width: 180px!important;
+			max-height: 71px!important;			
+		}
+		
+		.menu-brand .menu-brand-marker img {
+			display: inline-block;
+			height: auto;
+			width: 150px!important;
+		}
+		
+		#header-main-menu li.super-menu .child-menu-wrap .menu-item-has-children > a, #header-main-menu li.super-menu .child-menu-wrap .menu-item-has-children > a:hover, #header-main-menu .menu > li.is-category .child-menu-wrap .menu-item-title, #header-main-menu .menu > li.is-category > .child-menu-wrap > .child-post.active > a, #header-main-menu .menu > li.has-category-children .child-menu-wrap .menu-item-title, #header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li.active > a, #header-main-menu .menu > li.has-category-children > .child-menu-wrap > .child-items > li > a:hover, .widget_archive ul li:hover span, .widget_meta ul li:hover span, .widget_pages ul li:hover span, .widget_nav_menu ul li:hover span, .widget_categories ul li:hover span, .bl_posts .loadmore .ajaxload, button.navbar-toggle, .bl_posts article:hover .post-title a, .toggle-orderposts, .toggle-orderposts:hover {
+			color: #c30b24;
+		}
+
+	</style>
+</head>
+<body data-rsssl="1" class="error404 full_width">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-563H6RG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<main id="wrap">
+<div class="universal-header hidden-xs hidden-sm">
+<div class="container uni-bar">
+<nav class="uni-nav">
+<ul class="nav navbar-nav navbar-left">
+<li class="uni-li">
+<a target="_blank" href="https://www.goodsam.com/campgrounds-rv-parks/" class="uni-drop">
+RV Parks &amp; Campgrounds
+</a>
+</li>
+<li class="uni-li">
+<a target="_blank" href="https://rv.campingworld.com/" class="uni-drop">
+RV Sales
+</a>
+</li>
+<li class="uni-li">
+<a target="_blank" href="https://www.campingworld.com/shop/" class="uni-drop">
+RV &amp; Outdoor Gear
+</a>
+</li>
+<li class="uni-li active">
+<a target="_blank" href="https://rv.campingworld.com/service/" class="uni-drop">
+RV Maintenance &amp; Repair
+</a>
+</li>
+
+</ul>
+</nav>
+</div>
+</div>
+<header id="page-header">
+<section id="header-content" class="dark-header">
+<div class="container container-parent"> <div class="above_header"> </div> <div class="row">
+
+<div class="col-xs-12 col-sm-12 visible-xs visible-sm text-left" style="position:relative; height:1px; width:100%;">
+<button type="button" class="pull-left navbar-toggle visible-xs visible-sm text-left" data-toggle="collapse" data-target=".blu-menu">
+<span class="sr-only">Toggle navigation</span>
+<i class="fa fa-bars pull-left"></i>
+</button>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 text-center">
+<a class="menu-brand" href="https://blog.goodsam.com" title="Good Sam Camping Blog" rel="home">
+<div class="menu-brand-marker">
+<img alt="gs logo" class="gs-logo" title="good sam logo" src="https://blog.goodsam.com/wp-content/uploads/2021/01/GoodSam-Blog-Horiz_Rev_RGB.svg" />
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 text-center search-container" style="padding:0 20px 0 30px; margin-top:22px;">
+<form action="https://blog.goodsam.com/" method="get" id="searchform" role="search">
+<table style="width:100%;">
+<tr>
+<td>
+<input type="text" name="s" value id="searchForm" placeholder="  Search our blog..." class="search-box" style="width:100%;">
+</td>
+<td>
+<div class="icon-box" style="display:inline-block;"><label for="searchForm">Search</label></div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+
+<div class="col-xs-12 col-sm-4 col-md-5 lg-5 header-main-menu-container">
+<nav id="header-main-menu" class="blu-menu collapse navbar-collapse">
+<ul id="menu-main-menu" class="menu">
+<li id="menu-item-29567" class="menu-item menu-item-type-custom menu-item-object-custom">
+<a href="https://blog.goodsam.com/?page_id=29773"><span>Categories</span></a>
+</li> 
+<li id="menu-item-30129" class="menu-item menu-item-type-taxonomy menu-item-object-category is-category">
+<a href="https://blog.goodsam.com/category/campgrounds/parks-and-places"><span>Campgrounds, Parks &amp; Places</span></a>
+<div class="child-menu-wrap clearfix">
+<h5 class="menu-item-title">Campgrounds, Parks &amp; Places</h5>
+<div class="child-post">
+<a class="post-title" href="https://blog.goodsam.com/fountain-of-youth-spa-rv-resort-h14k51"><h5>Unearthing the Fountain of Youth in Niland, California: A Desert Oasis Beckons</h5></a>
+<div class="post-image"><img alt="An RV parked amid palm trees." src="https://blog.goodsam.com/wp-content/uploads/2023/12/gsb_731005100_H14K51_08-200x300.jpeg"></div>
+</div>
+<div class="child-post">
+<a class="post-title" href="https://blog.goodsam.com/terra-ceia-resort-florida"><h5>Florida&#8217;s Terra Ceia Village RV Resort Expands With More Fun, Luxury</h5></a>
+<div class="post-image"><img alt="Aerial shot of RV resort with eight pickleball courts." src="https://blog.goodsam.com/wp-content/uploads/2023/11/Terra-Ceia_FL_2023_EN_8-200x300.jpg"></div>
+</div>
+<div class="child-post">
+<a class="post-title" href="https://blog.goodsam.com/encore-resorts-florida"><h5>Explore Southwest Florida With Encore Resorts — for Up to 50% Off</h5></a>
+<div class="post-image"><img alt="Exciting Encore Resorts — Aerial view of RV park in lush setting." src="https://blog.goodsam.com/wp-content/uploads/2023/10/TerraCeia_banner0723_4-200x300.jpg"></div>
+</div>
+<div class="child-post">
+<a class="post-title" href="https://blog.goodsam.com/arizonian-rv-resort-gold-canyon"><h5>Arizonian RV Resort: Adventure and Amenities in the Sonoran Desert</h5></a>
+<div class="post-image"><img alt="Arizonian RV Resort — Scenic Sonoran Desert landscape with a Saguaro Cactus at sunset in the Superstition Mountains at Lost Dutchman State Park" src="https://blog.goodsam.com/wp-content/uploads/2023/10/Superstition-GettyImages-1388213071-1_LO-200x300.jpg"></div>
+</div>
+</div>
+</li> 
+<li id="menu-item-31869" class="menu-item menu-item-type-post_type menu-item-object-page">
+<a href="https://blog.goodsam.com/subscribe/"><span>Subscribe</span></a>
+</li> 
+</ul>
+</nav>
+</div>
+
+</div>
+</div>
+</section>
+</header>
+<section id="page-body">
+<section id="main-content" class="container container-parent">
+<div class="row">
+<div class="col-md-10 col-md-offset-1 pad-xs-10 pad-sm-10">
+<div class="bl_posts">
+<h3 class="widget-head clearfix" style="border-bottom: none;">
+<div class="title-area large"> <span>404 | Page/Post not found<small>We could not find the page you were looking for</small></span> </div>
+</h3>
+<hr>
+<div class="text-center widget_search">
+<p class="lead">Try searching</p><form action="https://blog.goodsam.com/" method="get" class="searchform" role="search">
+<fieldset>
+<input type="text" name="s" value aria-label="Search" placeholder="Search.." />
+</fieldset>
+</form> </div>
+<hr> <div class="row bl_posts_information" data-ajaxid="1" data-total-posts="0" data-click-count="0" data-post__not_in="[]" data-orderby="date" data-order="DESC" data-css="col-sm-6 col-md-6 col-lg-6" data-type="grid" data-args="{&quot;post_type&quot;:[&quot;post&quot;],&quot;ignore_sticky_posts&quot;:1,&quot;posts_per_page&quot;:6,&quot;display_excerpt&quot;:&quot;true&quot;,&quot;css_class&quot;:&quot;col-sm-6 col-md-6 col-lg-6&quot;,&quot;display_author&quot;:&quot;true&quot;,&quot;display_duplicates&quot;:&quot;true&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;offset&quot;:0,&quot;category__in&quot;:&quot;&quot;,&quot;loadmorebutton&quot;:true,&quot;post_status&quot;:&quot;publish&quot;}" data-posts_per_page="6" data-offset="0"><article data-categoryslug="adventure-outdoors" class="col-sm-6 col-md-6 col-lg-6"><div class="post-image"> <a class="post-image-link" href="https://blog.goodsam.com/new-good-sam-campgrounds-to-visit-in-2024"></a><div class="meta-info"><div class="info-category"><ul class="unstyled"><li style="display:inline;" class="post-meta-category"><a href="https://blog.goodsam.com/adventure-outdoors" title="View all posts in Adventure Outdoors">Adventure Outdoors</a></li></ul></div><div class="info-date"><time class="timeago tips" title="December 7, 2023" datetime="December 7, 2023">December 7, 2023</time></div></div> <img alt="Travel trailer with slideout parked on the grassy banks of a sprawling lake." src="https://blog.goodsam.com/wp-content/uploads/2023/12/New-RV-GettyImages-1678371214-400x190.jpg"></div> <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20"> <h3 class="post-title"><a href="https://blog.goodsam.com/new-good-sam-campgrounds-to-visit-in-2024">68 New Good Sam Campgrounds for 2024 Adventures</a></h3> <div class="post-content text-muted clearfix"><p>With the new year comes a slew of new Good Sam campgrounds in some of North America&#8217;s most beautiful destinations. Check out this batch of 68 campgrounds that have recently joined the Good Sam Network. You can also visit new Good Sam Campgrounds in the Southwest and Southern States. Good Sam members get a 10<br><a class="moretag signature-animation" href="https://blog.goodsam.com/new-good-sam-campgrounds-to-visit-in-2024">CONTINUE READING</a></div> <div class="post-footer clearfix"> <div class="post-author"> <img title="author avatar" alt="Good Sam Camping avatar image" src="https://blog.goodsam.com/wp-content/uploads/2021/02/avatar2021.svg"><h4><div class="meta-info"><div class="info-author"><span> <a href="https://blog.goodsam.com/author/good-sam-camping/">Good Sam Camping</a></span></div></div></h4> </div> <a href="https://blog.goodsam.com/new-good-sam-campgrounds-to-visit-in-2024#comments" class="post-comments"><div class="meta-info"></div> </a> </div> </div></article><article data-categoryslug="park-and-places" class="col-sm-6 col-md-6 col-lg-6"><div class="post-image"> <a class="post-image-link" href="https://blog.goodsam.com/fountain-of-youth-spa-rv-resort-h14k51"></a><div class="meta-info"><div class="info-category"><ul class="unstyled"><li style="display:inline;" class="post-meta-category"><a href="https://blog.goodsam.com/category/campgrounds/parks-and-places" title="View all posts in Campgrounds, Parks &amp; Places">Campgrounds, Parks &amp; Places</a></li></ul></div><div class="info-date"><time class="timeago tips" title="December 4, 2023" datetime="December 4, 2023">December 4, 2023</time></div></div> <img alt="An RV parked amid palm trees." src="https://blog.goodsam.com/wp-content/uploads/2023/12/gsb_731005100_H14K51_08-400x190.jpeg"></div> <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20"> <h3 class="post-title"><a href="https://blog.goodsam.com/fountain-of-youth-spa-rv-resort-h14k51">Unearthing the Fountain of Youth in Niland, California: A Desert Oasis Beckons</a></h3> <div class="post-content text-muted clearfix"><p>Nestled within Southern California&#8217;s arid landscapes, the Fountain of Youth Spa RV Resort in Niland, California, is more than a myth; it&#8217;s a tangible and captivating destination. Let&#8217;s explore the history of the Fountain of Youth and the myriad attractions in the surrounding area. The Mythical Fountain of Youth: A Real-Life Discovery The concept of<br><a class="moretag signature-animation" href="https://blog.goodsam.com/fountain-of-youth-spa-rv-resort-h14k51">CONTINUE READING</a></div> <div class="post-footer clearfix"> <div class="post-author"> <img title="author avatar" alt="Good Sam Camping avatar image" src="https://blog.goodsam.com/wp-content/uploads/2021/02/avatar2021.svg"><h4><div class="meta-info"><div class="info-author"><span> <a href="https://blog.goodsam.com/author/good-sam-camping/">Good Sam Camping</a></span></div></div></h4> </div> <a href="https://blog.goodsam.com/fountain-of-youth-spa-rv-resort-h14k51#comments" class="post-comments"><div class="meta-info"></div> </a> </div> </div></article><article data-categoryslug="adventure-outdoors" class="col-sm-6 col-md-6 col-lg-6"><div class="post-image"> <a class="post-image-link" href="https://blog.goodsam.com/terra-ceia-resort-florida"></a><div class="meta-info"><div class="info-category"><ul class="unstyled"><li style="display:inline;" class="post-meta-category"><a href="https://blog.goodsam.com/adventure-outdoors" title="View all posts in Adventure Outdoors">Adventure Outdoors</a></li><li style="display:inline;" class="post-meta-category"><span style="display:inline;"> and</span> <a href="https://blog.goodsam.com/category/campgrounds/parks-and-places" title="View all posts in Campgrounds, Parks &amp; Places">Campgrounds, Parks &amp; Places</a></li><li style="display:inline;" class="post-meta-category"><span style="display:inline;"> and</span> <a href="https://blog.goodsam.com/campgrounds" title="View all posts in Campgrounds: RV Park &amp; Campground Highlights and Reviews">Campgrounds: RV Park &amp; Campground Highlights and Reviews</a></li></ul></div><div class="info-date"><time class="timeago tips" title="November 14, 2023" datetime="November 14, 2023">November 14, 2023</time></div></div> <img alt="Aerial shot of RV resort with eight pickleball courts." src="https://blog.goodsam.com/wp-content/uploads/2023/11/Terra-Ceia_FL_2023_EN_8-400x190.jpg"></div> <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20"> <h3 class="post-title"><a href="https://blog.goodsam.com/terra-ceia-resort-florida">Florida&#8217;s Terra Ceia Village RV Resort Expands With More Fun, Luxury</a></h3> <div class="post-content text-muted clearfix"><p>On the heels of a major expansion, Encore Terra Ceia Village RV Resort gives guests more reasons to stay and play in this lush corner of southwest Florida. Located in Palmetto on Florida’s Gulf Coast between Tampa and Sarasota, Terra Ceia Village RV Resort recently added several amenities along with new, roomy sites. Guests can use the<br><a class="moretag signature-animation" href="https://blog.goodsam.com/terra-ceia-resort-florida">CONTINUE READING</a></div> <div class="post-footer clearfix"> <div class="post-author"> <img title="author avatar" alt="John Sullaway avatar image" src="https://blog.goodsam.com/wp-content/uploads/2021/06/IMG_8542b-2-160x160.jpg"><h4><div class="meta-info"><div class="info-author"><span> <a href="https://blog.goodsam.com/author/jsullaway/">John Sullaway</a></span></div></div></h4> </div> <a href="https://blog.goodsam.com/terra-ceia-resort-florida#comments" class="post-comments"><div class="meta-info"></div> </a> </div> </div></article><article data-categoryslug="destinations" class="col-sm-6 col-md-6 col-lg-6"><div class="post-image"> <a class="post-image-link" href="https://blog.goodsam.com/5-places-in-salina-utah/"></a><div class="meta-info"><div class="info-category"><ul class="unstyled"><li style="display:inline;" class="post-meta-category"><a href="https://blog.goodsam.com/category/stories-from-the-road/destinations/" title="View all posts in Destinations">Destinations</a></li></ul></div><div class="info-date"><time class="timeago tips" title="November 9, 2023" datetime="November 9, 2023">November 9, 2023</time></div></div> <img alt src="https://blog.goodsam.com/wp-content/uploads/2023/11/2022-EXM-fifth_wheel_living-_00566-400x190.jpg"></div> <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20"> <h3 class="post-title"><a href="https://blog.goodsam.com/5-places-in-salina-utah/">5 Places to Explore Around Salina, Utah</a></h3> <div class="post-content text-muted clearfix"><p>If you&#8217;re making your way out west and looking for an enchanting detour, then Salina, Utah, might just be worth the pit stop. With plenty of serene and scenic beauty, outdoor recreation, golf, and more, it’s a great excuse to stretch your legs and stay a while. To help give you some inspiration for an<br><a class="moretag signature-animation" href="https://blog.goodsam.com/5-places-in-salina-utah/">CONTINUE READING</a></div> <div class="post-footer clearfix"> <div class="post-author"> <img title="author avatar" alt="Sean Richards avatar image" src="https://blog.goodsam.com/wp-content/uploads/2021/02/avatar2021.svg"><h4><div class="meta-info"><div class="info-author"><span> <a href="https://blog.goodsam.com/author/srichards/">Sean Richards</a></span></div></div></h4> </div> <a href="https://blog.goodsam.com/5-places-in-salina-utah/#comments" class="post-comments"><div class="meta-info"></div> </a> </div> </div></article><article data-categoryslug="adventure-outdoors" class="col-sm-6 col-md-6 col-lg-6"><div class="post-image"> <a class="post-image-link" href="https://blog.goodsam.com/houston-snowbird-trip/"></a><div class="meta-info"><div class="info-category"><ul class="unstyled"><li style="display:inline;" class="post-meta-category"><a href="https://blog.goodsam.com/adventure-outdoors" title="View all posts in Adventure Outdoors">Adventure Outdoors</a></li></ul></div><div class="info-date"><time class="timeago tips" title="November 7, 2023" datetime="November 7, 2023">November 7, 2023</time></div></div> <img alt="Two kids marvel at a rocket" src="https://blog.goodsam.com/wp-content/uploads/2023/11/Rocketry_at_Space_Center_Houston_Texas_LCCN2011630263_LO_CROP-copy-400x190.jpg"></div> <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20"> <h3 class="post-title"><a href="https://blog.goodsam.com/houston-snowbird-trip/">Houston: A Stellar Snowbird Destination</a></h3> <div class="post-content text-muted clearfix"><p>Where you can find a rodeo, space rockets, and skyscrapers in the same town? Welcome to Houston, America&#8217;s fourth largest city, with a subtropical climate and a distinctly Texas attitude. Houston offers a wealth of diverse experiences to explore, including a world-class Museum District, abundant parks, and a thriving arts scene. Meander the Museum District<br><a class="moretag signature-animation" href="https://blog.goodsam.com/houston-snowbird-trip/">CONTINUE READING</a></div> <div class="post-footer clearfix"> <div class="post-author"> <img title="author avatar" alt="Kerri Cox avatar image" src="https://blog.goodsam.com/wp-content/uploads/2022/02/Kerri-Cox-160x160.jpg"><h4><div class="meta-info"><div class="info-author"><span> <a href="https://blog.goodsam.com/author/kerri-cox/">Kerri Cox</a></span></div></div></h4> </div> <a href="https://blog.goodsam.com/houston-snowbird-trip/#comments" class="post-comments"><div class="meta-info"></div> </a> </div> </div></article><article data-categoryslug="adventure-outdoors" class="col-sm-6 col-md-6 col-lg-6"><div class="post-image"> <a class="post-image-link" href="https://blog.goodsam.com/new-gs-parks-ways-to-save"></a><div class="meta-info"><div class="info-category"><ul class="unstyled"><li style="display:inline;" class="post-meta-category"><a href="https://blog.goodsam.com/adventure-outdoors" title="View all posts in Adventure Outdoors">Adventure Outdoors</a></li></ul></div><div class="info-date"><time class="timeago tips" title="October 31, 2023" datetime="October 31, 2023">October 31, 2023</time></div></div> <img alt="Silhouette of RV during sunset." src="https://blog.goodsam.com/wp-content/uploads/2023/10/new-RVs-Snow-GettyImages-1369890269-400x190.jpg"></div> <div class="post-body box pad-xs-15 pad-sm-15 pad-md-20 pad-lg-20"> <h3 class="post-title"><a href="https://blog.goodsam.com/new-gs-parks-ways-to-save">Snowbird Escapes: 70 New Sun Belt Good Sam Campgrounds</a></h3> <div class="post-content text-muted clearfix"><p>Good Sam offers more ways to save for snowbirds motoring through the Sun Belt this winter. We&#8217;ve added the 70 parks to the Good Sam Network, giving you more value for your buck as you explore Southern destinations like New Orleans&#8217; French Quarter or the Houston Space Center. Good Sam members save big with the<br><a class="moretag signature-animation" href="https://blog.goodsam.com/new-gs-parks-ways-to-save">CONTINUE READING</a></div> <div class="post-footer clearfix"> <div class="post-author"> <img title="author avatar" alt="Good Sam Camping avatar image" src="https://blog.goodsam.com/wp-content/uploads/2021/02/avatar2021.svg"><h4><div class="meta-info"><div class="info-author"><span> <a href="https://blog.goodsam.com/author/good-sam-camping/">Good Sam Camping</a></span></div></div></h4> </div> <a href="https://blog.goodsam.com/new-gs-parks-ways-to-save#comments" class="post-comments"><div class="meta-info"></div> </a> </div> </div></article><input type="hidden" class="post__not_in" data-post__not_in="[110174,110021,109685,109862,109672,109529]"></div><div class="loadmore"><a id="a1" class="ajaxload signature-animation btn">LOAD MORE</a></div> </div> </div>
+</div>
+</section> </section>
+</main>
+<footer id="footer">
+<div class="container container-parent">
+<div class="row">
+<div class="col-md-12">
+</div>
+</div>
+</div>
+<div id="footer_menu">
+<div class="container container-parent">
+<div class="row">
+<div class="col-md-12">
+<nav class="blu-footer-menu">
+<p id="menu-item-34361" class="menu-item menu-item-type-custom menu-item-object-custom text-center">
+<a href="https://www.goodsam.com/club/">Good Sam Club</a>
+</p>
+</nav>
+</div>
+</div>
+</div>
+</div>
+<div id="footer_text">
+<p></p>
+<a style="font-size:12px;" target="_blank" href="https://www.goodsam.com/privacy-policy.aspx">Privacy Policy</a>&nbsp; | &nbsp;
+<a style="font-size:12px;" target="_blank" href="https://www.goodsam.com/privacy-policy.aspx#calinevada">California Privacy Rights</a>&nbsp; | &nbsp;
+<a style="font-size:12px;" target="_blank" href="#" onclick="event.preventDefault();try { showConsentPreferencesPopup() } catch(e) {  window.open('https://www.campingworld.com/dar', '_blank').focus();}">Do Not Sell or Share My Personal Information</a>&nbsp; | &nbsp;
+<a style="font-size:12px;" target="_blank" href="#" title="Targeted Advertising Opt Out" onclick="event.preventDefault();try { showConsentPreferencesPopup() } catch(e) {  window.open('https://www.campingworld.com/dar', '_blank').focus();}">Targeted Advertising Opt Out</a>&nbsp; | &nbsp;
+<a style="font-size:12px;" target="_blank" href="https://www.goodsam.com/terms.aspx">Terms of Use</a>
+<p style="text-align:Center;"> © 2023 Good Sam Enterprises, LLC. All Rights Reserved. </p>
+</div>
+</footer><script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/blog.goodsam.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4" id="contact-form-7-js"></script>
+<script type="text/javascript" id="ppress-frontend-script-js-extra">
+/* <![CDATA[ */
+var pp_ajax_form = {"ajaxurl":"https:\/\/blog.goodsam.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"20c5d44268","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.8.0" id="ppress-frontend-script-js"></script>
+<script type="text/javascript" id="blu-theme-js-extra">
+/* <![CDATA[ */
+var blu = {"site_url":"https:\/\/blog.goodsam.com","ajaxurl":"https:\/\/blog.goodsam.com\/wp-admin\/admin-ajax.php","fixed_header":"true","disable_timeago":"","menuhover":"","disable_push_state_notification":"","locale":{"no_search_results":"No results match your search.","searching":"Searching...","search_results":"Search Results","see_all":"see all","loading":"Loading...","no_more_posts":"No more posts","subscribe":"Subscribe!","see_more_articles":"See more articles","no_email_provided":"No email provided","thank_you_for_subscribing":"Thank you for subscribing!","ago":"ago","from_now":" from now","seconds":"s","minute":"m","minutes":"m","hour":"h","hours":"h","day":"d","days":"d","month":" month","months":" months","year":" year","years":" years"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/themes/litemag-child/assets/js/theme.min.js?ver=1.55" id="blu-theme-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/themes/litemag/assets/js/plugins.js?ver=1.55" id="bluth-plugins-js"></script>
+<script type="text/javascript" src="https://blog.goodsam.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=14.1.4.1" id="__ytprefsfitvids__-js"></script>
+
+<script>
+/*
+jQuery(document).ready(function() {	
+
+	var tags = jQuery(".tagtracking");
+	var cats = jQuery(".categorytracking");
+	var tag="";
+	var cat="";
+	var id="";
+
+	 jQuery.each(tags, function (index, item) {
+    		
+			tag = jQuery(item).data("tag");
+			id= jQuery(item).data("id");	
+			dataLayer.push({ 'event': 'ViewedTag', 'category': 'tag', 'action': 'tag-pageview', 'label': 'id' }); 
+			//dataLayer.push({'event':'Impression Event','category': 'HOM-VID','action': 'Impression','label': '200000596' });
+     });
+	
+	jQuery.each(tags, function (index, item) {
+	
+			cat = jQuery(item).data("tag");
+			id= jQuery(item).data("id");
+		
+          	dataLayer.push({ 'event': 'ViewedCategory', 'category': 'cat', 'action': 'category-pageview', 'label': 'id' }); 
+		   
+      });
+	
+});
+*/
+</script>
+</body>
+</html>

@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="忙しい生活を送っている人でも、便利なキッチンツールを活用すると時間を短縮でき、料理を作ることができます。" >
+    <meta name="keywords" content="焦げ付かない,フライパン">
+    <link rel="canonical" href="http://freemoviegroup.info/" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0">
+    <title>忙しい生活を支える便利なキッチンツール</title>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/jquery.bxslider.css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/slicknav.css">
+    <link rel="stylesheet" href="/css/basic.css">
+    <link rel="stylesheet" href="/css/mobile.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="/js/jquery.bxslider.min.js"></script>
+    <script src="/js/jquery.slicknav.min.js"></script>
+    <script src="/js/common.js"></script>
+</head>
+<body>
+    <header class="head-area">
+       <div class="wrapper">
+           <nav class="global-nav cf">
+               <ul id="gnav">
+                                                         <li><a href="/">料理を作ろう</a></li>
+                                                                            <li><a href="/unitA">電子レンジ調理</a></li>
+                                                                            <li><a href="/unitB">みじん切り</a></li>
+                                                                            <li><a href="/unitC">食器を洗う手間</a></li>
+                                                     </ul>
+           </nav>
+       </div>
+        
+
+    </header>
+
+    <div class="top-img">
+        <div class="wrapper">
+           <div class="slider-area">
+               <ul class="main-slider">
+                                      <li><img src="./images/dm/top_slider-img_1.jpg" alt=""></li>
+                                      <li><img src="./images/dm/top_slider-img_2.jpg" alt=""></li>
+                                      <li><img src="./images/dm/top_slider-img_3.jpg" alt=""></li>
+                                      <li><img src="./images/dm/top_slider-img_4.jpg" alt=""></li>
+                                  </ul>
+           </div>
+            <div class="ttl-area">
+                <h1 class="site-ttl"><a href="http://freemoviegroup.info">忙しい生活を支える便利なキッチンツール</a></h1>
+                <p class="catch-copy">自炊を続けるためにキッチンツールが必要</p>
+            </div>
+            <div class="sp mobile-menu"></div>
+        </div>
+    </div>
+
+    
+    
+    <main>
+        <section class="column-sec">
+           <div class="wrapper">
+               <article class="column-crd cf">
+                   <h2>なるべく自炊した方が良い</h2>
+                   <img src="./images/dm/hobby_194.jpg" alt="" class="img-big">
+                   <p>電子レンジを使うと、意外とどのような料理でも作ることができます。
+簡単ですし、火を使わないので安全という面がメリットですね。
+今は電子レンジ用の調理容器が販売されており、家事の時短を目指している人は購入してください。
+この方法で、自炊を続けましょう。                   </p>
+                   <div class="read-more">
+                       <a href="/unitA">もっと見る</a>
+                   </div>
+               </article>
+               <article class="column-crd cf">
+                   <h2>数秒でみじん切りを作れる</h2>
+                   <img src="./images/dm/hobby_215.jpg" alt="" class="img-big">
+                   <p>いろんな料理を作る際に、野菜をみじん切りにします。
+みじん切りにする機会は多いですが、包丁では時間が掛かります。
+時短を目指すなら、みじん切りできるキッチンツールを購入してください。
+さらに時間が空いている時に、野菜のみじん切りを大量に作っておきましょう。</p>
+                   <div class="read-more">
+                       <a href="/unitB">もっと見る</a>
+                   </div>
+               </article>
+               <article class="column-crd cf">
+                   <h2>洗い物の負担を減らしたい</h2>
+                   <img src="./images/dm/working_woman_57.jpg" alt="" class="img-big">
+                   <p>料理を作ることより、終わった後の片づけが面倒な人は、食器洗い機を購入してください。
+価格が高いキッチンツールなので、簡単に買えないかもしれませんが、洗い物の負担を全て削減でき、メリットは大きいです。
+また手荒れがひどい人も、食器洗い機があれば改善できます。</p>
+                   <div class="read-more">
+                       <a href="/unitC">もっと見る</a>
+                   </div>
+               </article>
+                                         </div>
+        </section>
+        
+        <section class="link-sec">
+           <div class="wrapper">
+
+                
+                
+                               <div class="link-all">
+                    <h2>おすすめリンク</h2>
+                    <div class="link-all-out">
+                                                <div class="link-all-in">
+                            <h3><a href="https://king-penta.jp/material_comparison/">フライパンのお手入れ方法と焦げ付かないテクニック</a></h3>
+                                                        <p>食材を焦がさず、料理を楽しもう。焦げ付かないフライパンで、美味しい料理が毎日の食卓に広がります。</p>
+                                                    </div>
+                                            </div>
+                </div>
+                               
+            </div>
+        </section>
+        
+        
+        <section class="entry-sec cf">
+           <div class="wrapper">
+                <div class="flR">
+                    <article class="article cf">
+                        <h2>何でも作れる方法</h2>
+                        <img src="./images/dm/pet_animal_60.jpg" alt="" class="img-big">
+                        <p>時間に追われていると、ついコンビニ弁当や冷凍食品を頼ってしまう人が多いです。<br />
+時々食べるぐらいなら構いませんが、毎日の食事がそれになると、次第に栄養が偏ってしまいます。<br />
+すると肥満や病気に繋がるので、できるだけ自炊してください。<br />
+忙しい人でも、電子レンジで調理できるキッチンツールがあると、短時間で料理を作れます。<br />
+このようなキッチンツールは主菜でも副菜でも、主食でも作れるので活用できる場面が広いです。<br />
+<br />
+また野菜をみじん切りにできるキッチンツールも、かなりの時短に繋がるのでおすすめです。<br />
+包丁でみじん切りにすると時間が掛かりますが、キッチンツールを使えば数秒で終わります。<br />
+よく野菜をみじん切りにする人は、キッチンツールを買っておきましょう。<br />
+さらに時短を目指すなら、時間に余裕がある時に様々な野菜のみじん切りを作っておくのが良い方法です。<br />
+冷凍で保存すると日持ちしますし、必要な時に取り出して解凍するだけで使えるので便利です。<br />
+<br />
+料理をした後の洗い物に時間が掛かり、面倒だと思っていた人がいるでしょう。<br />
+そのような人は、食器洗い機を購入してください。<br />
+すると食器洗い機に使用済みの食器や調理器具を入れるだけで洗えるので、手間を省けます。<br />
+自分で洗うよりも短時間で、さらに手荒れの心配がない面がメリットですね。<br />
+ちなみに乾燥機能が付いている食器洗い機だと、もっと手間を省けます。<br />
+高額な家電ですが、家事を楽にするため、前向きに検討しましょう。</p>
+                    </article>
+                                    </div>
+                <aside class="sub-menu">
+                <!-- <h2>サイドメニューのタイトル</h2> -->
+                <ul class="sub-wrapper">
+                    <li>
+                        <p>メニュー</p>
+                        <ul class="mt10 sub-child-menu">
+                                                                                    <li><a href="/">工夫できる部分とは</a></li>
+                                                                                                                <li><a href="/unitA">火を使わないで料理</a></li>
+                                                                                                                <li><a href="/unitB">まとめて作っておく</a></li>
+                                                                                                                <li><a href="/unitC">食器洗い機の利便性</a></li>
+                                                                                </ul>
+                    </li>
+
+                                    </ul>
+                <!-- /sub-wrapper -->
+            </aside>
+            </div>
+        </section>
+        
+        
+    </main>
+    
+    
+    
+
+    <footer class="cf">
+       <div class="wrapper">
+           <ul class="foot-menu-all">
+               <li class="foot-menu">
+                   <p>メニュー</p>
+                   <ul>
+                                                                     <li><a href="/">工夫できる部分とは</a></li>
+                                                                                            <li><a href="/unitA">火を使わないで料理</a></li>
+                                                                                            <li><a href="/unitB">まとめて作っておく</a></li>
+                                                                                            <li><a href="/unitC">食器洗い機の利便性</a></li>
+                                                                 </ul>
+               </li>
+
+                          </ul>
+       </div>
+        
+        <div class="ft-ttl foot-copyright">
+            <p>Copyright © 忙しい生活を支える便利なキッチンツール. All Rights Reserved.</p>
+        </div>
+
+        <a href="" class="top-btn"><i class="fa fa-chevron-up" aria-hidden="true"></i></a>
+    </footer>
+</body>
+</html>

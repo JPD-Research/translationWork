@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<!-- Anti-flicker snippet (recommended)  -->
+<!-- Used by Google Optimize  -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-KBG3KRK':true});</script>
+<!-- End Anti-flicker snippet  -->
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KBG3KRK');</script>
+<!-- End Google Tag Manager -->
+
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"406ee0b650",applicationID:"85897157"};;/*! For license information please see nr-loader-rum-1.249.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>A,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const a={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},o={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!o[e])throw new Error("Info for ".concat(e," was never set"));return o[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");o[e]=(0,i.D)(t,a);const r=(0,n.ek)(e);r&&(r.info=o[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},w={};function A(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!w[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return w[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");w[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=w[e])}const x=(0,n.mF)().o;var D=r(385),k=r(6818);const E={buildEnv:k.Re,customTransaction:void 0,disabled:!1,distMethod:k.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(D._A?.performance?.timeOrigin||D._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+D._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof D._A.XMLHttpRequest?.prototype?.addEventListener,version:k.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,E);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),a=0===Object.keys(r).length?e:r;for(let o in a)if(void 0!==e[o])try{Array.isArray(e[o])&&Array.isArray(t[o])?r[o]=Array.from(new Set([...e[o],...t[o]])):"object"==typeof e[o]&&"object"==typeof t[o]?r[o]=i(e[o],t[o]):r[o]=e[o]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>a,q4:()=>n});const n="1.249.0",i="PROD",a="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>a,cv:()=>l,iS:()=>o,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),a=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),o=(a?.document?.readyState,Boolean("hidden"===a?.document?.visibilityState)),s=(a?.location,/iPad|iPhone|iPod/.test(a.navigator?.userAgent)),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=a.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!a.navigator?.sendBeacon,l=Math.floor(a?.performance?.timeOrigin||a?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>a});var n=r(50);const i={agentIdentifier:"",ee:void 0};class a{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),a=r(4322),o=r(3325);const s={};function c(e,t){const r={staged:!1,priority:o.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return o(t);s[e].get(t).staged=!0;const r=[...s[e]];function o(t){const r=e?n.ee.get(e):n.ee,o=a.X.handlers;if(r.backlog&&o){var s=r.backlog[t],c=o[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete o[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),o(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],a=e[3],o=e[2];i.apply(a,o)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),a=r(234);class o{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,a.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,a){!1!==a&&(a=!0);if(u.aborted&&!i)return;t&&a&&t.emit(e,r,n);for(var o=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(o,r);var f=b()[s[e]];f&&f.push([g,e,r,o]);return o},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof o?e:e?(0,i.X)(e,c,(()=>new o(c))):new o(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,a){a?(a.buffer([e],i),a.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>a});var n=r(5546);a.on=o;var i=a.handlers={};function a(e,t,r,a){o(a||n.E,i,e,t,r)}function o(e,t,r,i,a){a||(a="feature"),e||(e=n.E);var o=t[a]=t[a]||{};(o[r]=o[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>o});var n=r(385);let i=!1,a=!1;try{const e={get passive(){return i=!0,!1},get signal(){return a=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function o(e,t){return i||a?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,o(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,o(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>o,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function a(e,t){return e?15&e[t]:16*Math.random()|0}function o(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?a(t,r++).toString(16):"y"===e?(3&a()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const o=[];for(var s=0;s<e;s++)o.push(a(r,++i).toString(16));return o.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,oD:()=>i});const n="NRBA",i=144e5,a=18e5},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),a=r(3325),o=r(385);const s="newrelic";const c={stn:[a.D.sessionTrace],err:[a.D.jserrors,a.D.metrics],ins:[a.D.pageAction],spa:[a.D.spa],sr:[a.D.sessionReplay,a.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{o._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>a});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function a(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>o,b2:()=>a});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function a(e,t){if(i())return e();(0,n.bP)("load",e,t)}function o(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>a,ek:()=>u,fP:()=>o,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const a={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function o(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=o();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=o();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=o();return t.initializedAgents?.[e]}function d(e,t){o()[e]=t}function l(){return function(){let e=o();const t=e.info||{};e.info={beacon:a.beacon,errorBeacon:a.errorBeacon,...t}}(),function(){let e=o();const t=e.init||{};e.init={...t}}(),s(),function(){let e=o();const t=e.loader_config||{};e.loader_config={...t}}(),o()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>a,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>o});const n=r(3325).D.metrics,i="sm",a="cm",o="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),a=r(5546),o=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let a=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&a.push(e.api[t](...n))})),a.length>1?a:a[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:w,info:A,loader_config:_,runtime:x={loaderType:b},exposed:D=!0}=t;const k=(0,g.gG)();A||(w=k.init,A=k.info,_=k.loader_config),(0,i.Dg)(e.agentIdentifier,w||{}),(0,i.GE)(e.agentIdentifier,_||{}),A.jsAttributes??={},d.v6&&(A.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,A);const E=(0,i.P_)(e.agentIdentifier),j=[A.beacon,A.errorBeacon];m||(E.proxy.assets&&(v(E.proxy.assets),j.push(E.proxy.assets)),E.proxy.beacon&&j.push(E.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...E.ajax.deny_list||[],...E.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=o.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,a){const o=(0,i.C5)(e);return null===r?delete o.jsAttributes[t]:(0,i.CX)(e,{...o,jsAttributes:{...o.jsAttributes,[t]:r}}),A(v,n,!0,a||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=A(v,e,!0,"api")})),g.addPageAction=A(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=A(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,A(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,a.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,a.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,a.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,a.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,a.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var w=y.prototype={createTracer:function(e,t){var r={},i=this,o="function"==typeof t;return(0,a.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,a.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((o?"":"no-")+"fn-start",[(0,s.z)(),i,o],r),o)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function A(e,t,r,i){return function(){return(0,a.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,a.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{w[e]=A(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,a.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,a.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=D),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var a=n[e]={exports:{}};return r[e](a,a.exports,i),a.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.249.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.249.0.PROD:",i.l=(r,n,a,o)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==a)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+a){s=l;break}}if(!s){c=!0;var f={75:"sha512-HcXyAuaRbdfES7GuZJPwimpBfHQYAggUt+9f7v0xmtqSP1pSPK/chshT+kmNNfPfvD1QbPyikVNC4frs8IQYkw=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+a),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[o]&&(s.integrity=f[o])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var a=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=a);var o=i.p+i.u(t),s=new Error;i.l(o,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var a=r&&("load"===r.type?"missing":r.type),o=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+a+": "+o+")",s.name="ChunkLoadError",s.type=a,s.request=o,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,a,[o,s,c]=r,u=0;if(o.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<o.length;u++)a=o[u],i.o(e,a)&&e[a]&&e[a][0](),e[a]=0},r=self["webpackChunk:NRBA-1.249.0.PROD"]=self["webpackChunk:NRBA-1.249.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(e){return"Call to agent api ".concat(e," failed. The agent is not currently initialized.")}addPageAction(t,r){(0,e.Z)(this.#e("addPageAction"))}setPageViewName(t,r){(0,e.Z)(this.#e("setPageViewName"))}setCustomAttribute(t,r,n){(0,e.Z)(this.#e("setCustomAttribute"))}noticeError(t,r){(0,e.Z)(this.#e("noticeError"))}setUserId(t){(0,e.Z)(this.#e("setUserId"))}setApplicationVersion(t){(0,e.Z)(this.#e("setApplicationVersion"))}setErrorHandler(t){(0,e.Z)(this.#e("setErrorHandler"))}finished(t){(0,e.Z)(this.#e("finished"))}addRelease(t,r){(0,e.Z)(this.#e("addRelease"))}start(t){(0,e.Z)(this.#e("start"))}recordReplay(){(0,e.Z)(this.#e("recordReplay"))}pauseReplay(){(0,e.Z)(this.#e("pauseReplay"))}}var r=i(3325),n=i(234);const a=Object.values(r.D);function o(e){const t={};return a.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let a;this.onAggregateImported=new Promise((e=>{a=e}));const o=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,3228));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void a(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),a(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),a(!1)}};l.il?(0,d.b2)((()=>o()),!0):o()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var a=this.getBucket(e,t,r,i);return a.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,a.metrics),a}merge(e,t,r,n,i){var a=this.getBucket(e,t,n,i);if(a.metrics){var o=a.metrics;o.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=o[e],i=r[e];i&&!i.c?o[e]=b(i.t,n):o[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,o[e])}}))}else a.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=w(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function w(e){return"object"!=typeof e?[]:(0,v.D)(e,A)}function A(e,t){return t}var _=i(8632),x=i(4402),D=i(4351);var k=i(5546),E=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,E.N)((()=>(0,k.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,k.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class N extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=o(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,D.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}addToTrace(t){(0,e.Z)("Call to agent api addToTrace failed. The session trace feature is not currently initialized.")}setCurrentRouteName(t){(0,e.Z)("Call to agent api setCurrentRouteName failed. The spa feature is not currently initialized.")}interaction(){(0,e.Z)("Call to agent api interaction failed. The spa feature is not currently initialized.")}}({features:[p,T,N],loaderType:"lite"})})()})();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand.ico">
+<link rel="apple-touch-icon" sizes="180x180" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand.png">
+<link rel="icon" type="image/png" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand-32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand-192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand-192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand-384.png" sizes="384x384">
+<link rel="icon" type="image/png" href="https://whyy.org/wp-content/themes/whyy/images/icons/favicon-rebrand-16.png" sizes="16x16">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<script src="https://use.typekit.net/izx6wme.js"></script>
+<script>try{Typekit.load({ async: false });}catch(e){}</script>
+
+<title>Page not found - WHYY</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v7.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - WHYY" />
+<meta property="og:site_name" content="WHYY" />
+<meta property="og:image" content="https://whyy.org/wp-content/uploads/2019/12/WHYY_logo_og.jpg" />
+<meta property="og:image:secure_url" content="https://whyy.org/wp-content/uploads/2019/12/WHYY_logo_og.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found - WHYY" />
+<meta name="twitter:image" content="https://whyy.org/wp-content/uploads/2019/12/WHYY_logo_og.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//whyy.org' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/whyy.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://whyy.org/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-parsely-style-css'  href='https://whyy.org/wp-content/uploads/cache/autoptimize/css/autoptimize_single_9a64d20936c25e8c4fc9066121444891.css?ver=1703134736' type='text/css' media='all' />
+<link rel='stylesheet' id='style-main-css'  href='https://whyy.org/wp-content/uploads/cache/autoptimize/css/autoptimize_single_7b4e55bc5f54bd3a135fc95683106147.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='https://whyy.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://whyy.org/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://whyy.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://whyy.org/wp-content/uploads/cache/autoptimize/js/autoptimize_single_70d70219920f7d5026632d80027d5944.js?ver=5.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var aws_data = {"rootUrl":"https:\/\/whyy.org\/","ids":"#no-ajaxify a,#no-ajaxy a","container_id":"content","mcdc":"menu-main-wrapper-inner","searchID":"#searchform","transition":"","scrollTop":"","loader":"","bp_status":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://whyy.org/wp-content/uploads/cache/autoptimize/js/autoptimize_single_1c48919036f5ea7bdceb587e308e98ac.js?ver=5.2.4'></script>
+<link rel='https://api.w.org/' href='https://whyy.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://whyy.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://whyy.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+
+<link rel="next" href="page/2" />
+<link rel="stylesheet" type="text/css" media="screen, print" href="https://whyy.org/wp-content/uploads/cache/autoptimize/css/autoptimize_single_91292ebac00c83fa9df4302a4065edfe.css" />
+<noscript><link rel="stylesheet" href="https://whyy.org/wp-content/themes/whyy/css/no-js.css" media="all"></noscript>
+
+
+
+<!-- Google CSE -->
+<script>
+  (function() {
+    var cx = '018124873157799521143:5jp04c3pl9s';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<!-- End Google CSE -->
+   
+<!-- Published / Modified Dates Meta Tag -->
+
+<!-- LiveBlogPosting Schema -->
+
+</head>
+
+<body class="error404 hfeed ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBG3KRKF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="page" class="site">
+  <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+  <header id="header" class="site-header" role="banner">
+    <div class="header--top">
+      
+<div id="jp_container_N" class="jp-persistent is-live jp-video jp-video-270p" role="application" aria-label="media player">
+            <div class="jp-preload-data" data-value-url="https://whyy.streamguys1.com/whyy_persistentplayer">
+                            <article class="content-mode--teaser featured-item" data-live-steam-title="Fresh Air" data-live-steam-img="/wp-content/uploads/91FM/schedulelogos/freshair.jpg" data-live-stream-ad="<!-- • brought to you by Temple Health -->" >
+                    <div class="flex-grid">
+                        <div class="col-img col-flex--1">
+                            <img src="/wp-content/uploads/91FM/schedulelogos/freshair.jpg" title="Fresh Air" alt="Fresh Air opens the window on contemporary arts and issues with guests from worlds as diverse as literature and economics. Terry Gross hosts this multi-award-winning daily interview and features program."/>
+                        </div>
+                        <div class="col-text col-flex--2">
+                            <h2 class="f--title">Fresh Air</h2>
+                            <a href="https://whyy.streamguys1.com/whyy-mp3" title="Listen Live" class="playlistitem playlistitem-live btn btn--play no-ajaxy">Listen Live</a>
+                            <h4 class="f--label f--listen-live">Listen Live</h4>
+                        </div>
+                    </div>
+                </article>
+                                <article class="content-mode--teaser with-desc next-item">
+                    <div class="flex-grid">
+                        <div class="col-img col-flex--1">
+                            <img src="/wp-content/uploads/91FM/schedulelogos/allthingsconsidered.jpg" title="All Things Considered" alt="All Things Considered is the most listened-to, afternoon drive-time, news radio program in the country. Each show consists of the biggest stories of the day, thoughtful commentaries, and insightful features brought alive through sound."/>
+                        </div>
+                        <div class="col-text col-flex--3">
+                            <div class="f--taxonomy">Next</div>
+                            <h4 class="f--title">All Things Considered</h4>
+                            <div class="f--desc"><p>All Things Considered is the most listened-to, afternoon drive-time, news radio program in the country. Each show consists of the biggest stories of the day, thoughtful commentaries, and insightful features brought alive through sound.</p></div>
+                        </div>
+                    </div>
+                </article>
+                        </div>
+    
+	<div class="jp-type-playlist">
+		<div id="jquery_jplayer_N" class="jp-jplayer"></div>
+		<div class="jp-gui">
+			<div class="jp-interface">
+                <a class="small-logo icon-small-logo" href="https://whyy.org/" role="button" tabindex="0"><span class="screen-reader-text">WHYY</span></a>
+                <div class="jp-progress">
+					<div class="jp-seek-bar">
+						<div class="jp-play-bar"></div>
+					</div>
+                    <div class="jp-play-control icon-rewind rewind"><span class="screen-reader-text">rewind</span></div>
+                    <div class="jp-play play-btn" role="button" tabindex="0"><span class="screen-reader-text">play</span></div>
+                    <div class="icon-fast-forward jp-play-control fast-forward"><span class="screen-reader-text">fast-forward</span></div>
+                    <div class="jp-title-container"> 
+                        <div class="jp-title" aria-label="title">&nbsp;</div>
+                    </div>
+                    <div class="jp-duration-container">
+                        <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+                        <div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+                    </div>
+                </div>
+
+                                    <a href="https://whyy.org/radio-schedule/" class="btn btn--schedule" role="button" tabindex="0"><span>Schedule</span></a>
+                			</div>
+		</div>
+
+        <!-- <div class="jp-no-solution">
+			<span>Update Required</span>
+			To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+		</div> -->
+
+	</div>
+</div>
+    </div>
+
+    <div class="header--bottom">
+      <div class="l-container--lg">
+        <div class="site-nav--top">
+          <div class="site-logo">
+            <a href="https://whyy.org/" rel="home">WHYY</a>
+          </div><!-- .site-logo -->
+          <div class="donate-btn-mobile">
+            <ul id="donate-button" class="menu donate-menu menu-ajax"><li id="menu-item-539505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-539505"><a href="https://support.whyy.org/page/12775/donate/1">Donate</a></li>
+</ul>          </div>
+          <div class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+            <span class="screen-reader-text">Primary Menu</span>
+            <div class="menu-slice"></div>
+            <div class="menu-slice"></div>
+            <div class="menu-slice"></div>
+          </div>
+        </div>
+        <nav class="site-navigations cf" role="navigation">
+          <div class="menu-container">
+            <div class="menu-main-wrapper">
+				<div class="menu-main-wrapper-inner">
+              	  	<ul id="header-menu-main" class="menu header-menu-main menu-ajax"><li id="menu-item-214612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-214612"><a href="https://whyy.org/news/">News</a><span class="expand-menu-toggle"></span>
+<ul class="sub-menu">
+	<li id="menu-item-592904" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592904"><a href="https://whyy.org/secondary-categories/philadelphia">Philly</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592905"><a href="https://whyy.org/secondary-categories/pennsylvania/">Pa.</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-268959" class="menu-item menu-item-type-taxonomy menu-item-object-primary_category menu-item-268959"><a href="https://whyy.org/categories/politics-policy/">Politics</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592908"><a href="https://whyy.org/elections-2023/">Elections</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-416907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-416907"><a href="https://whyy.org/programs/planphilly/">PlanPhilly</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592909"><a href="https://whyy.org/categories/urban-planning/">Urban Planning</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592910" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592910"><a href="https://whyy.org/gun-violence-prevention/">Gun Violence Prevention</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592906"><a href="https://whyy.org/secondary-categories/new-jersey/">N.J.</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592907"><a href="https://whyy.org/secondary-categories/delaware/">Del.</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-268960" class="menu-item menu-item-type-taxonomy menu-item-object-primary_category menu-item-268960"><a href="https://whyy.org/categories/education/">Education</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-268958" class="menu-item menu-item-type-taxonomy menu-item-object-primary_category menu-item-268958"><a href="https://whyy.org/categories/arts-entertainment/">Arts &#038; Culture</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-592911" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592911"><a href="https://whyy.org/categories/health/">Health &#038; Science</a><span class="expand-menu-toggle"></span></li>
+</ul>
+</li>
+<li id="menu-item-268981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-268981"><a href="https://whyy.org/radio-podcasts/">Radio &#038; Podcasts</a><span class="expand-menu-toggle"></span>
+<ul class="sub-menu">
+	<li id="menu-item-269013" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-269013"><a href="https://whyy.org/radio-schedule/">Radio Schedule</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-422382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-422382"><a href="https://whyy.org/ways-to-stream/">Ways to Listen</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-460037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-460037"><a href="https://whyy.org/whyy-app/">WHYY App</a><span class="expand-menu-toggle"></span></li>
+</ul>
+</li>
+<li id="menu-item-214613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-214613"><a href="https://whyy.org/tv/">TV</a><span class="expand-menu-toggle"></span>
+<ul class="sub-menu">
+	<li id="menu-item-473311" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-473311"><a href="https://video.whyy.org/livestream/">Live TV</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-579574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579574"><a href="https://whyy.org/tv/whyy-tv-schedule/">WHYY TV Schedule</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-276825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276825"><a href="http://video.whyy.org">Watch on Demand</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-467503" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-467503"><a href="https://whyy.org/whyy-passport/">WHYY Passport</a><span class="expand-menu-toggle"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-614711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-614711"><a href="https://video.whyy.org/">Watch Online</a><span class="expand-menu-toggle"></span></li>
+		<li id="menu-item-467510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-467510"><a href="https://whyy.org/whyy-passport/passport-activation-assistance-and-faq/">Activation Assistance and FAQ</a><span class="expand-menu-toggle"></span></li>
+		<li id="menu-item-467511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-467511"><a href="https://www.pbs.org/pbs-video-app/">Free PBS Video App</a><span class="expand-menu-toggle"></span></li>
+		<li id="menu-item-467512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-467512"><a href="https://support.whyy.org/page/41258/donate/1">Become a WHYY Passport Member</a><span class="expand-menu-toggle"></span></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-269020" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269020"><a href="https://whyy.org/arts/">Arts</a><span class="expand-menu-toggle"></span></li>
+<li id="menu-item-271440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-271440"><a href="https://whyy.org/events/">Events</a><span class="expand-menu-toggle"></span>
+<ul class="sub-menu">
+	<li id="menu-item-475000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475000"><a href="https://support.whyy.org/page/22415/subscribe/1">Email Alerts</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-475001" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475001"><a href="https://whyy.org/support/we-have-your-back/">Updates on Postponed Events</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-475002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-475002"><a href="https://whyy.org/contact-us/">Contact Us</a><span class="expand-menu-toggle"></span></li>
+</ul>
+</li>
+<li id="menu-item-214614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-214614"><a href="https://whyy.org/education/">Education</a><span class="expand-menu-toggle"></span>
+<ul class="sub-menu">
+	<li id="menu-item-529179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-529179"><a href="https://whyy.org/your-learning-neighborhood/">Your Learning Neighborhood</a><span class="expand-menu-toggle"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-471549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-471549"><a href="https://whyy.org/learning-at-home/">Learning at Home</a><span class="expand-menu-toggle"></span>
+		<ul class="sub-menu">
+			<li id="menu-item-471551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-471551"><a href="https://www.pbslearningmedia.org/">PBS LearningMedia</a><span class="expand-menu-toggle"></span></li>
+			<li id="menu-item-471550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-471550"><a href="https://whyy.org/for-kids/">Watch PBS Kids Online</a><span class="expand-menu-toggle"></span></li>
+			<li id="menu-item-461956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-461956"><a href="https://whyy.org/series/whyy-learning-shorts/">WHYY Learning Shorts</a><span class="expand-menu-toggle"></span></li>
+		</ul>
+</li>
+		<li id="menu-item-529181" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-529181"><a href="https://whyy.org/learning-at-school/">Learning at School</a><span class="expand-menu-toggle"></span></li>
+		<li id="menu-item-529180" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-529180"><a href="https://whyy.org/learning-in-your-community/">Learning in Your Community</a><span class="expand-menu-toggle"></span></li>
+	</ul>
+</li>
+	<li id="menu-item-551949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551949"><a href="https://whyy.org/wp-content/uploads/2022/03/education_toolkit_20220225.pdf">Youth Media Toolkit</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-497615" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-497615"><a href="https://whyy.org/youth-media-awards/">Youth Media Awards</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-585463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585463"><a href="https://whyy.org/education/for-educators/">Field Trips</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-271383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-271383"><a href="https://whyy.org/education/for-students/">For Students</a><span class="expand-menu-toggle"></span>
+	<ul class="sub-menu">
+		<li id="menu-item-291777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-291777"><a href="https://whyy.org/education/summer-camps/">Summer Camps</a><span class="expand-menu-toggle"></span></li>
+		<li id="menu-item-321929" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321929"><a href="https://whyy.org/whyy-i-like-this-book-summer-reading-contest/">Summer Reading</a><span class="expand-menu-toggle"></span></li>
+	</ul>
+</li>
+	<li id="menu-item-440123" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-440123"><a href="https://whyy.org/pathways-to-media-careers-youth-employment-project/">Pathways to Media Careers</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-328909" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-328909"><a href="http://studentmedia.whyy.org/">Student Work</a><span class="expand-menu-toggle"></span></li>
+	<li id="menu-item-299720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299720"><a href="https://whyy.org/education/whyy-media-labs-program/">WHYY Media Labs</a><span class="expand-menu-toggle"></span></li>
+</ul>
+</li>
+</ul>				</div>
+              	<form method="get" id="searchform" action="https://whyy.org/"  class="search-form sb-search">
+		<label for="s" class="screen-reader-text assistive-text">Search for:</label>
+		<input type="search" id="search-terms" class="sb-search-input form-text search-field" name="s" placeholder="Enter your keyword" />
+		<div class="form-action">
+			<div class="form-submit-button">
+				<input type="submit" id="search-submit" class="sb-search-submit" value="Search" />
+			</div>
+			<span class="sb-icon-search"></span>
+		</div>
+	</form>            </div>
+            <ul id="header-menu-utility" class="menu header-menu-utility menu-ajax"><li id="menu-item-473319" class="live-tv-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-473319"><a href="/watch-now/">LIVE TV</a></li>
+<li id="menu-item-603383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-603383"><a href="https://whyy.org/whyy-kids-tv-shows/">For Kids</a></li>
+<li id="menu-item-272034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-272034"><a href="https://whyy.org/support/">Support</a>
+<ul class="sub-menu">
+	<li id="menu-item-613292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613292"><a href="https://whyy.org/membership/">WHYY Membership</a></li>
+	<li id="menu-item-571328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-571328"><a target="_blank" rel="noopener noreferrer" href="https://shopwhyy.org/">WHYY Shop</a></li>
+	<li id="menu-item-432202" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-432202"><a href="https://whyy.org/support/vehicle-donation-program/">Vehicle Donation</a></li>
+	<li id="menu-item-272173" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272173"><a href="https://whyy.org/volunteer/">Volunteer</a></li>
+	<li id="menu-item-518185" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-has-children menu-item-518185"><a href="https://whyy.org/support/planned-gifts/">Legacy Society</a>
+	<ul class="sub-menu">
+		<li id="menu-item-612874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-612874"><a href="https://whyy.org/membership/">Membership</a>
+		<ul class="sub-menu">
+			<li id="menu-item-612876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-612876"><a href="https://support.whyy.org/page/51581/hub/1">WHYY Member Portal</a></li>
+			<li id="menu-item-612875" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-612875"><a href="https://whyy.org/frequently-asked-questions/">FAQ</a></li>
+			<li id="menu-item-467504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467504"><a href="https://whyy.org/whyy-passport/">WHYY Passport</a></li>
+			<li id="menu-item-612879" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-612879"><a href="https://whyy.org/membercard-partners/">WHYY MemberCard Partners</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1261" class="btn btn--solid grey no-ajaxy menu-item menu-item-type-custom menu-item-object-custom menu-item-1261"><a target="_blank" rel="noopener noreferrer" href="https://support.whyy.org/page/12775/donate/1">Donate</a></li>
+</ul>          </div>
+        </nav><!-- #site-navigation -->
+      </div>
+    </div>
+  </header><!-- #header -->
+
+
+  <div id="content" class="site-content">
+	
+    <script>
+window.ga = window.ga || function() {
+    			
+(window.ga.q = window.ga.q || []).push(arguments)
+  			
+	}
+			ga('create', 'UA-1815875-6', {name: 'gtm1', cookieDomain: 'auto'})
+			
+ga('gtm1.set', 'dimension11', '');
+ga('gtm1.set', 'dimension17', '1969-12-31');
+ga('gtm1.set', 'dimension21', '');
+ga('gtm1.set', 'dimension22', '');
+ </script>
+
+    
+
+
+
+    
+
+ 
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found l-container--sm row-inside--md u-centered-text">
+				<header class="page-header row-outside-btm--sm">
+					<h1 class="f--title">404</h1>
+					<h2 class="c--secondary">Page not found</h2>
+					<p class="c--grey">Oh no! We can't seem to find the page you were looking for.</p>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<div class="block block--search-form row-outside-btm--sm">
+							<form method="get" id="searchform" action="https://whyy.org/"  class="search-form sb-search">
+		<label for="s" class="screen-reader-text assistive-text">Search for:</label>
+		<input type="search" id="search-terms" class="sb-search-input form-text search-field" name="s" placeholder="Enter your keyword" />
+		<div class="form-action">
+			<div class="form-submit-button">
+				<input type="submit" id="search-submit" class="sb-search-submit" value="Search" />
+			</div>
+			<span class="sb-icon-search"></span>
+		</div>
+	</form>					</div>
+					<a href="https://whyy.org" class="f--taxonomy c--grey">go to homepage</a>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+			<section class="l-container--md row-outside--md flexible-content--content-grid">
+				<div class="content-grid-ls-items ">
+																<div class="content-mode">
+							<div class="col-img img-ratio--wide-med bg--primary">
+								<a href="https://video.whyy.org/" title="WHYY Video">
+									<noscript><img src="https://whyy.org/wp-content/uploads/2023/09/whyy-vid-ipad-750x560.jpg" alt="A person holding a tablet with Antiques Roadshow playing" title="whyy-vid-ipad" width="750" height="560"/></noscript><img class="b-lazy" src="https://whyy.org/wp-content/themes/whyy/images/loaders/placeholder.gif" data-src="https://whyy.org/wp-content/uploads/2023/09/whyy-vid-ipad-750x560.jpg" alt="A person holding a tablet with Antiques Roadshow playing" title="whyy-vid-ipad" width="750" height="560"/>								</a>
+							</div>
+							<div class="col-text">
+								<div class="u-faux-table">
+									<div class="align--bottom">
+										<p class="f--title h3-hack"><a href="https://video.whyy.org/" target="_blank">WHYY Video</a></p>
+										<p class="f--desc"><a href="https://video.whyy.org/" target="_blank" class="f--desc">Watch WHYY locally produced shows and PBS programs on demand.</a></p>
+										<h4><a href="https://video.whyy.org/" target="_blank">Watch now</a></h4>
+										<span class="line-bar"></span>
+									</div>
+								</div>
+							</div>
+						</div>
+											<div class="content-mode">
+							<div class="col-img img-ratio--wide-med bg--primary">
+								<a href="https://whyy.org/radio-podcasts/" title="Radio & Podcasts">
+									<noscript><img src="https://whyy.org/wp-content/uploads/2023/09/whyy-radio-750x512.jpeg" alt="A graphic of a microphone with the WHYY, PBS, and NPR logo" title="whyy-radio" width="750" height="512"/></noscript><img class="b-lazy" src="https://whyy.org/wp-content/themes/whyy/images/loaders/placeholder.gif" data-src="https://whyy.org/wp-content/uploads/2023/09/whyy-radio-750x512.jpeg" alt="A graphic of a microphone with the WHYY, PBS, and NPR logo" title="whyy-radio" width="750" height="512"/>								</a>
+							</div>
+							<div class="col-text">
+								<div class="u-faux-table">
+									<div class="align--bottom">
+										<p class="f--title h3-hack"><a href="https://whyy.org/radio-podcasts/" target="_blank">Radio & Podcasts</a></p>
+										<p class="f--desc"><a href="https://whyy.org/radio-podcasts/" target="_blank" class="f--desc">Explore original podcasts from WHYY Digital Studios, and stream WHYY-FM.</a></p>
+										<h4><a href="https://whyy.org/radio-podcasts/" target="_blank">Listen now</a></h4>
+										<span class="line-bar"></span>
+									</div>
+								</div>
+							</div>
+						</div>
+											<div class="content-mode">
+							<div class="col-img img-ratio--wide-med bg--primary">
+								<a href="https://whyy.org/connect/" title="WHYY Newsletters">
+									<noscript><img src="https://whyy.org/wp-content/uploads/2023/09/whyy-newsletters-750x560.jpg" alt="An overhead view of a person typing on a laptop" title="whyy-newsletters" width="750" height="560"/></noscript><img class="b-lazy" src="https://whyy.org/wp-content/themes/whyy/images/loaders/placeholder.gif" data-src="https://whyy.org/wp-content/uploads/2023/09/whyy-newsletters-750x560.jpg" alt="An overhead view of a person typing on a laptop" title="whyy-newsletters" width="750" height="560"/>								</a>
+							</div>
+							<div class="col-text">
+								<div class="u-faux-table">
+									<div class="align--bottom">
+										<p class="f--title h3-hack"><a href="https://whyy.org/connect/" target="_blank">WHYY Newsletters</a></p>
+										<p class="f--desc"><a href="https://whyy.org/connect/" target="_blank" class="f--desc">Stay up to date with the programming, news and events that matter most to you.</a></p>
+										<h4><a href="https://whyy.org/connect/" target="_blank">Sign up</a></h4>
+										<span class="line-bar"></span>
+									</div>
+								</div>
+							</div>
+						</div>
+									</div>
+			</section>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<!-- BEGIN wp-parsely Plugin Version 1.13.0 -->
+<meta name="wp-parsely_version" id="wp-parsely_version" content="1.13.0"/>
+	<!-- parsleyPage is not defined / has no attributes.  What kind of page are you loading? -->
+<!-- END wp-parsely Plugin Version 1.13.0 -->
+
+												
+<!-- Deprecated with change to Engaging Networks -->
+<!--  -->
+
+<section class="block block-newsletter row-inside--md border--top">
+	<div class="flex-grid l-container--sm img--no">
+
+		
+		<div class="col-text col-flex--3">
+							<p class="f--label h2-hack"><p><span>Want a digest of WHYY&#8217;s programs, events &#038; stories?</span> Sign up for our weekly newsletter.</p>
+</p>
+			
+							<!-- Begin MailChimp Signup Form -->
+				<div id="mc_embed_signup" class="mc-embed">
+				<form action="//support.whyy.org/page/13887/subscribe/2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				    <div id="mc_embed_signup_scroll">
+					
+				<div class="mc-field-group">
+					<label for="mce-EMAIL" class="element-invisible">Enter your email here</label>
+					<input type="email" value="" name="supporter.emailAddress" class="required email" id="mce-EMAIL" placeholder="Enter your email here">
+				</div>
+									<div class="mc-field-group input-group" style="display:none;">
+						<ul>
+							<!-- pass the email list -->
+							<li><input type="checkbox" value="Y" name="supporter.questions.141881" id="" checked=""><label for=""></label></li>
+							<!-- pass the universal opt-in -->
+							<li class="last"><input type="checkbox" value="Y" name="supporter.questions.134091" id="en__field_supporter_questions_134091" checked="" />
+			<label for="en__field_supporter_questions_134091"></label></li>
+						</ul>
+					</div>
+									<div id="mce-responses" class="clear">
+						<div class="response" id="mce-error-response" style="display:none"></div>
+						<div class="response" id="mce-success-response" style="display:none"></div>
+					</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input id="en__field_supporter_NOT_TAGGED_92" type="text" class="en__field__input en__field__input--text" name="supporter.NOT_TAGGED_92" tabindex="-1" value="" /></div>
+				    <div class="mc-field-submit clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+				    </div>
+				</form>
+				</div>
+				<!--End mc_embed_signup-->
+			</div>
+			</div>
+</section>					
+	</div><!-- #content -->
+
+</div><!-- #page -->
+
+
+<section class="block block--donate row-inside--md bg--secondary ">
+	<div class="l-container--md cf">
+		<div class="flex-grid">
+							<div class="col__first col-flex--1">
+											<div class="circle-graph" id="circle-donate" data-value="43"></div>
+										<div class="intro-text">
+						<p>Together we can reach 100% of WHYY’s fiscal year goal</p>
+					</div>
+				</div>
+			
+							<div class="col__second col-flex--1">
+					<div class="block--cta-btns flex-grid">
+																																											<a href="https://support.whyy.org/page/12775/donate/1" class="btn btn--cta white no-ajaxy" title="Donate" target="_blank"><div class="u-faux-table"><div class="u-faux-table-align-middle"><span>Donate</span></div></div></a>
+																																											<a href="https://whyy.org/membership/" class="btn btn--cta white " title="Learn about WHYY Member benefits" target="_self"><div class="u-faux-table"><div class="u-faux-table-align-middle"><span>Learn about WHYY Member benefits</span></div></div></a>
+										</div>
+				</div>
+					</div>
+																			<div class="row-cta">
+				<a href="https://whyy.org/support/" class="btn btn--border white effect--arrow no-ajaxy" title="Ways to Donate" target="_blank"><span>Ways to Donate</span></a>
+			</div>
+			</div>
+</section>
+
+
+<footer id="footer" class="site-footer" role="contentinfo">
+
+	<div class="footer--top l-container--md row-inside--md cf">
+		<div class="flex-grid">
+			<div class="col-flex--1 gap--right-md">
+				<div class="site-logo">
+					<a href="https://whyy.org/" rel="home">WHYY</a>
+				</div>
+
+									<div class="site-intro row-outside--sm">
+						<p><p>WHYY provides trustworthy, fact-based, local news and information and world-class entertainment to everyone in our community.</p> 
+
+<p>WHYY offers a voice to those not heard, a platform to share everyone’s stories, a foundation to empower early and lifelong learners and a trusted space for unbiased news. Learn more about <a href="https://whyy.org/whyy-social-responsibility-program/">Social Responsibility at WHYY</a>. It’s how we live.</p></p>
+					</div>
+				
+									<div class="site-contacts row-outside--md">
+						<h4 class="f--label">Contact Us</h4>
+
+													
+															<div class="contact-item">
+																			<strong>Philadelphia</strong>
+									
+																			<p><a href="tel:+1 (215) 351-1200">215.351.1200</a><br />
+<a href="mailto:talkback@whyy.org">talkback@whyy.org</a></p>
+																	</div>
+																				
+															<div class="contact-item">
+																			<strong>Delaware</strong>
+									
+																			<p><a href="tel:+1 (302) 516-7506">302.516.7506</a><br />
+<a href="mailto:talkback@whyy.org">talkback@whyy.org</a></p>
+																	</div>
+																		</div>
+							</div>
+
+			<div class="col-flex--1">
+															<div class="site-menu-item">
+							
+															<h4 class="f--label">Our Programs</h4>
+							
+															<ul id="menu-footer-menu-programs" class="menu"><li id="menu-item-604446" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-604446"><a href="https://whyy.org/programs/albies-elevator/">Albie&#8217;s Elevator</a></li>
+<li id="menu-item-625097" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-625097"><a href="https://whyy.org/programs/art-outside/">Art Outside</a></li>
+<li id="menu-item-388872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-388872"><a href="https://billypenn.com/">Billy Penn</a></li>
+<li id="menu-item-430025" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-430025"><a href="https://whyy.org/programs/check-please-philly/">Check, Please! Philly</a></li>
+<li id="menu-item-505525" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-505525"><a href="https://whyy.org/programs/community-conversations/">Community Conversations</a></li>
+<li id="menu-item-588391" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-588391"><a href="https://whyy.org/programs/the-connection-with-marty-moss-coane/">The Connection</a></li>
+<li id="menu-item-485044" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-485044"><a href="https://whyy.org/programs/delishtory/">Delishtory</a></li>
+<li id="menu-item-271283" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-271283"><a href="https://whyy.org/programs/flicks/">Flicks</a></li>
+<li id="menu-item-271291" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-271291"><a href="http://www.npr.org/programs/fresh-air/">Fresh Air</a></li>
+<li id="menu-item-544933" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-544933"><a href="https://whyy.org/programs/good-souls/">Good Souls</a></li>
+<li id="menu-item-608628" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-608628"><a href="https://whyy.org/programs/the-infinite-art-hunt/">The Infinite Art Hunt</a></li>
+<li id="menu-item-367041" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-367041"><a href="https://whyy.org/programs/movers-makers/">Movers &#038; Makers</a></li>
+<li id="menu-item-269830" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-269830"><a href="https://whyy.org/programs/on-stage-at-curtis/">On Stage at Curtis</a></li>
+<li id="menu-item-438042" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-438042"><a href="https://whyy.org/programs/planphilly/">PlanPhilly</a></li>
+<li id="menu-item-269821" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-269821"><a href="https://whyy.org/programs/the-pulse/">The Pulse</a></li>
+<li id="menu-item-521602" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-521602"><a href="https://whyy.org/programs/real-black-history/">Real Black History</a></li>
+<li id="menu-item-269817" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-269817"><a href="https://whyy.org/programs/schooled/">Schooled</a></li>
+<li id="menu-item-585588" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-585588"><a href="https://whyy.org/programs/the-statue/">The Statue</a></li>
+<li id="menu-item-581554" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-581554"><a href="https://whyy.org/programs/stop-and-frisk-revisit-or-resist/">Stop and Frisk: Revisit or Resist</a></li>
+<li id="menu-item-595335" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-595335"><a href="https://whyy.org/programs/studio-2/">Studio 2</a></li>
+<li id="menu-item-438043" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-438043"><a href="https://whyy.org/programs/things-to-do/">Things To Do</a></li>
+<li id="menu-item-269819" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-269819"><a href="https://whyy.org/programs/voices-in-the-family/">Voices in the Family</a></li>
+<li id="menu-item-616247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-616247"><a href="https://whyy.org/whyy-news-climate-desk/">WHYY News Climate Desk</a></li>
+<li id="menu-item-363481" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-363481"><a href="https://whyy.org/programs/you-oughta-know/">You Oughta Know</a></li>
+<li id="menu-item-464908" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-464908"><a href="https://whyy.org/programs/young-creators-studio/">Young Creators Studio</a></li>
+<li id="menu-item-625521" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-625521"><a href="https://whyy.org/programs/young-unhoused-unseen-homeless/">Young, Unhoused and Unseen</a></li>
+<li id="menu-item-494642" class="menu-item menu-item-type-post_type menu-item-object-program menu-item-494642"><a href="https://whyy.org/programs/your-democracy/">Your Democracy</a></li>
+</ul>													</div>
+											<div class="site-menu-item">
+							
+															<h4 class="f--label">Inside WHYY</h4>
+							
+															<ul id="menu-footer-menu-main" class="menu"><li id="menu-item-272001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-272001"><a href="https://whyy.org/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-508597" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-508597"><a href="https://whyy.org/whyy-social-responsibility-program/">Social Responsibility at WHYY</a></li>
+	<li id="menu-item-272127" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272127"><a href="https://whyy.org/board-and-executives/">Board and Executives</a></li>
+	<li id="menu-item-272132" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272132"><a href="https://whyy.org/community-advisory-board/">Community Advisory Board</a></li>
+	<li id="menu-item-273468" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-273468"><a href="https://whyy.org/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li id="menu-item-272620" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272620"><a href="https://whyy.org/employment/">Employment</a></li>
+	<li id="menu-item-272613" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272613"><a href="https://whyy.org/internships/">Internships</a></li>
+	<li id="menu-item-269867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269867"><a href="https://whyy.org/about/press-room/">Press Room</a></li>
+	<li id="menu-item-537623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537623"><a href="https://whyy.org/whyy-newsroom-staff/">Meet Our Newsroom</a></li>
+	<li id="menu-item-544025" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-544025"><a href="https://whyy.org/whyy-news-style-guide/">WHYY News Style Guide</a></li>
+	<li id="menu-item-273280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273280"><a href="https://whyy.org/whyy-productions/">WHYY Productions</a></li>
+	<li id="menu-item-274442" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-274442"><a href="https://whyy.org/whyy-spaces/">WHYY Spaces</a></li>
+	<li id="menu-item-272622" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272622"><a href="https://whyy.org/submit/">Submissions</a></li>
+	<li id="menu-item-272625" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272625"><a href="https://whyy.org/history/">History</a></li>
+	<li id="menu-item-274961" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-274961"><a href="https://whyy.org/about/directions/">Directions</a></li>
+	<li id="menu-item-273469" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-273469"><a href="https://whyy.org/coverage-area/">Coverage Area</a></li>
+	<li id="menu-item-273686" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-273686"><a href="https://whyy.org/financial-statements/">Financial Statements</a></li>
+	<li id="menu-item-517525" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-517525"><a href="https://whyy.org/about/whyy-community-report/">WHYY Community Report</a></li>
+	<li id="menu-item-272142" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272142"><a href="https://whyy.org/supporters/">Supporters</a></li>
+	<li id="menu-item-272627" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272627"><a href="https://whyy.org/privacy/">Privacy</a></li>
+</ul>
+</li>
+<li id="menu-item-537622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537622"><a href="https://whyy.org/whyy-newsroom-staff/">Meet Our Newsroom</a></li>
+<li id="menu-item-283531" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-283531"><a href="https://whyy.org/employment/">Employment</a></li>
+<li id="menu-item-592033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-592033"><a href="https://whyy.org/lifelonglearning/">Lifelong Learning Award</a></li>
+<li id="menu-item-499929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-499929"><a href="https://whyy.org/nice/">N.I.C.E. Initiative</a></li>
+<li id="menu-item-273991" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-273991"><a href="https://whyy.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-272168" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272168"><a href="https://whyy.org/sponsorship/">Sponsorship</a></li>
+<li id="menu-item-274960" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-274960"><a href="https://whyy.org/about/directions/">Directions</a></li>
+<li id="menu-item-377771" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-377771"><a href="https://whyy.org/about/fcc-public-files/">FCC Public Files</a></li>
+<li id="menu-item-583266" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-583266"><a href="https://whyy.org/about/fcc-application/">FCC Applications</a></li>
+</ul>													</div>
+											<div class="site-menu-item">
+							
+															<h4 class="f--label">Follow Us</h4>
+							
+															<ul id="menu-footer-menu-social" class="menu"><li id="menu-item-1328" class="icon-facebook no-ajaxy menu-item menu-item-type-custom menu-item-object-custom menu-item-1328"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/whyypublicmedia/">Facebook</a></li>
+<li id="menu-item-1329" class="icon-twitter no-ajaxy menu-item menu-item-type-custom menu-item-object-custom menu-item-1329"><a target="_blank" rel="noopener noreferrer" href="https://twitter.com/whyy">Twitter</a></li>
+<li id="menu-item-476913" class="no-ajaxy icofont-instagram menu-item menu-item-type-custom menu-item-object-custom menu-item-476913"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/whyy">Instagram</a></li>
+<li id="menu-item-476914" class="no-ajaxy icon-youtube menu-item menu-item-type-custom menu-item-object-custom menu-item-476914"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCMY4Z-J2HERv_dEt0wrSATw">YouTube</a></li>
+</ul>													</div>
+									
+									<div class="site-cta-buttons">
+													
+															<a href="https://whyy.org/connect/" class="no-ajaxy" target="_blank">Sign up for a Newsletter</a>
+																		</div>
+							</div>
+		</div>
+	</div>
+
+
+	<div class="footer--bottom l-container--md border--top row-inside--sm cf">
+		<div class="flex-grid">
+						<div class="col-flex--1">
+										<div class="site-copyright">
+							<p>© 2023 WHYY </p>
+						</div>
+					
+									<div class="site-menu-utility">
+						<ul id="menu-footer-menu-utility" class="menu"><li id="menu-item-272628" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-272628"><a href="https://whyy.org/privacy/">Privacy Policy</a></li>
+<li id="menu-item-274527" class="menu-item menu-item-type-post_type menu-item-object-basic_page menu-item-274527"><a href="https://whyy.org/terms-use-whyy-org/">Terms of Use for WHYY.org</a></li>
+</ul>					</div>
+							</div>
+			
+						<div class="col-flex--1">
+				<div class="site-footer-partners">
+											<p>WHYY is partnered with</p>
+																
+													<a href="https://www.npr.org/?station=WHYY_FM" title="npr" target="_blank" class="no-ajaxy"><noscript><img src="https://whyy.org/wp-content/uploads/2019/11/NPR-small_neutral-gray_96x31.png" alt="" title="NPR small_neutral gray_96x31" width="96" height="31"/></noscript><img class="b-lazy" src="https://whyy.org/wp-content/themes/whyy/images/loaders/placeholder.gif" data-src="https://whyy.org/wp-content/uploads/2019/11/NPR-small_neutral-gray_96x31.png" alt="" title="NPR small_neutral gray_96x31" width="96" height="31"/></a>
+						
+											
+													<a href="https://pbs.org" title="pbs" target="_blank" class="no-ajaxy"><noscript><img src="https://whyy.org/wp-content/uploads/2019/11/PBS-small_neutral-gray_110x46.png" alt="" title="PBS small_neutral gray_110x46" width="110" height="46"/></noscript><img class="b-lazy" src="https://whyy.org/wp-content/themes/whyy/images/loaders/placeholder.gif" data-src="https://whyy.org/wp-content/uploads/2019/11/PBS-small_neutral-gray_110x46.png" alt="" title="PBS small_neutral gray_110x46" width="110" height="46"/></a>
+						
+									</div>
+			</div>
+					</div>
+	</div>
+
+	<div id="js-mediaQueryReference"></div>
+
+</footer><!-- #footer -->
+
+<script type='text/javascript' src='https://whyy.org/wp-content/themes/whyy/js/vendor/modernizr.min.js?ver=1.0'></script>
+<script type='text/javascript' src='https://whyy.org/wp-content/themes/whyy/js/vendor/plugins.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajaxradio = {"ajaxurl":"https:\/\/whyy.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://whyy.org/wp-content/themes/whyy/js/functionality.min.js?ver=4.0'></script>
+<script type='text/javascript' src='https://whyy.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://whyy.org/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://whyy.org/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://whyy.org/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery(document).ready( function($) {
+$("ul.nav-menu").not(":has(li)").hide().closest('div').hide();
+});
+/* ]]> */
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"406ee0b650","applicationID":"85897157","transactionName":"Yl0GbBdYV0ZZUhIKV1sXJVsRUFZbFwVWVw==","queueTime":0,"applicationTime":1959,"atts":"ThoFGl9CREg=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

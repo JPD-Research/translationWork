@@ -1,0 +1,1075 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- comment by Joe R -->
+
+		<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="theday.com: New London and southeastern Connecticut News, Sports, Business, Entertainment and Video - ">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.theday.com/xmlrpc.php">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather">
+    			<link rel="shortcut icon" href="https://www.theday.com/wp-content/themes/theday/images/default_favicon.ico" />
+	
+	<!-- Typekit -->
+	<link rel="stylesheet" href="https://use.typekit.net/bqj1qdm.css">
+
+	<script type="text/javascript">var catId = 'FRONTPAGE';</script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js?v=20211014"></script>
+	<script type="text/javascript" src="/wp-content/themes/theday/slick/slick.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/theday/js/theday-legacy.js?v=20220728"></script>
+            <script>
+            var Pelcro = window.Pelcro || (window.Pelcro = {});
+            Pelcro.uiSettings = {}
+            Pelcro.siteid = "1570";
+            Pelcro.environment = {};
+            Pelcro.environment.domain = "https://www.pelcro.com";
+            Pelcro.environment.ui = "https://js.pelcro.com/ui/plugin/the-day/main.min.js"
+            window.Pelcro.uiSettings.newsletters = [{ enable: true }];
+        </script>
+        <script src="https://js.pelcro.com/sdk/main.min.js" type="text/javascript"></script>
+        
+	<link rel="stylesheet" href="/wp-content/themes/theday/css/pelcroModals.css?v=1.1.1" />
+	<script type="text/javascript">    //ad setup
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  var gptAdSlots = [];
+
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + 
+    // '//www.googletagservices.com/tag/js/gpt.js';
+    '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+  $td.getScript("/wp-content/themes/theday/dfp/"+catId+".js?v=202303161")
+  .done(function( script, textStatus ) {console.log("loading Ads script "+catId+".js");})
+  .fail(function( jqxhr, settings, exception ) {
+    console.log("loading Ads script failed loading test");  
+    //if fail, load test ads
+    googletag.cmd.push(function() {
+      // Define a size mapping object. The first parameter to addSize is
+      // a viewport size, while the second is a list of allowed ad sizes.
+      var mapping = googletag.sizeMapping().
+      addSize([0, 0], [320, 50]).
+      //addSize([468, 200], [468, 60]).
+      addSize([768, 200], [728, 90]).build();
+
+      var mapping2 = googletag.sizeMapping().
+      addSize([0, 0], [320, 50]).
+      //addSize([400, 200], [468, 60]).
+      addSize([768, 200], [728, 90]).build();
+
+      var mapping3 = googletag.sizeMapping().
+      addSize([0, 0], [300, 250]).
+      //addSize([468, 200], [468, 60]).
+      addSize([768, 200], [300, 600]).build();
+      
+      // Define the GPT slot
+      gptAdSlots[0] = googletag.defineSlot('/12638013/News_728X90', [[320, 50],[728, 90]], 'leader-ATF').
+        defineSizeMapping(mapping).
+        addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        
+      gptAdSlots[1] = googletag.defineSlot('/12638013/News_300x250', [300, 250], 'box-ATF').
+        addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        
+      gptAdSlots[2] = googletag.defineSlot('/12638013/News_300x250', [300, 250], 'box-STF').
+        addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        
+      gptAdSlots[3] = googletag.defineSlot('/12638013/News_300x600', [[300, 600], [300, 250]], 'hp-STF').
+        defineSizeMapping(mapping3).
+        addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+      gptAdSlots[4] = googletag.defineSlot('/12638013/News_300x250', [300, 250], 'box-BTF').
+        addService(googletag.pubads()).setCollapseEmptyDiv(true);
+        
+      gptAdSlots[5] = googletag.defineSlot('/12638013/News_728x90', [[320, 50],[728, 90]], 'leader-BTF').
+        defineSizeMapping(mapping2).
+        addService(googletag.pubads()).setCollapseEmptyDiv(true);
+
+    // Start ad fetching
+    googletag.pubads().enableSingleRequest();
+
+    googletag.enableServices();
+  });
+  //load ads
+
+    googletag.cmd.push(function() {
+      googletag.display('leader-ATF');
+      googletag.display('box-ATF');
+      googletag.display('box-BTF');
+      googletag.display('box-STF');
+      googletag.display('hp-STF');
+      googletag.display('leader-BTF');
+    });
+  });</script><!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=Test"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	var postType = '';
+
+	if (postType == 'article'){ 
+		gtag('config', 'Test', {
+		'custom_map': {'dimension1': 'Article'}
+		});
+
+		gtag('event', 'article_dimensions', {'Article': 'true'});
+	} else {
+		gtag('config', 'Test', {
+		'custom_map': {'dimension1': 'Article'}
+		});
+
+		gtag('event', 'article_dimensions', {'Article': 'false'});		
+	}
+</script><title>Page not found &#8211; theday.com: New London and southeastern Connecticut News, Sports, Business, Entertainment and Video</title>
+<style type='text/css'> 
+                html, body { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif !important;}
+                form#login { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif !important; }
+                .header-region { background-color: #fdfdfd; }
+                @font-face { font-family: Merriweather; src: url(https://fonts.googleapis.com/css?family=Merriweather); }
+                .hamburger-menu #top-main-menu { width: 300px ; }
+                .teaser-body.frontpagecategoryblock, .teaser-body.frontpagefeaturedtop, .section-teaser .teaser__leadin { color: #212121; } 
+                a, .concept-page a { color: #000000; text-decoration: none !important; }
+                .search_page_container a { color: #000000; text-decoration: none !important; }  
+                a:hover span.teaser__headline-marker, div#top-bar a:hover, div#right-sidebar a:hover { color: #605151; text-decoration: none !important;  }  
+                .main-navigation a.nav-link:hover { color: #ffffff !important; }
+                #top-bar, #top-bar .bg-primary { background-color: #222222 !important; } 
+                div#top-bar a:hover { color: #cccccc; }  
+                #footer-menu .bg-primary { background-color: #231f20 !important; } 
+                .footer-menu a { color: #ffffff; } 
+                .footer-menu a:hover { color: #6d6d6d; }  
+                img.footer_logo_image { max-height: 70px; } 
+                #wrapper-navbar .main-navigation.navbar { background-color: #d6d6d6 !important; } 
+                nav.main-navigation li a { color: #000000 !important; } 
+                .btn-primary, .btn-secondary, .btn, .main-nav-search input#searchsubmit { background-color: #636363 !important;, border-color: #636363 !important; } 
+                i.fa.fa-window-close { color: #636363; }
+                #sidebarMenu li a { font-size: 14px; font-family: proxima-nova-condensed,Helvetica,sans-serif; } 
+                .sidebarMenu { background-color: #2d2f33} 
+                #sidebarMenu li a, #sidebarMenu hr.sidebarMenuLine, .sidebarMenuCloseButton { color: #ffffff; }
+                .widget-title, .frontpagefeaturedtop, .every_board .teaser__headline span { color: #000000; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; } 
+                .content-area .entry-header .entry-title, .search_page_title { font-size: 28px; } 
+                .section-teaser .entry-title h2.teaser__headline { font-size: 22px; } 
+                .section-teaser .category_overlay { background-color: #1e0745; color: #ffffff; } 
+                .frontpage-category-title { font-size: 20px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;} 
+                .frontpage-slider .teaser__headline-marker, .frontpagefeaturedtop .teaser__headline-marker { font-size: 24px; } 
+                .article-page .article__headline { font-size: 32px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; } 
+                .entry-title.frontpagecategoryblock, .entry-title.frontpagecategoryblock h2, article.teaser.frontpagecategorylistrest .teaser__headline { font-size: 18px; } 
+                article.teaser.frontpagecategorylisttop .teaser__headline { font-size: 18px; }
+                article.teaser.frontpagecategorylistrest .teaser__headline { font-size: 14px; } 
+                .above_footer_widget_area { background-color: #ffffff; color: #000000; } 
+                #wrapper-footer { background-color: #231f20;} 
+                .content-area.entry-content, .article__body .article-restofcontent { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;}
+                .article__body .article-restofcontent { color: #000000;}
+                span.article__body.article__leadin { color: #000000; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;}
+                .teaser-body.frontpagecategoryblock, .teaser-body.frontpagefeaturedtop { font-size: 15px; }
+                .section-teaser .teaser-body { font-size: 14px; }
+                .article__body .article-restofcontent { font-size: 14px; }
+                .article-date { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;}
+                div#wrapper-navbar { max-width: 100%; margin: auto; }
+                nav.main-navigation, nav.main-navigation li a { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; font-size: 16px; }
+                .container, .breakingnews-top { max-width: 1200px !important ; }
+                @media (min-width: 1050px) { a.navbar-brand.custom-logo-link { width: 440px ; } }
+                form#login { background-color: #ffffff ; color: #000000; border: 1px solid #000000; }
+                div#top-bar, div#top-bar a { font-family: proxima-nova-condensed,Helvetica,sans-serif; font-size: 14px; color: #ffffff;  }
+                .sidemenuTrigger, .sideMenuTrigger.mobile, .hamburger-menu button#dropdownMenuButton { font-family: proxima-nova-condensed,Helvetica,sans-serif; font-size: 14px; color: #ffffff;  }
+                .footer-menu { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;  }
+                .footer-menu .footer-heading { font-size: 18px; color: #a67d51; }
+                .footer-menu a { font-size: 14px;  }
+                .footer-logo-contactinfo { font-size: 12px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; color: #ffffff; }
+                .footer-social-media-icon a { color: #ffffff; font-size: 18px; }
+                .footer_copyright { color: #ffffff; font-size: 12px;   }
+                #right-sidebar, #left-sidebar, .sidebar { background-color: #ffffff; } 
+                article.breaking-section, article.breaking_fullLength { background-color: #9a2323; } 
+                .breaking_title, .breaking-teaser, .breaking-teaser .teaser-article-date, .breaking-teaser a, 
+                article.breaking_fullLength, article.breaking_fullLength a, .section-teaser.breaking-teaser a:hover { color: white; } 
+                .teaser-thin-teaser-category { color: #1e0745; } 
+                article.thin-teaser { background-color: #dddddd; } 
+                .frontpagecategoryblock.teaser-category, .teaser-frontpage-category-main-category { color: #2e009b } 
+                .teaser-frontpage-category-side.opinion .teaser-frontpage-category-side-author, .frontpage-category-main.opinion .teaser-frontpage-category-main-author { color: #935401 } div#top-bar { position: fixed; width: 100%;width: -moz-available; width: -webkit-fill-available;z-index: 100;box-shadow: 0px 1px 10px rgba(0,0,0,0.3); padding: 0 2em;}
+                        @media all and (max-width: 478px) {.header-region {padding-top: 0;}.sidebarMenu {padding-top: 58px;}}
+                        @media all and (min-width: 479px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}}
+                        @media all and (min-width: 504px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}}
+                        @media all and (min-width: 768px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}}
+                        @media all and (min-width: 888px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}}
+                        @media all and (min-width: 992px) {.header-region {padding-top: 58px;}.sidebarMenu {padding-top: 58px;}}</style><link rel='dns-prefetch' href='//www.theday.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//static.ew.day.navigacloud.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.theday.com/wp-includes/css/dist/block-library/style.min.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme-jquery-timepicker-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/js/jquery-timepicker/jquery.timepicker.min.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme-jquery-fdatepicker-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/js/fdatepicker/css/fdatepicker.min.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme-jquery-ui-css-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/css/jquery-ui-theme-smoothness-1.11.3/jquery-ui.min.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme-jquery-ui-autocomplete-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/css/jquery.autocomplete.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme-jquery-select2-css-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/js/jquery-select2/select2-4.1.0-rc.0/dist/css/select2.min.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme_textsec-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/css/text-security/text-security-disc.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme_stylesheet-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/css/eme.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='eme-leaflet-css-css'  href='https://www.theday.com/wp-content/plugins/events-made-easy/js/leaflet-1.7.1/leaflet.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.theday.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='https://www.theday.com/wp-content/themes/everyware-theme-base-1/style.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='understrap-css'  href='https://www.theday.com/wp-content/themes/everyware-theme-base-1/css/understrap.min.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='https://www.theday.com/wp-content/themes/theday/css/main.css?ver=2023121201' type='text/css' media='' />
+<link rel='stylesheet' id='day-style-css'  href='https://static.ew.day.navigacloud.com/wp-content/themes/theday/assets/css/style.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://www.theday.com/wp-content/themes/theday/slick/slick.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-theme-css'  href='https://www.theday.com/wp-content/themes/theday/slick/slick-theme.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.theday.com/wp-content/themes/theday/style.css?ver=1702495136261' type='text/css' media='all' />
+<link rel='stylesheet' id='base-theme-css'  href='https://www.theday.com/wp-content/themes/theday/css/base-theme.min.css?ver=1702495136261' type='text/css' media='all' />
+<script type='text/javascript' id='sgr_recaptcha_main-js-extra'>
+/* <![CDATA[ */
+var sgr_recaptcha = {"site_key":"6LfHQOwgAAAAAD_B7mgorL4bqB4SlOQumHMI54_H"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/plugins/simple-google-recaptcha/sgr.js?ver=1702495146' id='sgr_recaptcha_main-js'></script>
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.3.1.min.js?ver=3.3.1' id='jquery-js'></script>
+<script type='text/javascript' id='login-modal-js-extra'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"https:\/\/www.theday.com\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/www.theday.com","loadingmessage":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/js/login-modal.js?ver=1702495136261' id='login-modal-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/css/base-theme.min.css?ver=1702495136261' id='parent-theme-style-js'></script>
+<script type='text/javascript' src='https://static.ew.day.navigacloud.com/wp-content/themes/theday/assets/js/head.js?ver=1702495136261' id='day-head-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.theday.com/wp-json/" />
+<script src='https://prod.ew.day.navigacloud.com/?dm=57c9b89633572b02cc3fff738d631684&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=1033184532&amp;back=https%3A%2F%2Fwww.theday.com%2Fstoryimage%2FNL%2F20120531%2FSPORT03%2F305319508%2FEP%2F1%2F1%2FEP-305319508.jpg%26Maxw%3D960%26q%3D75' type='text/javascript'></script><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-XC7S2RYW8V"></script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-XC7S2RYW8V');
+        </script>		<style type="text/css" id="wp-custom-css">
+			div#static-page {
+    padding-top: 100px;
+}
+
+#menu-hamburger-menu li {
+    list-style: none;
+}
+
+@media(max-width:767px) {
+	.support-local-news .content {
+    line-height: 15px;
+    text-align: center;
+}
+
+.support-local-news .content p {
+    font-size: 15px;
+}
+}
+
+#box-ATF {
+    padding-bottom: 30px;
+}
+
+.eme_events_list {
+    padding-left: 0;
+}
+
+.eme_events_list .title {
+    line-height: 30px;
+}		</style>
+		
+		<!--// Begin Bidder //-->
+		<script type="text/javascript" src="//os4m-d.openx.net/w/1.0/jstag?nc=12638013-DAY_Bidder"></script>
+		<script type="text/javascript">
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		var useSSL = "https:" == document.location.protocol;
+		gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+		var node =document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+		</script>
+		<!--// End Bidder //-->
+
+		<!-- START AMAZON UAM header -->
+		<script type="text/javascript">
+		// Load APS library 
+		!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+		/** To activate this feature, you will need to add a parameter to your apstag.init function. 
+		The parameter is simplerGPT and it needs to be set to true: **/
+		apstag.init({
+			pubID: '8ef79e54-15ec-48fa-b0c6-e0117e2d23ef', // enter your unique publisher id 
+			adServer: 'googletag',
+			simplerGPT: true
+		});
+		</script>
+<!-- END AMAZON UAM -->
+
+    <!-- Google Surveys -->
+    <script type="text/javascript">
+/*         (function() {
+        var ARTICLE_URL = window.location.href;
+        var CONTENT_ID = 'everything';
+        document.write(
+            '<scr'+'ipt '+
+            'src="//survey.g.doubleclick.net/survey?site=_cnydmmd4aczhvikd64bgivme3m'+
+            '&amp;url='+encodeURIComponent(ARTICLE_URL)+
+            (CONTENT_ID ? '&amp;cid='+encodeURIComponent(CONTENT_ID) : '')+
+            '&amp;random='+(new Date).getTime()+
+            '" type="text/javascript">'+'\x3C/scr'+'ipt>');
+        })(); */
+    </script>
+    
+	<script type="text/javascript" src="//s.ntv.io/serve/load.js" async></script>
+
+</head>
+
+<body class="error404">
+
+	<input type="hidden" id="security" name="security" value="22c57f4028" /><input type="hidden" name="_wp_http_referer" value="/storyimage/NL/20120531/SPORT03/305319508/EP/1/1/EP-305319508.jpg&amp;Maxw=960&amp;q=75" /><form id="login" action="login" method="post">
+	<h1 class="login-modal-title">Log In</h1>
+	<hr class="login-modal-line">
+    <p class="status"></p>
+    <label id="login-modal-username" for="username"><i class="fa fa-user"></i></label>
+    <input id="username" type="text" name="username" placeholder="Username">
+    <label id="login-modal-password" for="password"><i class="fa fa-lock"></i></label>
+    <input id="password" type="password" name="password" placeholder="Password">
+    <a class="lost" href="/wp-login.php?action=lostpassword">Reset Password</a>
+    <input class="login-modal-button btn btn-primary submit" type="submit" value="Login" name="submit">
+    <a class="close" href="#"><i class="fa fa-window-close" aria-hidden="true"></i></a>
+    <input type="hidden" id="security" name="security" value="22c57f4028" /><input type="hidden" name="_wp_http_referer" value="/storyimage/NL/20120531/SPORT03/305319508/EP/1/1/EP-305319508.jpg&amp;Maxw=960&amp;q=75" />
+</form><div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><div id="sidebarMenu" class="sidebarMenu">
+	<div class="header">
+		<li style="padding: 0;">
+				<div class="row" style="margin: 0; padding: 3px 2px;">
+					<div class="col-xs-9">
+<!-- SEARCH -->
+						<form method="get" class="searchform" id="searchform2" action="" role="search">
+							<label class="sr-only" for="s"></label>
+							<div class="input-group">
+								<input class="field form-control s" name="s" type="text"
+									placeholder="Search...">
+							</div>
+                        </form>
+					</div>
+					<div class="col-xs-3 closer closer-right" style="padding-right: 0!important;">
+						<a href="#" id="nav-close" onclick="closeNav()"><i class="fa fa-times fa-2x" aria-hidden="true" style="vertical-align: -50%;"></i></a>
+					</div>
+				</div>
+				<div class="row" style="margin: 0; padding: 3px 2px;">
+					<span class="social-media-cont" style="float: left; padding-left: 0;">
+						<a href="https://www.facebook.com/thedayct" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+					</span>
+					<span class="social-media-cont" style="float: left; padding-left: 0;">
+						<a href="https://twitter.com/thedayct" target="_blank"><i class="fa fa-twitter-square fa-2x" aria-hidden="true"></i></a>
+					</span>
+				</div>
+			</li>
+	</div>
+
+	<div class="menu">
+						<div class="item" menu-title="News" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="News" menu-level="0">News</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="News" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="News" menu-level="1">
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/news" menu-title="News Home" menu-level="1">News Home</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/coronavirus" menu-title="Coronavirus" menu-level="1">Coronavirus</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/courts" menu-title="Police/Fire/Courts" menu-level="1">Police/Fire/Courts</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/business" menu-title="Business" menu-level="1">Business</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/local-news" menu-title="Local" menu-level="1">Local</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/state" menu-title="State/Northeast" menu-level="1">State/Northeast</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/nation-world" menu-title="Nation/World" menu-level="1">Nation/World</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/Military" menu-title="Military" menu-level="1">Military</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/Politics" menu-title="National Politics" menu-level="1">National Politics</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/special-reports" menu-title="Special Reports" menu-level="1">Special Reports</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/election2023" menu-title="Elections" menu-level="1">Elections</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="News" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/curiousct" menu-title="CuriousCT" menu-level="1">CuriousCT</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Sports" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Sports" menu-level="0">Sports</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Sports" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Sports" menu-level="1">
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/sports" menu-title="Sports Home" menu-level="1">Sports Home</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/sportuconn" menu-title="UConn" menu-level="1">UConn</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/high-school" menu-title="High School" menu-level="1">High School</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/other-local" menu-title="Local" menu-level="1">Local</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/sportcolleges" menu-title="Colleges" menu-level="1">Colleges</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/sportpro" menu-title="Professional" menu-level="1">Professional</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Sports" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/gameday" menu-title="Gameday" menu-level="1">Gameday</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Opinion" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Opinion" menu-level="0">Opinion</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Opinion" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Opinion" menu-level="1">
+														<div class="item childmenu" menu-title="Opinion" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/editorials" menu-title="Opinion Home" menu-level="1">Opinion Home</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Opinion" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/editorials" menu-title="Editorials" menu-level="1">Editorials</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Opinion" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/letters" menu-title="Letters" menu-level="1">Letters</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Opinion" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/columns" menu-title="Columns" menu-level="1">Columns</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Opinion" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/op-ed" menu-title="Op-Ed" menu-level="1">Op-Ed</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Opinion" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/op-ed#guest" menu-title="Guest Opinions" menu-level="1">Guest Opinions</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Podcasts" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Podcasts" menu-level="0">Podcasts</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Podcasts" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Podcasts" menu-level="1">
+														<div class="item childmenu" menu-title="Podcasts" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/podcasts" menu-title="Podcasts Home" menu-level="1">Podcasts Home</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Podcasts" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/todt" menu-title="Looking for the Todt Family" menu-level="1">Looking for the Todt Family</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Podcasts" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/case-unsolved" menu-title="Case Unsolved" menu-level="1">Case Unsolved</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Arts &amp; Entertainment" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Arts &amp; Entertainment" menu-level="0">Arts &amp; Entertainment</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Arts &amp; Entertainment" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Arts &amp; Entertainment" menu-level="1">
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/ent" menu-title="A &amp; E Home" menu-level="1">A &amp; E Home</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/Movies" menu-title="Movies &amp; TV" menu-level="1">Movies &amp; TV</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/Music" menu-title="Arts &amp; Music" menu-level="1">Arts &amp; Music</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/food" menu-title="Food &amp; Drink" menu-level="1">Food &amp; Drink</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/events" menu-title="Events &amp; Exhibits" menu-level="1">Events &amp; Exhibits</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/Lifestyle" menu-title="Lifestyle" menu-level="1">Lifestyle</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/games" menu-title="Games &amp; Puzzles" menu-level="1">Games &amp; Puzzles</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/advice-columns" menu-title="Dear Abby" menu-level="1">Dear Abby</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Arts &amp; Entertainment" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/horoscopes" menu-title="Horoscopes" menu-level="1">Horoscopes</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Photos &amp; Videos" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Photos &amp; Videos" menu-level="0">Photos &amp; Videos</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Photos &amp; Videos" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Photos &amp; Videos" menu-level="1">
+														<div class="item childmenu" menu-title="Photos &amp; Videos" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/mm" menu-title="Photos &amp; Videos Home" menu-level="1">Photos &amp; Videos Home</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Photos &amp; Videos" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/gameday" menu-title="GameDay" menu-level="1">GameDay</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Photos &amp; Videos" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/video" menu-title="Videos" menu-level="1">Videos</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Photos &amp; Videos" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/photo-galleries" menu-title="Photo Galleries" menu-level="1">Photo Galleries</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Obituaries" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/obituaries" menu-title="Obituaries" menu-level="0">Obituaries</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="FAQS" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/faqs/" menu-title="FAQS" menu-level="0">FAQS</a>
+					                    				</div>			</div>
+				</div>
+
+
+
+	<div class="header">
+		<li style="padding: 0;">
+				<div class="row sidebar_menu_divider marketplace" style="margin: 0; padding: 3px 2px;">
+					<span class="menuheading" style="float: left; padding-left: 0;">
+						MARKETPLACE
+					</span>
+			</li>
+	</div>
+	<div class="menu">
+						<div class="item" menu-title="Classifieds" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/classifieds" menu-title="Classifieds" menu-level="0">Classifieds</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Jobs" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Jobs" menu-level="0">Jobs</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Jobs" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Jobs" menu-level="1">
+														<div class="item childmenu" menu-title="Jobs" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/monster/" menu-title="Jobs" menu-level="1">Jobs</a>
+									                                    								</div>							</div>
+														<div class="item childmenu" menu-title="Jobs" menu-level="1">
+								<div class="row">
+                                    									<a class="col-md-9 title" href="/section/jobfair" menu-title="2023 Job Fair" menu-level="1">2023 Job Fair</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="Homes" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/homes" menu-title="Homes" menu-level="0">Homes</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Wheels" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/wheels" menu-title="Wheels" menu-level="0">Wheels</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Coupons" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/classifieds" menu-title="Coupons" menu-level="0">Coupons</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Contests" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/contests" menu-title="Contests" menu-level="0">Contests</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Magazines" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/section/magazines" menu-title="Magazines" menu-level="0">Magazines</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Bookstore" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="https://www.pediment.com/collections/the-day-new-london-ct" menu-title="Bookstore" menu-level="0">Bookstore</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Business Directory" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="https://local.theday.com" menu-title="Business Directory" menu-level="0">Business Directory</a>
+					                    				</div>			</div>
+				</div>    <div class="header">
+		<li style="padding: 0;">
+				<div class="row sidebar_menu_divider services" style="margin: 0; padding: 3px 2px;">
+					<span class="menuheading" style="float: left; padding-left: 0;">
+						SERVICES
+					</span>
+			</li>
+	</div>
+	<div class="menu">
+						<div class="item" menu-title="Day Media Group" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="https://daymediagroup.com/" menu-title="Day Media Group" menu-level="0">Day Media Group</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Membership" menu-level="0">
+				<div class="row">
+                                                            <a class="dropdown-caret col-md-9 title closed" href="#" menu-title="Membership" menu-level="0">Membership</a>
+                                        						<a class="dropdown-caret col-md-3" menu-title="Membership" menu-level="0"><i class="fa fa-caret-down"></i></a></div>
+						<div class="child_menu" style="display:none;" menu-title="Membership" menu-level="1">
+                                                             
+                                                                                                                                        							<div class="item childmenu" menu-title="Membership" menu-level="1">
+                                <div class="row">
+                                    									<a class="col-md-9 title" href="https://classadz.vdata.com/Legacy/NewLondonDay/Circulation/Subscriber" menu-title="Manage Print Subscription" menu-level="1">Manage Print Subscription</a>
+									                                    								</div>							</div>
+							                                 
+                                                                                                                                        							<div class="item childmenu" menu-title="Membership" menu-level="1">
+                                <div class="row">
+                                    									<a class="col-md-9 title" href="https://epaper.theday.com/epaper/viewer.aspx" menu-title="Electronic Edition" menu-level="1">Electronic Edition</a>
+									                                    								</div>							</div>
+							                                 
+                                                                                                                                        							<div class="item childmenu" menu-title="Membership" menu-level="1">
+                                <div class="row">
+                                    									<a class="col-md-9 title" href="/dayapp" menu-title="The Day&#039;s App" menu-level="1">The Day&#039;s App</a>
+									                                    								</div>							</div>
+													</div>
+												</div>
+					<div class="item" menu-title="E-Paper" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="https://epaper.theday.com/epaper/viewer.aspx" menu-title="E-Paper" menu-level="0">E-Paper</a>
+					                    				</div>			</div>
+					<div class="item" menu-title="Advertising" menu-level="0">
+				<div class="row">
+                                        					<a class="col-md-9 title" href="/advertising-products" menu-title="Advertising" menu-level="0">Advertising</a>
+					                    				</div>			</div>
+				</div></div><div class="mobile d-md-none sticky-top"><div id="top-bar-mobile">
+    <div class="container">
+        <div class="row">
+
+        <div class="sidemenuTrigger col-2" onclick="openNav('250')">
+            <div class="hamburger-button">
+                <i class="fa fa-bars" aria-hidden="true"></i>
+            </div>
+        </div>      
+
+        <div class="logo col-6">
+            <a href="/"><img src="/wp-content/themes/theday/images/mobile_top_image.svg"></a>
+        </div>
+
+        <div class="links col-4">
+            <span class="login"><button class="pelcro-login-button login-button">Login</button></span>
+            <span class="login"><button class="pelcro-subscribe-button login-button">Subscribe</button></span>
+
+        </div>
+        
+        </div>
+    </div>
+</div></div><div class="desktop d-none d-md-block"><div id="top-bar" class=" ">
+    <div class="row">
+
+        <div class="left col-md-4">
+            <div class="row">
+                <div class="sidemenu col-md-4">
+                    <div class="sidemenuTrigger" onclick="openNav('270')">
+                        <div class="sidebarTriggerText">MENU <i class="fa fa-bars" aria-hidden="true"></i></div>
+                    </div>
+                </div>
+
+                <div class="menu col-md-8">
+                    <nav class="left-top-bar-menu navbar navbar-expand-md navbar-light bg-primary" style="height:100%;">
+                        <div class="top-bar-left-menu">
+                                <div id="topMenu_left" class="collapse navbar-collapse">
+                                    <ul id="Top Bar - Left" class="navbar-nav navbar" style="margin:0px;">
+                                    <li class="nav-item">
+                                        <a href="/" class="nav-link"><i class="fa fa-home fa-lg white"></i></a></li>
+                                    <li class="nav-item">
+                                        <a title="Contact Us" href="/contact-the-day" class="nav-link">Contact Us</a></li>
+                                    </ul>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+
+        <div class="center col-md-4">
+            <div class="top-bar-logo" style="display:none;"><a href="/"><img src="/wp-content/themes/theday/images/mobile_top_image.svg"></a></div>
+        </div>
+
+        <div class="right col-md-4">
+            <div class="row">
+                <div class="search-form col-md-1">
+                    <div class="searchmenu"><i class="fa fa-search"></i></div>
+                    <div id="myDropdown" class="search-bar">
+                        <form method="get" class="searchform input-group-prepend" id="searchform" action="" role="search">
+                            <div class="search-field">
+                                <input class="form-control" name="s" type="text"
+                                    placeholder="Search theday.com ...">
+                            </div>
+                            <input type="submit" value="Go!" class="search-button input-group-append">
+                        </form>
+                    </div>
+                </div>
+
+                <div class="menu col-md-10">
+                    <nav class="right-top-bar-menu navbar navbar-expand-md navbar-light bg-primary">
+                        <ul id="top-bar-right" class="navbar-nav">
+                            <li class="top-navigation-login"><button class="pelcro-login-button login-button">Login</button></li>
+                            <li class="top-navigation-register"><button class="pelcro-subscribe-button login-button">Subscribe</button></li>
+                        </ul>
+                    </nav>
+                </div>
+            
+            </div>
+        </div>
+    </div>
+</div>
+	<script>
+        //Reload page on login and logout to update links
+        document.addEventListener("PelcroUserLogin", () => {
+            document.location.reload(true);
+        })
+
+        document.addEventListener("PelcroUserLogout", () => {
+            document.location.reload(true);
+        })
+    </script></div>
+
+	<!-- ***************************************************** -->
+	<!-- **************  END Header Region ******************* -->
+	<!-- ***************************************************** -->
+
+<div class="wrapper" id="page-wrapper">
+	<div class="container" id="section-front">
+		<div class="row">
+
+			
+
+
+<div class="col-lg-9 col-md-12 col-sm-12 content-area" id="everyware-theme-base-1">
+			<main class="site-main" id="main">
+            
+            <div class="pagenotfound_title">Page Not Found</div>
+            <div class="pagenotfound_message">The page you are looking for does not exist.</p>
+
+			</main>
+
+			
+</div><!-- #closing the everyware-theme-base-1 container from /global-templates/left-sidebar-check.php -->
+
+
+
+  
+<div class="col-lg-3 col-md-12 widget-area" id="right-sidebar" role="complementary">
+
+<aside id="custom_html-9" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="smaller-right-col">
+	<div class="lrec ad-cont" id="box-ATF"></div></div></div></aside><aside id="custom_html-20" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="sidebar_heading" style="color: #880000;">
+	The Day's Digital Archive
+</div>
+<p style="font-family: proxima-nova-condensed, sans-serif; margin-top: -10px;">
+	142 years of history at your fingertips. Search for <a href="https://theday.newspapers.com/?xid=5837"><strong>FREE here</strong></a>.
+</p>
+<hr />
+</div></aside><aside id="custom_html-8" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="sidebar_heading">
+	Latest News
+</div></div></aside><section class="ew-article-list__container"><article class="sidebar-latest teaser" data-uuid="35010186-2ac2-4d1b-8a84-dab791739154"><div class="headline"><a href="https://www.theday.com/nation/20231222/the-supreme-court-says-no-for-now-to-plea-to-rule-quickly-on-whether-trump-can-be-prosecuted/">The Supreme Court says no, for now, to plea to rule quickly on whether Trump can be prosecuted</a></div><div class="date">02:50 pm</div></article><article class="sidebar-latest teaser" data-uuid="22b3b552-3ada-4b73-aaaa-ebb4b47e22aa"><div class="headline"><a href="https://www.theday.com/police-fire-reports/20231222/man-accused-of-brandishing-stolen-gun-during-argument-in-new-london/">Man accused of brandishing stolen gun during argument in New London</a></div><div class="date">01:18 pm</div></article><article class="sidebar-latest teaser" data-uuid="02e5599a-452a-439a-b064-1dcc5a8d81a4"><div class="headline"><a href="https://www.theday.com/world/20231222/gaza-death-toll-surpasses-20000-and-israel-expands-ground-offensive-despite-pressure-to-scale-back/">Gaza death toll surpasses 20,000 and Israel expands ground offensive despite pressure to scale back</a></div><div class="date">06:22 am</div></article><article class="sidebar-latest teaser" data-uuid="04c17d48-b670-454a-9e25-d1ab42c4525f"><div class="headline"><a href="https://www.theday.com/nation/20231222/clarence-thomas-faces-calls-to-recuse-himself-from-jan-6-trump-cases/">Clarence Thomas faces calls to recuse himself from Jan. 6 Trump cases</a></div><div class="date">12:43 am</div></article><article class="sidebar-latest teaser" data-uuid="604e1d17-d163-46a5-8613-2d1892b7fae7"><div class="headline"><a href="https://www.theday.com/sports/20231222/dodgers-agree-to-12-year-325m-deal-with-pitcher-yamamoto/">Source: Dodgers agree to 12-year, $325M deal with pitcher Yamamoto</a></div><div class="date">12:23 am</div></article></section><aside id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="smaller-right-col" style="margin-bottom: 20px;">
+	<div class="lrec ad-cont" id="box-STF"></div></div></div></aside><aside id="custom_html-12" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="native-cont cont-margin-bottom" style="margin-top: 20px;"></div></div></aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="sidebar_heading">
+	Trending
+</div></div></aside><section class="ew-most-read-google-analytics ew-most-read-google-analytics__container"><article class="mostread-teaser" data-uuid="b8f09dd9-c02b-4a0e-bbcb-8d73c2e1dc05"><span class="count"></span><a class="mostread__link" href="https://www.theday.com/local/20231219/old-lyme-property-firm-buys-groton-shopping-center-for-1-6m/"><span class="headline"> Old Lyme property firm buys Groton shopping center for $1.6M</span></a></article><article class="mostread-teaser" data-uuid="6f4fe5dd-4b66-41e9-a11e-06b9f2925543"><span class="count"></span><a class="mostread__link" href="https://www.theday.com/local-news/20231220/nl-raises-concerns-over-use-of-friendship-street-duplexes-for-low-income-tenants/"><span class="headline"> NL raises concerns over use of Friendship Street duplexes for low-income tenants</span></a></article><article class="mostread-teaser" data-uuid="9b107101-1044-4ad9-ba8d-1d6f1e03d4b5"><span class="count"></span><a class="mostread__link" href="https://www.theday.com/police-fire-reports/20231220/man-charged-with-traveling-120-mph-on-i-95-in-westbrook/"><span class="headline"> Man charged with traveling 120 mph on I-95 in Westbrook</span></a></article><article class="mostread-teaser" data-uuid="f60170d2-ff6a-44a3-a967-65941db156ec"><span class="count"></span><a class="mostread__link" href="https://www.theday.com/police-fire-reports/20231220/vermont-murder-suspect-captured-in-groton/"><span class="headline">  Vermont murder suspect captured in Groton </span></a></article><article class="mostread-teaser" data-uuid="0a8a9933-b73f-40a9-92e0-dd65bc872d67"><span class="count"></span><a class="mostread__link" href="https://www.theday.com/local-news/20231220/mohegan-suns-tesla-partnership-officially-up-and-running/"><span class="headline"> Mohegan Sun’s Tesla partnership officially up and running</span></a></article></section><aside id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="hp ad-cont" id="hp-STF"></div></div></aside><aside id="custom_html-11" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="sidebar_heading">
+	Podcasts
+</div></div></aside><section class="ew-article-list__container"><div class="inner-cont clearfix" style="margin-bottom: 15px;" data-uuid="c72469bd-8673-4b8c-b192-26d2672db5b4"><h5><a href="https://www.theday.com/multimedia/20230807/an-altar-boy-in-newport-rhode-island/"><div class="entry-title">An altar boy in Newport, Rhode Island</a></h5></div><hr class="story-sep"><div class="inner-cont clearfix" style="margin-bottom: 15px;" data-uuid="97c854b5-fe61-4002-971a-031c1041cd71"><h5><a href="https://www.theday.com/multimedia/20230713/bee-rescuer-patrick-gaudin/"><div class="entry-title">Bee rescuer Patrick Gaudin</a></h5></div><hr class="story-sep"><div class="inner-cont clearfix" style="margin-bottom: 15px;" data-uuid="fe8531fa-ccde-4841-a9d9-c241271e4360"><h5><a href="https://www.theday.com/multimedia/20230707/reporting-on-church-sex-abuse-cases-for-over-20-years/"><div class="entry-title">Reporting on church sex abuse cases for over 20 years</a></h5></div><hr class="story-sep"><div class="inner-cont clearfix" style="margin-bottom: 15px;" data-uuid="e8bb9cee-3fd2-42de-ae3c-4f9607324d7b"><h5><a href="https://www.theday.com/multimedia/20230629/dictionary-researcher-joshua-pendragon/"><div class="entry-title">Dictionary researcher Joshua Pendragon</a></h5></div><hr class="story-sep"><div class="inner-cont clearfix" style="margin-bottom: 15px;" data-uuid="6db85e0d-d51b-4148-bfc4-cde78cd3e04e"><h5><a href="https://www.theday.com/multimedia/20230623/providing-victims-of-church-abuse-some-justice-and-accountability/"><div class="entry-title">Providing victims of church abuse some justice and accountability</a></h5></div></section><aside id="custom_html-10" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="smaller-right-col">
+	<div class="lrec ad-cont" id="box-BTF"></div></div></div></aside>
+</div><!-- #right-sidebar -->
+
+
+		</div><!-- .row -->
+	</div><!-- Container end -->
+</div><!-- Wrapper end -->
+
+
+
+	<div id="bottomad" class="col-sm-12">
+		<div class="leaderboard ad-cont" id='leader-BTF'></div>
+	</div>
+
+	<!--Ad Code for leaderboard ad above footer-->
+	
+	<style>
+.icon:hover {
+  fill: #a67d51;
+}
+</style>
+
+<div class="footer">
+	<div class="container">
+		<!-- div class="why-the-day"><a href="https://www.theday.com/whytheday">Why The Day?</a></div -->
+		<div class="back-to-top">
+			<i class="fa fa-caret-up"></i>
+			<a href="#">Back To Top</a>
+		</div>
+		<div class="logo">
+			<a class="navbar-brand" rel="home" href="/" title="theday.com: New London and southeastern Connecticut News, Sports, Business, Entertainment and Video"><img class="footer_logo_image" src="https://www.theday.com/wp-content/themes/theday/images/default_footer-logo.svg"></a>
+		</div>
+		<div class="row">
+			<div class="left col-md-6">
+				<div class="about-us">
+					<div class="heading"><a href="/about-the-day" title="About the Day">About The Day</a></div>
+					<div class="info">
+						<div class="info-heading"><strong>The Day Publishing Company</strong></div>
+						<span>47 Eugene O'Neill Drive</span></br>
+						<span>P.O. Box 1231</span></br>
+						<span>New London, CT 06320-1231 USA</span></br>
+                        
+					</div>
+				</div>
+				<div class="staff-profiles">
+					<div class="heading">Staff Profiles</div>
+					<div class="top">
+						<span><a href="/section/staff-management/">President/Publisher</a></span>
+						<span><a href="/section/staff">Newsroom</a></span>
+						<span><a href="/section/staff-advertising">Advertising/Marketing</a></span>
+					</div>
+					<div class="bottom">
+						<span><a href="/faqs">FAQs</a></span>
+						<span><a href="/jobs-at-the-day">Jobs at The Day</a></span>
+						<span><a href="/contact-the-day">Contact Us</a></span>
+					</div>
+				</div>
+				<div class="connect-with-us">
+					<div class="social-media-icons">
+						<div class="heading">Connect With Us</div>
+						<div class="icons">
+							<span><a href="http://www.facebook.com/thedayct"><i class="fa fa-facebook"></i></a></span>
+							<!-- span><a href="https://twitter.com/thedayct"><i class="fa fa-twitter"></i></a></span -->
+							<a href="https://twitter.com/thedayct" style="padding-right: 20px;">
+								<svg xmlns="http://www.w3.org/2000/svg" height="1.0em" viewBox="0 0 512 512" class="icon">
+            					<style id="svgStyle">svg{fill:#ffffff}</style>
+								<path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"></path></svg></a>						
+							<span><a href="http://www.youtube.com/user/thedayct"><i class="fa fa-youtube"></i></a></span>
+							<span><a href="http://instagram.com/thedayct"><i class="fa fa-instagram"></i></a></span>
+							<span><a href="http://thedaynews.tumblr.com/"><i class="fa fa-tumblr"></i></a></span>
+							<span><a href="http://www.pinterest.com/thedayct"><i class="fa fa-pinterest"></i></a></span>
+							<span><a href="/section/rss-feeds"><i class="fa fa-rss"></i></a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="right col-md-6">
+				<div class="quick-links">
+					<div class="heading">Quick Links</div>
+					<div class="links">
+						<span><a href="http://epaper.theday.com/"><i class="fa fa-desktop"></i>E-Paper</a></span>
+						<span><a href="/section/contests"><i class="fa fa-trophy"></i>Contests</a></span>
+						<span><a href="/section/horoscopes">Horoscopes</a></span>
+						<span><a href="/section/games">Puzzles</a></span>
+						<span><a href="/section/Movies">TV</a></span>
+					</div>
+					<div class="links">
+						<span><a href="/events">Calendar</a></span>
+						<span><a href="/section/milestones">Milestones</a></span>
+						<span><a href="https://www.theday.com/newsletters/">Newsletters</a></span>
+					</div>
+				</div>
+				<div class="advertising">
+					<div class="heading">Advertising</div>
+					<div class="links">
+						<span><a href="/advertising-products/">About Our Ads</a></span>
+						<span><a href="/advertise-with-the-day/">Advertise</a></span>
+						<span><a href="https://www.theday.com/section/classifieds">Place A Classified Ad</a></span>
+						<span><a href="/contact-the-day">Contacts</a></span>
+					</div>
+					<div class="links">
+						<span><a href="/monster">Find New London Area Jobs</a></span>
+						<span><a href="http://local.theday.com/">Business Directory</a></span>
+					</div>
+				</div>
+				<div class="services">
+					<div class="heading">Services</div>
+					<div class="links">
+						<span><a href="https://daymediagroup.com/">Day Media Group</a></span>					
+						<span><a href="https://theday.smugmug.com">Photo Reprints</a></span>
+						<span><a href="/privacy-policy-terms">Privacy Policy/Terms</a></span>
+						<span><a href="/section/rssfeeds">RSS</a></span>
+						<span><a href="/get-text-alerts">Text/SMS Alerts</a></span>
+					</div>
+					<div class="links">
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type='text/javascript' src='https://www.theday.com/wp-content/plugins/events-made-easy/js/jquery-timepicker/jquery.timepicker.min.js?ver=2.2.79' id='eme-jquery-timepicker-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/plugins/events-made-easy/js/fdatepicker/js/fdatepicker.min.js?ver=2.2.79' id='eme-jquery-fdatepicker-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/plugins/events-made-easy/js/jquery-select2/select2-4.1.0-rc.0/dist/js/select2.min.js?ver=2.2.79' id='eme-select2-js'></script>
+<script type='text/javascript' id='eme-basic-js-extra'>
+/* <![CDATA[ */
+var emebasic = {"translate_plugin_url":"https:\/\/www.theday.com\/wp-content\/plugins\/events-made-easy\/","translate_ajax_url":"https:\/\/www.theday.com\/wp-admin\/admin-ajax.php","translate_selectstate":"State","translate_selectcountry":"Country","translate_frontendnonce":"55920f81e7","translate_error":"An error has occurred","translate_clear":"Clear","translate_mailingpreferences":"Mailing preferences","translate_yessure":"Yes, I'm sure","translate_iwantmails":"I want to receive mails","translate_firstDayOfWeek":"1","translate_flanguage":"en","translate_fdateformat":"F j, Y","translate_ftimeformat":"H:i"};
+/* ]]> */
+</script>
+<script type='text/javascript' defer="defer" src='https://www.theday.com/wp-content/plugins/events-made-easy/js/eme.js?ver=2.2.79' id='eme-basic-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.theday.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LfHQOwgAAAAAD_B7mgorL4bqB4SlOQumHMI54_H&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/everyware-theme-base-1/js/understrap.min.js?ver=1702495136261' id='understrap-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/js/menus.js?ver=20211009011' id='menus-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/js/content.js?ver=20220628003' id='content-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.26.0' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"H:i","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+</script>
+<script type='text/javascript' id='day-body-js-js-extra'>
+/* <![CDATA[ */
+var infomaker = {"ajaxurl":"https:\/\/www.theday.com\/ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://static.ew.day.navigacloud.com/wp-content/themes/theday/assets/js/body.js?ver=1702495136261' id='day-body-js-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/slick/slick.js?ver=1702495136261' id='slick-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/slick/slick-theme.js?ver=1702495136261' id='slick-theme-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-content/themes/theday/js/breaking.js?ver=1702495136261' id='breaking-js'></script>
+<script type='text/javascript' src='https://www.theday.com/wp-includes/js/wp-embed.min.js?ver=1702495136261' id='wp-embed-js'></script>
+<script type="text/javascript">
+( function( grecaptcha, sitekey, actions ) {
+
+	var wpcf7recaptcha = {
+
+		execute: function( action ) {
+			grecaptcha.execute(
+				sitekey,
+				{ action: action }
+			).then( function( token ) {
+				var forms = document.getElementsByTagName( 'form' );
+
+				for ( var i = 0; i < forms.length; i++ ) {
+					var fields = forms[ i ].getElementsByTagName( 'input' );
+
+					for ( var j = 0; j < fields.length; j++ ) {
+						var field = fields[ j ];
+
+						if ( 'g-recaptcha-response' === field.getAttribute( 'name' ) ) {
+							field.setAttribute( 'value', token );
+							break;
+						}
+					}
+				}
+			} );
+		},
+
+		executeOnHomepage: function() {
+			wpcf7recaptcha.execute( actions[ 'homepage' ] );
+		},
+
+		executeOnContactform: function() {
+			wpcf7recaptcha.execute( actions[ 'contactform' ] );
+		},
+
+	};
+
+	grecaptcha.ready(
+		wpcf7recaptcha.executeOnHomepage
+	);
+
+	document.addEventListener( 'change',
+		wpcf7recaptcha.executeOnContactform, false
+	);
+
+	document.addEventListener( 'wpcf7submit',
+		wpcf7recaptcha.executeOnHomepage, false
+	);
+
+} )(
+	grecaptcha,
+	'6LfHQOwgAAAAAD_B7mgorL4bqB4SlOQumHMI54_H',
+	{"homepage":"homepage","contactform":"contactform"}
+);
+</script>
+
+	<script type="text/javascript">
+	var infolinks_pid = 3370146;
+	var infolinks_wsid = 0;
+	</script>
+<!-- BLUELENA SCRIPT -->
+<script type="text/javascript">
+
+(function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+
+vgo('setAccount', '89044654');
+
+vgo('setTrackByDefault', true);
+
+vgo('process');
+
+</script>
+
+	<script type="text/javascript" src="//resources.infolinks.com/js/infolinks_main.js"></script>
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1874406102" async></script></body>
+</html>
+

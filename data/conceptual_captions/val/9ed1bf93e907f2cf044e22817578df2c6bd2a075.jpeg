@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel='stylesheet' href="../css/font-awesome.min.css" type="text/css" media="all">
+<link rel='stylesheet' href="../css/bootstrap.min.css" type="text/css" media="all">
+<link rel='stylesheet' href="../css/portun.css" type="text/css" media="all">
+<link rel="shortcut icon" href="../images/favicon.ico">
+<script src="../js/jquery-3.6.4.min.js"></script>
+<script src="../js/bootstrap.bundle.min.js"></script>
+<script src="../js/portun.js"></script>    <title>agencija za nekretnine Portun -----error page-------</title>
+    <style>
+        @media (min-width:992px) {
+            .bg-img {
+                height: 85vh;
+                background-image: url("../userfiles/nekretnine/K885A/K_885a_01.JPG");}
+        }
+        @media (max-width: 992px) {
+            .bg-img {
+                height: 65vh;
+                background-image: url("../userfiles/nekretnine/K885A/medium/K_885a_01.JPG");}
+        }
+    </style>
+</head>
+    <body>
+        <div id="page" style="display: none">/EasyEdit/UserFiles/Nekretnine/20454/Ku%C4%87a%20za%20prodaju-Labin-20454-636307892105358663_1170_658.jpeg</div>
+        <div id="basedir" style="display: none">../userfiles/nekretnine/</div>
+        <div id="popisSlikaEncode" style="display: none">[{"id_nekretnina":7732,"slika":"K_885a_01.JPG","komentar":null,"weboznaka":"20788","title":"Stone houses in the center of Svetvin\u010dent","slike_dir":"K885A","cijena":500000,"m2":"127.00","broj_spavacih":3,"status":1},{"id_nekretnina":7730,"slika":"K_881A_01a.jpg","komentar":"Southern facade","weboznaka":"20806","title":"Holiday house in close proximity to Barban\t","slike_dir":"P4838","cijena":600000,"m2":"160.00","broj_spavacih":3,"status":1},{"id_nekretnina":7934,"slika":"K_889_01.jpg","komentar":"Southwest facade","weboznaka":"20792","title":"Contemporary villa in the vicinity of Pore\u010d","slike_dir":"P5041","cijena":1750000,"m2":"335.23","broj_spavacih":4,"status":1},{"id_nekretnina":5066,"slika":"K_879_02.jpg","komentar":"","weboznaka":"20780","title":"A luxurious villa in the vicinity of Pore\u010d","slike_dir":"P4881","cijena":2000000,"m2":"399.81","broj_spavacih":4,"status":1},{"id_nekretnina":7940,"slika":"K_894_01.jpg","komentar":"Southwest facade","weboznaka":"20796","title":"Estate in southern Istria near Svetvin\u010denat","slike_dir":"K894","cijena":530000,"m2":"256.00","broj_spavacih":5,"status":1},{"id_nekretnina":2174,"slika":"Ku\u0107a_za_prodaju-Kanfanar-20702-637934855149856756.jpeg","komentar":"Northeast facade","weboznaka":"20702","title":"Stone house in Kanfanar","slike_dir":"20702","cijena":480000,"m2":"260.00","broj_spavacih":7,"status":1},{"id_nekretnina":8129,"slika":"K_912_02.jpg","komentar":"The opulence of well-coordinated colors and shapes is best seen from the air","weboznaka":"20811","title":"Modern villa with sea view\t","slike_dir":"8129","cijena":2283000,"m2":"242.00","broj_spavacih":4,"status":1},{"id_nekretnina":7962,"slika":"K_899_03.jpg","komentar":"Southeast facade","weboznaka":"20798","title":"Old villa in the hinterland of Rovinj","slike_dir":"K899","cijena":330000,"m2":"230.00","broj_spavacih":0,"status":1},{"id_nekretnina":8067,"slika":"K_903_02.jpg","komentar":"The houses were thoroughly renovated between 2018 and 2020.","weboznaka":"20800","title":"Renovated stone house in the vicinity of Kanfanar","slike_dir":"K903","cijena":650000,"m2":"150.60","broj_spavacih":3,"status":1},{"id_nekretnina":8032,"slika":"01.JPG","komentar":null,"weboznaka":"20795","title":"Renovated stone house near Bale\t","slike_dir":"K893","cijena":685000,"m2":"170.00","broj_spavacih":4,"status":1},{"id_nekretnina":7940,"slika":"K_894_03.jpg","komentar":"Terrace ","weboznaka":"20796","title":"Estate in southern Istria near Svetvin\u010denat","slike_dir":"K894","cijena":530000,"m2":"256.00","broj_spavacih":5,"status":1},{"id_nekretnina":8129,"slika":"K_912_01.jpg","komentar":"Southern facade","weboznaka":"20811","title":"Modern villa with sea view\t","slike_dir":"8129","cijena":2283000,"m2":"242.00","broj_spavacih":4,"status":1},{"id_nekretnina":7874,"slika":"K_886_01.jpg","komentar":"Southern facade","weboznaka":"20787","title":"House with pool in close proximity to Pore\u010d","slike_dir":"K886","cijena":780000,"m2":"141.00","broj_spavacih":3,"status":1},{"id_nekretnina":5066,"slika":"K_879_01.jpg","komentar":"South facade","weboznaka":"20780","title":"A luxurious villa in the vicinity of Pore\u010d","slike_dir":"P4881","cijena":2000000,"m2":"399.81","broj_spavacih":4,"status":1},{"id_nekretnina":7732,"slika":"K_885a_02.jpg","komentar":null,"weboznaka":"20788","title":"Stone houses in the center of Svetvin\u010dent","slike_dir":"K885A","cijena":500000,"m2":"127.00","broj_spavacih":3,"status":1},{"id_nekretnina":7916,"slika":"K_898_01.jpg","komentar":"View from North","weboznaka":"20797","title":"Stone house in the vicinity of \u017dminj","slike_dir":"K898","cijena":450000,"m2":"115.00","broj_spavacih":2,"status":1},{"id_nekretnina":5066,"slika":"K_879_04.jpg","komentar":null,"weboznaka":"20780","title":"A luxurious villa in the vicinity of Pore\u010d","slike_dir":"P4881","cijena":2000000,"m2":"399.81","broj_spavacih":4,"status":1},{"id_nekretnina":7962,"slika":"K_899_01.jpg","komentar":"Northeast facade","weboznaka":"20798","title":"Old villa in the hinterland of Rovinj","slike_dir":"K899","cijena":330000,"m2":"230.00","broj_spavacih":0,"status":1},{"id_nekretnina":2000,"slika":"15_B_kuca_ana_easyHDR.jpg","komentar":null,"weboznaka":"20699","title":"Estate with panoramic views in Istria","slike_dir":"20699","cijena":1400000,"m2":"364.00","broj_spavacih":6,"status":1},{"id_nekretnina":7436,"slika":"01_nova.JPG","komentar":"View from  Southwest","weboznaka":"20799","title":"Holiday house in the vicinity of Pore\u010d","slike_dir":"P4553","cijena":820000,"m2":"167.80","broj_spavacih":3,"status":1},{"id_nekretnina":7824,"slika":"K_890__02.jpg","komentar":"View from  Southwest","weboznaka":"20794","title":"A house with a large garden in the vicinity of Labin\t","slike_dir":"K890","cijena":490000,"m2":"99.28","broj_spavacih":2,"status":1},{"id_nekretnina":7824,"slika":"K_890__06.jpg","komentar":null,"weboznaka":"20794","title":"A house with a large garden in the vicinity of Labin\t","slike_dir":"K890","cijena":490000,"m2":"99.28","broj_spavacih":2,"status":1},{"id_nekretnina":7859,"slika":"K_883_12.jpg","komentar":"Northern facade","weboznaka":"20784","title":"Eastern Istria, modern villa with a view\t","slike_dir":"P4970","cijena":790000,"m2":"420.00","broj_spavacih":3,"status":1},{"id_nekretnina":8032,"slika":"10.jpg","komentar":null,"weboznaka":"20795","title":"Renovated stone house near Bale\t","slike_dir":"K893","cijena":685000,"m2":"170.00","broj_spavacih":4,"status":1},{"id_nekretnina":8032,"slika":"00.JPG","komentar":"Southwest facade","weboznaka":"20795","title":"Renovated stone house near Bale\t","slike_dir":"K893","cijena":685000,"m2":"170.00","broj_spavacih":4,"status":1},{"id_nekretnina":7874,"slika":"K_886_10.jpg","komentar":null,"weboznaka":"20787","title":"House with pool in close proximity to Pore\u010d","slike_dir":"K886","cijena":780000,"m2":"141.00","broj_spavacih":3,"status":1},{"id_nekretnina":7934,"slika":"K_889_03.jpg","komentar":"","weboznaka":"20792","title":"Contemporary villa in the vicinity of Pore\u010d","slike_dir":"P5041","cijena":1750000,"m2":"335.23","broj_spavacih":4,"status":1},{"id_nekretnina":3259,"slika":"K_870_04.jpg","komentar":"Southwestern facade","weboznaka":"20773","title":"Holiday house in the area of Bale\t","slike_dir":"P4648","cijena":980000,"m2":"171.80","broj_spavacih":3,"status":1},{"id_nekretnina":7824,"slika":"K_890__01.jpg","komentar":"Southern facade","weboznaka":"20794","title":"A house with a large garden in the vicinity of Labin\t","slike_dir":"K890","cijena":490000,"m2":"99.28","broj_spavacih":2,"status":1},{"id_nekretnina":3259,"slika":"K_870_02.jpg","komentar":null,"weboznaka":"20773","title":"Holiday house in the area of Bale\t","slike_dir":"P4648","cijena":980000,"m2":"171.80","broj_spavacih":3,"status":1},{"id_nekretnina":7916,"slika":"K_898_04.jpg","komentar":"West facade","weboznaka":"20797","title":"Stone house in the vicinity of \u017dminj","slike_dir":"K898","cijena":450000,"m2":"115.00","broj_spavacih":2,"status":1},{"id_nekretnina":7874,"slika":"K_886_03.jpg","komentar":null,"weboznaka":"20787","title":"House with pool in close proximity to Pore\u010d","slike_dir":"K886","cijena":780000,"m2":"141.00","broj_spavacih":3,"status":1}]</div>
+        <div class="hidden" id="selectedLang">EN</div>
+
+<div class="modal" id="manMenu" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <img src="../images/crni.png" height="30" alt="Portun">
+                <button class="btn-zatvori" onclick="modalClose(this)" value="manMenu"><i class="fa-solid fa-xmark fa-2xl" style="color: #000"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="row px-2">
+                <div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_HR">HR</a></div><div class="col selected_lang"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_EN">EN</a></div><div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_DE">DE</a></div><div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_IT">IT</a></div><div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_SI">SI</a></div><div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_RU">RU</a></div><div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_UA">UA</a></div><div class="col langs"><a href="javascript:void(0);" onclick="chnglng(this);" id="lang_HU">HU</a></div>                </div>
+                <div class="row padding-top20">
+                    <div class="col-6 lok_label">Choose a location</div><div class="col-6 kod_label">or enter listing ID</div>
+                </div>
+                <div class="row">
+                    <form action="../prikaz/results.php" onsubmit="return searchForm();" class="d-flex flex-row" method="GET">
+                        <input type="hidden" id="lokacija" name="lokacija" value="0">
+                        <div class="input-group mb-3">
+                                <div class="dropdown">
+                                    <button class="btn btn-outline-dark dropdown-toggle leftround" type="button" id="dropLocation" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                                        Location                                    </button>
+                                    <div class="dropdown-menu p-2" aria-labelledby="dropLocation">
+    <input type="checkbox" onchange="changeLoc(this)" id="menu_807" class="lokacijaVal check_slider" value="807" ><label for="menu_807" onclick="changeLoc(this)" id="menulabel_807" class="form-check-label px-2"> Bale</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_808" class="lokacijaVal check_slider" value="808" ><label for="menu_808" onclick="changeLoc(this)" id="menulabel_808" class="form-check-label px-2"> Barban</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_809" class="lokacijaVal check_slider" value="809" ><label for="menu_809" onclick="changeLoc(this)" id="menulabel_809" class="form-check-label px-2"> Brtonigla</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_810" class="lokacijaVal check_slider" value="810" ><label for="menu_810" onclick="changeLoc(this)" id="menulabel_810" class="form-check-label px-2"> Buje</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_811" class="lokacijaVal check_slider" value="811" ><label for="menu_811" onclick="changeLoc(this)" id="menulabel_811" class="form-check-label px-2"> Buzet</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_812" class="lokacijaVal check_slider" value="812" ><label for="menu_812" onclick="changeLoc(this)" id="menulabel_812" class="form-check-label px-2"> Fažana</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_813" class="lokacijaVal check_slider" value="813" ><label for="menu_813" onclick="changeLoc(this)" id="menulabel_813" class="form-check-label px-2"> Gračišće</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_814" class="lokacijaVal check_slider" value="814" ><label for="menu_814" onclick="changeLoc(this)" id="menulabel_814" class="form-check-label px-2"> Grožnjan</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_815" class="lokacijaVal check_slider" value="815" ><label for="menu_815" onclick="changeLoc(this)" id="menulabel_815" class="form-check-label px-2"> Kanfanar</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_816" class="lokacijaVal check_slider" value="816" ><label for="menu_816" onclick="changeLoc(this)" id="menulabel_816" class="form-check-label px-2"> Kaštelir</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_817" class="lokacijaVal check_slider" value="817" ><label for="menu_817" onclick="changeLoc(this)" id="menulabel_817" class="form-check-label px-2"> Labin</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_818" class="lokacijaVal check_slider" value="818" ><label for="menu_818" onclick="changeLoc(this)" id="menulabel_818" class="form-check-label px-2"> Marčana</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_819" class="lokacijaVal check_slider" value="819" ><label for="menu_819" onclick="changeLoc(this)" id="menulabel_819" class="form-check-label px-2"> Motovun</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_820" class="lokacijaVal check_slider" value="820" ><label for="menu_820" onclick="changeLoc(this)" id="menulabel_820" class="form-check-label px-2"> Novigrad</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_821" class="lokacijaVal check_slider" value="821" ><label for="menu_821" onclick="changeLoc(this)" id="menulabel_821" class="form-check-label px-2"> Oprtalj</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_822" class="lokacijaVal check_slider" value="822" ><label for="menu_822" onclick="changeLoc(this)" id="menulabel_822" class="form-check-label px-2"> Pazin</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_823" class="lokacijaVal check_slider" value="823" ><label for="menu_823" onclick="changeLoc(this)" id="menulabel_823" class="form-check-label px-2"> Poreč</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_824" class="lokacijaVal check_slider" value="824" ><label for="menu_824" onclick="changeLoc(this)" id="menulabel_824" class="form-check-label px-2"> Pula</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_806" class="lokacijaVal check_slider" value="806" ><label for="menu_806" onclick="changeLoc(this)" id="menulabel_806" class="form-check-label px-2"> Rovinj</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_825" class="lokacijaVal check_slider" value="825" ><label for="menu_825" onclick="changeLoc(this)" id="menulabel_825" class="form-check-label px-2"> Sveti Lovreč</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_826" class="lokacijaVal check_slider" value="826" ><label for="menu_826" onclick="changeLoc(this)" id="menulabel_826" class="form-check-label px-2"> Svetvinčenat</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_827" class="lokacijaVal check_slider" value="827" ><label for="menu_827" onclick="changeLoc(this)" id="menulabel_827" class="form-check-label px-2"> Tinjan</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_828" class="lokacijaVal check_slider" value="828" ><label for="menu_828" onclick="changeLoc(this)" id="menulabel_828" class="form-check-label px-2"> Umag</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_829" class="lokacijaVal check_slider" value="829" ><label for="menu_829" onclick="changeLoc(this)" id="menulabel_829" class="form-check-label px-2"> Višnjan</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_831" class="lokacijaVal check_slider" value="831" ><label for="menu_831" onclick="changeLoc(this)" id="menulabel_831" class="form-check-label px-2"> Vodnjan</label><br><input type="checkbox" onchange="changeLoc(this)" id="menu_833" class="lokacijaVal check_slider" value="833" ><label for="menu_833" onclick="changeLoc(this)" id="menulabel_833" class="form-check-label px-2"> Žminj</label><br>                                    </div> 
+                                </div>
+                                <input type="text" class="form-control mainform-control" name="codeVal" id="codeVal" placeholder="Listing ID">
+                            </div>
+                            <button class="btn btn-secondary btn-circle"><img src='../images/icons8-magnifying-glass-64.png' width='40' alt="magnifing glass"></button>
+                        </form>
+                </div>
+                
+                <div class="col-md-12 mx-auto">
+    <h5 class="menu_dodatno">SERVICES</h5><span><a class="boja_siva" href="/page/5">Sell with us</a></span><br><span><a class="boja_siva" href="/page/4">Buy with us</a></span><br><h5 class="menu_dodatno">REAL ESTATE</h5><span><a class="boja_siva" href="/stanovi">Flats</a></span><br><span><a class="boja_siva" href="/kuce">Houses</a></span><br><span><a class="boja_siva" href="/zemljista">Land</a></span><br><span><a class="boja_siva" href="/poslovni">Business spaces</a></span><br><h5 class="menu_dodatno">OTHER
+</h5><span><a class="boja_siva" href="/page/7">About us</a></span><br><span><a class="boja_siva" href="/page/6">General Terms of Business</a></span><br><span><a class="boja_siva" href="/userfiles/uploads/izjava_o_privatnosti_2023.pdf">Privacy notice</a></span><br><span><a class="boja_siva" href="/page/12">Copyright</a></span><br><span><a class="boja_siva" href="/page/13">Disclaimer</a></span><br><span><a class="boja_siva" href="/page/14">Real Estate in Croatia</a></span><br><span><a class="boja_siva" href="/page/15">Properties in Istria</a></span><br><span><a class="boja_siva" href="/page/16">Properties in Rovinj</a></span><br><span><a class="boja_siva" href="/page/9">Contact</a></span><br>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<nav class="navbar navbar-dark fixed-top">
+    <div class="container-fluid">
+        <a class="navbar-logo" href="/home/"><img src="../images/bijeli.png" height="30" alt="Portun"></a>
+        <button class="navbar-toggler" type="button" onclick="showMenu()"><span class="navbar-toggler-icon"></span></button> 
+    </div>    
+</nav>
+<script>
+    function changeLoc(el){
+        el.preventDefault;
+        let temp=el.id;
+        let val=temp.split('_');
+        let lab=document.getElementById('menulabel_'+val[1]);
+        let menuclick=document.getElementById('menu_'+val[1]);
+        if(menuclick.checked) lab.classList.add('labelBold');
+        else if(lab.classList.contains('labelBold')) lab.classList.remove('labelBold');   
+    }
+    function modalClose(el){
+        let modalElement=document.getElementById(el.value);
+        modalElement.style.display="none";
+    }
+    window.onclick=function(event){
+        if (event.target==manMenu) manMenu.style.display="none";
+    }
+    document.addEventListener('scroll',scrollHandle);
+    $('.dropdown').on('click', function(event){
+        event.stopPropagation();
+    });
+</script><div id="cookieConsent" class="cookie-consent"><div class="typo0">This website uses cookies</div><div>The website uses cookies to provide a better user experience and functionality. You can control and configure cookie settings in your web browser.</div><div class="mt-2 d-flex align-items-center justify-content-center g-2"><button class="allow-button mr-1" onclick="allowCookie()">Allow cookies</button><button class="allow-button">Deny</button></div></div>        <div class="bg-img"></div>
+        <div class="titlenav"><div class="mainnavl"><a id="mainTitle" href="/20788/"><span class="canarin">20788</span> <span>Stone houses in the center of Svetvinčent</span></a></div></div><div class="titlenavright"><div class="mainnavr"><a id="prevpicture" class="dot boja_ccc" onclick="plusPicture(-1)"><i class="fa-solid fa-circle-chevron-left fa-2xl"></i></a><a id="nextpicture" class="dot boja_ccc" onclick="plusPicture(1)"><i class="fa-solid fa-circle-chevron-right fa-2xl"></i></a></div></div>    
+        <div class="container">
+            <div class="row padding">
+                <div class="col-4 sorry"><h1>:(</h1></div>
+                <div class="col-8 sorry"><h2>Error!!!<br>We don't have a real estate with this code</h2></div>
+            </div>
+        </div>
+<div class="footer py-3">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 col-lg-1"></div>
+            <div class="col-md-6 col-lg-2 py-3">
+                <h3 class="py-1">Contact</h3>
+                <span>Portun Immobilis d.o.o.<br>OIB 67116473357</span>
+                <ul class="footer">
+                    <li class="red-visina"><span class="px-2"><i class="fa fa-map-marker-alt"></i></span><a href="/page/9">52210 Rovinj, Trg na Križu 1</a></li>
+                    <li class="red-visina"><span class="px-2"><i class="fa fa-clock"></i></span>Mon - Fri, 9.00 - 17.00
+</li>
+                    <li class="red-visina"><span class="px-2"><i class="fa fa-clock"></i></span>Sat 9.00 - 13.00</li>
+                    <li class="red-visina"><span class="px-2"><i class="fa fa-phone-alt"></i></span><a href="tel:+38552840456">+38552840456</a></li>
+                    <li class="red-visina"><span class="px-2"><i class="fa fa-mobile-screen-button"></i></span><a href="tel:+385919386003">+385919386003</a></li>
+                    <li class="red-visina"><span class="px-2"><i class="fa fa-envelope"></i></span><a href="/cdn-cgi/l/email-protection#7e171018113e0e110c0a0b10501d1113"> <span class="__cf_email__" data-cfemail="771e191118370718050302195914181a">[email&#160;protected]</span></a></li>                                                                                  
+                    <li class="red-visina"><span class="px-1"><img src="../images/viber_logo.png" width="20" alt="viber"></span><a href="viber://contact?number=%2B00385919386003">+385919386003</a></li>
+                    <li class="red-visina"><span class="px-1"><img src="../images/whatsapp_logo.png" width="20" alt="whatsup"></span><a href="https://api.whatsapp.com/send?phone=+385919386003">+385919386003</a></li>
+                </ul>
+            </div>
+<div class="col-md-6 col-lg-2 py-3"><h3 class="py-1">License</h3><a href="https://digitalnakomora.hr/e-javne-ovlasti/registar-posrednika-u-prometu-nekretnina/detalji/14054" target="_blank">Authorized real estate broker</a><br><a href="https://digitalnakomora.hr/e-javne-ovlasti/registar-posrednika-u-prometu-nekretnina/detalji/14054" target="_blank">Registration number: 188/2009</a><br></div><div class="col-md-6 col-lg-2 py-3"><h3 class="py-1">Informations
+
+</h3><a href="/page/7" >About us</a><br><a href="/page/5" >Sell with us</a><br><a href="/page/4" >Buy with us</a><br><a href="/page/6" >General Terms of Business</a><br><a href="/userfiles/uploads/izjava_o_privatnosti_2023.pdf" >Privacy notice</a><br><a href="/page/12" >Copyright</a><br><a href="/page/13" >Disclaimer</a><br></div><div class="col-md-6 col-lg-2 py-3"><h3 class="py-1">Partners</h3><a href="https://www.reker-immobilien.de/" target="_blank">REKER IMMOBILIEN</a><br><a href="https://www.maris.hr/hr/" target="_blank">MARIS</a><br></div>            <div class="col-md-6 col-lg-3">
+            <div class="py-3">
+                <h3 class="py-1">Follow us</h3>
+                <div class="row">
+                    <div class="col-1"><a href="https://instagram.com/realestateportun/"><img class="follow" src="/images/Instagram_logo.png" alt="instagram"></a></div>
+                    <div class="col-1"><a href="https://facebook.com/nekretnineistrarovinj"><img class="follow" src="/images/Facebook_logo.webp" alt="facebook"></a></div>
+                    <div class="col-1"><a href="https://youtube.com/user/AgencijaPortun"><img class="follow" src="/images/Youtube_logo.png" alt="youtube"></a></div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="copyright py-1">
+    <div class="container-fluid">
+    <div class="row py-2">
+        <div class="col-md-1"></div>
+        <div class="col-md-5 copiright">
+            <div>&copy; <a href="#">Portun Immobilis d.o.o.</a>. All Rights Reserved</div>
+        </div>
+        <div class="col-md-5 copiright-right">
+            <div class="boja_siva">Web Development ADRIA INFORMATIKA d.o.o.
+</div>
+        </div>
+        <div class="col-md-1"></div>
+    </div>
+    </div>
+</div>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        var pictureIndex=0;
+        var popisSlika=JSON.parse(popisSlikaEncode.innerHTML);
+        var baseDir=basedir.innerHTML;
+    </script>
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"839affcc29902d2a","version":"2023.10.0","r":1,"token":"a506f555a3c14d2c843c95bf3c3283a0","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>

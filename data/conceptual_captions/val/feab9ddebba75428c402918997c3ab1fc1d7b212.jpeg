@@ -1,0 +1,1494 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="0dd98a29-c6b7-479b-9254-9102a5cbd85f" data-blockingmode="auto" type="text/javascript"></script>
+    <meta charset="utf-8" />
+<script type="text/plain" async src="https://www.googletagmanager.com/gtag/js?id=G-6TNCMVEHQ6" data-cookieconsent="statistics"></script>
+<script type="text/plain" data-cookieconsent="statistics">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());// Set to the same value as the web property used on the site
+var gaProperty = 'G-6TNCMVEHQ6';gtag("config", "G-6TNCMVEHQ6", {"groups":"default","anonymize_ip":true,"page_path":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer,"allow_ad_personalization_signals":false});</script>
+<link rel="canonical" href="https://www.paralympic.org/" />
+<link rel="shortlink" href="https://www.paralympic.org/" />
+<meta property="og:type" content="Apes Page" />
+<meta property="og:url" content="https://www.paralympic.org/sites/default/files/styles/mainpicture_612/public/images/20180507/180507100408982_April%252BAOTM.jpg" />
+<meta property="og:title" content="Page not found" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script></script>
+<link rel="shortcut icon" href="/themes/custom/theme_builder/main_ipc_master/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Page not found</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_c8uKrkdw3uTl-xXgGz0TtfMpOZq9ps2b3GoXRcXqFfo.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_5FRzepNmnLiJykIx_BlVtbLowbfevRo1yVpMh86rTDA.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_Z5jMg7P_bjcW9iUzujI7oaechMyxQTUqZhHJ_aYSq04.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_UvtE_yUHI9R6agSFw7RSlOkc0hjwMobleuxRKYIfqA4.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+    <meta name="facebook-domain-verification" content="nh6862aqfd0oqv27ifscuv5etx1ctm" />
+    
+    <script type="text/plain" data-cookieconsent="statistics marketing">
+
+    const spanishPath = window.location.pathname.split('/')[1];
+    if(spanishPath == 'es'){
+        var langCode = 'es-ES';
+    }else{
+        var langCode = 'en-GB';
+    }
+
+    (function(o,l,y,m,p,i,c,s){o.__OvpSdkObject=p;o[p]=o[p]||{};o[p].ready=function(f){
+      (o[p].q=o[p].q||[]).push(f)};o[p].r=m;o[p].o=i;c=l.createElement(y);c.async=1;c.src=m;
+      s=l.getElementsByTagName(y)[0];s.parentNode.insertBefore(c,s)
+    })(window,document,'script','https://appipcparabei.ovpobs.tv/data/sdk/ovp-sdk.js','OVP', {
+      apiKey: 'OGUyMTY3M2E3OWRmNDA4Mzk3MDM5MmE0YjI4ZmJhYjU6OmlwYy1hcGl1c2Vy',
+      apiSecret: 'MzIzYmY3YTUyNWYwYTM2NzAxZjYyNzM3YTE4Nzk2ODNmNTVjMGQ0ZTEzNzZkNTZlMjQxY2M3ZDI5YTgxZTY2Zjo6NjY1YjA2NTZmNGFmMjk3YTdmYWE1NmE3YzdiZDkxOGQ=',
+      version: '2',
+      lang: langCode,
+      dir: 'ltr'
+    });
+  </script>
+  <script>
+      document.addEventListener("DOMContentLoaded", function() {
+         
+	var raw = document.getElementById("raw-emotions");
+      if( raw ){
+      var imported = document.createElement('script');
+      imported.src = 'https://doh2xi7kxy1sk.cloudfront.net/scripts/iframe_parent.js';
+      document.body.append(imported);
+
+      document.getElementById("raw-emotions").innerHTML = '<link rel="stylesheet" type="text/css" href="https://doh2xi7kxy1sk.cloudfront.net/styles/iframe_parent.css"><iframe id="phoria-iframe" src="https://raw-emotions.phoria.com.au" frameborder="0" allow="xr-spatial-tracking fullscreen vr clipboard-write" allowvr="yes" allowfullscreen="yes" ></iframe>';
+      }
+
+    });
+     
+  </script>
+  </head>
+  <body class="layout-no-sidebars path-sites" id="page">
+
+  <script type="text/javascript">
+  window.onload = function() {
+
+
+      var body = document.body;
+      if (document.cookie.indexOf('contrast=high') != -1){
+        console.log( document.cookie.indexOf('contrast=high') );
+        body.classList.add("highcontrast");
+        document.getElementById('contrast-input').checked = true;
+        document.getElementById('contrast-input-mobile').checked = true;
+        console.log( document.getElementById('contrast-input').checked );
+
+      }else{
+        body.classList.remove("highcontrast");
+      }
+  };
+</script>
+  <script type="text/javascript">
+    var body = document.body;
+    if (document.cookie.indexOf('fontsize-zoom=1') != -1){
+      body.classList.add('zoom1');
+    }else if (document.cookie.indexOf('fontsize-zoom=2') != -1){
+      body.classList.add('zoom2'); 
+    }else if (document.cookie.indexOf('fontsize-zoom=3') != -1){
+      body.classList.add('zoom3');      
+    }else{
+      body.classList.remove('zoom1', 'zoom2', 'zoom3');
+    }
+
+    const homepage = document.querySelector('.layout-no-sidebars');
+    //if(homepage.classList.contains('path-frontpage')){
+      //body.classList.add("beijing-front-page");
+    //}
+    
+    const firstPath = window.location.pathname.split('/')[1];
+    
+    const firstPathLive = window.location.pathname.split('/')[1];
+
+    const liveListingPath = window.location.pathname.split('/')[2];
+
+    if(firstPath == 'tokyo-2020'){
+      body.classList.add("default-tokyo-2020");
+    }
+	
+    if(firstPath == 'raw-emotions'){
+      body.classList.add("raw-emotions");
+    }
+    
+    if(firstPath == 'beijing-2022' || liveListingPath == 'beijing-2022'){
+      body.classList.add("default-beijing-2022");
+      
+      var lastScrollTopBeijing = 0;
+
+      // element should be replaced with the actual target element on which you have applied scroll, use window in case of no target element.
+      window.addEventListener("scroll", function(){ 
+         var st = window.pageYOffset || document.documentElement.scrollTop; 
+         if (st > lastScrollTopBeijing){
+            // downscroll code
+            body.classList.add("beijing-2022-scroll");
+         } 
+         if(st == 0){
+            // upscroll code
+            body.classList.remove("beijing-2022-scroll");
+         }
+	lastScrollTopBeijing = st <= 0 ? 0 : st;
+      }, false);
+    }
+    
+    const parasports = window.location.pathname.split('/')[1];
+    const parasport = window.location.pathname.split('/')[1];
+    const parasport_es_page = window.location.pathname.split('/')[2];
+    if(parasports == 'para-sports' || parasport == 'para-sport' || parasport_es_page == 'para-sport'){
+      body.classList.add("para-sports-page");
+    }    
+</script>
+      <script type="text/plain" data-cookieconsent="statistics">
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '1143245079059661');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1143245079059661&ev=PageView&noscript=1"/></noscript>
+  
+  <script type="text/plain" data-cookieconsent="statistics">
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+    a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','o4sr5');
+    twq('track','PageView');
+  </script>
+
+  <script type="text/plain" data-cookieconsent="statistics">
+		!function (w, d, t) {
+		  w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++
+)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=i+"?sdkid="+e+"&lib="+t;e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(n,e)};
+		
+		  ttq.load('CDH5F2RC77U1SIT04O4G');
+		  ttq.page();
+		}(window, document, 'ttq');
+	</script>
+        <div role="navigation" aria-label="skip-link">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+          Skip to main content
+        </a>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header class="content-header clearfix">
+    <div class="layout-container">
+		          <div class="clearfix region region-header">
+    
+					
+
+
+<section id="block-mainipcheader" class="block block-block-content block-block-content0a4e33b8-4e72-4374-9b4a-b99550f9feea clearfix apes-header-block template1">
+  
+      
+     
+    <div class="layout-Container">
+
+      <div class="header-back-url-container">
+            <div class="header-back-url">
+              
+            </div>
+      </div>
+
+      <div class="header-site" style="background-image:url(/)">
+        <div class="header-elements">
+          
+          <div class="logo-site test">
+            <div class="content-logo-site">
+              <a tabindex="0" href="/">
+                <article aria-label="IPC NEW LOGO" class="media media--type-image media--view-mode-banner-original-image">
+  
+      
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-06/IPC%20new%20logo%201.png" width="1375" height="300" alt="IPC NEW LOGO" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+  </article>
+
+              </a>
+            </div>
+          </div>
+
+          
+
+          <div class="top-menu">
+            <div class="actions-top-menu">
+                <div class="top-menu-first">
+
+                      <div class="language">
+                        		<div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface">
+	  
+	  	  
+	  		<div class="content">
+		  <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404" class="en"><span><a href="/system/404?itok=J0RLKX4e&amp;file=images/20180507/180507100408982_April%2BAOTM.jpg" class="language-link" hreflang="en" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404">English</a></span></li><li hreflang="es" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404" class="es"><span><a href="/es/system/404?itok=J0RLKX4e&amp;file=images/20180507/180507100408982_April%2BAOTM.jpg" class="language-link" hreflang="es" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404">Español</a></span></li></ul>
+		</div>
+	  	</div>
+
+                      </div>
+
+                                            <!-- <div class="font-size">
+                        
+                          <a href="#" class="bigger" title="#" tabindex="0"><span class="black" id="id_img_font_size_bigger" alt="" title="Bigger" src=""></span></a>
+                          <a href="#" class="smaller" title="#" tabindex="0"><span class="black" id="id_img_font_size_smaller" alt="" title="Smaller" src=""></span></a>
+
+                      </div> -->
+                      
+                                                                  
+                </div>
+
+                <div class="top-menu-second">
+
+                                        <div class="search">
+                      <div role="search" class="block block-search container-inline">
+  
+    
+      <div class="content container-inline">
+      <form class="search-block-form search-form" data-drupal-selector="search-block-form" action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Search</label>
+        <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" aria-label="input edit-keys" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" aria-label="input edit-submit" />
+</div>
+
+</form>
+
+    </div>
+  </div>
+
+                    </div>
+                                        <div class="social">
+                      
+            <div class="field field--name-field-header-social-menu field--type-apes-menu-field field--label-hidden field__item">
+              <ul class="clearfix menu social">
+                    <li class="social-item">
+
+              <a href="https://www.facebook.com/paralympics" title="Facebook" target="_blank">
+          <img  alt="Facebook icon" src="/sites/default/files/public%3A//menu_image/2021-06/FB.png" typeof="foaf:Image" class="lazyload" />
+
+          
+          Facebook
+        </a>
+                  </li>
+                <li class="social-item">
+
+              <a href="https://www.instagram.com/Paralympics/" title="Instagram" target="_blank">
+          <img  alt="Instagram icon" src="/sites/default/files/public%3A//menu_image/2021-06/Insta.png" typeof="foaf:Image" class="lazyload" />
+
+          
+          Instagram
+        </a>
+                  </li>
+                <li class="social-item">
+
+              <a href="https://twitter.com/Paralympics" title="Twitter" target="_blank">
+          <img  alt="Twitter icon" src="/sites/default/files/public%3A//menu_image/2023-11/Twitter-Logo%20%282%29.png" typeof="foaf:Image" class="lazyload" />
+
+          
+          Twitter
+        </a>
+                  </li>
+                <li class="social-item">
+
+              <a href="https://www.youtube.com/user/ParalympicSportTV?sub_confirmation=1" title="Youtube" target="_blank">
+          <img  alt="Youtube icon" src="/sites/default/files/public%3A//menu_image/2021-06/Youtube.png" typeof="foaf:Image" class="lazyload" />
+
+          
+          Youtube
+        </a>
+                  </li>
+                <li class="social-item">
+
+              <a href="https://www.tiktok.com/@paralympics?lang=en" title="TikTok" target="_blank">
+          <img  alt="TikTok icon" src="/sites/default/files/public%3A//menu_image/2021-07/tiktok.png" typeof="foaf:Image" class="lazyload" />
+
+          
+          TikTok
+        </a>
+                  </li>
+                <li class="social-item">
+
+              <a href="https://www.paralympic.org/newsletter-subscribe" title="Newsletter Subscribe" target="_blank">
+          <img  alt="Newsletter Subscribe icon" src="/sites/default/files/public%3A//menu_image/2023-11/300X300.png" typeof="foaf:Image" class="lazyload" />
+
+          
+          Newsletter Subscribe
+        </a>
+                  </li>
+        </ul>
+  
+
+</div>
+      
+                    </div>
+                </div>
+
+            </div>
+          </div>
+        </div>
+        
+      </div>
+      <div class="menu-header">
+        
+
+                  <div class="header-menu-container">
+                        
+            <div class="field field--name-field-header-menu field--type-apes-menu-field field--label-hidden field__item">
+<nav class="megamenu" aria-label="navigation megamenu">
+  <button class="accessible-megamenu-toggle" aria-expanded="false" aria-pressed="false" aria-controls="accessible-megamenu-1539243849356-6">
+    <span class="sr-only">Toggle Navigation</span>
+    <span></span><span></span><span></span>
+  </button>
+  
+  <div class="header-block-items">
+
+      <div class="actions-mobile">
+          <div class="language">
+            		<div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface">
+	  
+	  	  
+	  		<div class="content">
+		  <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404" class="en"><span><a href="/system/404?itok=J0RLKX4e&amp;file=images/20180507/180507100408982_April%2BAOTM.jpg" class="language-link" hreflang="en" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404">English</a></span></li><li hreflang="es" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404" class="es"><span><a href="/es/system/404?itok=J0RLKX4e&amp;file=images/20180507/180507100408982_April%2BAOTM.jpg" class="language-link" hreflang="es" data-drupal-link-query="{&quot;file&quot;:&quot;images\/20180507\/180507100408982_April+AOTM.jpg&quot;,&quot;itok&quot;:&quot;J0RLKX4e&quot;}" data-drupal-link-system-path="system/404">Español</a></span></li></ul>
+		</div>
+	  	</div>
+
+          </div>
+                </div>
+
+  </div>
+
+            <ol class="clearfix menu accessible-megamenu js-accessible-megamenu nav-menu js-nav-menu">
+        <li class="accessible-megamenu-top-nav-item nav-item">
+          <div class="search sub-nav" role="region" aria-label="mobile search form" aria-expanded="false" aria-hidden="true">
+            <form action="/search/node">
+              <div class="content-search-header">
+                <!-- input type="text" value="Search" -->
+				<input placeholder="Search" title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" maxlength="128">
+				<input type="submit" class="visually-hidden"/>
+                <i class="fas fa-search"></i>
+              </div>
+            </form>
+          </div>
+        </li>
+                        <li  class="menu-item menu-item--expanded accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/paralympic-games" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-1">PARALYMPIC GAMES <i class="fa fa-angle-down" aria-hidden="true"></i></a></h2>
+                    <div class="cols-4 accessible-megamenu-panel " role="region" aria-expanded="false" aria-hidden="true" arial-labelledby="accessible-megamenu-parent-1">
+			
+                         
+		<h3><a href="/paralympic-games" data-drupal-link-system-path="node/84050">PARALYMPIC GAMES</a></h3>
+	      <ol class="menu-level1 ">
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/paralympic-games-results" data-drupal-link-system-path="node/249300">RESULTS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/videos/paralympic-games" data-drupal-link-system-path="node/84173">VIDEOS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/medals" data-drupal-link-system-path="node/80707">MEDALS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/mascots" data-drupal-link-system-path="node/80443">MASCOTS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/opening-ceremony" data-drupal-link-system-path="node/80842">OPENING CEREMONIES</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/closing-ceremony" data-drupal-link-system-path="node/81091">CLOSING CEREMONIES</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/paralympic-games/summer-overview" data-drupal-link-system-path="node/80491">SUMMER OVERVIEW</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/paralympic-games/winter-overview" data-drupal-link-system-path="node/80494">WINTER OVERVIEW</a></span>
+		         </li>
+        </ol>
+  
+			  
+			</div>
+              </li>
+                        <li  class="menu-item accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/sports" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-2">SPORTS <i class="" aria-hidden="true"></i></a></h2>
+              </li>
+                        <li  class="menu-item menu-item--expanded accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/classification" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-3">CLASSIFICATION <i class="fa fa-angle-down" aria-hidden="true"></i></a></h2>
+                    <div class="cols-4 accessible-megamenu-panel " role="region" aria-expanded="false" aria-hidden="true" arial-labelledby="accessible-megamenu-parent-3">
+			
+                         
+		<h3><a href="/classification" data-drupal-link-system-path="node/80101">CLASSIFICATION</a></h3>
+	      <ol class="menu-level1 ">
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-board-of-appeal-of-classification" data-drupal-link-system-path="node/312778">BOARD OF APPEAL OF CLASSIFICATION</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-code" data-drupal-link-system-path="node/81148">CLASSIFICATION CODE</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-education" data-drupal-link-system-path="node/80110">CLASSIFICATION EDUCATION</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-research" data-drupal-link-system-path="node/81151">CLASSIFICATION RESEARCH</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-by-sport" class="colum2" data-drupal-link-system-path="node/80107">CLASSIFICATION BY SPORT</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-code-compliance" data-drupal-link-system-path="node/82069">CODE COMPLIANCE</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification-code-review" data-drupal-link-system-path="node/317206">CODE REVIEW</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/classification/faq" data-drupal-link-system-path="node/81145">FAQS</a></span>
+		         </li>
+        </ol>
+  
+			  
+			</div>
+              </li>
+                        <li  class="menu-item accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/news" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-4">NEWS <i class="" aria-hidden="true"></i></a></h2>
+              </li>
+                        <li  class="menu-item menu-item--expanded accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/athletes" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-5">ATHLETES <i class="fa fa-angle-down" aria-hidden="true"></i></a></h2>
+                    <div class="cols-4 accessible-megamenu-panel " role="region" aria-expanded="false" aria-hidden="true" arial-labelledby="accessible-megamenu-parent-5">
+			
+                         
+		<h3><a href="/athletes" data-drupal-link-system-path="node/83747">ATHLETES</a></h3>
+	      <ol class="menu-level1 ">
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/athletes-council" data-drupal-link-system-path="node/80368">ATHLETES&#039; COUNCIL</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/athletes-council" data-drupal-link-system-path="node/80368">WHO WE ARE</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/athletes-council-mission" data-drupal-link-system-path="node/86747">WHAT WE DO</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/athletes-council/athlete-council-election" data-drupal-link-system-path="node/323601">ATHLETES COUNCIL ELECTION CANDIDATES</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/athletes-forum" data-drupal-link-system-path="node/82099">ATHLETES FORUM</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/athlete-reps" data-drupal-link-system-path="node/86738">ATHLETE REPRESENTATIVES</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/agitos-foundation/proud-paralympian">PROUD PARALYMPIAN</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/athlete-resources" data-drupal-link-system-path="node/86741">ATHLETE RESOURCES</a></span>
+		         </li>
+        </ol>
+  
+			  
+			</div>
+              </li>
+                        <li  class="menu-item menu-item--expanded accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/teams-npc" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-6">TEAMS/NPC <i class="fa fa-angle-down" aria-hidden="true"></i></a></h2>
+                    <div class="cols-4 accessible-megamenu-panel " role="region" aria-expanded="false" aria-hidden="true" arial-labelledby="accessible-megamenu-parent-6">
+			
+                         
+		<h3><a href="/teams-npc" data-drupal-link-system-path="node/86703">TEAMS/NPC</a></h3>
+	      <ol class="menu-level1 ">
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/refugee-paralympic-team" data-drupal-link-system-path="node/320437">REFUGEE PARALYMPIC TEAM </a></span>
+		         </li>
+        </ol>
+  
+			  
+			</div>
+              </li>
+                        <li  class="menu-item menu-item--expanded accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/ipc" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-7">IPC <i class="fa fa-angle-down" aria-hidden="true"></i></a></h2>
+                    <div class="cols-4 accessible-megamenu-panel " role="region" aria-expanded="false" aria-hidden="true" arial-labelledby="accessible-megamenu-parent-7">
+			
+                         
+		<h3><a href="/ipc" data-drupal-link-system-path="node/83294">IPC</a></h3>
+	      <ol class="menu-level1 ">
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/ipc/history" data-drupal-link-system-path="node/80533">History</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/paralympic-archive" data-drupal-link-system-path="node/80620">Paralympic archive</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/ipc/who-we-are" data-drupal-link-system-path="node/80530">Who we are</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/ipc-structure" data-drupal-link-system-path="node/80638">Structure</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/ipc-governing-board" data-drupal-link-system-path="node/79603">Governing Board</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/ipc-bodies" data-drupal-link-system-path="node/80539">IPC Bodies</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/ipc/federations" data-drupal-link-system-path="node/80635">Federations</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/the-ipc/management-team" data-drupal-link-system-path="node/309460">TEAM IPC </a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/sponsors" data-drupal-link-system-path="node/80503">PARTNERS</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/airbnb" data-drupal-link-system-path="node/82303">Airbnb</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors" data-drupal-link-system-path="node/80503">Alibaba</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/allianz" data-drupal-link-system-path="node/316045">ALLIANZ</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/atos" data-drupal-link-system-path="node/82294">Atos</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/bridgestone" data-drupal-link-system-path="node/82861">Bridgestone</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/Coca-Cola-Mengniu" data-drupal-link-system-path="node/314143">Coca-Cola Mengniu</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors" data-drupal-link-system-path="node/80503">Deloitte</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors" data-drupal-link-system-path="node/80503">Intel</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors" data-drupal-link-system-path="node/80503">Omega</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/ottobock" data-drupal-link-system-path="node/82288">Ottobock</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors" data-drupal-link-system-path="node/80503">P&amp;G</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/panasonic" data-drupal-link-system-path="node/82297">Panasonic</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/samsung" data-drupal-link-system-path="node/82291">Samsung</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/toyota" data-drupal-link-system-path="node/82282">Toyota</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/visa" data-drupal-link-system-path="node/82285">Visa</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/sponsors/governmental-partners" data-drupal-link-system-path="node/82300">GOVERNMENTAL PARTNERS</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/media-office" data-drupal-link-system-path="node/79483">MEDIA OFFICE</a></span>
+		         </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/ipc/awards" data-drupal-link-system-path="node/80563">AWARDS</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/paralympic-order" data-drupal-link-system-path="node/80578">Paralympic Order</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/paralympic-games-appreciation-award" data-drupal-link-system-path="node/331411">Paralympic Games Appreciation Award</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/hall-of-fame" data-drupal-link-system-path="node/80335">Hall of Fame</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/para-sports-awards" data-drupal-link-system-path="node/80575">Para Sports Awards</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/IPC-scientific-award" data-drupal-link-system-path="node/80569">IPC Scientific Award</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/paralympic-external-awards" data-drupal-link-system-path="node/80566">External awards</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/ipc-handbook" data-drupal-link-system-path="node/80551">HANDBOOK</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/logo" data-drupal-link-system-path="node/331375">Paralympic symbol</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/careers" data-drupal-link-system-path="node/79579">Join Team IPC</a></span>
+		         </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/antidoping" data-drupal-link-system-path="node/80527">ANTI-DOPING</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/antidoping-education" data-drupal-link-system-path="node/80644">Education Resources</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/prohibited-list" data-drupal-link-system-path="node/326275">THE PROHIBITED LIST</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/risks-supplement-use" data-drupal-link-system-path="node/326277">RISKS OF SUPPLEMENT USE</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/antidoping-testing" data-drupal-link-system-path="node/80653">THE TESTING PROCESS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/antidoping-athlete-whereabouts" data-drupal-link-system-path="node/315796">ATHLETE WHEREABOUTS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/antidoping-tue" data-drupal-link-system-path="node/80647">THERAPEUTIC USE EXEMPTIONS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/consequences-doping" data-drupal-link-system-path="node/326279">CONSEQUENCES OF DOPING</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/antidoping-sanctioned-athletes" data-drupal-link-system-path="node/80656">LIST OF SANCTIONED ATHLETES </a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/antidoping-documents" data-drupal-link-system-path="node/86258">DOCUMENTS AND STATISTICS</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/russian-paralympic-committee-reinstatement" data-drupal-link-system-path="node/210486">RUSSIA REINSTATEMENT</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/medical" data-drupal-link-system-path="node/80524">Medical</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/medical/injury-and-illness-surveys" data-drupal-link-system-path="node/80872">Illness and Injury Surveys</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/medical/npc-physician-workshops" data-drupal-link-system-path="node/80866">NPC Physician Workshops</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/medical/violence-and-abuse" data-drupal-link-system-path="node/82135">Safe Sport</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/mental-health">Mental Health</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="/science" data-drupal-link-system-path="node/80521">Science</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/science/strategic-partnerships" data-drupal-link-system-path="node/80767">Strategic partnerships</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/science/research-at-events" data-drupal-link-system-path="node/80770">Research</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/ipc-scientific-conferences-vista" data-drupal-link-system-path="node/303646">Vista</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/vista-2023" data-drupal-link-system-path="node/319402">Vista 2023</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/publications" data-drupal-link-system-path="node/80560">Publications</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/volunteer-roles" data-drupal-link-system-path="node/323345">VOLUNTEER ROLES</a></span>
+		         </li>
+        </ol>
+  
+			  
+			</div>
+              </li>
+                        <li  class="menu-item menu-item--expanded accessible-megamenu-top-nav-item nav-item"> 
+          <h2><a href="/agitos-foundation" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-8">DEVELOPMENT <i class="fa fa-angle-down" aria-hidden="true"></i></a></h2>
+                    <div class="cols-4 accessible-megamenu-panel " role="region" aria-expanded="false" aria-hidden="true" arial-labelledby="accessible-megamenu-parent-8">
+			
+                         
+		<h3><a href="/agitos-foundation" data-drupal-link-system-path="node/81271">DEVELOPMENT</a></h3>
+	      <ol class="menu-level1 ">
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="https://www.paralympic.org/agitos-foundation">Agitos Foundation</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="https://www.paralympic.org/grant-support-programme">GRANT SUPPORT PROGRAMME</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="/im-possible" data-drupal-link-system-path="node/86714">I&#039;mPOSSIBLE</a></span>
+		         </li>
+                        <li  class="menu-item menu-item--expanded menu-item-level1">
+          <span class=menu-item-level1><a href="https://www.paralympic.org/proud-paralympian">Proud Paralympian</a></span>
+		   			<hr>
+                         
+	      <ol class="menu-level2 ">
+                        <li  class="menu-item menu-item-level2">
+          <span class=menu-item-level2><a href="/proud-paralympian/jointheconversation" data-drupal-link-system-path="node/320581">JOIN THE CONVERSATION</a></span>
+		         </li>
+        </ol>
+  
+			  
+                 </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="https://www.paralympic.org/road-to-the-games">Road to the Games</a></span>
+		         </li>
+                        <li  class="menu-item menu-item-level1">
+          <span class=menu-item-level1><a href="https://www.paralympic.org/en-sus-marcas-listos-inclusion">En sus marcas, listos... Inclusión</a></span>
+		         </li>
+        </ol>
+  
+			  
+			</div>
+              </li>
+        </ol>
+  
+
+</nav>
+
+
+</div>
+      
+          </div>
+          
+      </div>
+
+      <div class="claim_web">
+            <a tabindex="0" href="/" style="font-size: 1.7rem;color: black;">
+            
+            <div class="field field--name-field-header-slogan field--type-string field--label-hidden field__item">INTERNATIONAL PARALYMPIC COMMITTEE</div>
+      	  
+            </a>
+      </div>
+
+
+              </div>
+            </section>
+
+	
+
+
+  </div>
+     </div>
+  </header>
+  
+  <section class="main-content">
+      <main class="page-content clearfix" role="main">
+          <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+		<div id="block-main-ipc-master-content" class="block block-system block-system-main-block" aria-label="system-main-block">
+	  
+	  	  
+	  		<div class="content">
+		  The requested page could not be found.
+		</div>
+	  	</div>
+
+  </div>
+
+      </main>
+  </section>
+
+  <footer class="content-footer">
+    <div class="layout-container">
+      <div class="footer-first">
+          <div class="region region-footer-first">
+    					<section id="block-mainipcworldwidepartners" class="block block-block-content block-block-content4a84c056-23db-4c27-836f-a04e94562fde clearfix apes-partners-block template1">
+  
+      
+    <h2 class="block-title">Worldwide Paralympic Partners</h2>
+    
+
+          <div class="partner-container">
+                                
+<article about="/node/306961" aria-label="apes_partner Partner Airbnb" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="" href="/sponsors/airbnb">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2023-05/Airbnb%20logo%20new.jpg" width="1400" height="439" alt="Airbnb_Horizontal_RGB_2019.jpg" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/316030" aria-label="apes_partner Alibaba logo" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-01/Alibaba%20.jpg" width="661" height="309" alt="Alibaba logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82909" aria-label="apes_partner Partner Allianz" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to Allianz partner page" href="https://www.paralympic.org/sponsors/allianz">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2019-02/Allianz.png" width="103" height="39" alt="Allianz Logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82888" aria-label="apes_partner Partner Atos" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to Atos partner page" href="/sponsors/atos">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2019-02/Atos_blue.png" width="70" height="39" alt="Atos Logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82891" aria-label="apes_partner Partner Bridgestone" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to Bridgestone partner page" href="/sponsors/bridgestone">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2019-02/Bridgestone-logo.jpg" width="83" height="55" alt="Bridgestone Logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/316036" aria-label="apes_partner Coco-Cola Mengniu logo" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="" href="/sponsors/Coca-Cola-Mengniu">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-01/Coca-Cola%20Mengniu_0.jpg" width="1522" height="263" alt="The Coca-Cola Mengnui logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/324889" aria-label="apes_partner Deloitte" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2022-04/DEL_PRI_RGB.png" width="1614" height="656" alt="Deloitte" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/316027" aria-label="apes_partner Intel logo" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-01/Intel%20new.jpg" width="1350" height="629" alt="Intel logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/316033" aria-label="apes_partner Omega logo" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-01/Omega%20new%20logo_0.jpg" width="747" height="389" alt="Omega logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82894" aria-label="apes_partner Partner Ottobock" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to OttoBock partner page" href="/sponsors/ottobock">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2022-06/ob_empowerment_logo2022_no_tagline_rgb.png" width="3611" height="583" alt="The word ottobock written on a white background in dark blue lettering." typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82897" aria-label="apes_partner Partner Panasonic" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to Panasonic partner page" href="/sponsors/panasonic">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2023-05/panasonic%20logo%20new.jpg" width="1200" height="183" alt="Panasonic " typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/316039" aria-label="apes_partner P&amp;G logo" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-01/P%26G%20New_0.jpg" width="304" height="275" alt="P&amp;G logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82900" aria-label="apes_partner Partner Samsung" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to Samsung partner page" href="/sponsors/samsung">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2020-03/Samsung_Orig_Lettermark_BLUE_RGB.jpg" width="545" height="85" alt="Samsung logo.jpg" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/82903" aria-label="apes_partner Partner Toyota" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="Go to Toyota partner page" href="/sponsors/toyota">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2019-02/TOYOTA.png" width="109" height="39" alt="Toyota Logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/322901" aria-label="apes_partner Visa New" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a title="" href="https://www.paralympic.org/sponsors/visa">
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2021-10/Visa_Brandmark_Blue_RGB_2021.png" width="1000" height="324" alt="Visa New" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                        </div>
+   
+</section>
+
+	
+
+
+  </div>
+
+      </div>
+      <div class="footer-second">
+          <div class="region region-footer-second">
+    					<section id="block-institutionalpartners" class="block block-block-content block-block-contente39aeb57-0279-43be-82e9-ddf212c25509 clearfix apes-partners-block template1">
+  
+      
+    <h2 class="block-title">Institutional Partners </h2>
+    
+
+          <div class="partner-container">
+                                
+<article about="/node/312298" aria-label="apes_partner German Federal Ministry of the Interior logo" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2022-03/German%20Federal%20Ministry%20of%20the%20Interior%20logo.jpg" width="1232" height="1400" alt="German Federal Ministry of the Interior logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/310966" aria-label="apes_partner Staatskanzlei des Landes Nordrhein-Westfalen" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2023-05/Nordrheim%20Westfalen.jpg" width="1400" height="287" alt="Staatskanzlei des Landes Nordrhein-Westfalen logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                                            
+<article about="/node/310978" aria-label="apes_partner Freude Joy Joie Bonn" class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix">
+  <header>
+    
+    
+      </header>
+  <div class="node__content clearfix">
+      <a>
+        
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img  src="/sites/default/files/2020-03/BONN%20Freude%20logo_0.jpg" width="1077" height="945" alt="Freude Joy Joie Bonn logo" typeof="foaf:Image" class="lazyload" />
+
+</div>
+      
+    </a>
+  </div>
+</article>
+                        </div>
+   
+</section>
+
+	
+
+
+  </div>
+
+      </div>
+    </div>
+    <div class="layout-container">
+      <div class="footer-main">
+          <div class="region region-footer-fifth">
+    	
+						<section id="block-mainipcfooter" class="block block-block-content block-block-contentba1240d2-d10b-4571-9265-3f46d73aa8d5 clearfix apes-footer template1">
+    
+            
+                        <a href="#" id="return-to-top">
+            <i class="fas fa-angle-double-up"></i>
+        </a>
+                <div class="content">
+            <div class="top">
+                <div class="ipc-detail">
+                    <div class="logo-footer">
+                         
+            <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden field__item"><article aria-label="IPC NEW LOGO Footer" class="media media--type-image media--view-mode-logo-header">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Imagen</div>
+              <div class="field__item">  <img  src="/sites/default/files/styles/header_logo/public/2021-06/IPC-13.png?itok=2mATaBOF" width="100" height="100" alt="IPC NEW LOGO Footer" typeof="foaf:Image" class="image-style-header-logo lazyload" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+
+                        <div class="contact-wrap">
+                            <div class="contact-line">
+                                <div class="title">
+                                    <h2>
+                                                                                
+            <div class="field field--name-field-footer-slogan field--type-string field--label-hidden field__item">Official Website of the Paralympic Movement</div>
+      
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="contact-line secondary-slogan">
+                                <div class="title">
+                                    <h2>
+                                        								
+  <div class="field field--name-field-secondary-slogan field--type-string field--label-above">
+    <div class="field__label">Secondary Slogan</div>
+              <div class="field__item">International Paralympic Committee</div>
+          </div>
+
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="contact-line">
+                                <span>
+            <div class="field field--name-field-footer-address field--type-link field--label-hidden field__item"><a href="https://www.google.com/maps/place/Adenauerallee+212-214,+53113+Bonn,+Germany/@50.7196979,7.1139362,17z/data=!3m1!4b1!4m5!3m4!1s0x47bee164536aa059:0x862903df69164c55!8m2!3d50.7196979!4d7.1161249" target="_blank">Adenauerallee 212-214, 53113 Bonn, Germany</a></div>
+      </span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="ipc-contact">
+
+                        <div class="contact-line">
+                                                        <div class="contact-line-item">
+                                <i class="fas fa-mobile-alt"></i>
+                                <span>
+            <div class="field field--name-field-footer-phone field--type-string field--label-hidden field__item">+49-228-2097-200</div>
+      </span>
+                            </div>
+                                                                                    <div class="contact-line-item">
+                                <i class="fas fa-fax"></i>
+                                <span>
+            <div class="field field--name-field-footer-fax field--type-string field--label-hidden field__item">+49-228-2097-209</div>
+      </span>
+                            </div>
+                                                                                    <div class="contact-line-item">
+                                <a href="mailto:info@paralympic.org" title="#" tabindex="0">
+                                    <i class="fas fa-envelope"></i>
+                                    <span>
+            <div class="field field--name-field-footer-email field--type-email field--label-hidden field__item">info@paralympic.org</div>
+      </span></a>
+                            </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+            <div class="bottom">
+                <div class="links-us">
+                    <div class="us-claim">
+                                                
+                    </div>
+                    <div class="us-list">
+                        
+            <div class="field field--name-field-footer-menu field--type-apes-menu-field field--label-hidden field__item">
+              <ul class="clearfix menu">
+                    <li class="menu-item">
+        <a href="/ipc" title="About the IPC" data-drupal-link-system-path="node/83294">About the IPC</a>
+              </li>
+                <li class="menu-item">
+        <a href="/media-office" title="Media Link" data-drupal-link-system-path="node/79483">Media</a>
+              </li>
+                <li class="menu-item">
+        <a href="/frequently-asked-questions" title="FAQ Link" data-drupal-link-system-path="node/80683">FAQ</a>
+              </li>
+                <li class="menu-item">
+        <a href="/imprint" title="Imprint Link" data-drupal-link-system-path="node/80686">Imprint</a>
+              </li>
+                <li class="menu-item">
+        <a href="/privacy" title="Privacy Policy &amp; Terms and Condicitions" data-drupal-link-system-path="node/82735">Privacy Policy &amp; Terms and Conditions</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cookie-declaration" title="Cookie Declaration page" data-drupal-link-system-path="node/314119">Cookie Declaration</a>
+              </li>
+                <li class="menu-item">
+        <a href="/careers" title="Careers Link" data-drupal-link-system-path="node/79579">Careers</a>
+              </li>
+        </ul>
+  
+
+</div>
+      
+                    </div>
+                </div>
+            </div>
+            </div>
+                        </section>
+	
+
+
+  </div>
+
+      </div>
+    </div>
+  </footer>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","currentQuery":{"file":"images\/20150215\/140721132441183_IMG_2855_0.JPG","itok":"cewNuxf5"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"apes_google_analytics":{"code":null},"google_analytics":{"account":"G-6TNCMVEHQ6","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"ajaxTrustedUrl":{"\/search\/node":true},"languageswitcher":{"active_language":"en"},"user":{"uid":0,"permissionsHash":"0359d056b106f412e9986a2101afe3b11a35338df08a3a7b4dfebac637e9d251"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.5.1"></script>
+<script src="/core/misc/polyfills/object.assign.js?v=8.9.13"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.3"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.9.13"></script>
+<script src="/core/misc/drupal.js?v=8.9.13"></script>
+<script src="/core/misc/drupal.init.js?v=8.9.13"></script>
+<script src="/modules/custom/apes_google_analytics/js/tracking_code.js?v=1.x" type="text/plain" data-cookieconsent="statistics"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.9.13"></script>
+<script src="/themes/custom/apes_front_theme/js/jquery-accesibleMegaMenu.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/scroll.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/scale.fix.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/custom.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/languageswitcher/languageswitcher.js?s633se"></script>
+<script src="/core/assets/vendor/js-cookie/js.cookie.min.js?v=3.0.0-rc0"></script>
+<script src="/core/misc/jquery.cookie.shim.js?v=8.9.13"></script>
+<script src="/modules/contrib/cookiebot/js/cookiebot.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/returnontop.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/accessibility/cookiesutils.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/accessibility/textresizer.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/accessibility/megamenu_overwrite.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/eu_cookie_buttons/eu_cookie_buttons.js?s633se"></script>
+<script src="/themes/custom/apes_front_theme/js/cookiebot/cookiebot_callback.js?s633se"></script>
+
+    <script type="text/plain" data-cookieconsent="statistics marketing">(function(){var s = document.createElement("script");s.setAttribute("data-account","auFeha0CUz");s.setAttribute("src","https://cdn.userway.org/widget.js");document.body.appendChild(s);})();</script><noscript>Enable JavaScript to ensure <a href="https://userway.org">website accessibility</a></noscript>
+
+      
+        
+	<script>
+	const homeclass = document.querySelector('.layout-no-sidebars');
+  
+  let isFrontPage = document.querySelector('body').matches('.layout-no-sidebars.path-frontpage');
+
+  let stickyBlockExist = document.getElementById("sticky_tokyo_block");
+
+    if(homeclass.classList.contains('path-frontpage')){
+
+    }else{
+      
+      if(stickyBlockExist){
+        document.getElementById("sticky_tokyo_block").style.display = "none";
+      }
+
+    }
+    
+    let isParaSportsPage = document.querySelector('body').matches('.layout-no-sidebars.para-sports-page');
+    if(isParaSportsPage){  
+      const buttonRight = document.getElementById('right_arrow');
+      const buttonLeft = document.getElementById('left_arrow');
+      
+      var listWrapCount = document.querySelectorAll('#list_wrap .list-item').length;
+      var leftArrow = document.getElementById('left_arrow');
+      var rightArrow = document.getElementById('right_arrow');
+
+      if(listWrapCount <= 3){
+        leftArrow.classList.add("arrow-disabled");
+        rightArrow.classList.add("arrow-disabled");
+      }else{
+        leftArrow.classList.add("arrow-disabled");
+        rightArrow.classList.remove("arrow-disabled");
+        buttonRight.onclick = function () {
+          document.getElementById('list_wrap').style.left = "-1085px";
+          leftArrow.classList.remove("arrow-disabled");
+          rightArrow.classList.add("arrow-disabled");
+        };
+        buttonLeft.onclick = function () {
+          document.getElementById('list_wrap').style.left = "0px";
+          leftArrow.classList.add("arrow-disabled");
+          rightArrow.classList.remove("arrow-disabled");
+        };
+      }
+    }    
+    </script>
+
+    <script>
+
+      let isBeijingPage = document.querySelector('body').matches('.layout-no-sidebars.default-beijing-2022');
+      let snowflakesExist = document.getElementById("snowflakes_id");
+
+      if(!isBeijingPage){
+        if(snowflakesExist){
+          document.getElementById("snowflakes_id").style.display = "none";
+        }
+      }
+
+      let beijingPageIdExist = document.getElementById("beijing_2022_pageid");
+
+      if(beijingPageIdExist){
+        body.classList.add("default-beijing-2022");
+
+        // element should be replaced with the actual target element on which you have applied scroll, use window in case of no target element.
+        window.addEventListener("scroll", function(){ 
+           var st_ = window.pageYOffset || document.documentElement.scrollTop; 
+           if (st_ > lastScrollTopBeijing){
+              // downscroll code
+              body.classList.add("beijing-2022-scroll");
+           } 
+           if(st_ == 0){
+              // upscroll code
+              body.classList.remove("beijing-2022-scroll");
+           }
+           lastScrollTopBeijing = st_ <= 0 ? 0 : st_; // For Mobile or negative scrolling
+        }, false);
+      }
+
+	let isLivePage = document.querySelector('body').matches('.layout-no-sidebars.path-beijing-live-updates');
+      if(isLivePage){
+        [].forEach.call(document.querySelectorAll('.node__meta'), function (el) {
+          el.style.display = 'none';
+        });
+      }
+      document.getElementById("edit-keys").placeholder = "Search..";
+    
+    </script>
+    <script>
+if (window.location.href === "https://www.paralympic.org/para-sport/citi-volunteer-award-poll") 
+{
+    // Find the element with id "block-mainipcheader"
+    const mainipcheader = document.getElementById("block-mainipcheader");
+    const mainipcfooter = document.getElementById("block-mainipcworldwidepartners");
+    const mainipcsecondfooter = document.getElementById("block-institutionalpartners");
+    const mainipcfifthfooter = document.getElementById("block-mainipcfooter");
+    // Check if the element exists before proceeding
+    if (mainipcheader) {
+        // Define the new HTML markup
+        const newMarkup = `
+        <section id="block-parasportsheader" class="block block-block-content block-block-content612c13ab-32f4-4b38-bdc2-6d2ccb8b90aa clearfix apes-header-block template1 world-para-sport"> <div class="layout-Container"> <div class="header-back-url-container"> <div class="header-back-url"> </div> </div> <div class="header-site" style="background-image:url(/)"> <div class="header-elements"> <div class="logo-site test"> <div class="content-logo-site"> <a tabindex="0" href="/para-sport"> <article aria-label="Para Sports Logo" class="media media--type-image media--view-mode-logo-header"> <div class="field field--name-field-media-image field--type-image field--label-visually_hidden"> <div class="field__label visually-hidden">Imagen</div> <div class="field__item"> <img src="/sites/default/files/styles/header_logo/public/2022-01/ParaSports-Logo-01.png?itok=Aivgf-sr" width="603" height="100" alt="Para Sports Logo" typeof="foaf:Image" class="image-style-header-logo lazyload" data-uw-rm-ima-original="para sports logo"></div> </div> </article> </a> </div> </div> <div class="menu-header"> <div class="header-menu-container"> <div class="field field--name-field-header-menu field--type-apes-menu-field field--label-hidden field__item"><nav class="megamenu" aria-label="navigation megamenu" role="navigation"> <button class="accessible-megamenu-toggle" aria-expanded="false" aria-pressed="false" aria-controls="accessible-megamenu-1693571189596-1"> <span class="sr-only">Toggle Navigation</span> <span></span><span></span><span></span> </button> <div class="header-block-items"> <div class="actions-mobile"> <div class="language"> <div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface"> <div class="content"> <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-system-path="system/403" class="en is-active"><span><a href="/system/403" class="language-link" hreflang="en" data-drupal-link-system-path="system/403">English</a></span></li><li hreflang="es" data-drupal-link-system-path="system/403" class="es"><span><a href="/es/system/403" class="language-link" hreflang="es" data-drupal-link-system-path="system/403">Español</a></span></li></ul></div> </div> </div> </div> </div> <ol class="clearfix menu accessible-megamenu js-accessible-megamenu nav-menu js-nav-menu" id="accessible-megamenu-1693571189596-1"> <li class="accessible-megamenu-top-nav-item nav-item"> <div class="search sub-nav" role="region" aria-label="mobile search form" aria-expanded="false" aria-hidden="true" id="accessible-megamenu-1693571189597-3"> <form action="/search/node"> <div class="content-search-header"> <!-- input type="text" value="Search" --><input placeholder="Search" title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" maxlength="128" aria-label="search" data-uw-rm-form="fx"><input type="submit" class="visually-hidden" aria-label="submit" data-uw-rm-empty-ctrl=""> <i class="fas fa-search"></i> </div> </form> </div> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189598-4" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-1"><a href="/para-sport" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-1" aria-controls="accessible-megamenu-1693571189598-4">HOME <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189599-5" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-2"><a href="/para-sport/about" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-2" aria-controls="accessible-megamenu-1693571189599-5">About <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189599-6" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-3"><a href="/para-sport/news" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-3" aria-controls="accessible-megamenu-1693571189599-6">News <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189599-7" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav" aria-labelledby="accessible-megamenu-parent-4"><a href="/para-sport/partners/citi" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-4" aria-controls="accessible-megamenu-1693571189599-7">Partners <i class="" aria-hidden="true"></i></a></h2> </li> </ol> </nav></div> </div> </div> <div class="top-menu"> <div class="actions-top-menu"> <div class="top-menu-first"> <div class="language"> <div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface"> <div class="content"> <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-system-path="system/403" class="en is-active"><span><a href="/system/403" class="language-link" hreflang="en" data-drupal-link-system-path="system/403">English</a></span></li><li hreflang="es" data-drupal-link-system-path="system/403" class="es"><span><a href="/es/system/403" class="language-link" hreflang="es" data-drupal-link-system-path="system/403">Español</a></span></li></ul></div> </div> </div> </div> <div class="top-menu-second"> <div class="search"> <div role="search" class="block block-search container-inline"> <div class="content container-inline"> <form class="search-block-form search-form" data-drupal-selector="search-block-form" action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8"> <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label"> <label for="edit-keys" class="visually-hidden">Search</label> <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" aria-label="input edit-keys" placeholder="Search.." data-uw-rm-form="nfx"> </div><div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" aria-label="input edit-submit" data-uw-rm-form="submit"></div></form> </div> </div> </div> <div class="social"> <div class="field field--name-field-header-social-menu field--type-apes-menu-field field--label-hidden field__item"> <ul class="clearfix menu social"> <li class="social-item"> <a href="https://www.facebook.com/parasport" title="Facebook" target="_blank" aria-label="Facebook icon Facebook - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.facebook.com/parasport$facebookiconfacebook"> <img alt="Facebook icon" src="/sites/default/files/public%3A//menu_image/2022-01/FB_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="facebook icon"> Facebook </a> </li> <li class="social-item"> <a href="https://www.instagram.com/parasport_" title="Instagram" target="_blank" aria-label="Instagram icon Instagram - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.instagram.com/parasport_$instagramiconinstagram"> <img alt="Instagram icon" src="/sites/default/files/public%3A//menu_image/2022-01/Insta_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="instagram icon"> Instagram </a> </li> <li class="social-item"> <a href="https://twitter.com/parasport" title="Twitter" target="_blank" aria-label="Twitter icon Twitter - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://twitter.com/parasport$twittericontwitter"> <img alt="Twitter icon" src="/sites/default/files/public%3A//menu_image/2022-01/Twitter_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="twitter icon"> Twitter </a> </li> <li class="social-item"> <a href="https://www.youtube.com/channel/UC_5qfkzkx5m_DyDuvYPiRSQ" title="Youtube" target="_blank" aria-label="Youtube icon Youtube - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.youtube.com/channel/uc_5qfkzkx5m_dyduvypirsq$youtubeiconyoutube"> <img alt="Youtube icon" src="/sites/default/files/public%3A//menu_image/2022-05/Youtube_White_1.png" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="youtube icon"> Youtube </a> </li> </ul> </div> </div> </div> </div> </div> </div> </div> <div class="menu-header"> <div class="header-menu-container"> <div class="field field--name-field-header-menu field--type-apes-menu-field field--label-hidden field__item"><nav class="megamenu" aria-label="navigation megamenu" role="navigation"> <button class="accessible-megamenu-toggle" aria-expanded="false" aria-pressed="false" aria-controls="accessible-megamenu-1693571189600-8"> <span class="sr-only">Toggle Navigation</span> <span></span><span></span><span></span> </button> <div class="header-block-items"> <div class="actions-mobile"> <div class="language"> <div role="navigation" class="block block-language block-language-blocklanguage-interface" aria-label="language-blocklanguage-interface"> <div class="content"> <ul class="language-switcher-language-url"><li hreflang="en" data-drupal-link-system-path="system/403" class="en is-active"><span><a href="/system/403" class="language-link" hreflang="en" data-drupal-link-system-path="system/403">English</a></span></li><li hreflang="es" data-drupal-link-system-path="system/403" class="es"><span><a href="/es/system/403" class="language-link" hreflang="es" data-drupal-link-system-path="system/403">Español</a></span></li></ul></div> </div> </div> </div> </div> <ol class="clearfix menu accessible-megamenu js-accessible-megamenu nav-menu js-nav-menu" id="accessible-megamenu-1693571189600-8"> <li class="accessible-megamenu-top-nav-item nav-item"> <div class="search sub-nav" role="region" aria-label="mobile search form" aria-expanded="false" aria-hidden="true" id="accessible-megamenu-1693571189600-10"> <form action="/search/node"> <div class="content-search-header"> <!-- input type="text" value="Search" --><input placeholder="Search" title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys--2" name="keys" value="" maxlength="128" aria-label="search" data-uw-rm-form="fx"><input type="submit" class="visually-hidden" aria-label="submit" data-uw-rm-empty-ctrl=""> <i class="fas fa-search"></i> </div> </form> </div> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-12" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-1">HOME <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-14" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport/about" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-2">About <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-16" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport/news" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-3">News <i class="" aria-hidden="true"></i></a></h2> </li> <li class="menu-item accessible-megamenu-top-nav-item nav-item"> <h2 id="accessible-megamenu-1693571189600-18" role="region" aria-expanded="false" aria-hidden="true" class="sub-nav"><a href="/para-sport/partners/citi" role="button" aria-expanded="false" tabindex="0" class="" id="accessible-megamenu-parent-4">Partners <i class="" aria-hidden="true"></i></a></h2> </li> </ol> </nav></div> </div> </div> <div class="claim_web"> <a tabindex="0" href="/para-sport" style="font-size: 1.7rem;color: black;" aria-label="www.paralympic.org" data-uw-rm-empty-ctrl=""> </a> </div> </div> </section>
+        `;
+
+        // Replace the existing markup with the new markup
+        mainipcheader.innerHTML = newMarkup;
+    } else {
+        console.error("Element with id 'block-mainipcheader' not found.");
+    }
+
+    if(mainipcfooter){
+        const footerNewMarkup = `
+        <section id="block-foundingpartner" class="block block-block-content block-block-contentc162db93-74ff-474f-8dd2-2abf1202c6f8 clearfix apes-partners-block template1"> <h2 class="block-title">Founding Partner</h2> <div class="partner-container"> <article about="/node/325315" aria-label="apes_partner Para Sport Parner Citi " class="node node--type-apes-partner node--promoted node--view-mode-apes-partners-template1 clearfix"> <header> </header> <div class="node__content clearfix"> <a title="Para Sport Citi Partner" href="https://www.paralympic.org/para-sport/partners/citi"> <div class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2023-09/City%20Logo_600x412.png" width="600" height="412" alt="the official logo of the Citi Group" title="Citi logo" typeof="foaf:Image" class="lazyload" data-uw-rm-ima-original="the official logo of the citi group"></div> </a> </div></article> </div> </section>
+        `;
+    mainipcfooter.innerHTML = footerNewMarkup;
+    mainipcsecondfooter.style.display = 'none';
+    } else {
+        console.error("Element with id 'block-mainipcworldwidepartners' not found.");
+    }
+
+    if(mainipcfifthfooter){
+        const ipcfifthnewMarkup = `<section id="block-parasportsfooter-1" class="block block-block-content block-block-content79771eac-56e1-45ca-875b-9abe3c751970 clearfix apes-footer template1"> <a href="#" id="return-to-top" style="display: inline;" aria-label="angle-double-up" data-uw-rm-empty-ctrl=""> <i class="fas fa-angle-double-up"></i> </a> <div class="content"> <div class="top"> <div class="ipc-detail"> <div class="logo-footer"> <div class="field field--name-field-footer-logo field--type-entity-reference field--label-hidden field__item"><article aria-label="Para Sports Footer Logo" class="media media--type-image media--view-mode-logo-header"> <div class="field field--name-field-media-image field--type-image field--label-visually_hidden"> <div class="field__label visually-hidden">Imagen</div> <div class="field__item"> <img src="/sites/default/files/styles/header_logo/public/2022-01/footer_para_sports.png?itok=IQypTpGt" width="148" height="100" alt="Para Sports Footer Logo" typeof="foaf:Image" class="image-style-header-logo lazyload" data-uw-rm-ima-original="para sports footer logo"> </div> </div> </article> </div> <div class="contact-wrap"> <div class="contact-line"> <div class="title"> <h2 role="presentation" aria-hidden="true" data-uw-rm-heading="hide"> <span style="color: #ffffff!important;background: #000000!important;clip: rect(1px, 1px, 1px, 1px)!important;clip-path: inset(50%)!important;height: 1px!important;width: 1px!important;margin: -1px!important;overflow: hidden!important;padding: 0!important;position: absolute!important;" class="data-uw-rm-autofix-hide" data-uw-rm-ignore="">Empty heading</span></h2> </div> </div> <div class="contact-line secondary-slogan"> <div class="title"> <h2> <div class="field field--name-field-secondary-slogan field--type-string field--label-above"> <div class="field__label">Secondary Slogan</div> <div class="field__item">International Paralympic Committee</div> </div> </h2> </div> </div> <div class="contact-line"> <span> <div class="field field--name-field-footer-address field--type-link field--label-hidden field__item"><a href="https://www.google.com/maps/place/Adenauerallee+212-214,+53113+Bonn,+Germany/@50.7196979,7.1139362,17z/data=!3m1!4b1!4m5!3m4!1s0x47bee164536aa059:0x862903df69164c55!8m2!3d50.7196979!4d7.1161249" target="_blank" aria-label="Adenauerallee 212-214, 53113 Bonn, Germany - opens in new tab" data-uw-rm-ext-link="" uw-rm-external-link-id="https://www.google.com/maps/place/adenauerallee+212-214,+53113+bonn,+germany/@50.7196979,7.1139362,17z/data=!3m1!4b1!4m5!3m4!1s0x47bee164536aa059:0x862903df69164c55!8m2!3d50.7196979!4d7.1161249$adenauerallee212-214,53113bonn,germany">Adenauerallee 212-214, 53113 Bonn, Germany</a></div> </span> </div> </div> </div> <div class="ipc-contact"> <div class="contact-line"> <div class="contact-line-item"> <i class="fas fa-mobile-alt"></i> <span> <div class="field field--name-field-footer-phone field--type-string field--label-hidden field__item">+49-228-2097-200</div> </span> </div> <div class="contact-line-item"> <i class="fas fa-fax"></i> <span> <div class="field field--name-field-footer-fax field--type-string field--label-hidden field__item">+49-228-2097-209</div> </span> </div> <div class="contact-line-item"> <a href="mailto:info@paralympic.org" title="#" tabindex="0" aria-label="send an email to info@paralympic.org" uw-rm-vague-link-id="mailto:info@paralympic.org$send an email to info@paralympic.org" data-uw-rm-vglnk=""> <i class="fas fa-envelope"></i> <span> <div class="field field--name-field-footer-email field--type-email field--label-hidden field__item">info@paralympic.org</div> </span></a> </div> </div> </div> </div> </div> <div class="bottom"> <div class="links-us"> <div class="us-claim"> </div> <div class="us-list"> <div class="field field--name-field-footer-menu field--type-apes-menu-field field--label-hidden field__item"> <ul class="clearfix menu"> <li class="menu-item"> <a href="/ipc" title="About the IPC" data-drupal-link-system-path="node/83294">About the IPC</a> </li> <li class="menu-item"> <a href="/media-office" title="Media Link" data-drupal-link-system-path="node/79483">Media</a> </li> <li class="menu-item"> <a href="/frequently-asked-questions" title="FAQ Link" data-drupal-link-system-path="node/80683">FAQ</a> </li> <li class="menu-item"> <a href="/imprint" title="Imprint Link" data-drupal-link-system-path="node/80686">Imprint</a> </li> <li class="menu-item"> <a href="/privacy" title="Privacy Policy & Terms and Condicitions" data-drupal-link-system-path="node/82735">Privacy Policy & Terms and Conditions</a> </li> <li class="menu-item"> <a href="/cookie-declaration" title="Cookie Declaration page" data-drupal-link-system-path="node/314119">Cookie Declaration</a> </li> <li class="menu-item"> <a href="/careers" title="Careers Link" data-drupal-link-system-path="node/79579">Careers</a> </li> </ul> </div> </div> </div> </div> </div> </section>`;
+        mainipcfifthfooter.innerHTML = ipcfifthnewMarkup;
+
+    }
+    else{
+        console.error("Element with id 'block-mainipcfooter' not found.");
+    }
+}
+    </script>
+    <script>
+    function removeQueryParameters(url) {
+    return url.split('?')[0];
+    }
+
+    var url = window.location.href;
+    // Remove query parameters from the current URL
+    var currentUrlWithoutParams = removeQueryParameters(url);
+
+   if (currentUrlWithoutParams === "https://www.paralympic.org/" || currentUrlWithoutParams === "https://www.paralympic.org/es") 
+    {
+      // Select the <link> elements you want to work with
+      var enLink = document.querySelector('link[hreflang="en"]');
+      var esLink = document.querySelector('link[hreflang="es"]');
+
+          if (enLink) {
+            var enLinkHref = enLink.getAttribute('href');
+              if (enLinkHref && enLinkHref.startsWith('https://www.paralympic.org/home')) {
+                  // If validation passes, modify the href
+                  enLink.setAttribute('href', "https://www.paralympic.org");
+              }
+          }
+
+          if (esLink) {
+            var esLinkHref = esLink.getAttribute('href');
+              if (esLinkHref && esLinkHref.startsWith('https://www.paralympic.org/es/node/85724')) {
+                  // If validation passes, modify the href
+                  esLink.setAttribute('href', "https://www.paralympic.org/es");
+              }
+          }
+    }
+    </script>
+  </body>
+</html>

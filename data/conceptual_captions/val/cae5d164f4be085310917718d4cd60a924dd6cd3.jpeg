@@ -1,0 +1,1365 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9 lt-ie10" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<script type="text/javascript">
+/* <![CDATA[ */
+ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}}); 
+/* ]]> */
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page Not Found - Manitoba Co-operator</title>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.manitobacooperator.ca/xmlrpc.php" />
+<style type="text/css">
+					.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}
+											.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+					.heateor_sss_horizontal_sharing .heateorSssTCBackground{
+				color:#666;
+			}
+					.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{
+							color: #fff;
+						border-width: 0px;
+			border-style: solid;
+			border-color: transparent;
+		}
+				.heateor_sss_vertical_sharing .heateorSssTCBackground{
+			color:#666;
+		}
+						.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{
+						border-color: transparent;
+		}
+		@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}		</style>
+<meta name="robots" content="noindex, follow" />
+
+<meta property="og:locale" content="en_US" />
+<meta property="og:title" content="Page Not Found - Manitoba Co-operator" />
+<meta property="og:site_name" content="Manitoba Co-operator" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.manitobacooperator.ca/#website","url":"https://www.manitobacooperator.ca/","name":"Manitoba Co-operator","description":"Production, marketing and policy news selected for relevance to crops and livestock producers in Manitoba","publisher":{"@id":"https://www.manitobacooperator.ca/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.manitobacooperator.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.manitobacooperator.ca/#organization","name":"Manitoba Cooperator","url":"https://www.manitobacooperator.ca/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.manitobacooperator.ca/#/schema/logo/image/","url":"https://static.manitobacooperator.ca/wp-content/uploads/2020/03/17140832/manitoba-cooperator.png","contentUrl":"https://static.manitobacooperator.ca/wp-content/uploads/2020/03/17140832/manitoba-cooperator.png","width":300,"height":300,"caption":"Manitoba Cooperator"},"image":{"@id":"https://www.manitobacooperator.ca/#/schema/logo/image/"},"sameAs":["https://twitter.com/MBCooperator"]}]}</script>
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//securepubads.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//stats.wp.com" />
+<link rel="dns-prefetch" href="//players.brightcove.net" />
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.manitobacooperator.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1" type="text/css" media="all" />
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="mediaelement-css" href="https://www.manitobacooperator.ca/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17" type="text/css" media="all" />
+<link rel="stylesheet" id="wp-mediaelement-css" href="https://www.manitobacooperator.ca/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.4.1" type="text/css" media="all" />
+<style id="classic-theme-styles-inline-css" type="text/css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="glacier-carousel-style-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-carousel/assets/css/slick.css?ver=1.1.5" type="text/css" media="all" />
+<link rel="stylesheet" id="agcanada-tv-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-gvp-video/css/agcanada-tv.css?ver=1.1.0" type="text/css" media="all" />
+<link rel="stylesheet" id="gmm-menu-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-membership-menu/assets/css/gfm-membership-menu.css?ver=2.3.9" type="text/css" media="all" />
+<link rel="stylesheet" id="gfm-podcast-css-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-podcast/assets/css/gfm-podcast.css?ver=1.3.1" type="text/css" media="all" />
+<link rel="stylesheet" id="mbc-styles-css" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/css/mbc.css?ver=2.13.651.3.12" type="text/css" media="all" />
+<link rel="stylesheet" id="tailwind-css-output-css" href="https://www.manitobacooperator.ca/wp-content/themes/network_theme/css/framework/tailwind-output.css?ver=2.13.65" type="text/css" media="all" />
+<link rel="stylesheet" id="related_listing-css" href="https://www.manitobacooperator.ca/wp-content/plugins/agdealer-related-listing/css/related-listing.css?ver=1.2.1" type="text/css" media="all" />
+<link rel="stylesheet" id="brightcove-pip-css-css" href="https://players.brightcove.net/videojs-pip/1/videojs-pip.css?ver=2.8.4" type="text/css" media="all" />
+<link rel="stylesheet" id="brightcove-playlist-css" href="https://www.manitobacooperator.ca/wp-content/plugins/brightcove-video-connect/assets/css/brightcove_playlist.min.css?ver=2.8.4" type="text/css" media="all" />
+<link rel="stylesheet" id="explore-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-explore-bar//includes/css/explore-bar.css?ver=1.7.3" type="text/css" media="all" />
+<link rel="stylesheet" id="heateor_sss_frontend_css-css" href="https://www.manitobacooperator.ca/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=3.3.56" type="text/css" media="all" />
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=6.4.1"></script><script async src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-ad-network//assets/js/gpt/gfm-gpt-ad-refresh.js?ver=2.0.1"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js" id="jquery-js"></script>
+<script type="text/javascript" src="https://auth.lrcontent.com/v2/js/LoginRadiusV2.js?ver=2.3.9" id="loginradius-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-membership-menu/assets/js/LoginRadius/LoginRadiusV2SDK.11.2.0.min.js?ver=2.3.9" id="loginradiussdk-js"></script>
+<script type="text/javascript" id="gmm-menu-js-extra">
+/* <![CDATA[ */
+var gmm_menu = {"current_pub_subscription_link":"\/subscriptions\/","site_url__gfm":"https:\/\/www.manitobacooperator.ca","dashboard":"Dashboard","log_out":"Log Out","member_login":"Member Login","profile":"Profile","set_alerts":"Set Alerts","set_follows":"Set Follows","sign_in_to_your_account":"Sign In To Your Account","sign_up_for_membership":"Sign Up For Membership","subscribe":"Subscribe","sign_in":"Sign In","manage_account":"Manage Account","login":"Login","membership":"Membership","register":"Register","forgot_password":"Forgot Password","hello":"Hello","btn_sign_in_tracking_data_attrs":"\n            data-click='gfm-click-tracking' \n            data-module-id='MEMBERSHIP_MENU_BTN_SIGN_IN' \n            data-module-name='Membership Menu Sign In Button' \n            data-module-location='Top Bar'\n            data-page-type='Other'\n        ","btn_subscribe_tracking_data_attrs":"\n            data-click='gfm-click-tracking' \n            data-module-id='MEMBERSHIP_MENU_BTN_SUBSCRIBE' \n            data-module-name='Membership Menu Subscribe Button' \n            data-module-location='Top Bar'\n            data-page-type='Other'\n        ","manage_account_tracking_data_attrs":"\n            data-click='gfm-click-tracking' \n            data-module-id='MEMBERSHIP_MENU_MANAGE_ACCOUNT' \n            data-module-name='Membership Menu Manage Account' \n            data-module-location='Membership Nav'\n            data-page-type='Other'\n        ","current_pub":"Manitoba Co-operator","klaviyo":{"publicApiKey":""},"googleOneTap":{"client_id":"","mode":"popup"}};
+var lrConfig = {"apiKey":"75141eeb-8c9b-4a8e-8a29-653c80621116","recaptcha":"6LfOQgoUAAAAAHKokES9b7Jm2cD7rWW9_XyV_20w","idapi":"https:\/\/id.fbcwebservices.com","subscriptionUrl":"https:\/\/www.glacierfarmmedia.com\/","appName":"farmmedia"};
+/* ]]> */
+</script>
+<script type="text/javascript" async src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-membership-menu/assets/js/gfm-membership-menu.js?ver=2.3.9" id="gmm-menu-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/js/mbc-theme-single.js?ver=1.3.12" id="mbc-script-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/mu-plugins/gfm-core-plugin/gfm/tracking/classes/../assets/js/gfm_track.js?ver=1.7.15" id="gfm_tracking_event-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/mu-plugins/gfm-core-plugin/gfm/tracking/classes/../assets/js/gfm_track_click_event.js?ver=1.7.15" id="gfm_track_click_event-js"></script>
+<script type="text/javascript" async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js?ver=2.13.65" id="dfp-ads-js"></script>
+<script type="text/javascript" id="dfp-ads-js-after">
+/* <![CDATA[ */
+var browser_width = window.innerWidth || window.document.documentElement.clientWidth,
+        browser_height = window.innerHeight || window.document.documentElement.clientHeight,
+        breakpoints = {
+            'xxlarge': 1920,
+            'xlarge': 1354,
+            'large': 1184,
+            'medium': 976,
+            'mobile': 590
+        };
+
+        var gptadslots = [];
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.7.17" id="gform_json-js"></script>
+<script type="text/javascript" id="gform_gravityforms-js-extra">
+/* <![CDATA[ */
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"January","february":"February","march":"March","april":"April","may":"May","june":"June","july":"July","august":"August","september":"September","october":"October","november":"November","december":"December"},"firstDay":1,"iconText":"Select date"}};
+var gf_legacy_multi = [];
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following:","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"https:\/\/www.manitobacooperator.ca\/wp-content\/plugins\/gravityforms\/images"}};
+/* ]]> */
+</script>
+<script type="text/javascript" id="gform_gravityforms-js-before">
+/* <![CDATA[ */
+
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.7.17" id="gform_gravityforms-js"></script>
+<link rel="https://api.w.org/" href="https://www.manitobacooperator.ca/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.manitobacooperator.ca/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<style>img#wpstats{display:none}</style>
+<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+<script type="text/javascript">
+	var adsToRefreshOn = {
+		'small': [],
+		'mobile': [],
+		'medium': [],
+		'large': [],
+		'xlarge': [],
+		'galleryRefresh': []
+	};
+
+	googletag.cmd.push( function() {
+		googletag.pubads().setForceSafeFrame(true);
+		var under_header_leaderboard_mapping = googletag.sizeMapping()
+		.addSize( [ 1085, 1], [] )
+		.addSize( [ breakpoints.medium, 1], [728,90] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var under_header_leaderboard__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[728,90]],  'dfp-ad-slot--under_header_leaderboard')
+			.setTargeting( "position" , [ "header1" ] )
+			.defineSizeMapping(under_header_leaderboard_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( under_header_leaderboard__1 );
+adsToRefreshOn.medium.push( under_header_leaderboard__1 );var flag_leaderboard_mapping = googletag.sizeMapping()
+		.addSize( [ 1085, 1], [728,90] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var flag_leaderboard__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[728,90]],  'dfp-ad-slot--flag_leaderboard')
+			.setTargeting( "position" , [ "header1" ] )
+			.defineSizeMapping(flag_leaderboard_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( flag_leaderboard__1 );
+adsToRefreshOn.medium.push( flag_leaderboard__1 );
+
+		var float__1 = googletag.defineOutOfPageSlot('/76643716/manitoba_cooperator/other',  'dfp-ad-slot--float')
+			.setTargeting( "position" , [ "floating" ] )
+			
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(false)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( float__1 );
+adsToRefreshOn.small.push( float__1 );var mobile_banner_mapping = googletag.sizeMapping()
+		.addSize( [ breakpoints.medium, 1], [] )
+		.addSize( [ 0, 0], [320,50] )
+		.build();
+
+		var mobile_banner__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[320,50]],  'dfp-ad-slot--mobile_banner--1')
+			.setTargeting( "position" , [ "mobile1" ] )
+			.defineSizeMapping(mobile_banner_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(false)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( mobile_banner__1 );
+adsToRefreshOn.medium.push( mobile_banner__1 );
+
+		var mobile_banner__2 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[320,50]],  'dfp-ad-slot--mobile_banner--2')
+			.setTargeting( "position" , [ "mobile2" ] )
+			.defineSizeMapping(mobile_banner_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(false)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( mobile_banner__2 );
+adsToRefreshOn.medium.push( mobile_banner__2 );
+
+		var mobile_banner__3 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[320,50]],  'dfp-ad-slot--mobile_banner--3')
+			.setTargeting( "position" , [ "mobile3" ] )
+			.defineSizeMapping(mobile_banner_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(false)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( mobile_banner__3 );
+adsToRefreshOn.medium.push( mobile_banner__3 );
+
+		var mobile_banner__4 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[320,50]],  'dfp-ad-slot--mobile_banner--4')
+			.setTargeting( "position" , [ "mobile4" ] )
+			.defineSizeMapping(mobile_banner_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(false)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( mobile_banner__4 );
+adsToRefreshOn.medium.push( mobile_banner__4 );var large_and_xlarge_bigbox_mapping = googletag.sizeMapping()
+		.addSize( [ breakpoints.large, 1], [300,250] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var large_and_xlarge_bigbox__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[300,250]],  'dfp-ad-slot--large_and_xlarge_bigbox--1')
+			.setTargeting( "position" , [ "rightrail2" ] )
+			.defineSizeMapping(large_and_xlarge_bigbox_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( large_and_xlarge_bigbox__1 );
+adsToRefreshOn.large.push( large_and_xlarge_bigbox__1 );
+
+		var large_and_xlarge_bigbox__2 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[300,250]],  'dfp-ad-slot--large_and_xlarge_bigbox--2')
+			.setTargeting( "position" , [ "rightrail3" ] )
+			.defineSizeMapping(large_and_xlarge_bigbox_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( large_and_xlarge_bigbox__2 );
+adsToRefreshOn.large.push( large_and_xlarge_bigbox__2 );
+
+		var large_and_xlarge_bigbox__3 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[300,250]],  'dfp-ad-slot--large_and_xlarge_bigbox--3')
+			.setTargeting( "position" , [ "rightrail4" ] )
+			.defineSizeMapping(large_and_xlarge_bigbox_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( large_and_xlarge_bigbox__3 );
+adsToRefreshOn.large.push( large_and_xlarge_bigbox__3 );var sticky_mapping = googletag.sizeMapping()
+		.addSize( [ breakpoints.large, 1], [300,250] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var sticky__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[300,250]],  'dfp-ad-slot--sticky')
+			.setTargeting( "position" , [ "rightrail1" ] )
+			.defineSizeMapping(sticky_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( sticky__1 );
+adsToRefreshOn.large.push( sticky__1 );
+
+		var video_sponsorship__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[298,50]],  'dfp-ad-slot--video_sponsorship')
+			.setTargeting( "position" , [ "video1" ] )
+			
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( video_sponsorship__1 );var medium_pushdown_mapping = googletag.sizeMapping()
+		.addSize( [ breakpoints.large, 1], [] )
+		.addSize( [ breakpoints.medium, 1], [970,90] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var medium_pushdown__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[970,90]],  'dfp-ad-slot--medium_pushdown')
+			.setTargeting( "position" , [ "sv" ] )
+			.defineSizeMapping(medium_pushdown_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( medium_pushdown__1 );
+adsToRefreshOn.medium.push( medium_pushdown__1 );var large_only_leaderboard_mapping = googletag.sizeMapping()
+		.addSize( [ breakpoints.xlarge, 1], [] )
+		.addSize( [ breakpoints.large, 1], [728,90] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var large_only_leaderboard__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[728,90]],  'dfp-ad-slot--large_only_leaderboard')
+			.setTargeting( "position" , [ "header1" ] )
+			.defineSizeMapping(large_only_leaderboard_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( large_only_leaderboard__1 );
+adsToRefreshOn.large.push( large_only_leaderboard__1 );var medium_only_leaderboard_mapping = googletag.sizeMapping()
+		.addSize( [ breakpoints.large, 1], [] )
+		.addSize( [ breakpoints.medium, 1], [728,90] )
+		.addSize( [ 0, 0], [] )
+		.build();
+
+		var medium_only_leaderboard__1 = googletag.defineSlot('/76643716/manitoba_cooperator/other', [[728,90]],  'dfp-ad-slot--medium_only_leaderboard')
+			.setTargeting( "position" , [ "header1" ] )
+			.defineSizeMapping(medium_only_leaderboard_mapping)
+			.setCollapseEmptyDiv( true )
+           .setSafeFrameConfig({allowPushExpansion: true, allowOverlayExpansion: true, sandbox: true})
+           .setForceSafeFrame(true)
+			.addService( googletag.pubads() )
+;
+gptadslots.push( medium_only_leaderboard__1 );
+adsToRefreshOn.medium.push( medium_only_leaderboard__1 );
+	googletag.pubads()
+
+	.setTargeting("section", ["Other"])	;
+			googletag.pubads().setTargeting('site',['manitobacoop']);
+		googletag.enableServices();
+		googletag.pubads().enableAsyncRendering();
+		googletag.pubads().enableSingleRequest();
+	} );
+	</script>
+<script>
+        var FBC = FBC || {};
+        FBC.ajaxurl = "https://www.manitobacooperator.ca/wp-admin/admin-ajax.php";
+        FBC.browser_width = window.innerWidth || window.document.documentElement.clientWidth;
+        var FBC_MBC = FBC_MBC || FBC; //backwards compat
+        </script>
+<link rel="shortcut icon" type="image/x-icon" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/favicon.ico" /><link rel="manifest" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/manifest.json?ver=1.3.12" /><meta name="msapplication-TileColor" content="#396ab6"><meta name="msapplication-TileImage" content="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/ms-icon-144x144.png" /><link rel="apple-touch-icon" sizes="54x54" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/apple-icon-54x54.png" /><link rel="apple-touch-icon" sizes="72x72" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/apple-icon-72x72.png" /><link rel="apple-touch-icon" sizes="144x144" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/apple-icon-144x144.png" /><link rel="apple-touch-icon" sizes="120x120" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/apple-icon-120x120.png" /><link rel="apple-touch-icon" sizes="152x152" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/apple-icon-152x152.png" /><link rel="apple-touch-icon" sizes="180x180" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/apple-icon-180x180.png" /><link rel="android-icon" sizes="36x36" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/android-icon-36x36.png" /><link rel="android-icon" sizes="48x48" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/android-icon-48x48.png" /><link rel="android-icon" sizes="72x72" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/android-icon-72x72.png" /><link rel="android-icon" sizes="96x96" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/android-icon-96x96.png" /><link rel="android-icon" sizes="144x144" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/android-icon-144x144.png" /><link rel="android-icon" sizes="192x192" href="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/android-icon-192x192.png" /><meta name="msapplication-square70x70" content="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/ms-icon-70x70.png" /><meta name="msapplication-square150x150" content="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/ms-icon-150x150.png" /><meta name="msapplication-square310x310" content="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/ico/ms-icon-310x310.png" /><script type="text/javascript" defer>
+            window.dataLayer = window.dataLayer || [];
+            window.dataLayer.push({"page_type":"Other"});
+        </script><link rel="alternate" type="application/rss+xml" href="https://www.manitobacooperator.ca/feed" /><meta property="site" content="manitobacoop"><meta property="section" content="Other"><meta property="subsection" content><meta property="commodity" content><meta property="storytags" content>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PLC7SN');</script> <script>
+        var site_url__gfm = 'https://www.manitobacooperator.ca';
+        try {
+            Typekit.load({async: true});
+        } catch (e) {
+        }
+	</script>
+<link rel="stylesheet" media="handheld,screen,print" href="https://use.typekit.net/fgw5iyc.css">
+</head>
+<body class="error404 wrapper">
+
+<noscript><iframe 
+			height="0" width="0" style="display:none;visibility:hidden" data-src="//www.googletagmanager.com/ns.html?id=GTM-PLC7SN" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="></iframe></noscript>
+ <nav class="explore-brands-bar
+		 membership-explore-bar		">
+<div class="explore-bar-container">
+<div class="explore-bar-column">
+<div class="explore-bar-logos">
+<ul class="nav-logos">
+<li class="explore-title"><span class="explore-bg-left-side-fill"></span>
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" href="https://www.farmmedia.com" target="_blank">
+<img width="148" height="18" alt="Glacier FarmMedia" data-src="https://static.farmmedia.com/GFM-Explore-Bar/gfm-profile-logo@3x.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+									width="148"
+									height="18"
+									src="https://static.farmmedia.com/GFM-Explore-Bar/gfm-profile-logo@3x.png" alt="Glacier FarmMedia"
+								/></noscript>
+</a>
+</li>
+<li class="exp__1">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.aginmotion.ca/" target="_blank">
+<img width="100" height="13" alt="Ag in Motion" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-aim-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='100'
+						height='13'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-aim-hover.png'
+						alt='Ag in Motion'
+					/></noscript>
+</a>
+</li><li class="exp__2">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.producer.com/" target="_blank">
+<img width="66" height="42" alt="Western Producer" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-wp-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='66'
+						height='42'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-wp-hover.png'
+						alt='Western Producer'
+					/></noscript>
+</a>
+</li><li class="exp__3">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.albertafarmexpress.ca/" target="_blank">
+<img width="85" height="18" alt="Alberta Farmer Express" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-afe-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='18'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-afe-hover.png'
+						alt='Alberta Farmer Express'
+					/></noscript>
+</a>
+</li><li class="exp__4">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.country-guide.ca/" target="_blank">
+<img width="85" height="16" alt="Country-Guide" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='16'
+						
+						alt='Country-Guide'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='85'
+						height='16'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png'
+						alt='Country-Guide'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__5">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmauctionguide.com/" target="_blank">
+<img width="66" height="25" alt="Farm Auction Guide" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='66'
+						height='25'
+						
+						alt='Farm Auction Guide'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='66'
+						height='25'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png'
+						alt='Farm Auction Guide'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__6">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmzilla.com/" target="_blank">
+<img width="85" height="17" alt="Farmzilla" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='17'
+						
+						alt='Farmzilla'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='85'
+						height='17'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png'
+						alt='Farmzilla'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__7">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.grainews.ca/" target="_blank">
+<img width="80" height="16" alt="Grainews" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='80'
+						height='16'
+						
+						alt='Grainews'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='80'
+						height='16'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png'
+						alt='Grainews'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__8">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.weatherfarm.com/" target="_blank">
+<img width="85" height="26" alt="Weatherfarm" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='26'
+						
+						alt='Weatherfarm'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='85'
+						height='26'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png'
+						alt='Weatherfarm'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__9">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmforumevent.com/" target="_blank">
+<img width="80" height="32" alt="Farm Forum Event" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='80'
+						height='32'
+						
+						alt='Farm Forum Event'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='80'
+						height='32'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png'
+						alt='Farm Forum Event'
+					/></noscript></noscript>
+</a>
+</li> <li class="more-pubs">MORE<span class="arrow-down"></span>
+<ul class="drop-menu">
+<li class="exp__10">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.country-guide.ca/" target="_blank">
+<img width="85" height="16" alt="Country-Guide" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='16'
+						
+						alt='Country-Guide'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='85'
+						height='16'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-cg-hover.png'
+						alt='Country-Guide'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__11">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmauctionguide.com/" target="_blank">
+<img width="66" height="25" alt="Farm Auction Guide" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='66'
+						height='25'
+						
+						alt='Farm Auction Guide'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='66'
+						height='25'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-fag-hover.png'
+						alt='Farm Auction Guide'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__12">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmzilla.com/" target="_blank">
+<img width="85" height="17" alt="Farmzilla" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='17'
+						
+						alt='Farmzilla'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='85'
+						height='17'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-fz-hover.png'
+						alt='Farmzilla'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__13">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.grainews.ca/" target="_blank">
+<img width="80" height="16" alt="Grainews" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='80'
+						height='16'
+						
+						alt='Grainews'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='80'
+						height='16'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-gn-hover.png'
+						alt='Grainews'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__14">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.weatherfarm.com/" target="_blank">
+<img width="85" height="26" alt="Weatherfarm" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='26'
+						
+						alt='Weatherfarm'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='85'
+						height='26'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-wf-hover.png'
+						alt='Weatherfarm'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__15">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmforumevent.com/" target="_blank">
+<img width="80" height="32" alt="Farm Forum Event" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='80'
+						height='32'
+						
+						alt='Farm Forum Event'
+					 data-src='https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png' class='lazyload' src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' /><noscript><img
+						width='80'
+						height='32'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-ffe-hover.png'
+						alt='Farm Forum Event'
+					/></noscript></noscript>
+</a>
+</li><li class="exp__16">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.advancingwomenconference.ca" target="_blank">
+<img width="85" height="21" alt="Advancing Women in Agriculture Conference" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-awc-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='21'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-awc-hover.png'
+						alt='Advancing Women in Agriculture Conference'
+					/></noscript>
+</a>
+</li><li class="exp__17">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.farmtario.com/" target="_blank">
+<img width="70" height="14" alt="Farmtario" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-ft-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='70'
+						height='14'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-ft-hover.png'
+						alt='Farmtario'
+					/></noscript>
+</a>
+</li><li class="exp__18">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://discoveryfarm.ca/" target="_blank">
+<img width="64" height="25" alt="Discovery Farm" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-df-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='64'
+						height='25'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-df-hover.png'
+						alt='Discovery Farm'
+					/></noscript>
+</a>
+</li><li class="exp__19">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.canadiancattlemen.ca/" target="_blank">
+<img width="70" height="18" alt="Canadian Cattlemen" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-cc-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='70'
+						height='18'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-cc-hover.png'
+						alt='Canadian Cattlemen'
+					/></noscript>
+</a>
+</li><li class="exp__20">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.lebulletin.com/" target="_blank">
+<img width="55" height="21" alt="Le Bulletin des agriculteurs" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-leb-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='55'
+						height='21'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-leb-hover.png'
+						alt='Le Bulletin des agriculteurs'
+					/></noscript>
+</a>
+</li><li class="exp__21">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://grow-pro.ca/" target="_blank">
+<img width="77" height="16" alt="GrowPro" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-gp-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='77'
+						height='16'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-gp-hover.png'
+						alt='GrowPro'
+					/></noscript>
+</a>
+</li><li class="exp__22">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.outdoorfarmshow.com/" target="_blank">
+<img width="85" height="27" alt="Canadian Outdoor Farm Show" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-cofs-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='27'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-cofs-hover.png'
+						alt='Canadian Outdoor Farm Show'
+					/></noscript>
+</a>
+</li><li class="exp__23">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.marketsfarm.com/" target="_blank">
+<img width="85" height="28" alt="MarketsFarm" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-mf-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='28'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-mf-hover.png'
+						alt='MarketsFarm'
+					/></noscript>
+</a>
+</li><li class="exp__24">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.agdealer.com/" target="_blank">
+<img width="85" height="16" alt="AgDealer" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-ad-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='16'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-ad-hover.png'
+						alt='AgDealer'
+					/></noscript>
+</a>
+</li><li class="exp__25">
+<a data-click="gfm-click-tracking" data-module-id="EXPLORER_BAR" data-module-name="Explorer Bar" data-module-location="Explorer Bar" data-page-type="Other" class="less-opacity" href="https://www.agricoleideal.com/" target="_blank">
+<img width="85" height="12" alt="Agricole Idéal" data-src="https://static.farmmedia.com/GFM-Explore-Bar/network-agi-hover.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+						width='85'
+						height='12'
+						src='https://static.farmmedia.com/GFM-Explore-Bar/network-agi-hover.png'
+						alt='Agricole Idéal'
+					/></noscript>
+</a>
+</li> </ul>
+</li>
+</ul>
+<ul class="explore-login-wrapper">
+<li class="explore-login-container"></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<div class="off-canvas-wrap" data-offcanvas>
+<aside class="left-off-canvas-menu">
+<div class="widget-container recent-post-type"><h2 class="widget-title">GFM Network News</h2>
+<div class="widget gcrp-widget-content has-link-to-archive">
+<ul class="multiple-articles ">
+<li>
+<article class="media">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Gfm Network News" data-module-location="Left Rail   Off Canvas" data-page-type="Other" data-module-position="Left Rail   Off Canvas 1" class="media__img" href="https://www.manitobacooperator.ca/daily/rising-loonie-and-weaker-futures-weigh-on-spring-wheat-bids/" aria-label="Rising loonie and weaker futures weigh on spring wheat bids">
+<img width="150" height="150" src="https://static.manitobacooperator.ca/wp-content/uploads/2023/12/22115709/wheat-heads-iStock-150x150.jpg" class="no-lazyload wp-post-image" alt="Rising loonie and weaker futures weigh on spring wheat bids" decoding="async">
+</a>
+<div class="media__body">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Gfm Network News" data-module-location="Left Rail   Off Canvas" data-page-type="Other" data-module-position="Left Rail   Off Canvas 1" href="https://www.manitobacooperator.ca/daily/rising-loonie-and-weaker-futures-weigh-on-spring-wheat-bids/">
+<h2>Rising loonie and weaker futures weigh on spring wheat bids</h2>
+</a>
+<div class="articles_meta">
+<time class="updated dtstamp" datetime="2023-12-22 11:33:09">3 hours ago</time>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="media">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Gfm Network News" data-module-location="Left Rail   Off Canvas" data-page-type="Other" data-module-position="Left Rail   Off Canvas 1" class="media__img" href="https://www.manitobacooperator.ca/daily/basak-traktor-of-turkey-looks-to-move-versatile-brand-forward/" aria-label="Başak Traktör of Turkey looks to move Versatile brand forward">
+<img width="150" height="150" src="https://static.manitobacooperator.ca/wp-content/uploads/2023/12/22102813/versatile_tractor_front1k-150x150.jpg" class="no-lazyload wp-post-image" alt="(Versatile-ag.com)
+" decoding="async">
+</a>
+<div class="media__body">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Gfm Network News" data-module-location="Left Rail   Off Canvas" data-page-type="Other" data-module-position="Left Rail   Off Canvas 1" href="https://www.manitobacooperator.ca/daily/basak-traktor-of-turkey-looks-to-move-versatile-brand-forward/">
+<h2>Başak Traktör of Turkey looks to move Versatile brand forward</h2>
+</a>
+<div class="articles_meta">
+<time class="updated dtstamp" datetime="2023-12-22 09:58:22">4 hours ago</time>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="media">
+<div class="media__body">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Gfm Network News" data-module-location="Left Rail   Off Canvas" data-page-type="Other" data-module-position="Left Rail   Off Canvas 1" href="https://www.manitobacooperator.ca/daily/more-local-barley-destined-for-rations-but-u-s-corn-still-moving/">
+<h2>More local barley destined for rations, but U.S. corn still moving</h2>
+</a>
+<div class="articles_meta">
+<time class="updated dtstamp" datetime="2023-12-22 09:28:33">5 hours ago</time>
+</div>
+</div>
+</article>
+</li>
+</ul>
+</div>
+<div class="more-link">
+<a href="https://www.manitobacooperator.ca/daily/">More News →</a>
+</div>
+</div></aside>
+<aside class="right-off-canvas-menu" style>
+<ul class="off-canvas-list membership-mobile-menu">
+<li>
+<label>
+Sections </label>
+</li>
+</ul>
+<ul id="menu-off-canvas-menu" class="off-canvas-list"><li id="menu-item-111410" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111410"><a href="https://www.manitobacooperator.ca/news-opinion/news/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">News</a></li>
+<li id="menu-item-111406" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111406"><a href="https://www.manitobacooperator.ca/crops/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">Crops</a></li>
+<li id="menu-item-111408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111408"><a href="https://www.manitobacooperator.ca/livestock/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">Livestock</a></li>
+<li id="menu-item-111409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111409"><a href="https://www.manitobacooperator.ca/markets/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">Markets</a></li>
+<li id="menu-item-111412" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111412"><a href="https://www.manitobacooperator.ca/weather/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">Weather</a></li>
+<li id="menu-item-111407" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111407"><a href="https://www.manitobacooperator.ca/farm-it-manitoba/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">Farmit</a></li>
+<li id="menu-item-111411" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-111411"><a href="https://www.manitobacooperator.ca/op-ed/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Off Canvas Menu" data-page-type="Other">Op/Ed</a></li>
+</ul> <ul class="off-canvas-list">
+<li>
+<label>
+Links </label>
+</li>
+</ul>
+<ul id="menu-subfooter" class="off-canvas-list"><li id="menu-item-108785" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108785"><a href="/video/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Video</a></li>
+<li id="menu-item-108786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108786"><a href="/digital-edition/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Digital Editions</a></li>
+<li id="menu-item-108787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108787"><a href="http://farmzilla.com" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Classifieds</a></li>
+<li id="menu-item-108788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108788"><a href="https://www.manitobacooperator.ca/subscriptions/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Subscriptions</a></li>
+<li id="menu-item-108789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108789"><a href="https://www.manitobacooperator.ca/about/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">About</a></li>
+<li id="menu-item-108790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108790"><a href="https://www.manitobacooperator.ca/contact/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Contact Us</a></li>
+<li id="menu-item-108791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108791"><a href="https://www.manitobacooperator.ca/advertise/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Advertise</a></li>
+</ul></aside> <div class="inner-wrap">
+<div class="mobile-laptop-header">
+<div class="laptop">
+<a href="https://www.manitobacooperator.ca" aria-label="Go back to main page">
+<img width="200" height="90" alt="Manitoba Co-operator" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-narrow.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="200" height="90" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-narrow.svg" alt="Manitoba Co-operator" /></noscript>
+</a>
+<div class="right offset-leaderboard-under-nav">
+<script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--medium_only_leaderboard'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--medium_only_leaderboard', code: code, height: '90' });
+	</script>
+<div id="dfp-ad-slot--medium_only_leaderboard" class>
+</div>
+</div>
+</div>
+<div class="mobile clearfix">
+<div class="small-6 columns h-100">
+<a class="left-off-canvas-toggle" href="#" aria-label="Open mobile news menu">
+<img class="mobile-toggle-left" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/mobile-menu-toggle-left.svg" width="26" alt />
+</a>
+</div>
+<div class="small-12 columns h-100">
+<a href="https://www.manitobacooperator.ca" aria-label="Go back to main page">
+<img class="logo show-for-medium-only" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-wide-white.svg" alt>
+<img class="logo show-for-small-only" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-narrow-white.svg" alt>
+</a>
+</div>
+<div class="small-6 columns h-100">
+<a class="right-off-canvas-toggle" href="#" aria-label="Open mobile menu">
+<img class="mobile-toggle-right" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/mobile-menu-toggle-right.svg" width="26" alt />
+</a>
+</div>
+</div>
+<div class="sticky-wrapper main-navigation-wrapper">
+<div class="sticky main-navigation-container">
+<nav class="main-navigation">
+<a class="main-navigation--sticky-logo" href="https://www.manitobacooperator.ca">
+<img alt="Manitoba Co-operator" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square-sticky-menu.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="Manitoba Co-operator" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square-sticky-menu.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square-sticky-menu.svg" alt="Manitoba Co-operator" /></noscript></noscript>
+</a>
+<div class="menu-main-nav-container"><ul id="menu-main-nav" class><li id="menu-item-108754" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108754"><a href="https://www.manitobacooperator.ca/news-opinion/news/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">News</a></li>
+<li id="menu-item-108755" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108755"><a href="https://www.manitobacooperator.ca/crops/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Crops</a></li>
+<li id="menu-item-108756" class="mega-special-box menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown not-click has-submenu menu-item-108756"><a href="https://www.manitobacooperator.ca/livestock/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Livestock</a>
+<ul class="dropdown">
+<li id="menu-item-189504" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189504"><a target="_blank" rel="noopener" href="https://www.canadiancattlemen.ca/livestock-sales/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Livestock Sales</a></li>
+</ul>
+</li>
+<li id="menu-item-108757" class="mega-markets-at-a-glance menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown not-click has-submenu menu-item-108757"><a href="https://www.manitobacooperator.ca/markets/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Markets</a>
+<ul class="dropdown">
+<li id="menu-item-189503" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189503"><a href="/markets-at-a-glance/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Markets at a glance</a></li>
+</ul>
+</li>
+<li id="menu-item-108758" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108758"><a href="https://www.manitobacooperator.ca/weather/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Weather</a></li>
+<li id="menu-item-108759" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108759"><a href="https://www.manitobacooperator.ca/farm-it-manitoba/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Farmit</a></li>
+<li id="menu-item-108760" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108760"><a href="https://www.manitobacooperator.ca/op-ed/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Op/Ed</a></li>
+<li id="menu-item-108883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108883"><a href="/digital-edition/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Digital Editions</a></li>
+<li id="menu-item-108761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108761"><a href="https://www.manitobacooperator.ca/about/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">About Us</a></li>
+<li id="menu-item-108762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108762"><a href="https://www.manitobacooperator.ca/contact/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Contact</a></li>
+<li id="menu-item-108763" class="farmzilla-classified menu-item menu-item-type-custom menu-item-object-custom menu-item-108763"><a target="_blank" rel="noopener" href="https://www.farmzilla.com/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Classified</a></li>
+<li id="menu-item-108764" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108764"><a target="_blank" rel="noopener" href="https://farmzilla.adperfect.com/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Place Ad</a></li>
+</ul></div>
+<div class="search-form">
+<button data-click="gfm-click-tracking" data-module-id="BTN_SEARCH" data-module-name="Search Button" data-module-location="Main Nav" data-page-type="Other" id="revealSearch" type="button" class="search-form--reveal-search">
+<img width="15" height="15" alt="Tap to Search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width='15' height='15'   alt="Tap to Search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width='15' height='15' class="search-form--icon" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" alt="Tap to Search" /></noscript></noscript>
+</button>
+<form class="search-form--form" method="get" id="searchFormMenu" action="https://www.manitobacooperator.ca/" role="search">
+<input class="search-form--input" size="20" name="s" placeholder="Search Manitoba Co-operator" type="text" value>
+<button type="submit" class="search-form--submit">
+<img alt="Tap to search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon show-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt='Tap to search' data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon show-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="search-form--icon show-for-xlarge-up" src='https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png' alt='Tap to search' /></noscript></noscript>
+<img alt="Tap to search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png" class="search-form--icon hide-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt='Tap to search' data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png" class="search-form--icon hide-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="search-form--icon hide-for-xlarge-up" src='https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png' alt='Tap to search' /></noscript></noscript>
+</button>
+</form>
+</div> </nav>
+</div>
+</div>
+<div class="text-center">
+<script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--medium_pushdown'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--medium_pushdown', code: code, height: '90' });
+	</script>
+<div id="dfp-ad-slot--medium_pushdown" class>
+</div>
+</div>
+</div>
+<div class="main-container" role="main">
+<div class="text-center show-for-small-only tablet-ad header-mobile-banner">
+<div class="ad">
+<script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--mobile_banner--1'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--mobile_banner--1', code: code, height: '50' });
+	</script>
+<div id="dfp-ad-slot--mobile_banner--1" class>
+</div>
+</div>
+</div>
+<div class="row">
+
+<div class="left-rail-container show-for-medium-up">
+<div class="logo-container show-for-large-up">
+<a href="https://www.manitobacooperator.ca" aria-label="Go to main page">
+<img class="logo" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square.svg" alt="Manitoba Co-operator" />
+</a>
+</div>
+<div class="newsletter-container">
+<a data-click="gfm-click-tracking" data-module-id="BTN_NEWSLETTER_SIGNUP" data-module-name="Newsletter Signup Button" data-module-location="Left Rail" data-page-type="Other" href="https://farmmedia.com/freefarmnews-signup/" class="btn newsletter-signup" aria-label="Sign up to the newsletter">
+<span>Free</span> <span>Newsletter Signup</span>
+</a>
+</div>
+<div class="left-rail-wrapper">
+<div class="left-rail">
+<div class="widget-container recent-post-type"><h2 class="widget-title">Daily Network News</h2>
+<div class="widget gcrp-widget-content has-link-to-archive">
+<ul class="multiple-articles ">
+<li>
+<article class="media">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Daily Network News" data-module-location="Left Rail" data-page-type="Other" data-module-position="Left Rail 1" class="media__img" href="https://www.manitobacooperator.ca/daily/rising-loonie-and-weaker-futures-weigh-on-spring-wheat-bids/" aria-label="Rising loonie and weaker futures weigh on spring wheat bids">
+<img width="150" height="150" src="https://static.manitobacooperator.ca/wp-content/uploads/2023/12/22115709/wheat-heads-iStock-150x150.jpg" class="no-lazyload wp-post-image" alt="Rising loonie and weaker futures weigh on spring wheat bids" decoding="async">
+</a>
+<div class="media__body">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Daily Network News" data-module-location="Left Rail" data-page-type="Other" data-module-position="Left Rail 1" href="https://www.manitobacooperator.ca/daily/rising-loonie-and-weaker-futures-weigh-on-spring-wheat-bids/">
+<h2>Rising loonie and weaker futures weigh on spring wheat bids</h2>
+</a>
+<div class="articles_meta">
+<time class="updated dtstamp" datetime="2023-12-22 11:33:09">3 hours ago</time>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="media">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Daily Network News" data-module-location="Left Rail" data-page-type="Other" data-module-position="Left Rail 1" class="media__img" href="https://www.manitobacooperator.ca/daily/basak-traktor-of-turkey-looks-to-move-versatile-brand-forward/" aria-label="Başak Traktör of Turkey looks to move Versatile brand forward">
+<img width="150" height="150" src="https://static.manitobacooperator.ca/wp-content/uploads/2023/12/22102813/versatile_tractor_front1k-150x150.jpg" class="no-lazyload wp-post-image" alt="(Versatile-ag.com)
+" decoding="async">
+</a>
+<div class="media__body">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Daily Network News" data-module-location="Left Rail" data-page-type="Other" data-module-position="Left Rail 1" href="https://www.manitobacooperator.ca/daily/basak-traktor-of-turkey-looks-to-move-versatile-brand-forward/">
+<h2>Başak Traktör of Turkey looks to move Versatile brand forward</h2>
+</a>
+<div class="articles_meta">
+<time class="updated dtstamp" datetime="2023-12-22 09:58:22">4 hours ago</time>
+</div>
+</div>
+</article>
+</li>
+<li>
+<article class="media">
+<div class="media__body">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_NETWORK_NEWS" data-module-name="Daily Network News" data-module-location="Left Rail" data-page-type="Other" data-module-position="Left Rail 1" href="https://www.manitobacooperator.ca/daily/more-local-barley-destined-for-rations-but-u-s-corn-still-moving/">
+<h2>More local barley destined for rations, but U.S. corn still moving</h2>
+</a>
+<div class="articles_meta">
+<time class="updated dtstamp" datetime="2023-12-22 09:28:33">5 hours ago</time>
+</div>
+</div>
+</article>
+</li>
+</ul>
+</div>
+<div class="more-link">
+<a href="https://www.manitobacooperator.ca/daily/">More News →</a>
+</div>
+</div> </div>
+</div>
+</div>
+
+<div class="container-2-column right">
+<div class="small-24 columns show-for-large-up">
+<div class="leaderboard-height">
+<div class="leaderboard ad">
+<script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--flag_leaderboard'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--flag_leaderboard', code: code, height: '90' });
+	</script>
+<div id="dfp-ad-slot--flag_leaderboard" class="text-center">
+</div>
+</div>
+</div>
+<div class="sticky-wrapper main-navigation-wrapper">
+<div class="sticky main-navigation-container">
+<nav class="main-navigation">
+<a class="main-navigation--sticky-logo" href="https://www.manitobacooperator.ca">
+<img alt="Manitoba Co-operator" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square-sticky-menu.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img  alt="Manitoba Co-operator" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square-sticky-menu.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/mc-logo-square-sticky-menu.svg" alt="Manitoba Co-operator" /></noscript></noscript>
+</a>
+<div class="menu-main-nav-container"><ul id="menu-main-nav-1" class><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108754"><a href="https://www.manitobacooperator.ca/news-opinion/news/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108755"><a href="https://www.manitobacooperator.ca/crops/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Crops</a></li>
+<li class="mega-special-box menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown not-click has-submenu menu-item-108756"><a href="https://www.manitobacooperator.ca/livestock/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Livestock</a>
+<ul class="dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189504"><a target="_blank" rel="noopener" href="https://www.canadiancattlemen.ca/livestock-sales/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Livestock Sales</a></li>
+</ul>
+</li>
+<li class="mega-markets-at-a-glance menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown not-click has-submenu menu-item-108757"><a href="https://www.manitobacooperator.ca/markets/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Markets</a>
+<ul class="dropdown">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189503"><a href="/markets-at-a-glance/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Markets at a glance</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108758"><a href="https://www.manitobacooperator.ca/weather/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Weather</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108759"><a href="https://www.manitobacooperator.ca/farm-it-manitoba/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Farmit</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108760"><a href="https://www.manitobacooperator.ca/op-ed/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Op/Ed</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108883"><a href="/digital-edition/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Digital Editions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108761"><a href="https://www.manitobacooperator.ca/about/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108762"><a href="https://www.manitobacooperator.ca/contact/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Contact</a></li>
+<li class="farmzilla-classified menu-item menu-item-type-custom menu-item-object-custom menu-item-108763"><a target="_blank" rel="noopener" href="https://www.farmzilla.com/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Classified</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108764"><a target="_blank" rel="noopener" href="https://farmzilla.adperfect.com/" data-click="gfm-click-tracking" data-module-id="MAIN_NAV" data-module-name="Main Navigation" data-module-location="Header Menu" data-page-type="Other">Place Ad</a></li>
+</ul></div>
+<div class="search-form">
+<button data-click="gfm-click-tracking" data-module-id="BTN_SEARCH" data-module-name="Search Button" data-module-location="Main Nav" data-page-type="Other" id="revealSearch" type="button" class="search-form--reveal-search">
+<img width="15" height="15" alt="Tap to Search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width='15' height='15'   alt="Tap to Search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width='15' height='15' class="search-form--icon" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" alt="Tap to Search" /></noscript></noscript>
+</button>
+<form class="search-form--form" method="get" id="searchFormMenu" action="https://www.manitobacooperator.ca/" role="search">
+<input class="search-form--input" size="20" name="s" placeholder="Search Manitoba Co-operator" type="text" value>
+<button type="submit" class="search-form--submit">
+<img alt="Tap to search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon show-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt='Tap to search' data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png" class="search-form--icon show-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="search-form--icon show-for-xlarge-up" src='https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon.png' alt='Tap to search' /></noscript></noscript>
+<img alt="Tap to search" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png" class="search-form--icon hide-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img   alt='Tap to search' data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png" class="search-form--icon hide-for-xlarge-up lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img class="search-form--icon hide-for-xlarge-up" src='https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png' alt='Tap to search' /></noscript></noscript>
+</button>
+</form>
+</div> </nav>
+</div>
+</div>
+</div>
+<div class="small-24 columns">
+<div class="row callout-bar-container">
+<div class="callout-bar small-18 columns">
+<p class="social show-for-medium-up right">
+<span>
+<a data-click="gfm-click-tracking" data-module-id="BTN_FACEBOOK" data-module-name="Facebook Button" data-module-location="Third Row" data-page-type="Other" href="https://www.facebook.com/ManitobaCoOperator/" target="_blank" rel="noopener">
+<img alt="Facebook" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/icon-facebook.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/icon-facebook.svg" alt='Facebook'></noscript>
+</a>
+<a data-click="gfm-click-tracking" data-module-id="BTN_TWITTER" data-module-name="Twitter Button" data-module-location="Third Row" data-page-type="Other" href="https://twitter.com/MBCooperator/" target="_blank" rel="noopener">
+<img alt="Twitter" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/icon-twitter.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/icon-twitter.svg" alt='Twitter'></noscript>
+</a>
+<a data-click="gfm-click-tracking" data-module-id="BTN_INSTAGRAM" data-module-name="Instagram Button" data-module-location="Third Row" data-page-type="Other" href="https://www.instagram.com/manitobacooperator/" target="_blank" rel="noopener">
+<img alt="Instagram" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/icon-instagram.svg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/icon-instagram.svg" alt='Instagram'></noscript>
+</a>
+</span>
+</p>
+<div class="logged-out-callouts"><p class="callout-item callout-1" style="display:none;"><a " data-click="gfm-click-tracking" data-module-id="HEADER_CALLOUT" data-module-name="Header Callout" data-module-location="Third Row" data-page-type="Other" " href="https://farmmedia.com/freefarmnews-signup"><span class="blue">Newsletter</span> | Subscribe Now</a> </div>
+</div>
+</div>
+</div>
+<div class="helper-height inner-middle-column columns">
+<article id="post-0" class="post error404 not-found">
+<header class="entry-header">
+<h1 class="entry-title">Oops! That page can&rsquo;t be found.</h1>
+</header>
+<div class="entry-content">
+<p>It looks like nothing was found at this location. Maybe try a search?</p>
+<form class="search row collapse" method="get" id="searchform" action="https://www.manitobacooperator.ca/" role="search">
+<div class="small-20 columns">
+<input class="search-field" size="20" name="s" placeholder="Search Manitoba Co-operator" type="text" value>
+</div>
+<div class="small-4 columns">
+<button type="submit" class="button postfix search-btn">
+<img alt="Tap to search" width="22" height="22" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src='https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/search-icon-white.png' alt='Tap to search' width='22' height='22'/></noscript>
+</button>
+</div>
+</form>
+</div>
+</article>
+</div>
+<div class="show-for-large-up inner-right-column columns sidebar-single right-column">
+<div class="right-rail-ad-container">
+<div class="rail ad">
+<script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--sticky'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--sticky', code: code, height: '250' });
+	</script>
+<div id="dfp-ad-slot--sticky" class>
+</div>
+</div>
+</div>
+<div id="agcanada-tv-3" class="widget-container widget_agcanadatv"><div class="widget"> <div class="agcanadatv agblock ag-tv-width">
+<h2 class="widget-title"><i class="fi-video"></i> AgCanadaTV</h2> <div class="ag-tv-widget-border">
+<h2 class="video-title ag-tv-video-title">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_AGCANADA_TV" data-module-name="Agcanadatv" data-module-location="Single Right Rail" data-page-type="Other" data-module-position="Single Right Rail 1" href="https://www.manitobacooperator.ca/video/agcanadatv-in-case-you-missed-it-your-national-ag-news-recap-for-the-week-ending-december-22-2023/" class="ag-tv-video-title-link">
+AGCanadaTV: In Case You Missed It – Your National Ag News Recap for the week ending December 22, 2023. </a>
+</h2>
+<div data-click="gfm-click-tracking" data-module-id="WIDGET_AGCANADA_TV" data-module-name="Agcanadatv" data-module-location="Single Right Rail" data-page-type="Other" data-module-position="Single Right Rail 1" class="ag-tv-video">
+<div style="display: block; max-width: 400px;"><div style="padding-top: 56.25%;"><video data-video-id="6343702070112" data-account="2206156280001" data-player="S18VXWyL" data-embed="default" class="video-js" controls style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></video> <script src="//players.brightcove.net/2206156280001/S18VXWyL_default/index.min.js"></script></div></div> </div>
+<div class="ag-tv-ads-container">
+<small>Sponsored By:</small>
+<script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--video_sponsorship'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--video_sponsorship', code: code, height: '0' });
+	</script>
+<div id="dfp-ad-slot--video_sponsorship" class>
+</div>
+</div>
+<div class="ag-tv-see-more-link more-link">
+<a data-click="gfm-click-tracking" data-module-id="WIDGET_AGCANADA_TV" data-module-name="Agcanadatv" data-module-location="Single Right Rail" data-page-type="Other" data-module-position="Single Right Rail 1" href="https://www.manitobacooperator.ca/video/">More Videos →</a>
+</div>
+</div>
+</div>
+</div></div>
+<div id="gfm-latest-episode-widget-2" class="widget-container gfm-latest-episode-widget"><div class="widget"><div class="gfm-single-track-player is-simple">
+<div class="gfm-single-track-player--header">
+<h3 class="gfm-single-track-player--header-title">Cyber-Savvy Farmer</h3>
+<img alt="Glacier Farmmedia Podcast" data-src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-podcast/assets/images/logos/gfm-podcast-logo-stamp.svg" class="gfm-single-track-player--stamp lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img
+            class="gfm-single-track-player--stamp"
+            src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-podcast/assets/images/logos/gfm-podcast-logo-stamp.svg"
+            alt="Glacier Farmmedia Podcast"
+        /></noscript>
+</div>
+<div data-click="gfm-click-tracking" data-module-id="WIDGET_PODCAST" data-module-name="Cyber Savvy Farmer" data-module-location="Single Right Rail" data-page-type="Other" data-module-position="Single Right Rail 2" class="gfm-single-track-player--player-container">
+<script async data-type="archive" data-hash="NEL2pJGk4b" src="https://app.fusebox.fm/embed/player.js">
+</script> </div>
+</div></div></div><div id="latest-market-news-4" class="widget-container latest-market-news"><div class="widget"><h2 class="widget-title">Latest Market News</h2> <div class="latestmarketnews4 widget lmn-widget-content has-link-to-archive" data-widget-id="latestmarketnews4 " data-posts-count="5">
+<div class="lmn-skeleton-loader">
+<div class="lmn-skeleton-loader--overlay"></div>
+<div class="lmn-skeleton-loader--fake-article-container">
+<div class="lmn-skeleton-loader--fake-text">
+<div></div>
+<div></div>
+</div>
+</div>
+<div class="lmn-skeleton-loader--fake-article-container">
+<div class="lmn-skeleton-loader--fake-text">
+<div></div>
+<div></div>
+</div>
+</div>
+<div class="lmn-skeleton-loader--fake-article-container">
+<div class="lmn-skeleton-loader--fake-text">
+<div></div>
+<div></div>
+</div>
+</div>
+<div class="lmn-skeleton-loader--fake-article-container">
+<div class="lmn-skeleton-loader--fake-text">
+<div></div>
+<div></div>
+</div>
+</div>
+<div class="lmn-skeleton-loader--fake-article-container">
+<div class="lmn-skeleton-loader--fake-text">
+<div></div>
+<div></div>
+</div>
+</div>
+</div> </div>
+<div data-click="gfm-click-tracking" data-module-id="WIDGET_LATEST_MARKET_NEWS" data-module-name="Latest Market News" data-module-location="Single Right Rail" data-page-type="Other" data-module-position="Single Right Rail 3" class="more-link">
+<a href="https://marketsfarm.com/news/" target="_blank">More Market News →</a>
+</div>
+</div></div></div>
+</div>
+</div>
+</div> 
+<div class="row container-bottom-ad">
+<div class="columns medium-24">
+<div class="show-for-medium-up" style="margin: 20px auto 0; width:728px;"><script type="text/javascript">
+		var code = "googletag.cmd.push( function() {googletag.display('dfp-ad-slot--lazy-load-leaderboard'); } );";
+		if(typeof lazyAds == "undefined"){
+			var lazyAds = [];
+		}
+        lazyAds.push({divId: 'dfp-ad-slot--lazy-load-leaderboard', code: code, height: '0' });
+	</script>
+<div id="dfp-ad-slot--lazy-load-leaderboard" class>
+</div>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="wrap">
+<div class="row">
+<div class="small-24 medium-16 columns">
+<img alt="flag" data-src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/footer-logo.svg" class="left logo-footer lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img class="left logo-footer" src="https://www.manitobacooperator.ca/wp-content/themes/mbc_theme_single/images/logo/footer-logo.svg" alt="flag"></noscript>
+</div>
+<div class="small-24 medium-8 columns">
+<div class="right footer-search-container">
+<form method="get" id="searchform-footer" action="https://www.manitobacooperator.ca/" role="search">
+<input class="search" name="s" type="text" aria-label="Search" placeholder="Enter search words here" value><button class="button footer-search" aria-label="Submit search" type="submit"><i class="fi-magnifying-glass medium"></i></button>
+</form>
+<a data-click="gfm-click-tracking" data-module-id="BTN_NEWSLETTER_SIGNUP" data-module-name="Newsletter Signup Button" data-module-location="Footer" data-page-type="Other" href="https://farmmedia.com/freefarmnews-signup/" class="btn" target="_blank" rel="noopener">
+Signup to our Newsletter </a>
+</div>
+</div>
+</div>
+<nav>
+<div class="row main-footer-nav">
+<ul id="menu-footer" class="small-12 medium-24 columns"><li id="menu-item-108780" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108780"><a href="https://www.manitobacooperator.ca/news-opinion/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Menu" data-page-type="Other">News &amp; Opinion</a></li>
+<li id="menu-item-108781" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108781"><a href="https://www.manitobacooperator.ca/crops/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Menu" data-page-type="Other">Crops</a></li>
+<li id="menu-item-108782" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108782"><a href="https://www.manitobacooperator.ca/livestock/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Menu" data-page-type="Other">Livestock</a></li>
+<li id="menu-item-108783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108783"><a href="https://www.manitobacooperator.ca/markets/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Menu" data-page-type="Other">Markets</a></li>
+<li id="menu-item-108784" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108784"><a href="https://www.manitobacooperator.ca/farm-it-manitoba/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Menu" data-page-type="Other">Farmit</a></li>
+</ul><ul id="menu-subfooter-1" class="small-12 medium-24 columns sub-footer-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108785"><a href="/video/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Video</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108786"><a href="/digital-edition/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Digital Editions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108787"><a href="http://farmzilla.com" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Classifieds</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108788"><a href="https://www.manitobacooperator.ca/subscriptions/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Subscriptions</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108789"><a href="https://www.manitobacooperator.ca/about/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108790"><a href="https://www.manitobacooperator.ca/contact/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108791"><a href="https://www.manitobacooperator.ca/advertise/" data-click="gfm-click-tracking" data-module-id="FOOTER_NAV" data-module-name="Footer Navigation" data-module-location="Footer Extra Menu" data-page-type="Other">Advertise</a></li>
+</ul> </div>
+</nav>
+<div class="row footer-signup">
+<div class="small-24 medium-16 columns left"><p class="terms"><a href="/terms-of-use/">Terms and Conditions</a> | <a href="/privacy/">Privacy Policy</a> | &copy; 2023, Glacier FarmMedia Limited Partnership</p></div>
+</div>
+</div>
+</footer>
+<a class="exit-off-canvas"></a>
+</div>
+</div>
+<script type="text/javascript">
+			//<![CDATA[
+			var gfm_infinite = {"settings":{"id":"content","ajaxurl":"https:\/\/www.manitobacooperator.ca\/?infinity=scrolling","type":"click","wrapper":true,"wrapper_class":"infinite-wrap","footer":false,"click_handle":"1","text":"Click To Read More","totop":"Scroll back to top","currentday":"22.12.23","order":"DESC","scripts":[],"styles":[],"offset":0,"history":{"host":"www.manitobacooperator.ca","path":"\/files\/2014\/11\/grain-burlap-bag.jpg\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"page":0,"name":"grain-burlap-bag-jpg","category_name":"files\/2014\/11","error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"search_columns":[],"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":true,"update_post_term_cache":true,"update_menu_item_cache":false,"lazy_load_term_meta":true,"update_post_meta_cache":true,"post_type":"","posts_per_page":10,"nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":null,"body_class":"","show_page_num":true,"tracking_data_attrs":"\n            data-click='gfm-click-tracking' \n            data-module-id='BTN_INFINITE_HANDLE' \n            data-module-name='Inifinite Handle Button' \n            data-module-location='Under Content'\n            data-page-type='Other'\n        ","ajaxurl_original":"https:\/\/www.manitobacooperator.ca\/?infinity=scrolling"}};
+			//]]>
+			</script>
+<div class="gfm-subscriptions-popup-overlay"></div>
+<div class="gfm-subscriptions-popup">
+<div class="gfm-subscriptions-content">
+<a class="gfm-subscriptions-popup-gform-close" href="#">x</a>
+<div class="g-form">
+<picture class="gfm-subscriptions-image-container">
+<source media="(min-width: 600px)" srcset="https://static.manitobacooperator.ca/wp-content/uploads/2022/11/23080032/mc.png" width="304" height="497">
+<source srcset="https://static.manitobacooperator.ca/wp-content/uploads/2022/11/24085504/mcM.png" width="100%" height="100%">
+<img alt="Banner image" data-src="https://static.manitobacooperator.ca/wp-content/uploads/2022/11/23080032/mc.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img src="https://static.manitobacooperator.ca/wp-content/uploads/2022/11/23080032/mc.png" alt="Banner image" /></noscript>
+</picture>
+<div class="gf_browser_unknown gform_wrapper gravity-theme gform-theme--no-framework gfm-btn-mc_wrapper" data-form-theme="gravity-theme" data-form-index="0" id="gform_wrapper_10">
+<div id="gf_10" class="gform_anchor" tabindex="-1"></div>
+<div class="gform_heading">
+<p class="gform_description">
+</p></div>
+<form data-title="Popup Subscription Form" method="post" enctype="multipart/form-data" target="gform_ajax_frame_10" id="gform_10" class="gfm-btn-mc" action="/files/2014/11/grain-burlap-bag.jpg#gf_10" data-formid="10" novalidate>
+<div class="gform-body gform_body">
+<div id="gform_fields_10" class="gform_fields top_label form_sublabel_below description_below">
+<div id="field_10_6" class="gfield gfield--type-html gfield--width-full popup-subscription-description gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_6">
+<div class="gfm-subscriptions-popup-header gfm-color-mc">Newsletter Sign Up</div>
+<div><b>Sign up</b> for local farm, ranch, crop and livestock production news, industry and policy information—all in one convenient email delivered right to your inbox!</div>
+<hr>
+</div>
+<div id="field_10_3" class="gfield gfield--type-email gfield--width-full popup-email-field gfm-click-mc gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_3"><label class="gfield_label gform-field-label" for="input_10_3">Your Email<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label></p>
+<div class="ginput_container ginput_container_email">
+<input name="input_3" id="input_10_3" type="email" value class="large" placeholder="Enter your email here" aria-required="true" aria-invalid="false" />
+</div>
+</div>
+<div id="field_10_2" class="gfield gfield--type-text gfield--width-full popup-postal-field gfm-click-mc gfield_contains_required field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_2"><label class="gfield_label gform-field-label" for="input_10_2">Your Postal Code<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></label></p>
+<div class="ginput_container ginput_container_text"><input name="input_2" id="input_10_2" type="text" value class="large" placeholder="Enter your postal code here" aria-required="true" aria-invalid="false" /> </div>
+</div>
+<fieldset id="field_10_1" class="gfield gfield--type-checkbox gfield--type-choice popup-subscription-privacy gfield_contains_required field_sublabel_below gfield--no-description field_description_below hidden_label gfield_visibility_visible" data-js-reload="field_10_1">
+<legend class="gfield_label gform-field-label gfield_label_before_complex">Privacy<span class="gfield_required"><span class="gfield_required gfield_required_text">(Required)</span></span></legend>
+<div class="ginput_container ginput_container_checkbox">
+<div class="gfield_checkbox" id="input_10_1">
+<div class="gchoice gchoice_10_1_1">
+<input class="gfield-choice-input" name="input_1.1" type="checkbox" value="Y" id="choice_10_1_1" /><br/>
+<label for="choice_10_1_1" id="label_10_1_1" class="gform-field-label gform-field-label--type-inline">I consent to receiving news from Glacier FarmMedia and affiliates. I can unsubscribe at any time.</label>
+</div>
+</div>
+</div>
+</fieldset>
+<div id="field_10_4" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_4">
+<div class="ginput_container ginput_container_text"><input name="input_4" id="input_10_4" type="hidden" class="gform_hidden" aria-invalid="false" value /></div>
+</div>
+<div id="field_10_5" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_5">
+<div class="ginput_container ginput_container_text"><input name="input_5" id="input_10_5" type="hidden" class="gform_hidden" aria-invalid="false" value /></div>
+</div>
+<div id="field_10_10" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_10">
+<div class="ginput_container ginput_container_text"><input name="input_10" id="input_10_10" type="hidden" class="gform_hidden" aria-invalid="false" value="GFM" /></div>
+</div>
+<div id="field_10_9" class="gfield gfield--type-hidden gfield--width-full gform_hidden field_sublabel_below gfield--no-description field_description_below gfield_visibility_visible" data-js-reload="field_10_9">
+<div class="ginput_container ginput_container_text"><input name="input_9" id="input_10_9" type="hidden" class="gform_hidden" aria-invalid="false" value="Manitoba Cooperator" /></div>
+</div>
+<div id="field_10_11" class="gfield gfield--type-honeypot gform_validation_container field_sublabel_below gfield--has-description field_description_below gfield_visibility_visible" data-js-reload="field_10_11"><label class="gfield_label gform-field-label" for="input_10_11">Comments</label></p>
+<div class="ginput_container"><input name="input_11" id="input_10_11" type="text" value autocomplete="new-password" /></div>
+<div class="gfield_description" id="gfield_description_10_11">This field is for validation purposes and should be left unchanged.</div>
+</div>
+</div>
+</div>
+<div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_10" class="gform_button button" value="Sign up" onclick="if(window[&quot;gf_submitting_10&quot;]){return false;}  if( !jQuery(&quot;#gform_10&quot;)[0].checkValidity || jQuery(&quot;#gform_10&quot;)[0].checkValidity()){window[&quot;gf_submitting_10&quot;]=true;}  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_10&quot;]){return false;} if( !jQuery(&quot;#gform_10&quot;)[0].checkValidity || jQuery(&quot;#gform_10&quot;)[0].checkValidity()){window[&quot;gf_submitting_10&quot;]=true;}  jQuery(&quot;#gform_10&quot;).trigger(&quot;submit&quot;,[true]); }" /> <input type="hidden" name="gform_ajax" value="form_id=10&amp;title=&amp;description=1&amp;tabindex=0&amp;theme=data-form-theme=&#039;gravity-theme&#039;" /><br/>
+<input type="hidden" class="gform_hidden" name="is_submit_10" value="1" /><br/>
+<input type="hidden" class="gform_hidden" name="gform_submit" value="10" /></p>
+<p> <input type="hidden" class="gform_hidden" name="gform_unique_id" value /><br/>
+<input type="hidden" class="gform_hidden" name="state_10" value="WyJbXSIsIjM3M2U3OGIyZTE0NjUzZWI5NGJiMmQ5ZDNmMWE3MzQ0Il0=" /><br/>
+<input type="hidden" class="gform_hidden" name="gform_target_page_number_10" id="gform_target_page_number_10" value="0" /><br/>
+<input type="hidden" class="gform_hidden" name="gform_source_page_number_10" id="gform_source_page_number_10" value="1" /><br/>
+<input type="hidden" name="gform_field_values" value /></p></div>
+</p></form>
+</p></div>
+<p> <iframe style="display:none;width:0px;height:0px;" src="about:blank" name="gform_ajax_frame_10" id="gform_ajax_frame_10" title="This iframe contains the logic required to handle Ajax powered Gravity Forms."></iframe><br/>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {gformInitSpinner( 10, 'https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_10').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_10');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_10').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_10').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_10').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_10').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_10').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_10').val();gformInitSpinner( 10, 'https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery(document).trigger('gform_page_loaded', [10, current_page]);window['gf_submitting_10'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_10').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_10').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [10]);window['gf_submitting_10'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_10').text());}, 50);}else{jQuery('#gform_10').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [10, current_page]);gform.utils.trigger({ event: 'gform/postRender', native: false, data: { formId: 10, currentPage: current_page } });} );} ); 
+/* ]]> */
+</script></p>
+</div>
+</div>
+</div>
+</div>
+<link rel="stylesheet" id="gravity_forms_theme_reset-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-reset.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="gravity_forms_theme_foundation-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-foundation.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="gravity_forms_theme_framework-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-theme-framework.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="gravity_forms_orbital_theme-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/gravity-forms-orbital-theme.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="custom-recent-post-type-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-custom-recent-post-type-widget/css/custom-recent-post-type-widget.css?ver=1.6.2" type="text/css" media="all" />
+<link rel="stylesheet" id="lmn-css-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-all-markets/Modules/LatestMarketNews/assets/css/latest-market-news.css?ver=1.4.2" type="text/css" media="all" />
+<link rel="stylesheet" id="gis_gfm-infinite-styles-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-infinite-scrolling/css/gfm-infinite-scrolling.css?ver=1.8.0" type="text/css" media="all" />
+<link rel="stylesheet" id="barchart-integration-style-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-barchart-integration/assets/css/barchart-integration.css?ver=1.2.15" type="text/css" media="all" />
+<link rel="stylesheet" id="gsop-style-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-stories-from-other-pubs/css/stories-from-other-publications.css?ver=1.0.5" type="text/css" media="all" />
+<link rel="stylesheet" id="gfm-subscriptions-popup-component-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gfm-subscriptions-popup/assets/css/gfm-subscriptions-popup.css?ver=2.5.9" type="text/css" media="all" />
+<link rel="stylesheet" id="gform_basic-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="gform_theme_components-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="gform_theme_ie11-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/theme-ie11.min.css?ver=2.7.17" type="text/css" media="all" />
+<link rel="stylesheet" id="gform_theme-css" href="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.7.17" type="text/css" media="all" />
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-carousel/assets/js/slick.min.js?ver=1.1.5" id="glacier-carousel-slick-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/themes/network_theme/js/ads.js?ver=2.13.65" id="lazy-ads-js"></script>
+<script type="text/javascript" id="agc_common-scripts-js-extra">
+/* <![CDATA[ */
+var localizedStrings = {"advertisementText":"ADVERTISEMENT"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/themes/network_theme/js/common-scripts-concat.25656153415.js?ver=2.13.65" id="agc_common-scripts-js"></script>
+<script type="text/javascript" defer="defer" src="https://www.manitobacooperator.ca/wp-content/themes/network_theme/js/gravity-form.js?ver=2.13.65" id="gfm-gravity-form-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.15.1" id="smush-lazy-load-js"></script>
+<script defer type="text/javascript" src="https://stats.wp.com/e-202351.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'51711056',post:'0',tz:'-6',srv:'www.manitobacooperator.ca',j:'1:12.8.1'} ]);
+_stq.push([ "clickTrackerInit", "51711056", "0" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="lmn-ajax-js-extra">
+/* <![CDATA[ */
+var lmnajaxlatestmarketnews4 = {"data":"{\"tracking_data_attrs\":\"\\n            data-click='gfm-click-tracking' \\n            data-module-id='WIDGET_LATEST_MARKET_NEWS' \\n            data-module-name='Latest Market News' \\n            data-module-location='Single Right Rail'\\n            data-page-type='Other'\\n         data-module-position='Single Right Rail 3'\"}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-all-markets/Modules/LatestMarketNews/assets/js/lmn-ajax.js?ver=1.4.2" id="lmn-ajax-js"></script>
+<script type="text/javascript" id="gfm-subscriptions-popup-component-js-extra">
+/* <![CDATA[ */
+var popupvars = {"days_to_wait":"1","welcome_text":"Hi ${message.first_name}! Sign Up<br>For Our Newsletter!","tracking_data_attrs":"\n            data-click='gfm-click-tracking' \n            data-module-id='BTN_SUBSCRIPTION_POPUP_NEWSLETTER' \n            data-module-name='Subscription Popup Subscriptionspopup Button' \n            data-module-location='Modal'\n            data-page-type='Other'\n        ","endpoint_prefix":"https:\/\/www.manitobacooperator.ca\/wp-json\/gfm\/subscription-popup\/v1","nonce":"ab6bc68140"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gfm-subscriptions-popup/assets/js/gfm-subscriptions-popup.js?ver=2.5.9" id="gfm-subscriptions-popup-component-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca" id="wp-dom-ready-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/dist/a11y.min.js?ver=7032343a947cfccf5608" id="wp-a11y-js"></script>
+<script type="text/javascript" defer="defer" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/js/jquery.maskedinput.min.js?ver=2.7.17" id="gform_masked_input-js"></script>
+<script type="text/javascript" defer="defer" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.7.17" id="gform_placeholder-js"></script>
+<script type="text/javascript" defer="defer" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=59d951b75d934ae23e0ea7f9776264aa" id="gform_gravityforms_utils-js"></script>
+<script type="text/javascript" defer="defer" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/js/dist/vendor-theme.min.js?ver=4ef53fe41c14a48b294541d9fc37387e" id="gform_gravityforms_theme_vendors-js"></script>
+<script type="text/javascript" id="gform_gravityforms_theme-js-extra">
+/* <![CDATA[ */
+var gform_theme_config = {"common":{"form":{"honeypot":{"version_hash":"5e0b3ad617d565b1ab4acb0ed4ccd765"}}},"hmr_dev":"","public_path":"https:\/\/www.manitobacooperator.ca\/wp-content\/plugins\/gravityforms\/assets\/js\/dist\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityforms/assets/js/dist/scripts-theme.min.js?ver=f4d12a887a23a8c5755fd2b956bc8fcf" id="gform_gravityforms_theme-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" src="https://www.manitobacooperator.ca/wp-content/plugins/gravityformssurvey/js/gsurvey.min.js?ver=3.8" id="gsurvey_js-js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() { jQuery(document).on('gform_post_render', function(event, formId, currentPage){if(formId == 10) {jQuery('#input_10_2').mask('a9a 9a9').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).on('gform_post_conditional_logic', function(event, formId, fields, isInit){} ) } ); 
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+ gform.initializeOnLoaded( function() {jQuery(document).trigger('gform_post_render', [10, 1]);gform.utils.trigger({ event: 'gform/postRender', native: false, data: { formId: 10, currentPage: 1 } });} ); 
+/* ]]> */
+</script>
+</body>
+</html>

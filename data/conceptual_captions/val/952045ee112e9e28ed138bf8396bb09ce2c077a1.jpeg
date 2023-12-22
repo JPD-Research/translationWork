@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+   	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=1046, maximum-scale=1.0">
+	<title>VladTV // Error Page</title>
+    <meta name="description" content="Uh Oh! Something went wrong with the page your looking for!">
+	<link rel="canonical" href="https://www.vladtv.com/error">
+	<link rel="icon" type="image/png" href="/images/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/images/favicon/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/images/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/images/favicon/favicon-192x192.png" sizes="192x192">
+    <meta name="msapplication-TileColor" content="#d2232a">
+    <meta name="msapplication-TileImage" content="/images/favicon/mstile-144x144.png">
+    <meta name="theme-color" content="#d2232a">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="stylesheet" type="text/css" href="/includes/css/desktop.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Roboto:400,700|Roboto+Condensed:400,700">
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-PPMND3Q');
+	</script>
+</head>
+
+<body>
+
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPMND3Q" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+	<header>
+        <div class="container header">
+			<div class="header-logo">
+        		<a href="/" data-event="back-arrow" class="header-back-arrow icon-left-big" id="header-back-button"></a>
+            	<a href="/" data-event="logo"><img src="/images/site/logo-vladtv.png" alt="Logo: VladTV" width="151" height="30"></a>
+			</div>
+            <div class="search">
+            	<form action="/" method="get" id="form-search"><input type="text" name="search" placeholder="SEARCH" id="aa-search-input" class="aa-input-search aa-input" autocomplete="off" spellcheck="false"><button type="submit"><span class="icon-search"></span></button></form>
+            </div>
+        </div>
+    </header>
+
+	<main>
+    	<div class="container">
+        	<div class="body">
+            	<div id="gallery-overlay"><a href="#" id="gallery-close">X</a><img id="gallery-overlay-image"></div>
+            	<a href="#" data-event="arrow-scroll-up" id="arrow-overlay-u"><span class="icon-up-big"></span></a>
+				<h1>Error Page</h1>
+				<p>You request could not be completed. The page you are attempting to access may no longer exist, or data may be missing from your request.<br />
+				<br />
+				We have automatically dispatched an E-Mail for technical service to review the matter.<br />
+				<br />
+				Please <a href="/">click here</a> to return to the homepage.</p>
+    		</div>
+    	</div>
+	</main>
+
+	<script>
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    </script>
+ 	<script>
+        COMSCORE.beacon({
+        	c1: 	2,
+        	c2: 	6685975,
+        	c3: 	"",
+        	c4: 	"{comscore}",
+        	c5: 	"",
+        	c6: 	"",
+        	c15: 	""
+        });
+    </script>
+    <noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=6685975&c3=&c4=&c5=&c6=&c15=&cj=1"></noscript>
+
+</body>
+</html>

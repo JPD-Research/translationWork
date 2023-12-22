@@ -1,0 +1,1498 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en" class="no-js ie6 "><![endif]-->
+<!--[if IE 7 ]><html lang="en" class="no-js ie7 "> <![endif]-->
+<!--[if IE 8 ]><html lang="en" class="no-js ie8 "> <![endif]-->
+<!--[if IE 9 ]><html lang="en" class="no-js ie9 "><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en" class="no-js "> <!--<![endif]-->
+  <head id="Head1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://sf.wildapricot.org/BuiltTheme/firma_stand_tall.v3.0/current/aedb6cfd/styles/combined.css" rel="stylesheet" type="text/css" /><link href="https://107ist.org/resources/theme/customStyles.css?t=637593554620270000" rel="stylesheet" type="text/css" /><link href="https://107ist.org/resources/theme/user.css?t=637294196570000000" rel="stylesheet" type="text/css" /><link href="//sf.wildapricot.org/WebUI/built8.4.0.24326/scripts/public/react/index-9cf11fa.css" rel="stylesheet" type="text/css" /><link href="//sf.wildapricot.org/WebUI/built8.4.0.24326/css/shared/ui/shared-ui-compiled.css" rel="stylesheet" type="text/css" /><script type="text/javascript" language="javascript" id="idJavaScriptEnvironment">var bonaPage_BuildVer='8.4.0.24326';
+var bonaPage_AdminBackendUrl = '/admin/';
+var bonaPage_StatRes='https://sf.wildapricot.org/WebUI/';
+var bonaPage_InternalPageType = { isUndefinedPage : false,isWebPage : false,isAdminPage : false,isDialogPage : false,isSystemPage : false,isErrorPage : false,isError404Page : true };
+var bonaPage_PageView = { isAnonymousView : true,isMemberView : false,isAdminView : false };
+var WidgetMode = 0;
+var bonaPage_IsUserAnonymous = true;
+var bonaPage_ThemeVer='aedb6cfd637294196570000000637593554620270000'; var bonaPage_ThemeId = 'firma_stand_tall.v3.0'; var bonaPage_ThemeVersion = '3.0';
+var bonaPage_id='18015'; version_id='';
+if (bonaPage_InternalPageType && (bonaPage_InternalPageType.isSystemPage || bonaPage_InternalPageType.isWebPage) && window.self !== window.top) { var success = true; try { var tmp = top.location.href; if (!tmp) { top.location = self.location; } } catch (err) { try { if (self != top) { top.location = self.location; } } catch (err) { try { if (self != top) { top = self; } success = false; } catch (err) { success = false; } } success = false; } if (!success) { window.onload = function() { document.open('text/html', 'replace'); document.write('<ht'+'ml><he'+'ad></he'+'ad><bo'+'dy><h1>Wrong document context!</h1></bo'+'dy></ht'+'ml>'); document.close(); } } }
+try { function waMetricsGlobalHandler(args) { if (WA.topWindow.waMetricsOuterGlobalHandler && typeof(WA.topWindow.waMetricsOuterGlobalHandler) === 'function') { WA.topWindow.waMetricsOuterGlobalHandler(args); }}} catch(err) {}
+ try { if (parent && parent.BonaPage) parent.BonaPage.implementBonaPage(window); } catch (err) { }
+try { document.write('<style type="text/css"> .WaHideIfJSEnabled, .HideIfJSEnabled { display: none; } </style>'); } catch(err) {}</script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built8.4.0.24326/scripts/shared/bonapagetop/bonapagetop-compiled.js" id="idBonaPageTop"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built8.4.0.24326/scripts/public/react/index-9cf11fa.js" id="ReactPublicJs"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built8.4.0.24326/scripts/shared/ui/shared-ui-compiled.js" id="idSharedJs"></script><script type="text/javascript" language="javascript" src="//sf.wildapricot.org/WebUI/built8.4.0.24326/General.js" id=""></script><script type="text/javascript" language="javascript" src="https://sf.wildapricot.org/BuiltTheme/firma_stand_tall.v3.0/current/aedb6cfd/scripts/combined.js" id=""></script><title>107 Independent Supporters Trust - Page not found (404)</title>
+<link rel="shortcut icon" type="image/ico" href="/Resources/Pictures/favicon.ico" />
+<meta property="og:image"              content="https://107ist.org/resources/Pictures/107IST%20B_W-1800px.png" /><meta name="apple-itunes-app" content="app-id=1220348450, app-argument=202212"><link rel="search" type="application/opensearchdescription+xml" title="107ist.org" href="/opensearch.ashx" /></head>
+  <body id="PAGEID_18015" class="publicContentView LayoutMain">
+<div class="mLayout layoutMain state1" id="mLayout">
+<div class="mobilePanelContainer">
+<div id="id_MobilePanel" data-componentId="MobilePanel" class="WaPlaceHolder WaPlaceHolderMobilePanel" style=""><div style=""><div id="id_xaBsq8r" class="WaGadgetOnly WaGadgetMobilePanel  gadgetStyleNone" style="" data-componentId="xaBsq8r" ><div class="mobilePanel">
+	
+	<div class="mobilePanelButton buttonMenu" title="Menu">Menu</div>
+<div class="mobilePanelButton buttonLogin" title="Log in">Log in</div>
+<div class="menuInner">
+		<ul class="firstLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/" title="Home"><span>Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/aboutus" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/what-why" title="What is 107IST?"><span>What is 107IST?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/board-of-directors" title="Board of Directors"><span>Board of Directors</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/elections" title="107IST Elections"><span>107IST Elections</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/committees" title="Committees &amp; Contacts"><span>Committees &amp; Contacts</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/aboutus/contact" title="Contact Us"><span>Contact Us</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/1919" title="1919 SW Morrison Pop-Up"><span>1919 SW Morrison Pop-Up</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/107ist" title="Our Work"><span>Our Work</span></a>
+<ul class="secondLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/107ist/community" title="Community Outreach"><span>Community Outreach</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/Donation-Drives" title="Donation Drives and Community"><span>Donation Drives and Community</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/trans-rights" title="Supporting Trans Rights"><span>Supporting Trans Rights</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/community/gisele-currier-scholarship-fund" title="Gisele Currier Scholarship Fund"><span>Gisele Currier Scholarship Fund</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/OPI" title="Operation Pitch Invasion"><span>Operation Pitch Invasion</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/cpr-training" title="107ist CPR Training"><span>107ist CPR Training</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/community/booked" title="Booked!"><span>Booked!</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/107ist/partners" title="107ist Partners"><span>107ist Partners</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/official-partners" title="Official partners"><span>Official partners</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/partner-guidelines-application" title="Become a Partner"><span>Become a Partner</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/community/timbers-army-fc" title="Timbers Army FC"><span>Timbers Army FC</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/subscriptions" title="Volunteer"><span>Volunteer</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/donate" title="Donate"><span>Donate</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/news-events" title="News &amp; Events"><span>News &amp; Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/events" title="Events Calendar"><span>Events Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/Blog" title="Blog"><span>Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18303" title="Timbers Army Blog"><span>Timbers Army Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18341" title="Rose City Riveters Blog"><span>Rose City Riveters Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/volunteer" title="Volunteer opt-in"><span>Volunteer opt-in</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/PTFC-Match-Calendars" title="PTFC Match Calendars"><span>PTFC Match Calendars</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/onward" title="Onward! A Rose City Podcast"><span>Onward! A Rose City Podcast</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/join-renew" title="Join us"><span>Join us</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/107ist-sign-up" title="Join or Renew"><span>Join or Renew</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/membership-gift-certificates" title="Gift Memberships"><span>Gift Memberships</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/join/what-why" title="Benefits"><span>Benefits</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/membership-faq" title="Membership FAQ"><span>Membership FAQ</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/Travel" title="Travel"><span>Travel</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/away-days-calendar" title="Away Days Calendar"><span>Away Days Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/away/travel-faq" title="Away Travel FAQ"><span>Away Travel FAQ</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/away/code-of-conduct" title="Away Travel Code of Conduct"><span>Away Travel Code of Conduct</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/ta-worldwide" title="Regional Supporters Groups"><span>Regional Supporters Groups</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/travel/portland-guide" title="Visiting Fans&#39; Guide to Portland"><span>Visiting Fans&#39; Guide to Portland</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/members" title="Members"><span>Members</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy" title="Timbers Army"><span>Timbers Army</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18302" title="Timbers Army Home"><span>Timbers Army Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/aboutus" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/whoarewe" title="What is the Timbers Army?"><span>What is the Timbers Army?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/history" title="History"><span>History</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/SPOTY" title="Timbers Army Supporters&#39; Player of the Year"><span>Timbers Army Supporters&#39; Player of the Year</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/aboutus-espanol" title="Timbers Army Espa&#241;ol"><span>Timbers Army Espa&#241;ol</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/glossary" title="Glossary"><span>Glossary</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/ta/flickr" title="TA Flickr"><span>TA Flickr</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/news-events" title="News &amp; Events"><span>News &amp; Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/TimbersArmyBlog" title="Timbers Army Blog"><span>Timbers Army Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/calendar" title="Calendar"><span>Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/volunteer" title="Volunteer"><span>Volunteer</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/npo" title="Shop"><span>Shop</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day" title="Game Day"><span>Game Day</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/tifo" title="Tifo"><span>Tifo</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/chants" title="Chants"><span>Chants</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/rsg" title="Regional Supporters Groups"><span>Regional Supporters Groups</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/tickets" title="Tickets"><span>Tickets</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/away" title="Away Days"><span>Away Days</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters" title="Rose City Riveters"><span>Rose City Riveters</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18312" title="Rose City Riveters Home"><span>Rose City Riveters Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters/aboutus" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/whoarewe" title="Who are the Rose City Riveters?"><span>Who are the Rose City Riveters?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/charter" title="Rose City Riveters Charter"><span>Rose City Riveters Charter</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/meeting-agendas" title="Riveters Steering Committee Meeting Agendas"><span>Riveters Steering Committee Meeting Agendas</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/contact" title="Contact"><span>Contact</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/RivetGearFAQ" title="RivetGear FAQ"><span>RivetGear FAQ</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/SPOTY" title="Riveters Supporters&#39; Player of the Year"><span>Riveters Supporters&#39; Player of the Year</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/flickr" title="Riveters Flickr"><span>Riveters Flickr</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters/news-events" title="News &amp; Events"><span>News &amp; Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/RivetersBlog" title="Riveters Blog"><span>Riveters Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/calendar" title="Calendar"><span>Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18320" title="Volunteer"><span>Volunteer</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/2023-World-Cup-Watch-Parties" title="2023 World Cup Watch Parties"><span>2023 World Cup Watch Parties</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/rivetgear" title="Shop"><span>Shop</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day" title="Game Day"><span>Game Day</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/tifo" title="Tifo"><span>Tifo</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/chants" title="Chants"><span>Chants</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/tickets" title="Tickets"><span>Tickets</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/away" title="Away Days"><span>Away Days</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+	</div>
+
+	<div class="loginInner">
+<div class="loginContainerForm oAuthIsfalse">
+<form method="post" action="https://107ist.org/Sys/Login" id="id_xaBsq8r_form" class="generalLoginBox"  data-disableInAdminMode="true">
+<input type="hidden" name="ReturnUrl" id="id_xaBsq8r_returnUrl" value="">
+				<input type="hidden" name="browserData" id="id_xaBsq8r_browserField">
+<div class="loginUserName">
+<div class="loginUserNameTextBox">
+		<input name="email" type="text" maxlength="100" placeholder="Email"  id="id_xaBsq8r_userName" tabindex="1" class="emailTextBoxControl"/>
+	</div>
+</div><div class="loginPassword">
+<div class="loginPasswordTextBox">
+		<input name="password" type="password" placeholder="Password" maxlength="50" id="id_xaBsq8r_password" tabindex="2" class="passwordTextBoxControl" autocomplete="off"/>
+	</div>
+</div> 
+    <input id="g-recaptcha-invisible_xaBsq8r" name="g-recaptcha-invisible" value="recaptcha" type="hidden"/> 
+    <div id="recapcha_placeholder_xaBsq8r" style="display:none"></div>
+    <span id="idReCaptchaValidator_xaBsq8r" errorMessage="Please verify that you are not a robot" style="display:none" validatorType="method" ></span>
+    <script>
+        $("#idReCaptchaValidator_xaBsq8r").on( "wavalidate", function(event, validationResult) {
+            if (grecaptcha.getResponse(widgetId_xaBsq8r).length == 0){
+                grecaptcha.execute(widgetId_xaBsq8r);	
+                validationResult.shouldStopValidation = true;
+                return;
+            }
+
+            validationResult.result = true;
+        });
+  
+            var widgetId_xaBsq8r;
+
+            var onloadCallback_xaBsq8r = function() {
+                // Renders the HTML element with id 'recapcha_placeholder_xaBsq8r' as a reCAPTCHA widget.
+                // The id of the reCAPTCHA widget is assigned to 'widgetId_xaBsq8r'.
+                widgetId_xaBsq8r = grecaptcha.render('recapcha_placeholder_xaBsq8r', {
+                'sitekey' : '6LfmM_UhAAAAAJSHT-BwkAlQgN0mMViOmaK7oEIV',
+                'size': 'invisible',
+                'callback': function(){
+                    document.getElementById('g-recaptcha-invisible_xaBsq8r').form.submit();
+                },
+                'theme' : 'light'
+            });
+        };
+    </script>
+	
+    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback_xaBsq8r&render=explicit" async defer></script>
+
+ <div class="loginActionRememberMe">
+		<input id="id_xaBsq8r_rememberMe" type="checkbox" name="rememberMe" tabindex="3" class="rememberMeCheckboxControl"/>
+		<label for="id_xaBsq8r_rememberMe">Remember me</label>
+	</div>
+<div class="loginPasswordForgot">
+		<a href="https://107ist.org/Sys/ResetPasswordRequest">Forgot password</a>
+	</div>
+<div class="loginAction">
+	<input type="submit" name="ctl03$ctl02$loginViewControl$loginControl$Login" value="Log in" id="id_xaBsq8r_loginAction" onclick="if (!browserInfo.clientCookiesEnabled()) {alert('Warning: browser cookies disabled. Please enable them to use this website.'); return false;}" tabindex="4" class="loginButton loginButtonControl"/>
+</div></form></div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+jq$(function()
+{
+	var gadget = jq$('#id_xaBsq8r'),
+		menuContainer = gadget.find('.menuInner'),
+		loginContainer = gadget.find('.loginInner');
+
+	gadget.find('.buttonMenu').on("click",function()
+	{
+		menuContainer.toggle();
+		loginContainer.hide();
+		jq$(this).toggleClass('active');
+        jq$('.buttonLogin').removeClass('active');
+		return false;
+	});
+
+	gadget.find('.buttonLogin').on("click",function()
+	{
+		loginContainer.toggle();
+		menuContainer.hide();
+		jq$(this).toggleClass('active');
+        jq$('.buttonMenu').removeClass('active');
+		return false;
+	});
+
+	gadget.find('.mobilePanel').on("click",function(event)
+	{
+        if( !(jq$(event.target).parents('.loginInner').size() || event.target.className == 'loginInner') )
+        {
+            menuContainer.hide();
+            loginContainer.hide();
+            jq$('.buttonLogin').removeClass('active');
+            jq$('.buttonMenu').removeClass('active');
+        }
+
+        event.stopPropagation();
+	});
+
+	jq$('body').on("click",function()
+	{
+		menuContainer.hide();
+		loginContainer.hide();
+		jq$('.buttonLogin').removeClass('active');
+        jq$('.buttonMenu').removeClass('active');
+	});
+
+
+	// login
+	var browserField = document.getElementById('id_xaBsq8r' + '_browserField');
+
+	if (browserField)
+	{
+		browserField.value = browserInfo.getBrowserCapabilitiesData();
+	}
+
+	jq$('#id_xaBsq8r' + '_form').FormValidate();
+	jq$('.WaGadgetMobilePanel form').attr('data-disableInAdminMode', 'false');
+
+});
+
+</script></div></div>
+</div></div>
+
+		<!-- header zone -->
+		<div class="zoneHeaderOuter">
+			<div class="zoneHeader container_12">
+				<div class="zoneHeaderInner s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="id_Header" data-componentId="Header" class="WaPlaceHolder WaPlaceHolderHeader" style="min-height:125px;"><div style="padding-top:0px;padding-bottom:0px;"><div id="id_avY4IGK" data-componentId="8UawspG" class="WaLayoutContainerFirst" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="avY4IGK_row" class="WaLayoutRow"><td id="id_nsASBqg" data-componentId="HqKB7pw" class="WaLayoutItem" style="width:100%;"><div id="id_mxmIDIV" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="tEFesdI" style=""><div style=""><div id="id_HJ4kJF3" class="WaGadgetFirst WaGadgetLoginButton  gadgetStyle001" style="" data-componentId="uHCwTEl" ><div class="loginButtonBackground"></div>
+<div class="loginButtonWrapper alignRight">
+  <div class="loginBoxLinkContainer">
+    <a class="loginBoxLinkButton" href="https://107ist.org/Sys/Login">Log in</a>
+  </div>
+  </div>
+<script type="text/javascript">
+  jq$(function() {
+    var gadgetLoginButton = jq$('#id_HJ4kJF3');
+    var leftOffset;
+    
+    function resizeBgLogin() {
+      // background track
+      leftOffset = (gadgetLoginButton.closest('.WaLayoutTable').length > 0) ? gadgetLoginButton.closest('.WaLayoutTable').width() : gadgetLoginButton.width();
+        
+      gadgetLoginButton.find('.loginButtonBackground').css({
+        'width': jq$('body').width(),
+        'left': ( ( jq$('body').width() - leftOffset ) * -0.5 )
+      });
+    }
+
+    resizeBgLogin();
+    jq$(window).resize(function() { resizeBgLogin(); });
+  });
+</script>
+</div><div id="id_MI848Jd" class="WaGadgetLast WaGadgetCustomHTML  gadgetStyleNone" style="" data-componentId="MI848Jd" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<style type="text/css">
+       body { background: url("/resources/Backgrounds/107ist_bg.jpg"); 
+              background-repeat: no-repeat;
+              background-attachment: fixed }
+       a { color: #808080 !important }
+       #idFooterPoweredByWA { color: #808080 !important }
+      input.typeButton, input.nextButton, input[type="submit"]{
+            background-color: #808080 !important; 
+            transition-duration: 0.8s;
+      }
+/*      input.typeButton:hover, input.nextButton:hover, input[type="submit"]:hover {
+            background-color: #004d00!important;
+      }
+ /*      .item { background-color: black !important }
+       .menuInner { background-color: black !important } */
+</style></div>
+</div></div></div></td></tr></table> </div><div id="id_DHjQ9KK" data-componentId="vnrKfUB" class="WaLayoutContainerLast" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="DHjQ9KK_row" class="WaLayoutRow"><td id="id_ZGuetZy" data-componentId="2NMBjjR" class="WaLayoutItem" style="width:100%;"><div id="id_Ic8QAbj" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="qgeTTiL" style=""><div style=""><div id="id_FGmgKeC" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="background-color:#FFFFFF;height:135px;" data-componentId="fJiL88P" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-top:10px;padding-right:15px;padding-left:10px;" data-editableArea="0" data-areaHeight="auto">
+<table width="100%" cellpadding="0" cellspacing="0" watable="1" class="contStyleExcSimpleTable" style="border-collapse: collapse;" border="0" align="center"><tbody><tr><td style="null" width="33%" height="" align="left" valign="middle"><a href="http://timbersarmy.org" target="_blank"><img src="/resources/Pictures/TA%20Crests%20Black%20Border%20Tight%20Crop.png" alt="" title="" border="0" width="110" height="110"></a><br></td><td valign="middle" align="center" width="33%"><a href="http://107ist.org" target="_blank"><img src="/resources/Pictures/107IST-BW.png" alt="" title="" border="0" width="126" height="110"></a></td><td valign="middle" align="right" width="33%"><a href="http://rosecityriveters.org" target="_blank"><img src="/resources/Pictures/Rose%20City%20Riveters%20Logo.png" alt="" title="" border="0" width="88" height="110"></a></td></tr></tbody></table><br></div>
+<script type="text/javascript">if (window.WA) { new WaContentGadgetResizer({ id: 'id_FGmgKeC' }); }</script>
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+			</div>
+		</div>
+
+		<div class="zoneHeader1Outer">
+			<div class="zoneHeader1 container_12">
+				<div class="zoneHeader1Inner s1_grid_12 s2_grid_12 s3_grid_12">
+					<div class="color"></div>
+<div id="id_Header1" data-componentId="Header1" class="WaPlaceHolder WaPlaceHolderHeader1" style="background-color:#FFFFFF;"><div style="padding-top:5px;"><div id="id_H8b9tTl" class="WaGadgetFirst WaGadgetMenuHorizontal  menuStyle002" style="margin-top:0px;margin-right:15px;margin-bottom:0px;margin-left:15px;" data-componentId="TtfdXUY" ><div data-sticky-wrapper="true">
+    <div class="stickness">
+        <div class="menuBackground"></div>
+        <div class="menuInner">
+            <ul class="firstLevel">
+                <li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/" title="Home"><span>Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/aboutus" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/what-why" title="What is 107IST?"><span>What is 107IST?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/board-of-directors" title="Board of Directors"><span>Board of Directors</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/elections" title="107IST Elections"><span>107IST Elections</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/committees" title="Committees &amp; Contacts"><span>Committees &amp; Contacts</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/aboutus/contact" title="Contact Us"><span>Contact Us</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/1919" title="1919 SW Morrison Pop-Up"><span>1919 SW Morrison Pop-Up</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/107ist" title="Our Work"><span>Our Work</span></a>
+<ul class="secondLevel">
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/107ist/community" title="Community Outreach"><span>Community Outreach</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/Donation-Drives" title="Donation Drives and Community"><span>Donation Drives and Community</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/trans-rights" title="Supporting Trans Rights"><span>Supporting Trans Rights</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/community/gisele-currier-scholarship-fund" title="Gisele Currier Scholarship Fund"><span>Gisele Currier Scholarship Fund</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/OPI" title="Operation Pitch Invasion"><span>Operation Pitch Invasion</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/cpr-training" title="107ist CPR Training"><span>107ist CPR Training</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/community/booked" title="Booked!"><span>Booked!</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/107ist/partners" title="107ist Partners"><span>107ist Partners</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/official-partners" title="Official partners"><span>Official partners</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/partner-guidelines-application" title="Become a Partner"><span>Become a Partner</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/community/timbers-army-fc" title="Timbers Army FC"><span>Timbers Army FC</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/subscriptions" title="Volunteer"><span>Volunteer</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/donate" title="Donate"><span>Donate</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/news-events" title="News &amp; Events"><span>News &amp; Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/events" title="Events Calendar"><span>Events Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/Blog" title="Blog"><span>Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18303" title="Timbers Army Blog"><span>Timbers Army Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18341" title="Rose City Riveters Blog"><span>Rose City Riveters Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/volunteer" title="Volunteer opt-in"><span>Volunteer opt-in</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/PTFC-Match-Calendars" title="PTFC Match Calendars"><span>PTFC Match Calendars</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/onward" title="Onward! A Rose City Podcast"><span>Onward! A Rose City Podcast</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/join-renew" title="Join us"><span>Join us</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/107ist-sign-up" title="Join or Renew"><span>Join or Renew</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/membership-gift-certificates" title="Gift Memberships"><span>Gift Memberships</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/join/what-why" title="Benefits"><span>Benefits</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/107ist/membership-faq" title="Membership FAQ"><span>Membership FAQ</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/Travel" title="Travel"><span>Travel</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/away-days-calendar" title="Away Days Calendar"><span>Away Days Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/away/travel-faq" title="Away Travel FAQ"><span>Away Travel FAQ</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/away/code-of-conduct" title="Away Travel Code of Conduct"><span>Away Travel Code of Conduct</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/ta-worldwide" title="Regional Supporters Groups"><span>Regional Supporters Groups</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/travel/portland-guide" title="Visiting Fans&#39; Guide to Portland"><span>Visiting Fans&#39; Guide to Portland</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/members" title="Members"><span>Members</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy" title="Timbers Army"><span>Timbers Army</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18302" title="Timbers Army Home"><span>Timbers Army Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/aboutus" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/whoarewe" title="What is the Timbers Army?"><span>What is the Timbers Army?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/history" title="History"><span>History</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/SPOTY" title="Timbers Army Supporters&#39; Player of the Year"><span>Timbers Army Supporters&#39; Player of the Year</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/aboutus-espanol" title="Timbers Army Espa&#241;ol"><span>Timbers Army Espa&#241;ol</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/glossary" title="Glossary"><span>Glossary</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/ta/flickr" title="TA Flickr"><span>TA Flickr</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/news-events" title="News &amp; Events"><span>News &amp; Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/TimbersArmyBlog" title="Timbers Army Blog"><span>Timbers Army Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/calendar" title="Calendar"><span>Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/volunteer" title="Volunteer"><span>Volunteer</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/npo" title="Shop"><span>Shop</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day" title="Game Day"><span>Game Day</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/tifo" title="Tifo"><span>Tifo</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/chants" title="Chants"><span>Chants</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/rsg" title="Regional Supporters Groups"><span>Regional Supporters Groups</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/tickets" title="Tickets"><span>Tickets</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/timbersarmy/game-day/away" title="Away Days"><span>Away Days</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters" title="Rose City Riveters"><span>Rose City Riveters</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18312" title="Rose City Riveters Home"><span>Rose City Riveters Home</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters/aboutus" title="About"><span>About</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/whoarewe" title="Who are the Rose City Riveters?"><span>Who are the Rose City Riveters?</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/charter" title="Rose City Riveters Charter"><span>Rose City Riveters Charter</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/meeting-agendas" title="Riveters Steering Committee Meeting Agendas"><span>Riveters Steering Committee Meeting Agendas</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/contact" title="Contact"><span>Contact</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/RivetGearFAQ" title="RivetGear FAQ"><span>RivetGear FAQ</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/SPOTY" title="Riveters Supporters&#39; Player of the Year"><span>Riveters Supporters&#39; Player of the Year</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/flickr" title="Riveters Flickr"><span>Riveters Flickr</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters/news-events" title="News &amp; Events"><span>News &amp; Events</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/RivetersBlog" title="Riveters Blog"><span>Riveters Blog</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/calendar" title="Calendar"><span>Calendar</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/page-18320" title="Volunteer"><span>Volunteer</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/2023-World-Cup-Watch-Parties" title="2023 World Cup Watch Parties"><span>2023 World Cup Watch Parties</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/rivetgear" title="Shop"><span>Shop</span></a>
+</div>
+</li>
+	
+<li class=" dir">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day" title="Game Day"><span>Game Day</span></a>
+<ul class="secondLevel">
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/tifo" title="Tifo"><span>Tifo</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/chants" title="Chants"><span>Chants</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/tickets" title="Tickets"><span>Tickets</span></a>
+</div>
+</li>
+	
+<li class=" ">
+	<div class="item">
+		<a href="https://107ist.org/riveters/game-day/away" title="Away Days"><span>Away Days</span></a>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+</div>
+</li>
+	
+</ul>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    if (window.WaMenuHorizontal)
+    {
+        jq$(document).ready(function()
+        {
+            new stickyPlaceholder();
+            new WaMenuHorizontal({ id: "id_H8b9tTl" });
+        });
+    }
+</script>
+
+
+<script type="text/javascript">
+    jq$(function()
+    {
+        var gadgetHorMenu = jq$('#id_H8b9tTl');
+        var leftOffset;
+
+        function resizeBg()
+        {
+            // background track
+
+            leftOffset = (gadgetHorMenu.closest('.WaLayoutTable').length > 0) ? gadgetHorMenu.closest('.WaLayoutTable').width() : gadgetHorMenu.width();
+
+            gadgetHorMenu.find('.menuBackground').css(
+            {
+                'width': jq$('body').width(),
+                'left': ( ( jq$('body').width() - leftOffset ) * -0.5 )
+            });
+        }
+
+        resizeBg();
+
+        jq$(window).resize(function()
+        {
+            resizeBg();
+        });
+    });
+</script></div><div id="id_MRWPKcJ" class="WaGadget WaGadgetSiteSearch  gadgetStyleNone" style="margin-right:15px;" data-componentId="2pry2QF" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<div class="searchBoxOuter alignRight">
+	<div class="searchBox">
+<form method="post" action="https://107ist.org/Sys/Search" id="id_MRWPKcJ_form" class="generalSearchBox"  data-disableInAdminMode="true">
+<span class="searchBoxFieldContainer"><input class="searchBoxField" type="text" name="searchString" id="idid_MRWPKcJ_searchBox" value="" maxlength="300" autocomplete="off"  placeholder="Enter search string"></span>
+<div class="autoSuggestionBox" id="idid_MRWPKcJ_resultDiv"></div>
+</form></div>
+	</div>
+	<script type="text/javascript">
+		(function(){
+
+			function init()
+			{
+				var model = {};
+				model.gadgetId = 'idid_MRWPKcJ';
+				model.searchBoxId = 'idid_MRWPKcJ_searchBox';
+				model.resultDivId = 'idid_MRWPKcJ_resultDiv';
+				model.selectedTypes = '7';
+				model.searchTemplate = 'https://107ist.org/Sys/Search?q={0}&types={1}&page={2}';
+				model.searchActionUrl = '/Sys/Search/DoSearch';
+				model.GoToSearchPageTextTemplate = 'Search for &#39;{0}&#39;';
+				model.autoSuggest = true;
+				var WASiteSearch = new WASiteSearchGadget(model);
+			}
+
+			jq$(document).ready(init);
+		}) ();
+	</script>
+</div>
+</div><div id="id_hbDqqEp" data-componentId="XWNtYMd" class="WaLayoutContainerLast" style="background-color:#FFFFFF;"><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="hbDqqEp_row" class="WaLayoutRow"><td id="id_yITJxhD" data-componentId="Lw7QpD4" class="WaLayoutItem" style="width:100%;"></td></tr></table> </div></div>
+</div></div>
+			</div>
+		</div>
+
+		<div class="zoneHeader2Outer">
+			<div class="zoneHeader2 container_12">
+				<div class="zoneHeader2Inner s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+		<!-- /header zone -->
+
+<!-- content zone -->
+	<div class="zoneContentOuter">
+		<div class="zoneContent container_12">
+			<div class="zoneContentInner s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="id_Content" data-componentId="Content" class="WaPlaceHolder WaPlaceHolderContent" style=""><div style=""><div id="id_c77M4Ws" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="background-color:#FFFFFF;" data-componentId="c77M4Ws" ><div class="gadgetStyleBody gadgetContentEditableArea" style="padding-top:15px;padding-right:15px;padding-bottom:15px;padding-left:15px;" data-editableArea="0" data-areaHeight="auto">
+<h2><img src="/resources/Pictures/43710351454_18d53bffbb_k.jpg" alt="" title="" border="0"><br></h2><h2>Page not found (error 404)</h2>Sorry, but the page you are trying to access either does not exist or is not available.<br>
+<br>
+
+<div>
+  <a href="/">Home</a>&nbsp; &nbsp; &nbsp;<a href="javascript:history.back()">Back</a>&nbsp; &nbsp; &nbsp;<a href="/Sitemap">Sitemap</a>
+</div></div>
+</div></div>
+</div></div>
+		</div>
+	</div>
+	<!-- /content zone -->
+
+<!-- footer zone -->
+		<div class="zoneFooterOuter">
+			<div class="zoneFooter container_12">
+				<div class="zoneFooterInner s1_grid_12 s2_grid_12 s3_grid_12">
+</div>
+			</div>
+		</div>
+
+        <div class="zoneFooter1Outer">
+            <div class="zoneFooter1 container_12">
+                <div class="zoneFooter1Inner s1_grid_12 s2_grid_12 s3_grid_12">
+                    <div id="id_Footer1" data-componentId="Footer1" class="WaPlaceHolder WaPlaceHolderFooter1" style=""><div style="padding-top:25px;"><div id="id_wWe8Y3I" data-componentId="hxaaD4M" class="WaLayoutContainerOnly" style=""><table cellspacing="0" cellpadding="0" class="WaLayoutTable" style=""><tr data-componentId="wWe8Y3I_row" class="WaLayoutRow"><td id="id_FGWtMFk" data-componentId="Diyk2xQ" class="WaLayoutItem" style="width:33%;"></td><td style="" data-componentId="Diyk2xQ_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_ecTN2u4" data-componentId="BTx9AUD" class="WaLayoutItem" style="width:33%;"><div id="id_HxuxDtV" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="FAFoSE9" style=""><div style=""><div id="id_Mb5Cqrr" class="WaGadgetOnly WaGadgetContent  gadgetStyleNone" style="" data-componentId="aYfBPIg" ><div class="gadgetStyleBody gadgetContentEditableArea" style="" data-editableArea="0" data-areaHeight="auto">
+<p align="center"><a href="http://107ist.org" target="_blank"><img src="/resources/Pictures/107IST-BW.png" alt="" title="" border="0" width="107" height="94"></a><br></p></div>
+</div></div></div></td><td style="" data-componentId="BTx9AUD_separator" class="WaLayoutSeparator"><div style="width: inherit;"></div></td><td id="id_4QpOnBN" data-componentId="KEZBLRf" class="WaLayoutItem" style="width:33%;"><div id="id_sdd3aX2" class="WaLayoutPlaceHolder placeHolderContainer" data-componentId="mmgDWLu" style=""><div style=""><div id="id_sWPJtU6" class="WaGadgetOnly WaGadgetSocialProfile  gadgetStyle002" style="" data-componentId="IhbvLGi" ><div class="gadgetStyleBody " style=""  data-areaHeight="auto">
+<div class="socialProfileWrapper alignRight fixedfalse">
+	<ul class="orientationHorizontal"><li><a href="https://twitter.com/107ist" title="Twitter" class="Twitter" target="_blank"></a></li></ul>
+</div>
+</div>
+<script>
+    jq$(document).ready(function() {
+        jq$(".socialProfileWrapper.fixedtrue").closest(".WaGadgetSocialProfile").addClass("fixed");
+        jq$(".socialProfileWrapper.fixedtrue ul").removeClass("orientationHorizontal").addClass("orientationVertical");
+
+        // new stuff
+        var mobileResolution = 959,
+                innerPadding = 10,
+                target = jq$('#id_sWPJtU6.WaGadgetSocialProfile.fixed'),
+                stickyAnchor = target.closest('.WaPlaceHolder');
+
+        if( target && stickyAnchor.length > 0 )
+        {
+            makeSocialSticky(stickyAnchor, target);
+
+            jq$(window).scroll( function()
+            {
+                makeSocialSticky(stickyAnchor, target);
+            });
+
+            jq$(window).resize( function()
+            {
+                makeSocialSticky(stickyAnchor, target);
+            });
+
+            makeSocialSticky(stickyAnchor, target);
+        }
+
+        function makeSocialSticky(anchor, target){
+            var anchorOffset = anchor.offset().top,
+                windowTop = jq$(window).scrollTop(),
+                styleNoneMargin = (target.hasClass('gadgetStyleNone'))? 6:0;
+
+
+            if ( window.innerWidth < mobileResolution){ // for inner position
+                if (windowTop > anchorOffset+innerPadding && target.height() < jq$(window).height()) {
+                    var innerOffset = anchor.offset().left + anchor.width() - target.width() - innerPadding;
+                    target.addClass('sticky').css("left", innerOffset).css("right", "auto");
+                }
+                else{
+                    target.removeClass('sticky').css("left","").css("right","");
+                }
+            }
+            else{ //for outer position
+                if (windowTop > anchorOffset && target.height() < jq$(window).height()) {
+                    target.addClass('sticky').css("left", anchor.offset().left + anchor.width() + styleNoneMargin).css("right", "auto");
+                }
+                else{
+                    target.removeClass('sticky').css("left","").css("right","");
+                }
+            }
+
+
+        };
+        //end of new stuff
+    });
+</script>
+</div></div></div></td></tr></table> </div></div>
+</div></div>
+            </div>
+        </div>
+		<!-- /footer zone -->
+
+		<!-- branding zone -->
+<div class="zoneBrandingOuter">
+			<div class="zoneBranding container_12">
+				<div class="zoneBrandingInner s1_grid_12 s2_grid_12 s3_grid_12">
+<div id="idFooterPoweredByContainer">
+	<span id="idFooterPoweredByWA">
+Powered by <a href="http://www.wildapricot.com" target="_blank">Wild Apricot</a> Membership Software</span>
+</div>
+</div>
+			</div>
+		</div>
+<!-- /branding zone -->
+<div id="idCustomJsContainer" class="cnCustomJsContainer">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144733272-1">
+try
+{
+    
+}
+catch(err)
+{}</script>
+<script>
+try
+{
+    
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144733272-1');
+
+}
+catch(err)
+{}</script></div>
+</div></body>
+</html>
+<script type="text/javascript">if (window.BonaPage && BonaPage.setPageState) { BonaPage.setPageState(BonaPage.PAGE_PARSED); }</script>

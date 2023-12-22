@@ -1,0 +1,1161 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+
+			<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="The Royal Gazette | Bermuda News, Business, Sports, Events, &amp;amp; Community - ">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.royalgazette.com/xmlrpc.php">
+	<link rel="stylesheet" href="">
+
+			<link rel="shortcut icon" href="https://www.royalgazette.com/wp-content/themes/royalgazette/images/default_favicon.ico" />
+	<script>var articleType = '';</script><script>var dfpType = '';</script><script>var pageTargeting = ["",false];</script><script type="text/javascript">var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+  var gads = document.createElement('script');
+  gads.async = true;
+  gads.type = 'text/javascript';
+  var useSSL = 'https:' == document.location.protocol;
+  gads.src = (useSSL ? 'https:' : 'http:') +
+    '//www.googletagservices.com/tag/js/gpt.js';
+  var node = document.getElementsByTagName('script')[0];
+  node.parentNode.insertBefore(gads, node);
+})();
+
+googletag.cmd.push(function() {
+
+  var path =  window.location.pathname;
+
+  if (path.indexOf('classifieds') !== -1) {
+    pageTargeting = 'classifieds';
+  } else if (path.indexOf('jobs') !== -1) {
+    pageTargeting = 'jobs';
+  } else if (path.indexOf('gentlemens-corner') !== -1) {
+    pageTargeting = 'island';
+  } else if (path.indexOf('political-cartoons') !== -1) {
+    pageTargeting = 'comment';
+  } 
+
+  googletag.defineSlot('/10134346/468x60_Above_page', [468, 60], 'div-gpt-ad-1397220158251-11').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/990x100_Above_Masthead', [990, 100], 'div-gpt-ad-1397220158251-12').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/center5-630x100', [630, 100], 'div-gpt-ad-1397220158251-20').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/300x250-SKYBOX', [300, 250], 'div-gpt-ad-1397220158251-10').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/300x250-SKYBOX2', [300, 250], 'div-gpt-ad-1397220158251-23').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/300x250-RR1', [300, 250], 'div-gpt-ad-1397220158251-8').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/300x250-RR2', [300, 250], 'div-gpt-ad-1397220158251-9').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/300x100-RR3', [[300,250],[300,100]], 'div-gpt-ad-1397220158251-3').addService(googletag.pubads());
+  // googletag.defineSlot('/10134346/300x100-RR4', [[300,250],[300,100]], 'div-gpt-ad-1397220158251-4').addService(googletag.pubads());
+  // googletag.defineSlot('/10134346/300x100-RR5', [[300,250],[300,100]], 'div-gpt-ad-1397220158251-5').addService(googletag.pubads());
+  // googletag.defineSlot('/10134346/300x100-RR6', [[300,250],[300,100]], 'div-gpt-ad-1397220158251-6').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/300x100-RR7', [[300,250],[300,100]], 'div-gpt-ad-1397220158251-7').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/article-ad3-600x140', [[600, 140],[630, 100],[300,250]], 'div-gpt-ad-1397220158251-15').addService(googletag.pubads());
+//  googletag.defineSlot('/10134346/Article-inside-300x250', [300, 250], 'div-gpt-ad-1397220158251-16').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/Mobile-Head-320x60', [[320, 60],[320,50],[300,100]], 'mobile-head').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/Mobile-Homepage-320x60', [[320, 60],[320,50],[300,100]], 'mobile-home').addService(googletag.pubads());
+  googletag.defineSlot('/10134346/Mobile-Content-320x60', [[320, 60],[320,50],[300,100]], 'mobile-content').addService(googletag.pubads());
+
+  if (path == '/') {
+
+		googletag.pubads().setTargeting('section', ['mobile', 'frontpage']);
+  
+  } else if (dfpType == 'article'){
+
+        for(var i=0; i < category_dfp_array.length; i++) {
+            category_dfp_array[i] = category_dfp_array[i].toUpperCase();
+            if (category_dfp_array[i] == 'LIFESTYLE') {
+              category_dfp_array[i] = 'ISLAND';
+            }
+        }
+
+        for(var i=0; i < tag_dfp_array.length; i++) {
+            tag_dfp_array[i] = tag_dfp_array[i].toUpperCase();
+        }
+
+        var articleTargetingArray = category_dfp_array.concat(tag_dfp_array);
+        articleTargetingArray.push(articleUUID);
+		if (pageTargeting[0] != '') {
+    	articleTargetingArray.push(pageTargeting.toString().toLowerCase());
+		}
+		googletag.pubads().setTargeting('section', ['mobile', articleTargetingArray]);
+  
+  } else if (dfpType == 'concept_page') {
+
+       var regex1level = /\/(.*)\//g;
+       var regex2levels = /\/(.*)\/(.*)\//g;
+       var replacePattern = `$1`;
+
+        if (path == '/') {
+          path = '/home';
+        }
+
+       var onelevel = path.search(regex1level) >= 0;
+       var twolevels = path.search(regex2levels) >= 0;
+
+       if (twolevels == true){
+         var conceptpage_category_url = path.replace(regex2levels, replacePattern);
+       } else if (onelevel == true){
+         var conceptpage_category_url = path.replace(regex1level, replacePattern);
+       } else {
+         var conceptpage_category_url = false;
+       }
+
+        var conceptpage_categories = [];
+        if (conceptpage_category_url == 'lifestyle') {
+            conceptpage_category_url = 'island';
+        }
+
+        conceptpage_categories.push(conceptpage_category_url.toLowerCase());
+        conceptpage_categories.push(conceptpage_category.toLowerCase());
+
+        for(var i=0; i < pageTargeting.length; i++) {
+            conceptpage_categories.push(pageTargeting[i]);
+        }
+		googletag.pubads().setTargeting('section', ['mobile', conceptpage_categories]);
+
+  } else {
+
+		googletag.pubads().setTargeting('section', ['mobile', pageTargeting]);
+  
+  }
+
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setCentering(true);
+  googletag.pubads().enableSingleRequest();
+  googletag.enableServices();
+});
+window.dataLayer = window.dataLayer || [];
+/* 2023-07-13 ERD: GA4 logging */
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-R0EZ2P2YDT');</script><meta name="facebook-domain-verification" content="aouo99pbihc6nskaefa5otznt7z1ld" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K6NC2S7');</script>
+<!-- End Google Tag Manager --><title>Page not found &#8211; The Royal Gazette | Bermuda News, Business, Sports, Events, &amp; Community</title>
+<style type='text/css'> 
+                html, body { font-family: Arial, Helvetica, sans-serif !important;}
+                form#login { font-family: Arial, Helvetica, sans-serif !important; }
+                .header-region { background-color: #ffffff; }
+                @font-face { font-family: ; src: url(); }
+                .hamburger-menu #top-main-menu { width: 300px ; }
+                .teaser-body.frontpagecategoryblock, .teaser-body.frontpagefeaturedtop, .section-teaser .teaser__leadin { color: #212121; } 
+                a, .concept-page a { color: #000000; text-decoration: none !important; }
+                .search_page_container a { color: #000000; text-decoration: none !important; }  
+                a:hover span.teaser__headline-marker, div#top-bar a:hover, div#right-sidebar a:hover { color: #605151; text-decoration: none !important;  }  
+                .main-navigation a.nav-link:hover { color: #ffffff !important; }
+                #top-bar, #top-bar .bg-primary { background-color: #3260ae !important; } 
+                div#top-bar a:hover { color: #e4e4e4; }  
+                #footer-menu .bg-primary { background-color: #3260ae !important; } 
+                .footer-menu a { color: #dddddd; } 
+                .footer-menu a:hover { color: #6d6d6d; }  
+                img.footer_logo_image { max-height: 70px; } 
+                #wrapper-navbar .main-navigation.navbar { background-color: #ffffff !important; } 
+                nav.main-navigation li a { color: #000000 !important; } 
+                .btn-primary, .btn-secondary, .btn, .main-nav-search input#searchsubmit { background-color: #636363 !important;, border-color: #636363 !important; } 
+                i.fa.fa-window-close { color: #636363; }
+                #sidebarMenu li a { font-size: 16px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; } 
+                .sidebarMenu { background-color: #ffffff} 
+                #sidebarMenu li a, #sidebarMenu hr.sidebarMenuLine, .sidebarMenuCloseButton { color: #1e0745; }
+                .widget-title, .frontpagefeaturedtop, .every_board .teaser__headline span { color: #000000; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; } 
+                .content-area .entry-header .entry-title, .search_page_title { font-size: 28px; } 
+                .section-teaser .entry-title h2.teaser__headline { font-size: 22px; } 
+                .section-teaser .category_overlay { background-color: #1e0745; color: #ffffff; } 
+                .frontpage-category-title { font-size: 20px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;} 
+                .frontpage-slider .teaser__headline-marker, .frontpagefeaturedtop .teaser__headline-marker { font-size: 18px; } 
+                .article-page .article__headline { font-size: 32px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; } 
+                .entry-title.frontpagecategoryblock, .entry-title.frontpagecategoryblock h2, article.teaser.frontpagecategorylistrest .teaser__headline { font-size: 18px; } 
+                article.teaser.frontpagecategorylisttop .teaser__headline { font-size: 18px; }
+                article.teaser.frontpagecategorylistrest .teaser__headline { font-size: 14px; } 
+                .above_footer_widget_area { background-color: #ffffff; color: #000000; } 
+                #wrapper-footer { background-color: #3260ae;} 
+                .content-area.entry-content, .article__body .article-restofcontent { font-family: Arial, Helvetica, sans-serif;}
+                .article__body .article-restofcontent { color: #000000;}
+                span.article__body.article__leadin { color: #000000; font-family: Arial, Helvetica, sans-serif;}
+                .teaser-body.frontpagecategoryblock, .teaser-body.frontpagefeaturedtop { font-size: 15px; }
+                .section-teaser .teaser-body { font-size: 14px; }
+                .article__body .article-restofcontent { font-size: 14px; }
+                .article-date { font-family: Arial, Helvetica, sans-serif;}
+                div#wrapper-navbar { max-width: 990px; margin: auto; }
+                nav.main-navigation, nav.main-navigation li a { font-family: Arial,sans-serif; font-size: 14px; }
+                .container, .breakingnews-top { max-width: 990px !important ; }
+                @media (min-width: 1050px) { a.navbar-brand.custom-logo-link { width: 440px ; } }
+                form#login { background-color: #ffffff ; color: #000000; border: 1px solid #000000; }
+                div#top-bar, div#top-bar a { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; font-size: 12px; color: #e4e4e4;  }
+                .sidemenuTrigger, .sideMenuTrigger.mobile, .hamburger-menu button#dropdownMenuButton { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; font-size: 12px; color: #ffffff;  }
+                .footer-menu { font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif;  }
+                .footer-menu .footer-heading { font-size: 18px; color: #ffffff; }
+                .footer-menu a { font-size: 14px;  }
+                .footer-logo-contactinfo { font-size: 12px; font-family: Georgia, Baskerville, Helvetica, Arial, sans-serif; color: #ffffff; }
+                .footer-social-media-icon a { color: #ffffff; font-size: 18px; }
+                .footer_copyright { color: #ffffff; font-size: 12px;   }
+                #right-sidebar, #left-sidebar, .sidebar { background-color: #ffffff; } 
+                article.breaking-section, article.breaking_fullLength { background-color: #9a2323; } 
+                .breaking_title, .breaking-teaser, .breaking-teaser .teaser-article-date, .breaking-teaser a, 
+                article.breaking_fullLength, article.breaking_fullLength a, .section-teaser.breaking-teaser a:hover { color: white; } 
+                .teaser-thin-teaser-category { color: #1e0745; } 
+                article.thin-teaser { background-color: #dddddd; } 
+                .frontpagecategoryblock.teaser-category, .teaser-frontpage-category-main-category { color: #2e009b } 
+                .teaser-frontpage-category-side.opinion .teaser-frontpage-category-side-author, .frontpage-category-main.opinion .teaser-frontpage-category-main-author { color: #935401 } </style><link rel='dns-prefetch' href='//www.royalgazette.com' />
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//loader-cdn.azureedge.net' />
+<link rel='dns-prefetch' href='//static.ew.rgb.navigacloud.com' />
+<link rel='dns-prefetch' href='//code.jquery.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.royalgazette.com/wp-includes/css/dist/block-library/style.min.css?ver=1701833390476' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.royalgazette.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://www.royalgazette.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.76.0' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('https://www.royalgazette.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='parent-style-css'  href='https://www.royalgazette.com/wp-content/themes/everyware-theme-base-1/style.css?ver=1701833390476' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='https://www.royalgazette.com/wp-content/themes/royalgazette/css/main.min.css?ver=20220119' type='text/css' media='' />
+<link rel='stylesheet' id='understrap-css'  href='https://www.royalgazette.com/wp-content/themes/everyware-theme-base-1/css/understrap.min.css?ver=1701833390476' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-css'  href='https://www.royalgazette.com/wp-content/themes/royalgazette/slick/slick.css?ver=1701833390476' type='text/css' media='' />
+<link rel='stylesheet' id='slick-theme-css'  href='https://www.royalgazette.com/wp-content/themes/royalgazette/slick/slick-theme.min.css?ver=1701833390476' type='text/css' media='all' />
+<link rel='stylesheet' id='rgb-style-css'  href='https://static.ew.rgb.navigacloud.com/wp-content/themes/royalgazette/assets/css/style.css?ver=1701833390476' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://www.royalgazette.com/wp-content/themes/royalgazette/style.css?ver=1701833390476' type='text/css' media='all' />
+<link rel='stylesheet' id='base-theme-css'  href='https://www.royalgazette.com/wp-content/themes/royalgazette/css/base-theme.min.css?ver=1701833390476' type='text/css' media='all' />
+<script type='text/javascript' src='https://code.jquery.com/jquery-3.3.1.min.js?ver=3.3.1' id='jquery-js'></script>
+<script type='text/javascript' id='login-modal-js-extra'>
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"https:\/\/www.royalgazette.com\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/www.royalgazette.com","loadingmessage":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/js/login-modal.js?ver=1701833390476' id='login-modal-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/css/base-theme.min.css?ver=1701833390476' id='parent-theme-style-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/js/sidebar.min.js?ver=20200901-2' id='sidebar-js'></script>
+<script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js?ver=1701833390476#property=59ce6165feebe0001600e9b3&#038;product=inline-share-buttons' id='sharethis-js'></script>
+<script type='text/javascript' src='https://static.ew.rgb.navigacloud.com/wp-content/themes/royalgazette/assets/js/head.js?ver=1701833390476' id='rgb-head-js-js'></script>
+<link rel="https://api.w.org/" href="https://www.royalgazette.com/wp-json/" />
+<script src='https://prod.ew.rgb.navigacloud.com/?dm=57c9b89633572b02cc3fff738d631684&amp;action=load&amp;blogid=2&amp;siteid=1&amp;t=266020648&amp;back=https%3A%2F%2Fwww.royalgazette.com%2Fstoryimage%2FRG%2F20170705%2FISLAND%2F170709847%2FEP%2F1%2F5%2FEP-170709847.jpg%26q%3D80%26Logo%3D%2Fimages%2Frglogo1.gif%26LogoXPos%3D5%26LogoYPos%3D5%26maxw%3D800%26maxh%3D700' type='text/javascript'></script><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=G-R0EZ2P2YDT"></script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-R0EZ2P2YDT');
+        </script>		<style type="text/css" id="wp-custom-css">
+			ul, ol {
+    list-style: none;
+}
+.concept-page .breadcrumb .category a {
+    font-weight: 600;
+}
+
+#wrapper-navbar .main-navigation .dropdown-menu li a {
+    text-align: left;
+    border-bottom: solid 1px #cdcdcd;
+    padding-left: 12px;
+}
+
+.section-teaser-opinion .teaser__headline {
+    line-height: 18px;
+}
+
+.frontpage-category-title.top-padding {
+    margin-top: 20px;
+}
+
+.concept-page .breadcrumb.opinion {
+    background: #6D6E71;
+}
+
+.frontpage-category-title.opinion {
+    background: #6D6E71;
+}
+
+.gallery-teaser-front .teaser-body {
+    font-size: 11px;
+    line-height: 15px;
+}
+
+.article-page .article__body a {
+    color: #2b4381;
+	  font-weight:bold;
+}
+
+#wrapper-navbar .main-navigation .dropdown-menu li a {
+    padding-top: 6px;
+}
+
+.section-teaser-one-column-main .teaser-image img {
+    padding-left: 15px;
+}
+
+.concept-page .section-teaser-one-column-main .teaser-content {
+    padding-left: 0;
+}
+
+.article-page .article-factbox {
+    background-color: #f0f0f0;
+}
+
+.frontpage-category-title.gallery {
+    margin-bottom: 0;
+    background: #EA2C8F;
+}
+
+.frontpage-category-title.video {
+    margin-bottom: 0;
+    background: #F07637;
+}
+	
+	.gallery-teaser-front.col-md-3 {
+    float: left;
+    margin-right: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+		    max-width: 24.6% !important;
+}
+
+@media(max-width:767px){
+.gallery-teaser-front.col-md-3 {
+		    max-width: 49.2% !important;
+}
+	
+.articleprinttext, .articlefacebooktext, .articletwittertext, .articlemailtext {
+    font-size: 12px !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 3px;
+    padding-left: 6px;
+}
+
+.article-twitter, .article-mail, .article-print {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+	
+	#right-sidebar .advertisement {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
+
+.preferred_posts_sidebar.mobile {
+    text-align: center;
+}
+
+.preferred_posts_sidebar ul.social.mobile {
+    width: 100%;
+}
+
+hr.sidebarMenuLine {
+    margin-left: 0;
+    margin-right: 0;
+    background: white;
+    opacity: 1;
+}
+
+#sidebarMenu li a {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.frontpage-category-title .view_more {
+    text-align: right;
+    padding-right: 25px;
+}
+
+.frontpage-category-title .view_more a {
+    color: white;
+    font-size: 13px;
+}
+
+.olderhood.podcasts {
+    height: 50px;
+}
+
+#wrapper-navbar .main-navigation .dropdown-menu li a:hover {
+    background: #6D6E71;
+}
+
+.frontpagecategorylist-more img.video-icon {
+    max-width: 18px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+
+.frontpagecategorylist.main .teaser-content img.video-icon {
+    max-width: 16px;
+}
+
+.left-sidebar-contact-us {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.article__part--main {padding:0 7px}
+
+.frontpage-category-title {
+    border-bottom: 2px solid #DAE6F2;
+}
+
+@media(min-width:767px) {
+#right-sidebar .advertisement {
+    margin-left: 0;
+	}
+}
+
+@media (max-width:767px) {
+	.top-stories-category {
+    font-size: 10px;
+}
+	
+	.sweather .widget-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+	
+	.emoo-sidebar .ap_ad_widget {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+	
+	.gallery-teaser-front {
+    height: 400px;
+}
+
+}
+
+.article-page .article-restofcontent {
+    min-height: 700px;
+}
+
+.article-page.gallery .article-restofcontent {
+    min-height: 0;
+}
+
+div#mobile-content {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.frontpage-category-title .view_more {
+    margin-top: 0;
+}
+
+main {width:100%; max-width:990px ;margin:0 auto}
+body {font-size:13px}
+
+.article-page .article-factbox p, .article-page .article-factbox-mobile p {
+    margin-bottom: 12px;
+}
+
+#jobs-page .job-article .image.hide {
+    position: fixed;
+    opacity: 0;
+}
+
+#columnists-page .right-sidebar section.ew-article-list__container {
+	margin-bottom: 15px;
+}
+
+#columnists-page .columnists-heading-with-title img {
+    max-width: 55px;
+}
+
+#columnists-page .columnists-heading-with-title .columnist-secnoname {
+    float: right;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 52px;
+    margin-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#columnists-page .columnists-heading-with-title {
+    border-top: 1px solid #e5e5e5;
+    border-left: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    Border-bottom: 0;
+    background: #f5f5f5;
+    padding: 5px;
+}
+
+@media (min-width: 767px) {
+.left-sidebar .gallery-teaser-front {
+    height: auto;
+	} 
+}
+
+@media (max-width: 767px) {
+.left-sidebar .gallery-teaser-front {
+    height: 520px;
+	} 
+
+	    .concept-page .section-teaser-one-column-bottom .teaser-content {
+        padding-left: 0;
+    }
+	
+	.mobile-slider .slick-arrow {
+    margin-top: 60px;
+}
+}
+
+.concept-page .breadcrumb {
+    background: #6d6e71;
+}
+
+/* sidebar - Obits */
+.txt_indent_obits {
+    border: 3px solid #dae6f2;
+    padding: 5px 5px 0px 5px;
+	margin-bottom:15px;
+}
+.wrapper1 {
+    width: 100%;
+    overflow: hidden;
+}
+#msndiv ul {padding:0; margin:0}
+#msndiv {
+    background-color: #fff;
+}
+#msndiv li {
+    padding: 3px 10px;
+    font-size: 12px;
+}
+p.boxFooter {
+    margin: 5px 0 0 0;
+    padding: 0;
+    width: 292px;
+    background-color:#3173a5;
+    text-transform: uppercase;
+    font-size: 11px;
+    font-weight: bold;
+}
+p.boxFooter a {
+    margin: 5px 0 0 0;
+    border: 0;
+    background-color: #0060ae;
+    color: #fff;
+    display: block;
+    float: left;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    width: 142px;
+    margin-bottom: 5px;
+}
+	p.boxFooter a:hover {
+    background: #efefef;
+    color: #990000;
+    text-decoration: none;
+}
+	p.boxFooter a.rightLink {
+    margin: 5px 0 0 8px;
+}
+#msndiv li:nth-child(odd) {background:#e8edf1}
+#msndiv li:nth-child(even) {background:#fff}
+#msndiv li a {color:#2b4381}
+.spacer {margin-bottom:15px}
+
+@media only screen and (min-width: 992px) {.concept-template-default .content-area .container{padding:0}}
+
+#wrapper-footer .nav-link {
+	padding: .2rem .5rem}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+.livestream iframe, .youtube iframe, .jwplatform iframe, .facebook iframe {height:200px}
+}
+
+.inlineimg {width:100%;margin-bottom: 15px;}
+
+/* temp fix */
+.new-icon {display:none}
+
+/* mobile pinch to zoom fix */
+.slick-slider{
+    touch-action: auto!important;
+}
+
+/* factbox fix */
+.article-factbox p {word-wrap: break-word;}
+
+
+.mobile-slider-container .teaser-content .bottom {display:none}
+
+
+/* fix related media overflow */
+.article-pdf .pdf-title .download-title {word-wrap: break-word}
+
+/* temp fix */
+.new-icon {display:none}
+
+/* login dropdown */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  border-radius:8px;
+  z-index: 1;
+}
+.dropdown:hover .dropdown-content {display: block !important;}
+.dropdown-content ul{list-style:none; padding:0; text-align:center}
+.dropdown-content li a {font-size:16px !important;line-height:32px !important; color:#000 !important}
+
+.btn-profile {background-image: linear-gradient(to top, #04befe, #4481eb);
+    border: none;
+    margin-bottom: 1rem;
+	height: 43px;
+    width: 100%;
+    padding: 0;
+    border-radius: 2px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #fff;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1;
+}
+
+#sidebarMenu li a {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+	
+}
+
+.sidebarMenu_right li a {
+	border-bottom: #FFFFFF 0.05em solid;
+}
+
+.mobile-slider-container .teaser-content .bottom {display:none}
+
+.inline-img {margin-bottom:15px}
+
+
+
+.page-id-8902 .heading {
+    display: none;
+}
+div#disqusClose { margin: 0 25px; }
+
+div#disqusClose a#MG2login  {
+    background-image: linear-gradient(to top, #04befe, #4481eb);
+    margin-bottom: 1rem;
+    height: 43px;
+    width: 60%;
+    padding: 0;
+    border-radius: 2px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #fff;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1;
+}
+
+div#disqusClose a#MG2logout  {
+    background-image: linear-gradient(to top, #04befe, #4481eb);
+    margin-bottom: 1rem;
+    height: 43px;
+    width: 60%;
+    padding: 0;
+    border-radius: 2px;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #fff;
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1;
+}
+
+#mobile-content {padding-left:0}
+.pod-info {font-size:11px; color:#990000; padding:5px 0 0 10px; font-weight:bold}
+.pod-info a {color:#990000;}
+
+[data-uuid="ADF8B529-0745-4433-BB3A-2FC188BEAB51"] {display:none}
+
+#ConnextPanelDebugger {display:none !important}		</style>
+		</head>
+
+<body class="error404">
+
+	<div class="desktop-header-ad d-none d-lg-block">
+		<div id="special-banner" style="width:990px; margin: 0px auto; overflow:hidden">
+			<!-- /10134346/990x100_Above_Masthead -->
+			<div id='div-gpt-ad-1397220158251-12' style='height:100px; width:990px;'>
+				<script type='text/javascript'>
+					googletag.cmd.push(function() { googletag.display('div-gpt-ad-1397220158251-12'); });
+				</script>
+			</div>
+		</div>
+	</div>
+
+	<div class="mobile-header-ad d-block d-lg-none">
+		<div id="mobile-head" class="advertisement col-md-12">
+			<script type="text/javascript">
+				if (googletag !== undefined) {
+					googletag.cmd.push(function() { googletag.display("mobile-head"); })
+				}
+			</script>
+		</div>
+	</div>
+
+	<div id="main-container" class="container">
+
+	<input type="hidden" id="security" name="security" value="741179920a" /><input type="hidden" name="_wp_http_referer" value="/storyimage/RG/20170705/ISLAND/170709847/EP/1/5/EP-170709847.jpg&amp;q=80&amp;Logo=/images/rglogo1.gif&amp;LogoXPos=5&amp;LogoYPos=5&amp;maxw=800&amp;maxh=700" /><form id="login" action="login" method="post">
+	<h1 class="login-modal-title">Log In</h1>
+	<hr class="login-modal-line">
+    <p class="status"></p>
+    <label id="login-modal-username" for="username"><i class="fa fa-user"></i></label>
+    <input id="username" type="text" name="username" placeholder="Username">
+    <label id="login-modal-password" for="password"><i class="fa fa-lock"></i></label>
+    <input id="password" type="password" name="password" placeholder="Password">
+    <a class="lost" href="/wp-login.php?action=lostpassword">Reset Password</a>
+    <input class="login-modal-button btn btn-primary submit" type="submit" value="Login" name="submit">
+    <a class="close" href="#"><i class="fa fa-window-close" aria-hidden="true"></i></a>
+    <input type="hidden" id="security" name="security" value="741179920a" /><input type="hidden" name="_wp_http_referer" value="/storyimage/RG/20170705/ISLAND/170709847/EP/1/5/EP-170709847.jpg&amp;q=80&amp;Logo=/images/rglogo1.gif&amp;LogoXPos=5&amp;LogoYPos=5&amp;maxw=800&amp;maxh=700" />
+</form><div class="sidebarMenuCloseButton" onclick="closeNav()"><i class="fa fa-close"></i></div>
+	<div id="sidebarMenu" class="sidebarMenu"><ul id="menu-hamburger-menu" class="list-group list-group-flush"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-28151 nav-item"><a title="Home" href="https://www.royalgazette.com/" class="nav-link">Home</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28152 nav-item"><a title="Coronavirus" href="https://www.royalgazette.com/coronavirus/" class="nav-link">Coronavirus</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428390 nav-item"><a title="Covid-19 In-depth" href="https://www.royalgazette.com/covid-19-in-depth/" class="nav-link">Covid-19 In-depth</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3299 nav-item"><a title="News" href="https://www.royalgazette.com/news/" class="nav-link">News</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3300 nav-item"><a title="Business" href="https://www.royalgazette.com/business/" class="nav-link">Business</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3301 nav-item"><a title="Sport" href="https://www.royalgazette.com/sport/" class="nav-link">Sport</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3302 nav-item"><a title="Opinion" href="https://www.royalgazette.com/opinion/" class="nav-link">Opinion</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252153 nav-item"><a title="Navigate Bermuda" href="https://www.royalgazette.com/navigate-bermuda/" class="nav-link">Navigate Bermuda</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-277139 nav-item"><a title="RG Podcast" href="https://www.royalgazette.com/rg-podcast/" class="nav-link">RG Podcast</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-28404 nav-item"><a title="RG Fantasy League" href="https://www.royalgazette.com/sport/rg-fantasy-league/" class="nav-link">RG Fantasy League</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-3303 nav-item"><a title="Lifestyle" href="https://www.royalgazette.com/lifestyle/" class="nav-link">Lifestyle</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3305 nav-item"><a title="Jobs" href="https://www.royalgazette.com/jobs/" class="nav-link">Jobs</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3304 nav-item"><a title="Classifieds" href="https://www.royalgazette.com/classifieds/" class="nav-link">Classifieds</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3306 nav-item"><a title="Obituaries" href="https://www.legacy.com/obituaries/theroyalgazette/" class="nav-link">Obituaries</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28035 nav-item"><a title="Weather" href="https://www.royalgazette.com/weather/" class="nav-link">Weather</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27805 nav-item"><a title="Newsrack" href="http://newsrack.royalgazette.com/" class="nav-link">Newsrack</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3308 nav-item"><a title="RGmags" href="https://www.rgmags.com/" class="nav-link">RGmags</a><hr class="sidebarMenuLine"></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3307 nav-item"><a title="Drive For Change" href="https://www.royalgazette.com/drive-for-change/" class="nav-link">Drive For Change</a><hr class="sidebarMenuLine"></li>
+</ul></div>
+<div id="sidemenuDim" class="closed" onclick="closeNav()"></div>
+
+<form method="get" class="searchform mobile" action="/" role="search">
+	<label class="sr-only" for="s">Search</label>
+	<div class="input-group">
+		<input class="field form-control s" name="s" type="text"
+			placeholder="SEARCH ARTICLES">
+		<span class="input-group-append">
+			<input class="submit searchsubmit btn btn-primary fa fa-input" type="submit"
+			value="GO">
+	</span>
+	</div>
+</form><div class="sidebarMenuCloseButton_right" onclick="closeNav_right()"><i class="fa fa-close"></i></div>
+	<div id="sidebarMenu_right" class="sidebarMenu_right"><ul id="menu-hamburger-menu-right" class="list-group list-group-flush"><li class="engage-item"><a href="#" style="display:none" id="MG2login"  data-mg2-action="register"><strong>Log in</strong></a></li><li class="engage-item"><a href="#" style="display:none" id="MG2logout"  data-mg2-action="logout"><strong>Log out</strong></a></li><li class="engage-item"><a href="#" style="display:none" id="MG2activation" data-mg2-action="activation"><strong>Activate</strong></a></li><li class="engage-item"><a href="https://myaccount.royalgazette.com/1/myprofile" style="display:none" id="MG2MyAccount" target="_blank"><strong>My account</strong></a></li><li class="engage-item"><a href="https://subscribe.royalgazette.com/Subscribe2?sitecode=2&promo_code=D" style="display:none" id="MG2Subscribe"><strong>Subscribe</strong></a></li><li class="engage-item"><a href="https://newsrack.royalgazette.com/" target="_blank" ><strong>ePaper</strong></a></li><li class="engage-item"><a href="https://myaccount.royalgazette.com/1/preference" target="_blank" ><strong>Newsletter</strong></a></li><li class="engage-item"><a href="https://www.royalgazette.com/advertise/" target="_blank" ><strong>Advertise</strong></a></li><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1696 nav-item"><a title="Terms of Service" href="/terms-of-service/" class="nav-link">Terms of Service</a><hr class="sidebarMenuLine"></li>
+</ul></div>
+<div id="sidemenuDim_right" class="closed" onclick="closeNav_right()"></div><div class="mobile d-lg-none"><div id="above_header_ad" class="advertisement col-md-12">
+	<script type="text/javascript">
+		if (googletag !== undefined) {
+			googletag.cmd.push(function() { googletag.display("above_header_ad"); })
+		}
+	</script>
+</div>
+
+<div id="top-bar-mobile">
+    <div class="container">
+        <div class="row">
+
+        <div class="sidemenuTrigger col-2" onclick="openNav('250')">
+            <i class="fa fa-bars" aria-hidden="true"></i>
+        </div>
+
+        <div class="logo col-8">
+            <a href="/"><img src="/wp-content/themes/royalgazette/images/mobile_logo.png"></a>
+        </div>
+
+        <div class="sidemenuTriggerRight col-2" onclick="openNav_right('250')">
+            <i class="fa fa-bars" aria-hidden="true"></i>
+        </div>
+
+        </div>
+    </div>
+</div>
+<div class="mobile-topbar-separator"></div></div>
+		<div class="desktop d-none d-lg-block"><div id="top-bar" class=" no_sidebar_menu">
+    <div class="container">        <div class="row">
+
+<script>
+  var d = new Date();
+
+  var month = new Array();
+    month[0] = "January";
+    month[1] = "February";
+    month[2] = "March";
+    month[3] = "April";
+    month[4] = "May";
+    month[5] = "June";
+    month[6] = "July";
+    month[7] = "August";
+    month[8] = "September";
+    month[9] = "October";
+    month[10] = "November";
+    month[11] = "December";
+  var monthname = month[d.getMonth()];
+
+  var year = d.getFullYear();
+
+  var day = d.getDate();
+  var weekday = new Array(7);
+  weekday[0] = "Sun";
+  weekday[1] = "Mon";
+  weekday[2] = "Tue";
+  weekday[3] = "Wed";
+  weekday[4] = "Thu";
+  weekday[5] = "Fri";
+  weekday[6] = "Sat";
+  if(day<10)
+  {
+      day='0'+day;
+  }
+  var weekdayname = weekday[d.getDay()];
+
+  formatteddate = weekdayname+', '+monthname+' '+day+', '+year;
+</script>
+
+        <div class="top-bar-left col-md-6">
+            <span class="title">BERMUDA</span> | <span class="date"><script>document.write(formatteddate);</script></span>
+            <span class="rss"><a href="/feeds">RSS</a></span>
+			<span class="rss"><a href="/rg-podcast">PODCAST</a></span>
+        </div>
+
+        <div class="top-bar-right col-md-6">
+            <div class="row">
+                <nav class="navbar navbar-expand-md navbar-light bg-primary col-md-7  d-none d-lg-block">
+                    <div class="top-bar-right-menu">
+                        <div id="topMenu_right" class="collapse navbar-collapse"><ul id="Top Bar Menu - Right - Royal Gazette" class="navbar-nav navbar"><div class="dropdown"><span class="engage-item" style="display:none" id="MG2extra" data-mg2-action="register"><strong><i class="fa fa-user-circle-o welcomeicon"></i>Log in</strong></span><span class="engage-item" style="display:none" id="MG2exMylogin"  ><strong>My Profile</strong></span><div class="dropdown-content"><ul><button class="engage-item btn-profile" style="display:none" id="MG2logout" data-mg2-action="logout">Logout</button><button class="engage-item btn-profile" style="display:none" id="MG2login" data-mg2-action="register">Log in</button><li class="engage-item"><a href="#" style="display:none" id="MG2activation" data-mg2-action="activation"><strong>Activate</strong></a></li><li class="engage-item"><a href="https://myaccount.royalgazette.com/1/myprofile" style="display:none" id="MG2MyAccount" target="_blank"><strong>My account</strong></a></li><li class="engage-item"><a href="https://subscribe.royalgazette.com/Subscribe2?sitecode=2&promo_code=D" style="display:none" id="MG2Subscribe"><strong>Subscribe</strong></a></li><li class="engage-item"><a href="https://newsrack.royalgazette.com/" target="_blank" ><strong>ePaper</strong></a></li><li class="engage-item"><a href="https://myaccount.royalgazette.com/1/preference" target="_blank" ><strong>Newsletter</strong></a></li><li class="engage-item"><a href="https://www.royalgazette.com/advertise/" target="_blank" ><strong>Advertise</strong></a></li></ul></div></div></ul></div>
+                    </div>
+                </nav>
+                <div class="top-bar-search col-md-5 d-none d-lg-block">
+                    
+<form method="get" class="searchform" action="https://www.royalgazette.com/" role="search">
+	<label class="sr-only" for="s">Search</label>
+	<div class="input-group">
+		<input class="field form-control s" name="s" type="text"
+			placeholder="SEARCH ARTICLES" value="">
+		<span class="input-group-append">
+			<input class="submit searchsubmit btn btn-primary fa fa-input" type="submit"
+			value="GO">
+	</span>
+	</div>
+</form>
+
+                </div>
+            </div>
+        </div>
+
+        </div>
+    </div></div></div><div class="desktop d-none d-lg-block"><div class="header-region">
+    <div class="container">
+        <div class="row">
+
+            <div class="logo col-md-6">
+                                                            <a class="navbar-brand" rel="home" href="https://www.royalgazette.com/" title="The Royal Gazette | Bermuda News, Business, Sports, Events, &amp;amp; Community">
+                            <img src="https://www.royalgazette.com/wp-content/themes/royalgazette/images/default_logo.png">
+                        </a>
+                                                </div>
+
+            <div class="headerad col-md-6">
+				
+                <div class="headerleaderboard advertisement">
+                    <!-- /10134346/468x60_Above_page -->
+                    <div id='div-gpt-ad-1397220158251-11' style='height:60px; width:468px;'>
+                        <script type='text/javascript'>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1397220158251-11'); });
+                        </script>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>    </div></div>
+</div><div class="desktop d-none d-lg-block">    <div id="wrapper-navbar" itemscope itemtype="https://schema.org/WebSite">
+        <nav class="main-navigation navbar navbar-expand-md navbar-light">
+
+            <div class="container">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div id="navbarNavDropdown" class="collapse navbar-collapse"><ul id="main-menu" class="navbar-nav nav-fill w-100"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1672" class="news menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children dropdown menu-item-1672 nav-item"><a title="News" href="https://www.royalgazette.com/news/" class="nav-link parentlink dropdown-toggle">News</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-449996" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-449996 nav-item"><a title="Year in Review" href="https://www.royalgazette.com/year-in-review/" class="dropdown-item">Year in Review</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-452225" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-452225 nav-item"><a title="Bermuda Budget" href="https://www.royalgazette.com/bermuda-budget/" class="dropdown-item">Bermuda Budget</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-18336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18336 nav-item"><a title="Coronavirus" href="https://www.royalgazette.com/coronavirus/" class="dropdown-item">Coronavirus</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-428389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428389 nav-item"><a title="Covid-19 In-depth" href="https://www.royalgazette.com/covid-19-in-depth/" class="dropdown-item">Covid-19 In-depth</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-430894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430894 nav-item"><a title="Drive for Change" href="https://www.royalgazette.com/drive-for-change/" class="dropdown-item">Drive for Change</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1953" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1953 nav-item"><a title="Court" href="https://www.royalgazette.com/news/court/" class="dropdown-item">Court</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1954 nav-item"><a title="Crime" href="https://www.royalgazette.com/news/crime/" class="dropdown-item">Crime</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-18358" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-18358 nav-item"><a title="Education" href="https://www.royalgazette.com/news/education/" class="dropdown-item">Education</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-275140" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-275140 nav-item"><a title="Entertainment" href="https://www.royalgazette.com/news/entertainment/" class="dropdown-item">Entertainment</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1956" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1956 nav-item"><a title="Environment" href="https://www.royalgazette.com/news/environment/" class="dropdown-item">Environment</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-229071" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-229071 nav-item"><a title="General" href="https://www.royalgazette.com/news/general/" class="dropdown-item">General</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1787" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1787 nav-item"><a title="Health" href="https://www.royalgazette.com/news/health/" class="dropdown-item">Health</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-291240" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-291240 nav-item"><a title="Labour" href="https://www.royalgazette.com/news/labour/" class="dropdown-item">Labour</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1950" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1950 nav-item"><a title="Politics" href="https://www.royalgazette.com/news/politics/" class="dropdown-item">Politics</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1952" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1952 nav-item"><a title="Tourism" href="https://www.royalgazette.com/news/tourism/" class="dropdown-item">Tourism</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-275139" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-275139 nav-item"><a title="Transport" href="https://www.royalgazette.com/news/transport/" class="dropdown-item">Transport</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-18391" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-18391 nav-item"><a title="Weather" href="https://www.royalgazette.com/news/weather/" class="dropdown-item">Weather</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1651" class="business menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children dropdown menu-item-1651 nav-item"><a title="Business" href="https://www.royalgazette.com/business/" class="nav-link parentlink dropdown-toggle">Business</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-251728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251728 nav-item"><a title="Navigate Bermuda" href="https://www.royalgazette.com/navigate-bermuda/" class="dropdown-item">Navigate Bermuda</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-275141" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-275141 nav-item"><a title="Banking" href="https://www.royalgazette.com/business/banking/" class="dropdown-item">Banking</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2039" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2039 nav-item"><a title="Bermuda Stock Exchange" href="https://www.royalgazette.com/business/bermuda-stock-exchange/" class="dropdown-item">Bermuda Stock Exchange</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2034" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2034 nav-item"><a title="Economy" href="https://www.royalgazette.com/business/economy/" class="dropdown-item">Economy</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2035" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2035 nav-item"><a title="International Business" href="https://www.royalgazette.com/business/international-business/" class="dropdown-item">International Business</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2036" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2036 nav-item"><a title="Local Business" href="https://www.royalgazette.com/business/local-business/" class="dropdown-item">Local Business</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2041" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2041 nav-item"><a title="Personal Finance" href="https://www.royalgazette.com/business/personal-finance/" class="dropdown-item">Personal Finance</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2037" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2037 nav-item"><a title="Re-Insurance" href="https://www.royalgazette.com/business/re-insurance/" class="dropdown-item">Re-Insurance</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2040" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2040 nav-item"><a title="Technology" href="https://www.royalgazette.com/business/technology/" class="dropdown-item">Technology</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1649" class="sport menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children dropdown menu-item-1649 nav-item"><a title="Sport" href="https://www.royalgazette.com/sport/" class="nav-link parentlink dropdown-toggle">Sport</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-425865" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-425865 nav-item"><a title="Flora Duffy" href="https://www.royalgazette.com/sport/flora-duffy/" class="dropdown-item">Flora Duffy</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-18695" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-18695 nav-item"><a title="RG Fantasy League" href="https://www.royalgazette.com/sport/rg-fantasy-league/" class="dropdown-item">RG Fantasy League</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1964" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1964 nav-item"><a title="Basketball" href="https://www.royalgazette.com/sport/basketball/" class="dropdown-item">Basketball</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2059" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2059 nav-item"><a title="Boxing" href="https://www.royalgazette.com/sport/boxing/" class="dropdown-item">Boxing</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1959" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1959 nav-item"><a title="Cricket" href="https://www.royalgazette.com/sport/cricket/" class="dropdown-item">Cricket</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1967 nav-item"><a title="Cycling" href="https://www.royalgazette.com/sport/cycling/" class="dropdown-item">Cycling</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2058" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2058 nav-item"><a title="Equestrian" href="https://www.royalgazette.com/sport/equestrian/" class="dropdown-item">Equestrian</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-241458" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-241458 nav-item"><a title="General" href="https://www.royalgazette.com/sport/general/" class="dropdown-item">General</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1963" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1963 nav-item"><a title="Golf" href="https://www.royalgazette.com/sport/golf/" class="dropdown-item">Golf</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1968" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1968 nav-item"><a title="Gymnastics" href="https://www.royalgazette.com/sport/gymnastics/" class="dropdown-item">Gymnastics</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2057" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2057 nav-item"><a title="Motor Sports" href="https://www.royalgazette.com/sport/motor-sports/" class="dropdown-item">Motor Sports</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1966" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1966 nav-item"><a title="Rugby" href="https://www.royalgazette.com/sport/rugby/" class="dropdown-item">Rugby</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1962" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1962 nav-item"><a title="Running/Triathlon" href="https://www.royalgazette.com/sport/running-triathlon/" class="dropdown-item">Running/Triathlon</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1960" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1960 nav-item"><a title="Sailing" href="https://www.royalgazette.com/sport/sailing/" class="dropdown-item">Sailing</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1958" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1958 nav-item"><a title="Soccer" href="https://www.royalgazette.com/sport/soccer/" class="dropdown-item">Soccer</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2056" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2056 nav-item"><a title="Swimming" href="https://www.royalgazette.com/sport/swimming/" class="dropdown-item">Swimming</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2055" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2055 nav-item"><a title="Tennis/Squash" href="https://www.royalgazette.com/sport/tennis-squash/" class="dropdown-item">Tennis/Squash</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1961" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1961 nav-item"><a title="Track &#038; Field" href="https://www.royalgazette.com/sport/track-field/" class="dropdown-item">Track &#038; Field</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1650" class="lifestyle menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children dropdown menu-item-1650 nav-item"><a title="Lifestyle" href="https://www.royalgazette.com/lifestyle/" class="nav-link parentlink dropdown-toggle">Lifestyle</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2047" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2047 nav-item"><a title="Arts &#038; Entertainment" href="https://www.royalgazette.com/lifestyle/arts-entertainment/" class="dropdown-item">Arts &#038; Entertainment</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-274061" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-274061 nav-item"><a title="Community" href="https://www.royalgazette.com/lifestyle/community/" class="dropdown-item">Community</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2050" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2050 nav-item"><a title="Fashion" href="https://www.royalgazette.com/lifestyle/fashion/" class="dropdown-item">Fashion</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2051" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2051 nav-item"><a title="Food &#038; Wine" href="https://www.royalgazette.com/lifestyle/food-wine/" class="dropdown-item">Food &#038; Wine</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2046" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2046 nav-item"><a title="Home &#038; Away" href="https://www.royalgazette.com/lifestyle/home-away/" class="dropdown-item">Home &#038; Away</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2049" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2049 nav-item"><a title="Religion" href="https://www.royalgazette.com/lifestyle/religion/" class="dropdown-item">Religion</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2053" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2053 nav-item"><a title="Wellness" href="https://www.royalgazette.com/lifestyle/wellness/" class="dropdown-item">Wellness</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2033" class="opinion menu-item menu-item-type-post_type menu-item-object-concept menu-item-has-children dropdown menu-item-2033 nav-item"><a title="Opinion" href="https://www.royalgazette.com/opinion/" class="nav-link parentlink dropdown-toggle">Opinion</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-438621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438621 nav-item"><a title="Bermuda Youth Connect" href="https://www.royalgazette.com/bermuda-youth-connect/" class="dropdown-item">Bermuda Youth Connect</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2043" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2043 nav-item"><a title="Editorials" href="https://www.royalgazette.com/opinion/editorials/" class="dropdown-item">Editorials</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2045" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-2045 nav-item"><a title="Letters to the Editor" href="https://www.royalgazette.com/opinion/letters-to-the-editor/" class="dropdown-item">Letters to the Editor</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-9211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9211 nav-item"><a title="Opinion Writer" href="https://www.royalgazette.com/columnists/" class="dropdown-item">Opinion Writer</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-9212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9212 nav-item"><a title="Political Cartoons" href="https://www.royalgazette.com/opinion/political-cartoons/" class="dropdown-item">Political Cartoons</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1664 nav-item"><a title="Classifieds" href="https://www.royalgazette.com/classifieds/" class="nav-link">Classifieds</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1665 nav-item"><a title="Jobs" href="https://www.royalgazette.com/jobs/" class="nav-link">Jobs</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1667" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1667 nav-item"><a title="Obituaries" href="https://www.legacy.com/obituaries/theroyalgazette/" class="nav-link">Obituaries</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1668" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-1668 nav-item"><a title="RGmags" href="https://www.rgmags.com/" class="nav-link parentlink dropdown-toggle">RGmags</a>
+<ul class="dropdown-menu"  role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-18595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18595 nav-item"><a title="RG Business Magazine" target="_blank" href="http://rgmags.com/rg-business/" class="dropdown-item">RG Business Magazine</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-18594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18594 nav-item"><a title="RG Business Top Ten" target="_blank" href="https://www.rgmags.com/rg-business-top-ten/" class="dropdown-item">RG Business Top Ten</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7924" class="newsrack menu-item menu-item-type-custom menu-item-object-custom menu-item-7924 nav-item"><a href="http://newsrack.royalgazette.com/" class="nav-link"><img src="/wp-content/themes/royalgazette/images/newsrack.jpg"></a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-7925" class="subscribe menu-item menu-item-type-custom menu-item-object-custom menu-item-7925 nav-item"><a title="Subscribe" href="https://subscribe.royalgazette.com/" class="nav-link">Subscribe</a></li>
+</ul></div>
+
+
+            
+            
+            </div>
+        </nav>
+    </div>
+
+
+
+</div>	
+	<div class="desktop d-none d-lg-block">		<div id="banner" class="underNavAd advertisement col-md-12">
+			<script type="text/javascript">
+				if (googletag !== undefined) {
+					googletag.cmd.push(function() { googletag.display("banner"); })
+				}
+			</script>
+		</div>
+	</div>	<!-- ***************************************************** -->
+	<!-- **************  END Header Region ******************* -->
+	<!-- ***************************************************** --><style>
+.error-template {padding: 40px 15px;text-align: center; max-width:75%; margin:0 auto}
+.error-template h1 {font-size: 12rem; color:#990000}
+.error-template h2 {font-size: 3rem; font-weight:bold; color:#990000}
+.error-actions {margin-top:15px;margin-bottom:15px;}
+.error-actions .btn { margin-right:10px; }
+.error-details {font-size:1.2rem;font-weight:bold;margin-bottom:20px}
+.error-details span {color:#990000}
+.btn-primary {background-color: #3276b1 !important;}
+.btn-default {
+    color: #333;
+    background-color: #fff !important;;
+	border: 1px solid #ccc;
+}
+.error-actions a {margin-top:10px}
+</style>
+<div class="wrapper" id="page-wrapper">
+	<div class="container centered" id="section-front">
+		<div class="row">
+			<main class="site-main" id="main">
+<div class="row">
+        <div class="col-md-12">
+            <div class="error-template">
+                <h1><i class="fa fa-frown-o" aria-hidden="true"></i></h1>
+                <h2>Page Not Found</h2>
+                <div class="error-details">
+                    <span>We're sorry</span>, we seem to have lost this page, but we don't want to lose you. Please search for your article here by using the expected headline.
+                </div>
+				<div class="search_box">
+<form method="get" class="searchform " action="/" role="search" style="display: block;">
+	<label class="sr-only" for="s">Search</label>
+	<div class="input-group">
+		<input class="field form-control s" name="s" type="text" placeholder="SEARCH ARTICLES">
+		<span class="input-group-append">
+			<input class="submit searchsubmit btn btn-primary fa fa-input" type="submit" value="GO">
+	</span>
+	</div>
+</form>
+</div>
+                <div class="error-actions">
+                    <a href="https://www.royalgazette.com" class="btn btn-primary btn-lg"><span class="fa fa-home" aria-hidden="true"></span>
+                        Take Me Home </a><a href="https://www.royalgazette.com/contact-us/" class="btn btn-default btn-lg"><span class="fa fa-envelope" aria-hidden="true"></span> Contact Support </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+			</main>
+
+		</div><!-- .row -->
+	</div><!-- Container end -->
+</div><!-- Wrapper end -->
+
+
+
+	<!--Ad Code for leaderboard ad above footer-->
+	
+	<div class="wrapper copyright" id="wrapper-footer">
+
+	<div class="container">
+		<div class="row">
+
+
+			<div class="footer-main footer-menu col-md-12">
+				<div class="menu-footer-menu-main-container"><ul id="Footer Menu - 1" class="navbar navbar-expand-md justify-content-center"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1703" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1703 nav-item"><a title="News" href="https://www.royalgazette.com/news/" class="nav-link">News</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1707" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1707 nav-item"><a title="Business" href="https://www.royalgazette.com/business/" class="nav-link">Business</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1705" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1705 nav-item"><a title="Sport" href="https://www.royalgazette.com/sport/" class="nav-link">Sport</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-1706" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-1706 nav-item"><a title="Lifestyle" href="https://www.royalgazette.com/lifestyle/" class="nav-link">Lifestyle</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14739" class="menu-item menu-item-type-post_type menu-item-object-concept menu-item-14739 nav-item"><a title="Opinion" href="https://www.royalgazette.com/opinion/" class="nav-link">Opinion</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14740 nav-item"><a title="Classifieds" href="https://www.royalgazette.com/classifieds/" class="nav-link">Classifieds</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14741 nav-item"><a title="Weather" href="https://www.royalgazette.com/weather/" class="nav-link">Weather</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14742 nav-item"><a title="Calendar" href="https://www.royalgazette.com/calendar/" class="nav-link">Calendar</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14743 nav-item"><a title="Newsrack" href="http://newsrack.royalgazette.com/" class="nav-link">Newsrack</a></li>
+</ul></div>
+			</div>	
+
+							<div class="footer-two-menu-heading footer-heading">Newspaper Services:</div> 
+			
+			<div class="footer-newspaper-services footer-menu col-md-12">
+				<div class="menu-footer-menu-2-container"><ul id="Footer Menu - 2" class="navbar navbar-expand-md justify-content-center"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14744 nav-item"><a title="About Us" href="https://www.royalgazette.com/about-us/" class="nav-link">About Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14745 nav-item"><a title="Contact Us" href="https://www.royalgazette.com/contact-us/" class="nav-link">Contact Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14746" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14746 nav-item"><a title="Subscribe" href="https://subscribe.royalgazette.com/" class="nav-link">Subscribe</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14747 nav-item"><a title="Electronic Edition" href="http://newsrack.royalgazette.com/" class="nav-link">Electronic Edition</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14748 nav-item"><a title="Advertise" href="https://www.royalgazette.com/advertise/" class="nav-link">Advertise</a></li>
+</ul></div>
+			</div>	
+
+							<div class="footer-three-menu-heading footer-heading">Online Services:</div> 
+						
+			<div class="footer-online-services footer-menu col-md-12">
+				<div class="container">
+				<div class="menu-footer-menu-3-container"><ul id="Footer Menu - 3" class="navbar navbar-expand-md justify-content-center"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14749" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14749 nav-item"><a title="Registration" href="https://subscribe.royalgazette.com/Subscribe2?sitecode=2&#038;promo_code=D" class="nav-link">Registration</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14750" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14750 nav-item"><a title="RSS Feeds" href="https://navweb.royalgazette.com/feeds" class="nav-link">RSS Feeds</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14752" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14752 nav-item"><a title="Privacy Policy" href="https://www.royalgazette.com/privacy-policy/" class="nav-link">Privacy Policy</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14753" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14753 nav-item"><a title="Terms of Service" href="https://www.royalgazette.com/terms-of-service/" class="nav-link">Terms of Service</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14756 nav-item"><a title="Contact Us" href="https://navweb.royalgazette.com/contact-us-online-advertising/" class="nav-link">Contact Us</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-14755" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14755 nav-item"><a title="Advertise" href="https://www.royalgazette.com/advertise/" class="nav-link">Advertise</a></li>
+</ul></div>
+				</div>
+			</div>	
+
+			<div class="footer_copyright col-md-12">
+				<div class="termsofservices">Use of this website signifies your agreement to the Terms of Service and Privacy Policy</p>
+				© Copyright 2023 royalgazette.com. All rights reserved.
+			</div>
+
+			</div>
+		</div>
+
+		</div>	</div></div>
+		<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.royalgazette.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.4' id='contact-form-7-js'></script>
+<script type='text/javascript' id='wp-polls-js-extra'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.royalgazette.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"0","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.76.0' id='wp-polls-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/js/menus.js?ver=20201012' id='menus-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/everyware-theme-base-1/js/understrap.min.js?ver=1701833390476' id='understrap-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/slick/slick.min.js?ver=1701833390476' id='slick-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/slick/slick-theme.js?ver=20201022' id='slick-theme-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/js/content.js?ver=20220125' id='content-js'></script>
+<script type='text/javascript' src='https://loader-cdn.azureedge.net/prod/royalgazette/loader.min.js?ver=2021028' id='engage-loader-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/js/engage_prod_trg.js?ver=2021028' id='engage-js'></script>
+<script type='text/javascript' id='rgb-body-js-js-extra'>
+/* <![CDATA[ */
+var infomaker = {"ajaxurl":"https:\/\/www.royalgazette.com\/ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://static.ew.rgb.navigacloud.com/wp-content/themes/royalgazette/assets/js/body.js?ver=1701833390476' id='rgb-body-js-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-content/themes/royalgazette/js/breaking.js?ver=1701833390476' id='breaking-js'></script>
+<script type='text/javascript' src='https://www.royalgazette.com/wp-includes/js/wp-embed.min.js?ver=1701833390476' id='wp-embed-js'></script>
+
+		<!-- CUSTOM JQUERY AND JAVASCRIPT HERE --> 
+				<!-- END JQUERY -->
+				</div><!-- END OPENING CONTAINER TAG -->
+
+		<script id="dsq-count-scr" src="//royalgazette.disqus.com/count.js" async></script>
+	<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=813729566" async></script></body>
+</html>
+

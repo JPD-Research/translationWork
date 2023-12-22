@@ -1,0 +1,639 @@
+
+<!-- All material Copyright Alpine Exploratory Limited 2005-20120-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+
+<head>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-8D3HM7C0KG"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+	
+	  gtag('config', 'G-8D3HM7C0KG');
+	</script>
+
+
+<!-- This tells the browser the encoding of the text used-->
+<meta charset="utf-8"/>
+
+<title>Walking holidays in the Alps, Scandinavia, the UK and Ireland with Alpine Exploratory</title> <!-- Add trip name and change for guided-->
+<meta name="description" content="Join us in the Alps, Scandinavia, the UK and Irealnd for a self-guided walking holiday. We make the arrangements and you just enjoy the hike. Complete a famous trek such as the Tour du Mont Blanc, or explore off the beaten track..."> <!-- CHANGE -->
+<meta name="keywords" content="walking,trekking,hiking,holidays,self-guided,alps,alpine,norway,sweden,uk,ireland"> <!-- CHANGE -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!--Load JQUERY-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!--Load Moment (displays the GMT time in the enquiry tab)-->
+<script src="../moment.js" type="text/javascript"></script>
+<script src="https://momentjs.com/downloads/moment-timezone.min.js" type="text/javascript"></script>
+<script src="../latestnews.js" type="text/javascript"></script>
+
+<!--Load Analytics-->
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+<!--Somme google tracker thing-->
+<script type="text/javascript">
+	_uacct = "UA-200698-1";
+	urchinTracker();
+</script>
+
+<!--Mapbox library-->
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js'></script>
+
+<!--Load our stylesheets-->
+<link rel="stylesheet" href="styleresptabbed.css" type="text/css"> <!--Load our normal stylesheet-->
+<link rel="stylesheet" href="flickityHomePage.css" media="screen"> <!--Load our flickity slideshow stylesheet-->
+
+</head>
+
+<body>
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5QNGL9T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--this is the script for the tabs-->
+
+
+<div id="bar0">
+
+</div>
+
+<div id="bar1">
+
+</div>
+
+<div id="bar2">
+
+</div>
+
+<div id="bar3">
+
+</div>
+
+<div id="bar4">
+
+</div>
+
+<div id="wrap">
+
+<!--this is the contact us line and pop up phone numbers-->
+<div id="header">
+	<div class="topcontact-desktopview">
+		<span>
+			Please <a href="contactus/index.html" class="nav">Contact us</a> to discuss a trip:&nbsp;
+		</span>
+		<div class="dropdown-phone">
+			<button class="dropbtn-phone">
+				<img src="images/graphics/gotodrop.gif" class="goto">
+				<img src="images/graphics/ae-flag-uk.gif" class="flag">
+			</button>
+			<div class="dropdown-content-phone">
+				Please use our national numbers:<br>
+				<img src="images/graphics/ae-flag-australia.gif" class="flag">&nbsp;&nbsp;<b class="red">02 8319 2266</b> from Australia<br>
+				<img src="images/graphics/ae-flag-canada.gif" class="flag">&nbsp;&nbsp;<b class="red">416-548-4819</b> from Canada<br>
+				<img src="images/graphics/ae-flag-newzealand.gif" class="flag">&nbsp;&nbsp;<b class="red">04 889 4515</b> from New Zealand<br>
+				<img src="images/graphics/ae-flag-usa.gif" class="flag">&nbsp;&nbsp;<b class="red">646-757-1102</b> from the USA<br>
+			</div>
+		</div>
+		<b class="red">+44 (0)131 214 1144</b> (Edinburgh, UK)
+	</div>
+	<div class="topcontact-mediaview">
+		<div>
+			<span>Please <a href="contactus/index.html" class="nav">Contact us</a> to discuss a trip:&nbsp;
+			</span>
+		</div>
+		<span class="avoidwrap">
+			<div id="myBtn" class="tooltip"> &nbsp;
+				<img src="images/graphics/gotodrop.gif" class="goto">&nbsp;
+				<img src="images/graphics/ae-flag-uk.gif" class="flag">&nbsp;
+			</div>
+			<div id="myModalShell" class="modalClass">
+				<div class="modal-content-phone">
+					<span class="closePhone">&times;</span>
+					<span> Please use our national numbers:<br>
+					<img src="images/graphics/ae-flag-australia.gif" class="flag">&nbsp;&nbsp;<a href="tel:02 8319 2266"><b class="redn">02 8319 2266</b></a> from Australia<br>
+					<img src="images/graphics/ae-flag-canada.gif" class="flag">&nbsp;&nbsp;<a href="tel:416-548-4819"><b class="redn">416-548-4819</b></a> from Canada<br>
+					<img src="images/graphics/ae-flag-newzealand.gif" class="flag">&nbsp;&nbsp;<a href="tel:04 889 4515"><b class="redn">04 889 4515</b></a> from New Zealand<br>
+					<img src="images/graphics/ae-flag-usa.gif" class="flag">&nbsp;&nbsp;<a href="tel:646-757-1102"><b class="redn">646-757-1102</b></a> from the USA<br>&nbsp;&nbsp;
+					<img src="images/graphics/goton.gif" class="goto">&nbsp;&nbsp;<a href="contactus/booking-from-overseas.html" class="navtop">Booking from overseas</a></span>
+				</div>
+			</div>
+			<div style="display: inline-block">
+				<a href="tel:02 8319 2266"><b class="redn">+44 (0)131 214 1144</b></a> (Edinburgh, UK)
+			</div>
+		</span>
+	</div>
+</div>
+
+
+
+<!--this is the logo at the top of the page-->
+	<div id="logo">
+		<a href="http://www.alpineexploratory.com/"><img src="images/aelogoarrow.gif" class="arrow"><img src="images/aelogowords.gif" class="words"></a><br>
+	</div>
+	<!--this is the menu at the top of the page-->
+	<div class="dropdownContainer">
+		<div class="dropdown" style="border-left:none;">
+			<div class="dropbtn">HOLIDAYS</div>
+			<div class="dropdown-content-box">
+				<div class="dropdown-content">
+					<a href="holidays/holidays-in-the-alps.html" class="dropdownmenu">Holidays: Alps</a>
+					<a href="holidays/holidays-in-scandinavia.html" class="dropdownmenu">Holidays: Scandinavia</a>
+					<a href="holidays/holidays-in-the-uk-and-ireland.html" class="dropdownmenu">Holidays: UK and Ireland</a>
+					<a href="holidays/holidays-guided.html" class="dropdownmenu">Holidays: Guided</a>
+					<a href="holidays/holidayschedule.html" class="dropdownmenuthin">Schedule 2024</a>
+					<a href="holidays/walkinggrades.html" class="dropdownmenuthin">Walking grades</a>
+				</div>
+				<div class="holidayBarButtonDropdown">
+					<a href="booking/index.html" class="book">Book a holiday</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="dropdown" style="border-left:none;">
+			<div class="dropbtn">EXPLORE</div>
+			<div class="dropdown-content-box-center">
+				<div class="dropdown-content">
+				<a href="walking-guides/index.html" class="dropdownmenu">Walking Guides</a>
+				<a href="travel/index.html" class="dropdownmenu">Travel</a>
+				<a href="articles/index.html" class="dropdownmenu">Articles</a>
+				<a href="holidays/aboutourwalkingholidays.html" class="dropdownmenuthin">About our holidays (FAQs)</a>
+				<a href="photos-from-trips/index.html" class="dropdownmenuthin">Photos from trips</a>
+				<a href="holidays/recces.html" class="dropdownmenuthin">Recces</a>
+				<a href="responsible-travel/index.html" class="dropdownmenuthin">Responsible travel</a>
+			</div>
+		</div>
+		</div>
+
+		<div class="dropdown" style="border-left:none;">
+			<div class="dropbtn">ABOUT US</div>
+			<div class="dropdown-content-box-right">
+				<div class="dropdown-content">
+				<a href="about/index.html" class="dropdownmenu">About us</a>
+				<a href="about/people.html" class="dropdownmenu">People</a>
+				<a href="about/the-exploratory-system.html" class="dropdownmenu">The Exploratory system</a>
+				<a href="inthepipeline/index.html" class="dropdownmenuthin">In the pipeline</a>
+				<a href="about/history.html" class="dropdownmenuthin">History/a>
+				<a href="join-our-team/index.html" class="dropdownmenuthin">Join our team</a>
+				<a href="about/calendar.html" class="dropdownmenuthin">Calendar</a>
+			</div>
+		</div>
+		</div>
+
+	</div>
+<!--this is the text over the slider-->
+	<div id="bannerhome-noline">
+		<div id="slidertitle">
+			<img src="images/graphics/aelogoarrow-inverse.gif" class="arrowplus">
+			<br>
+			<b class="bannernews">Alpine Exploratory</b><br>
+			Walking holidays in the Alps, UK and Scandinavia
+			<br><br>
+			<a href="holidays/holidayschedule.html" class="findHolidayButton">
+				<b>Find a holiday</b>
+			</a>
+		</div>
+	</div>
+
+<!--this is the slider image-->
+	<div id="slider" >
+		<img src="images/sliders/hauteroutemain.jpg" class="slider-resize" alt="The Pigne d'Arolla on the Walker's Haute Route"> <!-- Add the slider image here -->
+	</div>
+<!--this is the red bar with the slider caption-->
+	<div id="menu2">
+		<a href="../holidays/walkers-haute-route.html" class="whitecaption"><b>(Walker's Haute Route)</b></a>&nbsp;The Pigne d'Arolla and Mont Blanc de Cheilon
+	</div>
+
+<!--main page starts here-->
+	<main id="content">
+		<article id="contentTopHome">
+			<h1 class="homePageTitle">
+				<b title=""="h1sub">Hiking with Alpine Exploratory</b><br>
+			</h1>
+			<br>
+			<p style="font-size: 13px;">
+				<a href="about/people.html#simon" target="new"><img src="images/about/simonstevens-small.jpg" class="people4c" alt="Simon Stevens at Alpine Exploratory" align="left"></a>
+				Welcome to Alpine Exploratory! All our trips are available self-guided, where we book your choice of dates for your group. Since 2005 our mission has been to give the best interpretation of the trails that we walk, allied to friendly service. We also offer guided trips on the Tour du Mont Blanc, Alta Via 1, Walker's Haute Route, Jotunheimen Tour and the Bernese Oberland, or can organise your own privately guided trip on any of our routes. We hope to see you out on the trails soon! <b>Simon Stevens, Edinburgh</b>
+			</p>
+			<br>
+			<div class="homePagePanelContainer">
+				<div class="whitePanel">
+					<div class="panelImageboundry2">
+						<img src="images/holidaythumbs/homepage2.jpg" class="panelImage" alt="hikers on the Tour du Mont Blanc">
+					</div>
+					<div class="homePaneltitle">
+						<b>Exploration</b><br>
+					</div>
+					<div class="panelDescription">
+						Every spring/summer we travel to each of our destinations to hike the trails and create our Season Update on the trail and the route conditions, that we send to clients.
+					</div>
+				</div>
+
+				<div class="whitePanel">
+					<div class="panelImageboundry2">
+						<img src="images/holidaythumbs/homepage4.jpg" class="panelImage" alt="guided group on an Alpine Exploratory holiday">
+					</div>
+					<div class="homePanelTitle">
+						<b>Flexibility</b><br>
+					</div>
+					<div class="panelDescription">
+						Choose your preferred hiking dates, accommodation style, and number of days on the trail, and we'll plan your walking holiday to suit your needs. Or join one of our guided trips!</div>
+				</div>
+
+				<div class="whitePanel">
+					<div class="panelImageboundry2">
+						<img src="images/holidaythumbs/homepage1.jpg" class="panelImage" alt="Aline Exploratory's Tour du Mont Blanc holiday">
+					</div>
+					<div class="homePanelTitle">
+						<b>Friendliness</b><br>
+					</div>
+					<div class="panelDescription">
+						It's a pleasure to get to know our hikers from around the world. Our knowledgeable team is here to help before, during and after your holiday with us.
+					</div>
+				</div>
+			</div>
+		</article>
+
+		<article id="contentTopGrey" style="padding-bottom: 8%;">
+			<section>
+					<h1 class="homePageTitle">
+					<b hometitle="hometitle">Our Destinations</b>
+				</h1>
+				<br>
+
+				<div class="homePagePanelContainer">
+
+					<div class="destinationsPanel">
+						<img src="images/holidaythumbs/ColduTsate.jpg" class="panelImage" alt="View fro the Col du Tsatae on the Walker'sHaute Route">
+						<a href="holidays/holidays-in-the-alps.html" class="destinationButton">Alps</a><br>
+					</div>
+
+					<div class="destinationsPanel">
+						<img src="images/holidaythumbs/kungsleden.jpg" class="panelImage" alt="Hiker on the Kungsleden">
+						<a href="holidays/holidays-in-scandinavia.html" class="destinationButton">Scandinavia</a><br>
+					</div>
+
+					<div class="destinationsPanel">
+						<img src="images/holidaythumbs/hbwnorthbeach.jpg" class="panelImage" alt="Views over Luskentyre on the Hebridean Way">
+						<a href="holidays/holidays-in-the-uk-and-ireland.html" class="destinationButton">UK & Ireland</a><br>
+					</div>
+
+				</div>
+				</article>
+
+				<article id="contentTopHome">
+
+					<h1 class="homePageTitle">
+					<b title="title">Trip Types</b>
+				</h1>
+				<br>
+					<div class="homePagePanelContainer">
+
+						<div class="transparentPanel">
+							<div class="homePanelTitle">
+							<b>Self Guided</b><br>
+						</div>
+						<div class="panelDescription">
+						We book your accommodation and provide you with routecards, maps and local information so that you can walk the routes as you wish.
+							</div>
+						</a></div>
+
+						<div class="transparentPanel">
+							<div class="homePanelTitle">
+								<b>Scheduled Guided</b><br>
+							</div>
+							<div class="panelDescription">
+							Join our fantastic leaders along the Tour du Mont Blanc, Haute Route, Alta Via Uno, Via Alpina and Jotunheimen trails. See all our <a href="holidays/holidays-guided.html">Scheduled Guided trips</a>.</div>
+						</a></div>
+
+						<div class="transparentPanel">
+							<div class="homePanelTitle">
+								<b>Private Guided</b><br>
+							</div>
+							<div class="panelDescription">
+							Hike with your own leader and your own itinerary on any of our routes, for your own group of walkers (4 or more).
+							</div>
+						</a></div>
+						<a href="contactus/index.html" class="linkButton">Speak to our team</a><br>
+
+						<!-- <div class="findatrip2">
+							<a href="contactus/index.html"><b>Speak to our team</b></a>
+						</div> -->
+					</div>
+
+				</section>
+			</article>
+
+			<article id="contentTopGrey">
+				<h1 class="homePageTitle">
+					<b hometitle="hometitle">Featured Trips</b>
+			  </h1>
+				<br><br>
+
+				<script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js">
+				</script>
+
+				<div class="carousel" style="overflow: visible;">
+
+					<div class="carousel-cell">
+						<div class="carousel-image-boundary">
+							<img src="images/carousel/homepage/JHT4.jpg" class="carousel-image" alt="Bessegen Ridge, Jotunheimen National Mountain Park">
+						</div>
+						<a href="holidays/jotunheimen-tour.html" class="caroselButton">
+							<b>Jotunheimen Tour</b><br>From GBP 1,190
+						</a>
+					</div>
+
+					<div class="carousel-cell">
+						<div class="carousel-image-boundary">
+							<img src="images/carousel/homepage/AVD.jpg" class="carousel-image" alt="Limestone formations on the Alta Via 2">
+						</div>
+						<a href="holidays/dolomites-alta-via-2-north.html" class="caroselButton">
+							<b>Alta Via 2</b><br>From GBP 1,215
+						</a>
+					</div>
+
+					<div class="carousel-cell">
+						<div class="carousel-image-boundary">
+							<img src="images/carousel/homepage/VAB1.jpg" class="carousel-image" alt="Wetterhorn from the Via Alpina">
+						</div>
+						<a href="holidays/via-alpina-bernese-oberland.html" class="caroselButton">
+							<b>Bernese Oberland</b><br>From GBP 1,430
+						</a>
+					</div>
+
+					<div class="carousel-cell">
+						<div class="carousel-image-boundary">
+							<img src="images/carousel/homepage/JAH3.jpg" class="carousel-image" alt="Mountain goats in the Julian Alps">
+						</div>
+						<a href="holidays/julian-alps-hut-to-hut.html" class="caroselButton">
+							<b>Julian Alps Hut to Hut</b><br>From GBP 690
+						</a>
+					</div>
+
+					<div class="carousel-cell">
+						<div class="carousel-image-boundary">
+							<img src="images/carousel/homepage/HRT.jpg" class="carousel-image" alt="Hiker on the Walker's Haute Route">
+						</div>
+						<a href="holidays/walkers-haute-route.html" class="caroselButton">
+							<b>Walker's Haute Route</b><br>From GBP 2,090
+						</a>
+					</div>
+
+				</div>
+
+				<script>
+					$('.carousel').flickity({
+						// options
+					cellAlign: 'center',
+					contain: true,
+					accessibility: true,
+					wrapAround: true,
+					});
+					document.addEventListener("DOMContentLoaded", function() {
+						init();
+						});
+
+					function init() {
+						let flkty = new Flickity(".carousel");
+						flkty.focus()
+						}
+
+				</script>
+			</article>
+
+			<article>
+				<div id="photobanner">
+					<img src="images/slides/avuguided.jpg" class="bannerbig" alt="Guided holiday with Alpine Exploratory on the Alta Via 1">
+				</div>
+				<div id="photobannercaption">
+					<img src="images/graphics/aelogoarrow-squaremedium.gif" class="social" border="0">&nbsp;
+					Guided group on the Alta Via
+					&nbsp;&nbsp;<img src="images/graphics/gotobase.gif" class="goto">
+					<a href="holidays/dolomites-alta-via-1-guided.html" class="nav1"><b>Guided Alta Via 1</b></a>
+				</div>
+			</article>
+
+			<article id="contentTopHome">
+				<h1 class="homePageTitle">
+					<b hometitle="hometitle">Reviews from our customers</b>
+				</h1>
+				<br><br>
+				<div class="homePagePanelContainer">
+					<div class="whiteBorderPanel"><a href="https://www.google.com/search?q=alpine+exploraotry&oq=alpine+exploraotry+&aqs=chrome..69i57j0i13l4j0i22i30l5.5515j0j7&sourceid=chrome&ie=UTF-8#lrd=0x4887c790e82c2d85:0xf1af8fdf2667ecfb,1" target="new">
+						<div class="panelTitle">
+							<b>"Better than I imagined"</b>
+						</div>
+						<div class="whitepanelDescription">
+							<b>August 2022</b><img src="images/graphics/5star.png" class="5star" align="right"><br><br><br>
+							"Fantastic experience. The Dolomites were better than I imagined and booking with Alpine Exploratory made the experience seamless. The materials they prepared were very thorough for my self guided trek, all of my bookings were taken care of and my luggage transport worked perfectly. Highly recommend."
+						</div>
+					</a></div>
+
+					<div class="whiteBorderPanel"><a href="https://www.google.com/search?q=alpine+exploraotry&oq=alpine+exploraotry+&aqs=chrome..69i57j0i13l4j0i22i30l5.5515j0j7&sourceid=chrome&ie=UTF-8#lrd=0x4887c790e82c2d85:0xf1af8fdf2667ecfb,1" target="new">
+						<div class="panelTitle">
+							<b>"Amazing trek!"</b>
+						</div>
+						<div class="whitepanelDescription">
+							<b>September 2022</b><img src="images/graphics/5star.png" class="5star" align="right"><br><br><br>
+							"Wonderful outfit!  They facilitated an amazing trek across Switzerland with great accommodations, smooth transfers, and an overload of excellent route and planning material.  Would definitely use again."
+						</div>
+					</a></div>
+
+					<div class="whiteBorderPanel"><a href="https://www.google.com/search?q=alpine+exploraotry&oq=alpine+exploraotry+&aqs=chrome..69i57j0i13l4j0i22i30l5.5515j0j7&sourceid=chrome&ie=UTF-8#lrd=0x4887c790e82c2d85:0xf1af8fdf2667ecfb,1" target="new">
+						<div class="panelTitle">
+							<b>"Couldn't be happier"</b>
+						</div>
+					<div class="whitepanelDescription">
+							<b>September 2022</b><img src="images/graphics/5star.png" class="5star" align="right"><br><br><br>
+							"Alpine Exploratory was wonderful every step of the way.  All of my many questions were answered on a timely basis, including while hiking.  The accommodations reserved for us were fantastic, even though they were rated as 3 or 2 stars.  The information about each day of our self-guided hike in Mont Blanc was exactly what we needed.  Couldn't be happier with their professional service."
+					</div>
+				</a></div>
+				<a href="https://www.facebook.com/alpineexploratory/reviews/?ref=page_internal" class="linkButton" style="margin-top:5px;" target="new">Read more reviews</a><br>
+			</div>
+		</article>
+
+		<article id="spacer">
+			<div id="spacer4">
+				<p>
+					<a href="http://www.facebook.com/alpineexploratory" target="new"><img src="images/graphics/facebook-white.png" class="homeSocialIcons"></a>
+					<a href="http://www.instagram.com/alpineexploratory" target="new"><img src="images/graphics/instagram-white.png" class="homeSocialIcons"></a>
+					<a href="articles/index.html" target="new"><img src="images/graphics/blog-white.png" class="homeSocialIcons"></a>
+				</p>
+			</div>
+
+			<div id="spacer1">
+				<p class="whitecenter">
+					<b>Alpine Exploratory on Social Media</b><br>
+					Visit us on Facebook, Instagram, and our Blog for photos and updates from our own travels and clients' treks.
+				</p>
+			</div>
+		</article>
+
+			<article>
+				<div id="photobanner">
+					<img src="images/slides/hrtguidedgroup.jpg" class="bannerbig" alt="Guided group on the Walkers Haute Route, Switzerland">
+				</div>
+				<div id="photobannercaption">
+					<img src="images/graphics/aelogoarrow-squaremedium.gif" class="social" border="0">&nbsp;
+					Guided group on the Haute Route, Switzerland
+					&nbsp;&nbsp;<img src="images/graphics/gotobase.gif" class="goto">
+					<a href="holidays/walkers-haute-route.html" class="nav1"><b>Walker's Haute Route</b></a>
+				</div>
+			</article>
+		</main>
+
+	<div id="spacer">
+
+		<div id="spacer1">
+			<p>
+				<img src="images/graphics/aelogoarrowredborder.gif" class="arrowredborder" border="0"><br>
+			</p>
+		</div>
+
+		<div id="spacer2">
+			<p class="white">
+				<b>Alpine Exploratory</b><br>
+				Alpine Exploratory is a system of knowledge on the best mountain trekking in our areas, giving clients superb holidays based on this exploration.<br><br>
+				<a href="about/index.html" class="nav1">About us</a>
+			</p>
+		</div>
+
+	</div>
+
+	<div id="footer">
+
+		<div id="footertop">
+			<a href="http://www.alpineexploratory.com/"><img src="images/aelogoarrow-base.gif" class="logoarrow" border="0"><br><img src="images/aelogowords-base.gif" class="words"></a><br>
+			<br>
+			<!-- MailChimp Email Newsletter Form -->
+			<div align="center">
+				<div style="width:100%; background-color: #666666;">
+					<form action="https://alpineexploratory.us19.list-manage.com/subscribe/post?u=dff7d0dd3ba0ac39889ccecea&amp;id=79febcdc82" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate style="margin-bottom:3;">
+						<font style="font-weight: bold; font-family:Verdana; font-size:14px; color:#000000;"></font>
+						<input type="email" value=" Enter your email to" onfocus="this.value=''" size="21" name="EMAIL" class="text" id="mce-EMAIL" placeholder="email address" required>
+						<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_dff7d0dd3ba0ac39889ccecea_2b5528d9ed" tabindex="-1" class="text"></div>
+						<input type="submit" value="Sign up" name="subscribe" id="mc-embedded-subscribe" class="submit">
+					</form>
+				</div>
+			</div>
+			for our quarterly <a href="enews/index.html" class="nav1">email newsletter</a>
+		</div>
+		<Br>
+		<div id="footer1">
+			<img src="images/graphics/aelogoarrow-squaremedium.gif" class="socialtab" border="0"> <b>HOLIDAYS</b><br>
+			<hr>
+			<p class="white">
+				Trek with us in the Alps, Scandinavia, UK or Ireland. Go self-guided or join a guided trip.
+			</p>
+	    <img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/holidayschedule.html" class="nav1">Schedule 2024</a><br><br>
+	    <img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/holidays-in-the-alps.html" class="nav1">Holidays: Alps</a><br>
+	    <img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/holidays-in-scandinavia.html" class="nav1">Holidays: Scandinavia</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/holidays-in-the-uk-and-ireland.html" class="nav1">Holidays: UK and Ireland</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/holidays-guided.html" class="nav1">Holidays: Guided</a><br><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="equipment/index.html" class="nav1">Equipment</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/walkinggrades.html" class="nav1">Walking grades</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/aboutourwalkingholidays.html" class="nav1">About our holidays (FAQs)</a><br>
+		</div>
+
+		<div id="footer2">
+			<img src="images/graphics/aelogoarrow-squaremedium.gif" class="socialtab" border="0"> <b>EXPLORE</b><br>
+			<hr>
+			<p class="white">
+				We research and interpret the trail to give you the finest walking holiday.
+			</p>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="walking-guides/index.html" class="nav1">Walking guides</a><br>
+			<br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="photos-from-trips/index.html" class="nav1">Photos from trips</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="travel/index.html" class="nav1">Travel</a><br>
+      <img src="images/graphics/rss-base.gif" class="socialtab"> <a href="articles/index.html" class="nav1">Articles</a><br>
+      <br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="inthepipeline/index.html" class="nav1">In the pipeline </a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="holidays/recces.html" class="nav1">Recces</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="responsible-travel/index.html" class="nav1">Responsible travel</a><br>
+		</div>
+
+		<div id="footer3">
+			<img src="images/graphics/aelogoarrow-squaremedium.gif" class="socialtab" border="0"> <b>ABOUT US</b><br>
+			<hr>
+			<p class="white">
+				Alpine Exploratory is a system of knowledge on the best mountain trekking.
+			</p>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="about/index.html" class="nav1">About us</a><br>
+      <br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="about/people.html" class="nav1">People</a><br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="about/the-exploratory-system.html" class="nav1">The Exploratory system</a><br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="about/history.html" class="nav1">History</a><br>
+      <br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="join-our-team/index.html" class="nav1">Join our team</a><br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="aekit/index.html" class="nav1">AE Shop</a><br>
+			<img src="images/graphics/gotobase.gif" class="gototab"> <a href="about/calendar.html" class="nav1">Calendar</a><br>
+		</div>
+
+		<div id="footer4">
+			<img src="images/graphics/aelogoarrow-squaremedium.gif" class="socialtab" border="0"> <b>Contact us</b><br>
+			<hr>
+			<p class="white">
+				<img src="images/graphics/pin-base.gif" class="socialtab"> Alpine Exploratory<br>
+				63A George Street<br>
+				Edinburgh<br>
+				EH2 2JG<br>United Kingdom
+			</p>
+			<img src="images/graphics/email-base.gif" class="socialtab"> <a href="mailto:info@alpineexploratory.com" class="nav2">info@alpineexploratory.com</a><br>
+			<img src="images/graphics/phone-base.gif" class="socialtab"> +44 (0)131 214 1144<br>
+      <img src="images/graphics/gotobase.gif" class="gototab"> <a href="contactus/index.html" class="nav1">Contact us</a><br>
+			<br>
+      <img src="images/graphics/facebook-line-base.gif" class="socialtab"> <a href="http://www.facebook.com/alpineexploratory" target="new" class="nav1">Facebook</a><br>
+			<img src="images/graphics/instagram-line-base.gif" class="socialtab"> <a href="http://www.instagram.com/alpineexploratory" target="new" class="nav1">Instagram</a><br>
+			<br>
+			<a href="booking/index.html" class="book">Booking</a><br>
+		</div>
+
+	</div>
+
+	<div id="copyright">
+				&copy; Copyright 2020 Alpine Exploratory Limited. Company no. 5521173. VAT no. 995 9044 61
+	</div>
+</div>
+
+</body>
+
+<!--This is the script for controlling the behaviour of phone number pop-up box-->
+<script>
+
+	// Get the modal
+	  var modalPhone = document.getElementById("myModalShell");
+
+	// Get the button that opens the modal
+	  var btn = document.getElementById("myBtn");
+
+	// Get the <span> element that closes the modal
+	  var span = document.getElementsByClassName("closePhone")[0];
+
+	// When the user clicks on the button, open the modal
+	  btn.onclick = function() {
+	    modalPhone.style.display = "block";
+	  }
+
+	// When the user clicks on <span> (x), close the modal
+	  span.onclick = function() {
+	    modalPhone.style.display = "none";
+	  }
+
+	// When the user clicks anywhere outside of the modal, close it
+	  window.onclick = function(event) {
+	    if (event.target == modalPhone) {
+	      modalPhone.style.display = "none";
+	      }
+			}
+</script>
+
+
+</html>

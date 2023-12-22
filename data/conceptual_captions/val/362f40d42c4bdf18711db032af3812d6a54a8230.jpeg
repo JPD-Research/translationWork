@@ -1,0 +1,992 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr" class="u-theme--ming">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://adventist.uk/">
+
+<title>Resources :: Adventist Church in UK and Ireland | National Site </title>
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<link rel="stylesheet" type="text/css" href="typo3temp/assets/compressed/merged-745a8aa18d9fbf352dc20fb3e6b00784.css?1647444395" media="all">
+<link rel="stylesheet" type="text/css" href="typo3temp/assets/compressed/merged-8592f61d9cfa73ab7b30a181d81afa52.css?1647445085" media="all">
+
+
+<script src="typo3temp/assets/compressed/merged-7f9925f68609875bd26d306274aa802e.js?1647444395" type="text/javascript"></script>
+
+
+
+<script type="text/javascript" src="/typo3conf/ext/ams_design_adventist/Resources/Public/JavaScript/cookie-consent_4.0.0.min.js" charset="UTF-8"></script>  <script type="text/javascript" charset="UTF-8">  document.addEventListener('DOMContentLoaded', function () {  cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"website_name":"Seventh-day Adventist Church in the UK and Ireland","website_privacy_policy_url":"https://adventist.uk/copyright/privacy/"});          let popDialog = document.getElementById('privacypolicies-com---nb');          popDialog.style = 'top: auto; bottom: 10px; outline: none;';  const hoverOverride = document.getElementsByClassName('cc-nb-changep')[0]; hoverOverride.addEventListener('mouseenter', e => {   hoverOverride.style.background = '#cccccc'; }); hoverOverride.addEventListener('mouseleave', e => {   hoverOverride.style.background = '#eaeaea'; }); });  </script>  <!-- Google Analytics --> <script type="text/plain" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=UA-41108102-1"></script><script type="text/plain" cookie-consent="tracking">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-41108102-1', { 'anonymize_ip': true });</script>  <!-- end of Google Analytics-->  <noscript>Cookie Consent by <a href="https://www.privacypolicies.com/privacy-policy-generator/" rel="nofollow noopener">Privacy Policies Generator website</a></noscript><script defer data-domain="adventist.uk" src="https://analytics.hopeplatform.org/js/plausible.js"></script>
+<meta name="robots" content="index,follow">
+<meta name="msvalidate.01" content="B22E1966DB193ADBFC4238882A4CE92F">
+<meta name="y_key" content="B22E1966DB193ADBFC4238882A4CE92F">
+<link rel="canonical" href="https://adventist.uk/departments/resources/">
+</head>
+<body class="body u-theme--">
+<div class="l-wrap">
+  <div class="l-wrap__content l-content" role="document">
+    
+
+
+
+  <header class="top-menu u-theme--background-color--darker">
+    <nav role="navigation">
+      <ul class="top-menu-nav__list">
+        <li class="c-secondary-nav__list-item"><a href="/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">National</a></li><li class="c-secondary-nav__list-item"><a href="https://nec.adventist.uk/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">North England</a></li><li class="c-secondary-nav__list-item"><a href="https://sec.adventist.uk/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">South England</a></li><li class="c-secondary-nav__list-item"><a href="https://adventist.ie/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">Ireland</a></li><li class="c-secondary-nav__list-item"><a href="https://adventist.scot/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">Scotland</a></li><li class="c-secondary-nav__list-item"><a href="https://wm.adventist.uk/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">Wales</a></li>
+      </ul>
+    </nav>
+  </header>
+
+
+<header class="c-header" role="banner" id="header">
+  <div class="c-header--inner">
+    <div class="c-header__nav-secondary">
+      <nav class="c-secondary-nav" role="navigation">
+  <ul class="c-secondary-nav__list">
+    
+    <li class="c-secondary-nav__list-item"><a href="who-we-are/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Who we are</a></li><li class="c-secondary-nav__list-item"><a href="who-we-are/jobs/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Jobs</a></li><li class="c-secondary-nav__list-item"><a href="who-we-are/church-finder/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Find a church</a></li><li class="c-secondary-nav__list-item"><a href="contact-us/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Contact us</a></li><li class="c-secondary-nav__list-item"><a href="bible-study/sunset-times/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Sunset times</a></li><li class="c-secondary-nav__list-item"><a href="utility/search/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Search</a></li><li class="c-secondary-nav__list-item"><a href="utility/site-map/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Site map</a></li>
+
+    <li
+      class="c-secondary-nav__list-item c-secondary-nav__list-item__search c-secondary-nav__list-item__toggle js-toggle-menu js-toggle-search is-priority"
+    >
+      <a
+        style="cursor: pointer"
+        class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base"
+      >
+        <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__search</title><path d="M9.91,8.5,7.43,6A4,4,0,1,0,4,8a4,4,0,0,0,2-.57L8.5,9.91ZM2,4A2,2,0,1,1,4,6,2,2,0,0,1,2,4Z" fill="#777"/></svg>
+
+        </span>
+        Search
+      </a>
+    </li>
+    <li
+      class="c-secondary-nav__list-item c-secondary-nav__list-item__menu c-secondary-nav__list-item__toggle js-toggle-menu is-priority"
+    >
+      <a
+        style="cursor: pointer"
+        class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base"
+      >
+        <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__menu</title><path d="M0,0H10V2H0ZM0,10H10V8H0ZM0,6H10V4H0Z" fill="#9b9b9b"/></svg>
+
+        </span>
+        Menu
+      </a>
+    </li>
+  </ul>
+</nav>
+
+
+
+    </div>
+    <div class="c-header__logo c-logo">
+      <a
+  href="/"
+  class="logo__link logo__link--left theme--primary-background-color  "
+>
+  
+      <img
+        src="typo3conf/ext/ams_design_adventist/Resources/Public/Images/adventist-en--ming.svg"
+        class="logo"
+        alt="Seventh-day Adventist Church logo"
+      />
+      
+    
+</a>
+
+    </div>
+    <div class="c-header__nav-primary">
+      <nav class="c-primary-nav c-priority-nav" role="navigation">
+  <ul class="c-primary-nav__list c-priority-nav__list"><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="news/" class="c-primary-nav__link u-font--primary-nav u-color--gray--dark u-theme--link-hover--base u-theme--border-color--base">News</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">National</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/south-england/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">South England</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/north-england/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">North England</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/ireland/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Ireland</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/wales/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Wales</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/scotland/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Scotland</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/gallery/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Gallery</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/messenger/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Messenger</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/submit-a-story/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Submit a story</a></li></ul></li><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="events/" class="c-primary-nav__link u-font--primary-nav u-color--gray--dark u-theme--link-hover--base u-theme--border-color--base">Events</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="events/travel-conditions/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Travel conditions</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="events/media-conditions/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Media conditions</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="events/submit-event/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Submit event</a></li></ul></li><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="departments/" class="c-primary-nav__link u-font--primary-nav  u-theme--link-hover--base u-theme--border-color--base">Departments</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/president/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">President</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/executive-secretary/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Executive Secretary</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/treasurer/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Treasurer</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/adc/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">ADC</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/adventist-risk-management/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Adventist Risk Management</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/childrens-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Children's Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/communication/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Communication</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/community-services/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Community Services</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/education/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Education</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/family-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Family Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/health/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Health</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/ministerial-association/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Ministerial Association</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/personal-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Personal Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/possibility-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Possibility Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/prayer/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Prayer</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/publishing/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Publishing</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/media-centre/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Media Centre</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/religious-liberty/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Religious Liberty</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/sabbath-school/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Sabbath School</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/safeguarding/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Safeguarding</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/sdaa/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">SDAA</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/stanborough-press/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Stanborough Press</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/stewardship/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Stewardship</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/womens-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Women's Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/youth/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Youth</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light this-is-active"><a href="departments/resources/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Resources</a></li></ul></li><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="bible-study/" class="c-primary-nav__link u-font--primary-nav u-color--gray--dark u-theme--link-hover--base u-theme--border-color--base">Bible Study</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="bible-study/prayer-focus/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Prayer Focus</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="bible-study/worship/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Worship</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="who-we-are/visit-us/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Visit us</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="bible-study/sunset-times/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Sunset Times</a></li></ul></li><li class="c-primary-nav__list-item"><a href="contact-us/donate/" class="o-button o-button--small">Donate</a></li></ul>
+</nav>
+<!-- /.c-primary-nav -->
+
+
+    </div>
+  </div>
+  
+  
+    <div
+      class="sm:hidden u-padding--left"
+      style="
+        position: absolute;
+        right: calc(1.25rem / 2 * 1.5);
+        top: calc(1.25rem);
+        z-index: 10;
+      "
+    >
+      <a href="contact-us/donate/" class="o-button o-button--small">Donate</a>
+      <style>
+        @media (min-width: 509px) {
+          .sm\:hidden {
+            display: none;
+          }
+        }
+        @media (max-width: 700px) {
+          .c-header__logo {
+            width: calc(100%/7*4);
+          }
+        }
+      </style>
+    </div>
+  
+</header>
+<div class="c-drawer l-grid l-grid--7-col">
+  <div class="c-drawer__toggle js-toggle-parent u-theme--background-color-trans--darker">
+    <div class="u-icon o-icon__close"><span></span> <span></span></div>
+  </div>
+  <div class="l-grid-wrap--6-of-7 l-grid-item--s--6-col c-drawer__container u-spacing u-theme--background-color--darker">
+    <div class="c-drawer__search">
+      
+  <form method="post" class="search-form toggled-element solrForm globalSearch" action="utility/search/" data-suggest="utility/search/?type=7384" data-suggest-header="" accept-charset="utf-8"><fieldset><legend class="is-vishidden">
+				Search
+			</legend><input name="tx_solr[q]" class="term tx-solr-q js-solr-q tx-solr-suggest search-form__input font--secondary--s"
+			 type="search" value="" autocomplete="off" placeholder="Search&hellip;"
+			 required><div style="position: relative;"><ul class="u-space--top searchSuggestions" role="menu" style="top: 0; left: 1em;"><li class="c-primary-nav__link u-font--secondary u-color--white hide" role="presentation"><a class="u-color--white" role="menuitem"
+						 tabindex="-1" href="#"></a></li></ul></div><button class="search-form__submit is-vishidden"><span class="is-vishidden">
+					Search
+				</span></button></fieldset></form>
+
+
+      
+    </div>
+    <div class="c-drawer__nav">
+      <div class="c-drawer__nav-primary">
+        <nav class="c-primary-nav c-priority-nav" role="navigation">
+  <ul class="c-primary-nav__list c-priority-nav__list"><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="news/" class="c-primary-nav__link u-font--primary-nav u-color--gray--dark u-theme--link-hover--base u-theme--border-color--base">News</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">National</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/south-england/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">South England</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/north-england/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">North England</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/ireland/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Ireland</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/wales/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Wales</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/scotland/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Scotland</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/gallery/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Gallery</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/messenger/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Messenger</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="news/submit-a-story/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Submit a story</a></li></ul></li><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="events/" class="c-primary-nav__link u-font--primary-nav u-color--gray--dark u-theme--link-hover--base u-theme--border-color--base">Events</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="events/travel-conditions/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Travel conditions</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="events/media-conditions/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Media conditions</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="events/submit-event/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Submit event</a></li></ul></li><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="departments/" class="c-primary-nav__link u-font--primary-nav  u-theme--link-hover--base u-theme--border-color--base">Departments</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/president/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">President</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/executive-secretary/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Executive Secretary</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/treasurer/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Treasurer</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/adc/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">ADC</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/adventist-risk-management/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Adventist Risk Management</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/childrens-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Children's Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/communication/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Communication</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/community-services/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Community Services</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/education/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Education</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/family-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Family Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/health/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Health</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/ministerial-association/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Ministerial Association</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/personal-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Personal Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/possibility-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Possibility Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/prayer/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Prayer</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/publishing/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Publishing</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/media-centre/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Media Centre</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/religious-liberty/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Religious Liberty</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/sabbath-school/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Sabbath School</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/safeguarding/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Safeguarding</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/sdaa/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">SDAA</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/stanborough-press/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Stanborough Press</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/stewardship/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Stewardship</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/womens-ministries/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Women's Ministries</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="departments/youth/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Youth</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light this-is-active"><a href="departments/resources/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Resources</a></li></ul></li><li class="c-primary-nav__list-item c-primary-nav--with-subnav has-subnav"><a href="bible-study/" class="c-primary-nav__link u-font--primary-nav u-color--gray--dark u-theme--link-hover--base u-theme--border-color--base">Bible Study</a><span class="c-subnav__arrow o-arrow--down u-path-fill--gray"></span><ul class="c-primary-nav__subnav c-subnav"><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="bible-study/prayer-focus/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Prayer Focus</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="bible-study/worship/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Worship</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="who-we-are/visit-us/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Visit us</a></li><li class="c-primary-nav__subnav__list-item c-subnav__list-item u-background-color--gray--light"><a href="bible-study/sunset-times/" class="c-primary-nav__subnav__link c-subnav__link u-color--gray--dark u-theme--link-hover--base">Sunset Times</a></li></ul></li><li class="c-primary-nav__list-item"><a href="contact-us/donate/" class="o-button o-button--small">Donate</a></li></ul>
+</nav>
+<!-- /.c-primary-nav -->
+
+
+        <ul class="c-drawer__subnav u-theme--background-color--darker"></ul>
+      </div>
+      <div class="c-drawer__nav-secondary">
+        
+          <nav class="c-secondary-nav" role="navigation">
+            <ul class="c-secondary-nav__list u-space--top u-space--bottom">
+              <li class="c-secondary-nav__list-item"><a href="/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">National</a></li><li class="c-secondary-nav__list-item"><a href="https://nec.adventist.uk/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">North England</a></li><li class="c-secondary-nav__list-item"><a href="https://sec.adventist.uk/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">South England</a></li><li class="c-secondary-nav__list-item"><a href="https://adventist.ie/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">Ireland</a></li><li class="c-secondary-nav__list-item"><a href="https://adventist.scot/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">Scotland</a></li><li class="c-secondary-nav__list-item"><a href="https://wm.adventist.uk/" class="c-secondary-nav__link u-font--secondary-nav u-color--white u-theme--link-hover--base">Wales</a></li>
+            </ul>
+          </nav>
+        
+        <nav class="c-secondary-nav" role="navigation">
+  <ul class="c-secondary-nav__list">
+    
+    <li class="c-secondary-nav__list-item"><a href="who-we-are/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Who we are</a></li><li class="c-secondary-nav__list-item"><a href="who-we-are/jobs/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Jobs</a></li><li class="c-secondary-nav__list-item"><a href="who-we-are/church-finder/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Find a church</a></li><li class="c-secondary-nav__list-item"><a href="contact-us/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Contact us</a></li><li class="c-secondary-nav__list-item"><a href="bible-study/sunset-times/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Sunset times</a></li><li class="c-secondary-nav__list-item"><a href="utility/search/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Search</a></li><li class="c-secondary-nav__list-item"><a href="utility/site-map/" class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base">Site map</a></li>
+
+    <li
+      class="c-secondary-nav__list-item c-secondary-nav__list-item__search c-secondary-nav__list-item__toggle js-toggle-menu js-toggle-search is-priority"
+    >
+      <a
+        style="cursor: pointer"
+        class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base"
+      >
+        <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__search</title><path d="M9.91,8.5,7.43,6A4,4,0,1,0,4,8a4,4,0,0,0,2-.57L8.5,9.91ZM2,4A2,2,0,1,1,4,6,2,2,0,0,1,2,4Z" fill="#777"/></svg>
+
+        </span>
+        Search
+      </a>
+    </li>
+    <li
+      class="c-secondary-nav__list-item c-secondary-nav__list-item__menu c-secondary-nav__list-item__toggle js-toggle-menu is-priority"
+    >
+      <a
+        style="cursor: pointer"
+        class="c-secondary-nav__link u-font--secondary-nav u-color--gray u-theme--link-hover--base"
+      >
+        <span class="u-icon u-icon--xs u-path-fill--gray">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>o-icon__menu</title><path d="M0,0H10V2H0ZM0,10H10V8H0ZM0,6H10V4H0Z" fill="#9b9b9b"/></svg>
+
+        </span>
+        Menu
+      </a>
+    </li>
+  </ul>
+</nav>
+
+
+
+      </div>
+    </div>
+    <div class="c-drawer__logo">
+      <span class="u-icon u-icon--l u-path-fill--white">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253.71 227.63"><title>Seventh Day Adventist Church Logo</title><path d="M67.68,120.38c-.1-9.91,2.8-18.41,20.8-36.41l39-39c10.4-10.4,19.1-19.29,19.1-29V.67c0-.89-1.1-.89-1.2,0-2.6,12.4-7.5,17.3-17.8,27.61L82.28,73.47c-17.1,17-19.5,35.1-15.8,46.91C66.78,121.38,67.68,121.47,67.68,120.38Zm64.2,38.9c0,.89,1,.89,1.2,0,2.6-12.5,7.6-17.4,17.8-27.61L166,116.78c19.8-19.9,10.7-39-.9-44.31-1-.5-1.4.31-.6,1,9.3,8,6.5,21.5-5.2,33.2L151,115c-10.4,10.31-19.1,19.2-19.1,29Zm81.8,26.6L168,178.17l-17.1,17.11c-10.4,10.39-19,19.3-19,29V227c0,.7.9.9,1.2.11,3.2-8.7,13.9-18.11,33.5-14.8,0,0,85.4,14.8,86.1,14.8a.9.9,0,0,0,1-.61.79.79,0,0,0-.2-.8c-.3-.39-39.8-39.8-39.8-39.8Zm-107.5,1h15a.66.66,0,0,0,.6-.6c0-7.9-6-13.31-30-9.2L40,186S.58,225.37.28,225.78a.79.79,0,0,0-.1,1.1.81.81,0,0,0,.8.2c.7-.11,86.1-14.8,86.1-14.8,19.6-3.31,30.3,6,33.5,14.8.3.8,1.2.7,1.2-.11v-29.5a.66.66,0,0,0-.6-.6l-15,.1a.64.64,0,0,1-.6-.6v-8.9a.65.65,0,0,1,.6-.6Zm26.8,25.9a36.3,36.3,0,0,1,6.9-15.81h-7.5a.65.65,0,0,0-.6.61v15.2c0,.89,1.1.89,1.2,0Zm13.6-158.6c0-.91-1.1-.91-1.2,0-2.6,12.39-7.5,17.29-17.8,27.6l-39.8,39.69c-19.8,19.81-10.7,39,.9,44.31,1,.5,1.4-.4.6-1-9.3-8-6.5-21.61,5.2-33.2l33-33c10.4-10.4,19.1-19.3,19.1-29Zm-19.1,17.49c10.4-10.3,19-19.2,19.1-29V27.27c0-.9-1.1-.9-1.2,0-2.6,12.4-7.5,17.4-17.8,27.7L86.68,95.78c-19.8,19.8-23.3,39-13.2,51.4.7.8,1.4.3,1-.7-6.7-15.1,9.3-31.1,16.9-38.7Zm37.6,82.5-14.3,14.2c-6.5,6.5-12.3,12.4-15.8,18.4h14.1l1.7-1.7,20.5-20.5c17.1-16.9,19.5-35,15.8-46.8-.3-1-1.2-1.1-1.2,0,.1,9.9-2.8,18.4-20.8,36.4Zm-2.8-24-11.4,11.5c-10.4,10.4-19.1,19.4-19.1,29.11v15.3c0,.89,1.1.89,1.2,0,2.6-12.4,7.5-17.4,17.8-27.7L167,142.17c19.8-19.8,23.3-39,13.2-51.4-.7-.8-1.4-.3-1,.7C185.88,106.57,169.88,122.57,162.28,130.17Zm83.5,68.2h1.1l1.7,3h1.5l-2-3.3a2,2,0,0,0,1.3-2c0-1.5-.8-2.2-2.7-2.2h-2.2v7.5h1.3v-3Zm0-3.5h.8c1,0,1.4.3,1.4,1.2,0,.7-.5,1.2-1.4,1.2h-.9v-2.4Zm1,9a6.3,6.3,0,1,0-6.3-6.3,6.08,6.08,0,0,0,5.87,6.3Zm0-11.7a5.4,5.4,0,1,1,0,10.8,5.31,5.31,0,0,1-5.4-5.23h0v-.16a5.24,5.24,0,0,1,5.11-5.39h.29Z"></path></svg>
+
+      </span>
+    </div>
+    <div class="c-drawer__about">
+      <div class="c-drawer__about-left u-spacing">
+        <p>
+          Adventist.uk is the Official website of the Seventh-day Adventist Church in UK and Ireland.
+        </p>
+      </div>
+      <div class="c-drawer__about-right u-spacing--half">
+        
+        <p class="u-spacing--half">
+          <a href="https://adventist.uk/who-we-are/jobs/" class="c-footer__primary-nav__link u-theme--link-hover--light u-link--white"><strong>Jobs</strong></a><a href="https://facebook.com/adventist.org.uk" target="_blank" class="c-footer__primary-nav__link u-theme--link-hover--light u-link--white"><strong>Facebook</strong></a><a href="http://hopetv.org.uk" target="_blank" class="c-footer__primary-nav__link u-theme--link-hover--light u-link--white"><strong>Hope TV</strong></a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+    <main
+      class="l-main u-spacing--double u-padding--double--bottom"
+      role="main"
+    >
+      <header class="c-page-header c-page-header__simple u-theme--background-color--dark ">
+  
+  <div class="c-page-header__simple--inner u-padding">
+    
+      
+        
+            <!-- prettier-ignore -->
+            
+          
+      
+      <!-- prettier-ignore -->
+      
+      
+        <span class="o-kicker u-color--white">
+          Departments
+        </span>
+      
+    
+    <h1 class="u-font--primary--xxl u-color--white">
+      
+          
+            
+                Resources
+              
+          
+        
+    </h1>
+  </div>
+</header>
+
+
+      <section
+        class="l-main__content l-grid l-grid--7-col u-shift--left--1-col--at-xxlarge l-grid-wrap--6-of-7 u-spacing--double--until-xxlarge u-padding--zero--sides"
+      >
+        <article
+          class="c-article l-grid-item l-grid-item--l--4-col l-grid-item--xl--3-col"
+        >
+          <div class="c-article__body">
+            
+  <div class="text u-spacing u-space--bottom">
+    <nav class="c-breadcrumbs" role="navigation">
+      <ul class="c-breadcrumbs__list">
+        <li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray"><span class="u-icon u-icon--xs u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path></svg></span><strong><a href="/" title="adventist.uk" class="c-breadcrumbs__link can-be--white">adventist.uk</a></strong></li>&nbsp;<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray"><span class="u-icon u-icon--xs u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path></svg></span><strong><a href="departments/" title="Departments" class="c-breadcrumbs__link can-be--white">Departments</a></strong></li>&nbsp;<li class="c-breadcrumbs__list-item u-font--secondary--s u-text-transform--upper u-display--inline-block u-color--gray"><span class="u-icon u-icon--xs u-path-fill--gray"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"></path></svg></span><strong>Resources</strong></li>&nbsp;
+      </ul>
+    </nav>
+  </div>
+
+
+            <div class="u-spacing--triple">
+              <!--TYPO3SEARCH_begin-->
+
+  <div class="amsResources multiple" id="c80"><form
+      id="f80"
+      class="filterForm c-facet-filter-form toggled-element u-padding--double--top"
+      action=""
+      method="post"
+    ><fieldset class="u-spacing--half"><legend
+          >Filter</legend><div class="u-spacing"><div
+  class="form__control form__control--select   "
+><label class="form__label form__label--select " for="[category]"></label><select class="form__field form__field--select Category" id="[category]" name="[category]"
+  
+  
+  ><option value="https://adventist.uk/departments/resources/" selected>
+	All categories
+</option><option value="https://adventist.uk/departments/resources/re/-/discovery-centre/" >
+	Discovery Centre
+</option><option value="https://adventist.uk/departments/resources/re/-/vacation-bible-school/" >
+	Vacation Bible School
+</option><option value="https://adventist.uk/departments/resources/re/-/president/" >
+	President
+</option><option value="https://adventist.uk/departments/resources/re/-/executive-secretary/" >
+	Executive Secretary
+</option><option value="https://adventist.uk/departments/resources/re/-/treasurer/" >
+	Treasurer
+</option><option value="https://adventist.uk/departments/resources/re/-/bible-studies/" >
+	Bible studies
+</option><option value="https://adventist.uk/departments/resources/re/-/childrens-ministries/" >
+	Children&#039;s Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/church-growth/" >
+	Church Growth
+</option><option value="https://adventist.uk/departments/resources/re/-/communication/" >
+	Communication
+</option><option value="https://adventist.uk/departments/resources/re/-/community-services/" >
+	Community Services
+</option><option value="https://adventist.uk/departments/resources/re/-/counselling-service/" >
+	Counselling Service
+</option><option value="https://adventist.uk/departments/resources/re/-/disability/" >
+	Disability
+</option><option value="https://adventist.uk/departments/resources/re/-/education/" >
+	Education
+</option><option value="https://adventist.uk/departments/resources/re/-/family-ministries/" >
+	Family Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/health/" >
+	Health
+</option><option value="https://adventist.uk/departments/resources/re/-/human-resources/" >
+	Human Resources
+</option><option value="https://adventist.uk/departments/resources/re/-/media/" >
+	Media
+</option><option value="https://adventist.uk/departments/resources/re/-/mens-ministries/" >
+	Men&#039;s Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/ministerial/" >
+	Ministerial
+</option><option value="https://adventist.uk/departments/resources/re/-/muslim-relations/" >
+	Muslim Relations
+</option><option value="https://adventist.uk/departments/resources/re/-/music/" >
+	Music
+</option><option value="https://adventist.uk/departments/resources/re/-/pathfinders/" >
+	Pathfinders
+</option><option value="https://adventist.uk/departments/resources/re/-/personal-ministries/" >
+	Personal Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/prayer-ministries/" >
+	Prayer Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/prison-ministries/" >
+	Prison Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/sabbath-school/" >
+	Sabbath School
+</option><option value="https://adventist.uk/departments/resources/re/-/sdaa/" >
+	SDAA
+</option><option value="https://adventist.uk/departments/resources/re/-/stewardship/" >
+	Stewardship
+</option><option value="https://adventist.uk/departments/resources/re/-/teens/" >
+	Teens
+</option><option value="https://adventist.uk/departments/resources/re/-/volunteer-services/" >
+	Volunteer Services
+</option><option value="https://adventist.uk/departments/resources/re/-/womens-ministries/" >
+	Women&#039;s Ministries
+</option><option value="https://adventist.uk/departments/resources/re/-/youth/" >
+	Youth
+</option></select></div></div></fieldset></form><table class="u-spacing download"><tbody><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/Irish-Mission-Operating-Policy-8-December-2016.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/Irish-Mission-Operating-Policy-8-December-2016.pdf"
+                        >Irish Mission Operating Policy</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >116 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 December 2016
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/Welsh-Mission-Operating-Policy-8-December-2016.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/Welsh-Mission-Operating-Policy-8-December-2016.pdf"
+                        >Welsh Mission Operating Policy</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >115 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 December 2016
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-03-Conditions-of-Employment-2018-03.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-03-Conditions-of-Employment-2018-03.pdf"
+                        >Section 3 Conditions of Employment</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >45 KB</span
+                  ><time class="u-text-transform--upper">
+                    01 March 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-10-Data-Protection-2018-03.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-10-Data-Protection-2018-03.pdf"
+                        >Section 10 Data Protection</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >134 KB</span
+                  ><time class="u-text-transform--upper">
+                    29 March 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/Scottish-Mission-Operating-Policy-15-March-2018.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/Scottish-Mission-Operating-Policy-15-March-2018.pdf"
+                        >Scottish Mission Operating Policy</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >130 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 March 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Book-Section-II-General-Denominational-Guidelines-Jun-2018.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Book-Section-II-General-Denominational-Guidelines-Jun-2018.pdf"
+                        >Section 2 General Denominational Guideline</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >182 KB</span
+                  ><time class="u-text-transform--upper">
+                    01 June 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-09-Complaints-Procedure-2018-06.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-09-Complaints-Procedure-2018-06.pdf"
+                        >Section 9 Complaints Policy &amp; Procedure</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >19 KB</span
+                  ><time class="u-text-transform--upper">
+                    28 June 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Book-Section-8c-KCFS-2018-11.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Book-Section-8c-KCFS-2018-11.pdf"
+                        >Section 8c Keeping the Church Family Safe Child and Adult Protection Policy &amp; Procedures.</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >93 KB</span
+                  ><time class="u-text-transform--upper">
+                    29 November 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC_Policy_Section_04_-_Employees__Welfare__2019-09_.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC_Policy_Section_04_-_Employees__Welfare__2019-09_.pdf"
+                        >Section 4 Employees&#039; Welfare</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >80 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 November 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-07-Education-2018-11.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-07-Education-2018-11.pdf"
+                        >Section 7 Education</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >273 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 November 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-08a-Health-and-Safety-2018-11.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-08a-Health-and-Safety-2018-11.pdf"
+                        >Section 8a SDA Health and Safety Policy Statement</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >192 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 November 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-08b-Codes-of-Safety-Practice-2009-12.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-08b-Codes-of-Safety-Practice-2009-12.pdf"
+                        >Section 8b SDA Codes of Safety Practice</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >476 KB</span
+                  ><time class="u-text-transform--upper">
+                    20 December 2018
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-05-Finance-2019-03.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-05-Finance-2019-03.pdf"
+                        >Section 5 Finance</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >52 KB</span
+                  ><time class="u-text-transform--upper">
+                    29 March 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/ministerial/Integrated-final-report-with-dcm-rdd.docx" target="_blank"><div class="fi fi-size-xs fi-docx"
+                    ><div class="fi-content"
+                      >docx</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/ministerial/Integrated-final-report-with-dcm-rdd.docx"
+                        >Integrated Final Report</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >371 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 April 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/ministerial/Ministry-Care-Brochure.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/ministerial/Ministry-Care-Brochure.pdf"
+                        >Ministry Care</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >2 MB</span
+                  ><time class="u-text-transform--upper">
+                    30 April 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/health/Wholistic-Health-Resources-Order-Form-24-January-2017-new.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/health/Wholistic-Health-Resources-Order-Form-24-January-2017-new.pdf"
+                        >Health Resources Order Form</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >605 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 April 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/womens-ministries/WM-Resources-Order-Form.3.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/womens-ministries/WM-Resources-Order-Form.3.pdf"
+                        >Women Min Order Form</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >335 KB</span
+                  ><time class="u-text-transform--upper">
+                    30 April 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC_Policy_Book__2019-09_.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC_Policy_Book__2019-09_.pdf"
+                        >BUC Policy Book (Sept 2019)</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >2 MB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Constitution-July-2016.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Constitution-July-2016.pdf"
+                        >BUC Constitution</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >101 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Special-Days-and-Offerings-v4.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Special-Days-and-Offerings-v4.pdf"
+                        >BUC Calendar of Special Days and Offerings</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >155 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-06-Ireland-Isle-of-Man-2007-03.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-06-Ireland-Isle-of-Man-2007-03.pdf"
+                        >Section 6 Ireland Isle of Man</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >15 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-08d-Domestic-Abuse-2019-03.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/BUC-Policy-Section-08d-Domestic-Abuse-2019-03.pdf"
+                        >Section 8d Domestic Abuse</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >158 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/ExplanatorBookletJune2011.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/ExplanatorBookletJune2011.pdf"
+                        >Seventh-day Adventist Retirement Plan</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >120 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/SORs_2007_Guidelines.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/SORs_2007_Guidelines.pdf"
+                        >SORs 2007 Guidelines to Churches</a
+                      ></h3><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >76 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr><tr><td class="icon"><a href="fileadmin/shared-data/resources/executive-secretary/Statement-on-same-sex-marriage.pdf" target="_blank"><div class="fi fi-size-xs fi-pdf"
+                    ><div class="fi-content"
+                      >pdf</div
+                    ></div
+                  ></a></td><td class="u-spacing"><h3
+                      class="c-media-block__title c-block__title u-theme--color--dark"
+                    ><a
+                        class="c-block__title-link u-theme--link-hover--dark"
+                        href="fileadmin/shared-data/resources/executive-secretary/Statement-on-same-sex-marriage.pdf"
+                        >Statement on Government Proposal on same-sex marriages</a
+                      ></h3><p>Same sex marriage</p><div
+                  class="c-media-block__meta c-block__meta u-theme--color--base"
+                ><span class="c-block__category u-text-transform--upper"
+                    >183 KB</span
+                  ><time class="u-text-transform--upper">
+                    03 June 2019
+                  </time></div></td></tr></tbody></table><div class="pad spacing"><nav class="pagination u-center-block u-text-align--center" role="navigation"><span
+            class="
+              pagination__page pagination__page--current
+              u-padding--quarter
+              u-theme--color--base
+              u-font-weight--bold
+            "
+            >1</span
+          ><a
+            rel="noindex, follow"
+            class="
+              pagination__page
+              u-padding--quarter
+              u-theme--color--darker
+              u-font-weight--bold
+            "
+            href="departments/resources/re/-/-/25/"
+            >2</a
+          ><a
+            rel="noindex, follow"
+            class="
+              pagination__page
+              u-padding--quarter
+              u-theme--color--darker
+              u-font-weight--bold
+            "
+            href="departments/resources/re/-/-/50/"
+            >3</a
+          ><a
+        class="
+          pagination__page pagination__prev
+          u-padding--quarteru-theme--color--darker
+          u-font-weight--bold
+        "
+        href="departments/resources/re/-/-/25/"
+      ><span
+          class="u-icon u-icon--m u-theme--path-fill--dark u-space--half--right"
+        ><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10"><title>Artboard 1</title><path d="M6.75,3.59,3.25.09,1.84,1.5,5.34,5,1.84,8.5,3.25,9.91l3.5-3.5L8.16,5Z" fill="#9b9b9b"/></svg></span></a></nav></div></div>
+
+
+<!--TYPO3SEARCH_end-->
+              
+              
+    
+  
+
+              <!--TYPO3SEARCH_begin-->
+
+<!--TYPO3SEARCH_end-->
+            </div>
+          </div>
+        </article>
+        <div
+          class="c-sidebar l-grid-item l-grid-item--l--2-col l-grid-item--xl--2-col u-spacing u-padding--zero--sides"
+        >
+          
+
+
+          <div class="u-spacing--double">
+            
+    
+  
+
+            <!--TYPO3SEARCH_begin-->
+
+
+<!--TYPO3SEARCH_end-->
+
+          </div>
+        </div>
+      </section>
+    </main>
+    <footer
+  class="c-footer u-theme--background-color--primary u-theme--background-color--darker"
+  role="contentinfo"
+>
+  <div
+    class="c-footer--inner u-color--white l-grid l-grid--7-col l-grid-wrap l-grid-wrap--6-of-7"
+  >
+    <div class="l-grid-item l-grid-item--m--4-col c-footer__description">
+      <p class="c-footer__description-text u-font--secondary--m">
+        Adventist.uk is the Official website of the Seventh-day Adventist Church in UK and Ireland.
+      </p>
+    </div>
+    <div
+      class="l-grid-item l-grid-item--m--3-col l-grid-item--l--1-col c-footer__primary-nav"
+    >
+      <nav class="c-footer__primary-nav__list u-spacing--half">
+        <a href="https://adventist.uk/who-we-are/jobs/" class="c-footer__primary-nav__link u-theme--link-hover--light u-link--white"><strong>Jobs</strong></a><a href="https://facebook.com/adventist.org.uk" target="_blank" class="c-footer__primary-nav__link u-theme--link-hover--light u-link--white"><strong>Facebook</strong></a><a href="http://hopetv.org.uk" target="_blank" class="c-footer__primary-nav__link u-theme--link-hover--light u-link--white"><strong>Hope TV</strong></a>
+      </nav>
+    </div>
+
+    <div class="l-grid-item l-grid-item--m--3-col l-grid-item--l--1-col c-footer__secondary-nav">
+  <nav class="c-footer__secondary-nav__list u-spacing--half">
+    
+    <a href="copyright/privacy/" class="c-footer__secondary-nav__link u-link--white u-theme--link-hover--light"><span class="u-icon u-icon--xs u-path-fill--white u-space--half--right"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10.01 10"><title>o-cion</title><path d="M10,2.31H0V0H10ZM6.36,3.85H0v2.3H6.36ZM8.22,7.7H0V10H8.22Z" fill="#231f20"/></svg></span><font>Privacy</font></a>
+  </nav>
+</div>
+
+
+    <div
+      class="l-grid-item--7-col l-grid-item--m--1-col c-footer__logo u-path-fill--white"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169.88 169.88"><title>icon-logo-round-sda</title><path d="M147.5,117c.67,0,1.07-.37,1.07-.91s-.34-.86-1.08-.86h-.63V117Zm-1.62-2.6h1.65c1.4,0,2,.56,2,1.66a1.49,1.49,0,0,1-1,1.46L150,120h-1.1l-1.28-2.23h-.8V120h-1Zm5.74,2.8a3.93,3.93,0,0,0-4-4,3.87,3.87,0,0,0-4,4,4,4,0,1,0,8,0Zm-8.69,0a4.55,4.55,0,0,1,4.71-4.71,4.62,4.62,0,0,1,4.71,4.71,4.71,4.71,0,1,1-9.42,0Zm-55.08-.31c0-5.71,5.08-10.92,11.13-17l6.71-6.71c4.45-4.45,13.79-13.8,9.89-22.62-.25-.58.17-.87.56-.39,5.9,7.21,3.89,18.43-7.7,30L99,109.64c-6,6-8.89,8.89-10.38,16.15-.11.55-.73.54-.73,0Zm-21.8-23c-6.81,6.82-8.46,14.72-3,19.42.45.39.22.87-.37.6-6.77-3.08-12.1-14.27-.5-25.87l23.2-23.18c6-6,8.88-8.84,10.38-16.1.11-.54.73-.54.73,0v8.9c0,5.7-5.08,10.92-11.13,17Zm-12.27,9.19c-5.9-7.21-3.89-18.43,7.7-30L85.36,49.18c6-6,8.89-8.9,10.38-16.16.12-.54.74-.54.74,0v9c0,5.7-5.09,10.92-11.14,17L64.24,80.06c-4.45,4.44-13.8,13.8-9.9,22.61C54.6,103.25,54.17,103.54,53.78,103.06Zm-4-15.71C47.61,80.47,49,69.92,59,60L85.33,33.57c6-6,8.9-8.85,10.39-16.11.11-.54.73-.54.73,0v8.9c0,5.7-5.08,10.92-11.13,17L62.58,66.06C52,76.61,50.37,81.58,50.42,87.36c0,.61-.5.57-.68,0Zm54.13-8c6.82-6.82,8.46-14.72,3-19.41-.45-.4-.21-.88.38-.61,6.76,3.08,12.09,14.28.5,25.87L99,94c-6,6-8.88,8.84-10.38,16.1-.11.55-.73.54-.73,0v-8.89c0-5.71,5.08-10.92,11.13-17Zm16.32,6.53c2.12,6.88.73,17.42-9.23,27.39l-12,12-1,1H89.77c2-3.47,5.43-6.93,9.23-10.73l8.34-8.34c10.55-10.55,12.21-15.51,12.16-21.29C119.5,85.25,120,85.28,120.19,85.87ZM88.6,141.35c-.11.55-.73.55-.73,0v-8.88a.36.36,0,0,1,.36-.36h4.4a21.27,21.27,0,0,0-4,9.25Zm19.54-.24c-11.45-1.93-17.7,3.52-19.57,8.62-.16.45-.7.38-.7,0V148.1c0-5.71,5.08-10.92,11.13-17l10-10,26.64,4.58,14.12,14.12a84.94,84.94,0,1,0-129.64,0L34.24,125.7l30.24-5.2c14-2.43,17.5.72,17.52,5.35a.37.37,0,0,1-.36.37H72.91a.37.37,0,0,0-.37.36v5.16a.37.37,0,0,0,.37.36h8.74a.37.37,0,0,1,.36.37v17.21c0,.43-.54.5-.7,0-1.87-5.1-8.11-10.55-19.57-8.62l-34.68,6a84.89,84.89,0,0,0,115.76,0l-34.68-6Z" fill="#fff"/></svg>
+
+    </div>
+    <div
+      class="l-grid-item l-grid-item--m--3-col c-footer__legal"
+      itemscope=""
+      itemtype="http://schema.org/PostalAddress"
+    >
+      <p class="c-footer__copyright">
+        Copyright &copy;&nbsp;2023&nbsp;
+        <span itemprop="name"
+          >British Union Conference of the Seventh-day Adventist Church</span>
+      </p>
+      <address class="c-footer__address">
+        <span itemprop="streetAddress"
+          >Stanborough Park St Albans Rd</span
+        >,
+        <span itemprop="postalCode">
+          WD25 9JZ</span>
+        <span itemprop="addressLocality">
+          Watford</span
+        >,
+        <span itemprop="addressRegion">
+          </span>
+        <span itemprop="addressCountry">
+          UK</span>
+        <a
+          itemprop="telephone"
+          href="tel:+44-1923-672251"
+          class="c-footer__phone u-link--white u-theme--link-hover--light"
+          >+44 1923 672251</a>
+      </address>
+    </div>
+  </div>
+</footer>
+
+
+
+
+  
+  <!-- prettier-ignore -->
+  <script type="text/javascript">
+    window.addEventListener("load", function () {
+      $(".top-menu li > a").each(function () {
+        if (window.location.hostname == $(this).prop("hostname")) {
+          $(this).removeClass("u-color--white");
+          $(this).removeClass("u-theme--link-hover--base");
+          $(this).addClass("u-theme--color--lighter");
+        }
+        if (window.location.href == $(this).prop("href")) {
+          $(this).removeAttr("href");
+        }
+      });
+    }, false);
+  </script>
+
+
+
+  </div>
+  <aside
+  class="l-wrap__sabbath l-sabbath  js-sticky-parent js-toggle-menu"
+>
+  <div
+    class="
+    l-sabbath__logo 
+     
+    js-sticky"
+  >
+    
+        <div
+          class="
+          l-sabbath__logo--inner 
+           
+          u-path-fill--white /* js-show-on-scroll */ is-hidden"
+        >
+          <div class="l-sabbath__logo-light u-path-fill--white">
+            
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253.71 227.63"><title>Seventh Day Adventist Church Logo</title><path d="M67.68,120.38c-.1-9.91,2.8-18.41,20.8-36.41l39-39c10.4-10.4,19.1-19.29,19.1-29V.67c0-.89-1.1-.89-1.2,0-2.6,12.4-7.5,17.3-17.8,27.61L82.28,73.47c-17.1,17-19.5,35.1-15.8,46.91C66.78,121.38,67.68,121.47,67.68,120.38Zm64.2,38.9c0,.89,1,.89,1.2,0,2.6-12.5,7.6-17.4,17.8-27.61L166,116.78c19.8-19.9,10.7-39-.9-44.31-1-.5-1.4.31-.6,1,9.3,8,6.5,21.5-5.2,33.2L151,115c-10.4,10.31-19.1,19.2-19.1,29Zm81.8,26.6L168,178.17l-17.1,17.11c-10.4,10.39-19,19.3-19,29V227c0,.7.9.9,1.2.11,3.2-8.7,13.9-18.11,33.5-14.8,0,0,85.4,14.8,86.1,14.8a.9.9,0,0,0,1-.61.79.79,0,0,0-.2-.8c-.3-.39-39.8-39.8-39.8-39.8Zm-107.5,1h15a.66.66,0,0,0,.6-.6c0-7.9-6-13.31-30-9.2L40,186S.58,225.37.28,225.78a.79.79,0,0,0-.1,1.1.81.81,0,0,0,.8.2c.7-.11,86.1-14.8,86.1-14.8,19.6-3.31,30.3,6,33.5,14.8.3.8,1.2.7,1.2-.11v-29.5a.66.66,0,0,0-.6-.6l-15,.1a.64.64,0,0,1-.6-.6v-8.9a.65.65,0,0,1,.6-.6Zm26.8,25.9a36.3,36.3,0,0,1,6.9-15.81h-7.5a.65.65,0,0,0-.6.61v15.2c0,.89,1.1.89,1.2,0Zm13.6-158.6c0-.91-1.1-.91-1.2,0-2.6,12.39-7.5,17.29-17.8,27.6l-39.8,39.69c-19.8,19.81-10.7,39,.9,44.31,1,.5,1.4-.4.6-1-9.3-8-6.5-21.61,5.2-33.2l33-33c10.4-10.4,19.1-19.3,19.1-29Zm-19.1,17.49c10.4-10.3,19-19.2,19.1-29V27.27c0-.9-1.1-.9-1.2,0-2.6,12.4-7.5,17.4-17.8,27.7L86.68,95.78c-19.8,19.8-23.3,39-13.2,51.4.7.8,1.4.3,1-.7-6.7-15.1,9.3-31.1,16.9-38.7Zm37.6,82.5-14.3,14.2c-6.5,6.5-12.3,12.4-15.8,18.4h14.1l1.7-1.7,20.5-20.5c17.1-16.9,19.5-35,15.8-46.8-.3-1-1.2-1.1-1.2,0,.1,9.9-2.8,18.4-20.8,36.4Zm-2.8-24-11.4,11.5c-10.4,10.4-19.1,19.4-19.1,29.11v15.3c0,.89,1.1.89,1.2,0,2.6-12.4,7.5-17.4,17.8-27.7L167,142.17c19.8-19.8,23.3-39,13.2-51.4-.7-.8-1.4-.3-1,.7C185.88,106.57,169.88,122.57,162.28,130.17Zm83.5,68.2h1.1l1.7,3h1.5l-2-3.3a2,2,0,0,0,1.3-2c0-1.5-.8-2.2-2.7-2.2h-2.2v7.5h1.3v-3Zm0-3.5h.8c1,0,1.4.3,1.4,1.2,0,.7-.5,1.2-1.4,1.2h-.9v-2.4Zm1,9a6.3,6.3,0,1,0-6.3-6.3,6.08,6.08,0,0,0,5.87,6.3Zm0-11.7a5.4,5.4,0,1,1,0,10.8,5.31,5.31,0,0,1-5.4-5.23h0v-.16a5.24,5.24,0,0,1,5.11-5.39h.29Z"></path></svg>
+
+              
+          </div>
+          
+              <div
+                class="l-sabbath__logo-dark u-theme--path-fill--base"
+              >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 253.71 227.63"><title>Seventh Day Adventist Church Logo</title><path d="M67.68,120.38c-.1-9.91,2.8-18.41,20.8-36.41l39-39c10.4-10.4,19.1-19.29,19.1-29V.67c0-.89-1.1-.89-1.2,0-2.6,12.4-7.5,17.3-17.8,27.61L82.28,73.47c-17.1,17-19.5,35.1-15.8,46.91C66.78,121.38,67.68,121.47,67.68,120.38Zm64.2,38.9c0,.89,1,.89,1.2,0,2.6-12.5,7.6-17.4,17.8-27.61L166,116.78c19.8-19.9,10.7-39-.9-44.31-1-.5-1.4.31-.6,1,9.3,8,6.5,21.5-5.2,33.2L151,115c-10.4,10.31-19.1,19.2-19.1,29Zm81.8,26.6L168,178.17l-17.1,17.11c-10.4,10.39-19,19.3-19,29V227c0,.7.9.9,1.2.11,3.2-8.7,13.9-18.11,33.5-14.8,0,0,85.4,14.8,86.1,14.8a.9.9,0,0,0,1-.61.79.79,0,0,0-.2-.8c-.3-.39-39.8-39.8-39.8-39.8Zm-107.5,1h15a.66.66,0,0,0,.6-.6c0-7.9-6-13.31-30-9.2L40,186S.58,225.37.28,225.78a.79.79,0,0,0-.1,1.1.81.81,0,0,0,.8.2c.7-.11,86.1-14.8,86.1-14.8,19.6-3.31,30.3,6,33.5,14.8.3.8,1.2.7,1.2-.11v-29.5a.66.66,0,0,0-.6-.6l-15,.1a.64.64,0,0,1-.6-.6v-8.9a.65.65,0,0,1,.6-.6Zm26.8,25.9a36.3,36.3,0,0,1,6.9-15.81h-7.5a.65.65,0,0,0-.6.61v15.2c0,.89,1.1.89,1.2,0Zm13.6-158.6c0-.91-1.1-.91-1.2,0-2.6,12.39-7.5,17.29-17.8,27.6l-39.8,39.69c-19.8,19.81-10.7,39,.9,44.31,1,.5,1.4-.4.6-1-9.3-8-6.5-21.61,5.2-33.2l33-33c10.4-10.4,19.1-19.3,19.1-29Zm-19.1,17.49c10.4-10.3,19-19.2,19.1-29V27.27c0-.9-1.1-.9-1.2,0-2.6,12.4-7.5,17.4-17.8,27.7L86.68,95.78c-19.8,19.8-23.3,39-13.2,51.4.7.8,1.4.3,1-.7-6.7-15.1,9.3-31.1,16.9-38.7Zm37.6,82.5-14.3,14.2c-6.5,6.5-12.3,12.4-15.8,18.4h14.1l1.7-1.7,20.5-20.5c17.1-16.9,19.5-35,15.8-46.8-.3-1-1.2-1.1-1.2,0,.1,9.9-2.8,18.4-20.8,36.4Zm-2.8-24-11.4,11.5c-10.4,10.4-19.1,19.4-19.1,29.11v15.3c0,.89,1.1.89,1.2,0,2.6-12.4,7.5-17.4,17.8-27.7L167,142.17c19.8-19.8,23.3-39,13.2-51.4-.7-.8-1.4-.3-1,.7C185.88,106.57,169.88,122.57,162.28,130.17Zm83.5,68.2h1.1l1.7,3h1.5l-2-3.3a2,2,0,0,0,1.3-2c0-1.5-.8-2.2-2.7-2.2h-2.2v7.5h1.3v-3Zm0-3.5h.8c1,0,1.4.3,1.4,1.2,0,.7-.5,1.2-1.4,1.2h-.9v-2.4Zm1,9a6.3,6.3,0,1,0-6.3-6.3,6.08,6.08,0,0,0,5.87,6.3Zm0-11.7a5.4,5.4,0,1,1,0,10.8,5.31,5.31,0,0,1-5.4-5.23h0v-.16a5.24,5.24,0,0,1,5.11-5.39h.29Z"></path></svg>
+
+                  
+              </div>
+            
+        </div>
+      
+  </div>
+  
+      <div
+        class="l-sabbath__overlay u-theme--background-color--base"
+      ></div>
+    
+</aside>
+
+
+
+</div>
+<script src="typo3temp/assets/compressed/merged-9f27f8f77cfe495ede223785ce9e7b2f.js?1647444395" type="text/javascript"></script>
+<script src="typo3temp/assets/compressed/merged-6b427eece7aebf3d4bef63823d5344e0.js?1641300071" type="text/javascript"></script>
+
+
+</body>
+</html>

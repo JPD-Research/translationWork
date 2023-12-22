@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<!-- force IE browsers in compatibility mode to use their most aggressive rendering engine -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+	<style>
+		* { box-sizing: border-box;}
+		body {
+			margin: 0;
+			font-family: 'Poppins', sans-serif;
+			font-size: 1.2rem;
+			color: #484848;
+			background: #f7f7f7;
+		}
+		.page-content {
+			min-height: calc(100vh - 250px);
+		}
+		.headerClass {
+			background-color: #eee;
+			padding: 28px 20px 20px 40px;
+			position: relative;
+			border-bottom: 1px solid #e0e0e0;
+			height: 110px;
+			margin-bottom: 70px;
+		}
+		.logo-container {
+			position: relative;
+			top:-10px;
+			float: left;
+			max-width: 325px;
+		}
+		.logo {
+			width: 400px;
+			max-width: 100%;
+			height: auto;
+		}
+		.headerClass nav {
+			float: right;
+		}
+		.headerClass nav a {
+			color: #484848;
+		}
+		.wave-container {
+			clear: both;
+			height: 200px;
+			position: relative;
+		}
+		.wave {
+			z-index: 2;
+			position: absolute;
+			left:0;
+			right: 0;
+			bottom: 0;
+			padding-top: 11.11%;
+			background-image: url("../apology_objects/header_wave.svg");
+			background-position: right bottom;
+			background-size: contain;
+			background-repeat: no-repeat;
+		}
+		.content {
+			max-width: 40em;
+			margin: 60px;
+			margin-left: auto;
+			margin-right: auto;
+			padding: 0 1em;
+		}
+		.refText {
+			font-size: 1rem;
+		}
+		footer {
+			height: 250px;
+			font-size: 1rem;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="page-content">
+		<header class="headerClass">
+			<div class="logo-container">
+				<a href="https://support.granicus.com" target="_blank">
+					<img  class="logo" src="../apology_objects/granicus_logo.svg"
+						alt="Granicus Logo">
+				</a>
+			</div>
+			<nav><a href="https://support.granicus.com" target="_blank">Help</a></nav>
+			<div style="clear:both;"></div>
+		</header>
+		
+		<main class="content">
+			<div class="content-body">
+                <h2>Sorry, this site/page is currently unavailable.</h2>
+                <p><i>Some customers are seeing intermittent errors with this site/page. We’re aware of the issue and are working on it urgently.</i></p>
+                <p><i>We’re sorry to be holding you up today! Please know our engineering and operations teams are working hard to get everything up and running.  
+                    Please check back for the latest information.</i></p>
+            </div>
+            
+			<em><span class="refText">Reference ID: </span></em>
+		</main>
+	</div>
+	<footer>
+		<div class="wave-container"><div class="wave"></div></div>
+		<div style="max-width:100%; padding: 10px 10px;">
+			<span class="footerText">
+				© 2022 Granicus, Inc. All rights reserved.
+			</span>
+		</div>
+	</footer>
+</body>
+</html>
