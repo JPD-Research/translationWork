@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="saved trained transformer model - runs well enough - also have attention plots for review">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="saved trained transformer model - runs well enough - also have attention plots for review - note variables.data-00000-of-00001 exceeds github's size limit - split into three files .001-.003 - rehydrate from 7-zip before use" />
     <list id="c6acb7f7-1eb3-4ef6-92ca-039ea210fc61" name="lfs-changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/translator/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/models/translator/variables/variables.index" afterDir="false" />
@@ -44,6 +42,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "demastri"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="660799cd-421a-44ba-8863-bbae0791e87a" />
+        <option name="url" value="https://github.com/JPD-Research/translationWork.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -117,7 +129,7 @@
       <workItem from="1703018518842" duration="4004000" />
       <workItem from="1703085636096" duration="3189000" />
       <workItem from="1703089399031" duration="1026000" />
-      <workItem from="1703090684949" duration="22647000" />
+      <workItem from="1703090684949" duration="23260000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -247,7 +259,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703253897323</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="saved trained transformer model - runs well enough - also have attention plots for review - note variables.data-00000-of-00001 exceeds github's size limit - split into three files .001-.003 - rehydrate from 7-zip before use">
+      <option name="closed" value="true" />
+      <created>1703255169704</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1703255169704</updated>
+    </task>
+    <task id="LOCAL-00018" summary="saved trained transformer model - runs well enough - also have attention plots for review - note variables.data-00000-of-00001 exceeds github's size limit - split into three files .001-.003 - rehydrate from 7-zip before use">
+      <option name="closed" value="true" />
+      <created>1703255373020</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1703255373020</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +345,7 @@
     <MESSAGE value="completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete" />
     <MESSAGE value="add git lfs for large variable files and recommit" />
     <MESSAGE value="saved trained transformer model - runs well enough - also have attention plots for review" />
-    <option name="LAST_COMMIT_MESSAGE" value="saved trained transformer model - runs well enough - also have attention plots for review" />
+    <MESSAGE value="saved trained transformer model - runs well enough - also have attention plots for review - note variables.data-00000-of-00001 exceeds github's size limit - split into three files .001-.003 - rehydrate from 7-zip before use" />
+    <option name="LAST_COMMIT_MESSAGE" value="saved trained transformer model - runs well enough - also have attention plots for review - note variables.data-00000-of-00001 exceeds github's size limit - split into three files .001-.003 - rehydrate from 7-zip before use" />
   </component>
 </project>
