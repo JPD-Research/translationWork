@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en" class="" data-skin="light">
+<head>
+	<meta charset="UTF-8" />
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	
+<meta http-equiv='x-dns-prefetch-control' content='on'>
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.gstatic.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//www.google-analytics.com' />
+
+					<style>
+						@media (max-width: 1080px){
+							.side-stream{
+								display: none !important;
+							}
+						}
+					</style>
+				<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Ghanaian Times</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Ghanaian Times" />
+	<meta property="og:site_name" content="Ghanaian Times" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.ghanaiantimes.com.gh/#website","url":"https://www.ghanaiantimes.com.gh/","name":"Ghanaian Times","description":"Ghana's Most Authoritative  Newspaper","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ghanaiantimes.com.gh/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="Ghanaian Times &raquo; Feed" href="https://www.ghanaiantimes.com.gh/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ghanaian Times &raquo; Comments Feed" href="https://www.ghanaiantimes.com.gh/comments/feed/" />
+		<script type="text/javascript">try{if("undefined"!=typeof localStorage){var tieSkin=localStorage.getItem("tie-skin"),html=document.getElementsByTagName("html")[0].classList,htmlSkin="light";if(html.contains("dark-skin")&&(htmlSkin="dark"),null!=tieSkin&&tieSkin!=htmlSkin){html.add("tie-skin-inverted");var tieSkinInverted=!0}"dark"==tieSkin?html.add("dark-skin"):"light"==tieSkin&&html.remove("dark-skin")}}catch(t){console.log(t)}</script>
+		
+		<style type="text/css">
+			:root{
+			
+					--main-nav-background: #FFFFFF;
+					--main-nav-secondry-background: rgba(0,0,0,0.03);
+					--main-nav-primary-color: #0088ff;
+					--main-nav-contrast-primary-color: #FFFFFF;
+					--main-nav-text-color: #2c2f34;
+					--main-nav-secondry-text-color: rgba(0,0,0,0.5);
+					--main-nav-main-border-color: rgba(0,0,0,0.1);
+					--main-nav-secondry-border-color: rgba(0,0,0,0.08);
+				
+			}
+		</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" /><script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ghanaiantimes.com.gh\/wp-includes\/js\/wp-emoji-release.min.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.ghanaiantimes.com.gh/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.4' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-buttons-style-css' href='https://www.ghanaiantimes.com.gh/wp-content/plugins/taqyeem-buttons/assets/style.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-base-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/base.min.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-styles-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/style.min.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-widgets-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/widgets.min.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-helpers-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/helpers.min.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-fontawesome5-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/fontawesome.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-ilightbox-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/ilightbox/dark-skin/skin.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-shortcodes-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/plugins/shortcodes.min.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='taqyeem-styles-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/css/plugins/taqyeem.min.css?ver=6.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tie-css-style-custom-css' href='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/custom-css/style-custom.css?ver=25696' type='text/css' media='all' />
+<style id='tie-css-style-custom-inline-css' type='text/css'>
+:root:root{--brand-color: #2942aa;--dark-brand-color: #001078;--bright-color: #FFFFFF;--base-color: #2c2f34;}#reading-position-indicator{box-shadow: 0 0 10px rgba( 41,66,170,0.7);}
+</style>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-134956209-1' id='google_gtagjs-js' async></script>
+<script id="google_gtagjs-js-after" type="text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["www.ghanaiantimes.com.gh"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-134956209-1", {"anonymize_ip":true});
+gtag("config", "GT-NCNQHDW");
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-includes/js/jquery/jquery.min.js?ver=3.7.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.ghanaiantimes.com.gh/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ghanaiantimes.com.gh/xmlrpc.php?rsd" />
+<meta name="generator" content="Site Kit by Google 1.115.0" /><script type='text/javascript'>
+/* <![CDATA[ */
+var taqyeem = {"ajaxurl":"https://www.ghanaiantimes.com.gh/wp-admin/admin-ajax.php" , "your_rating":"Your Rating:"};
+/* ]]> */
+</script>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://www.ghanaiantimes.com.gh/wp-content/uploads/2019/02/cropped-fav-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.ghanaiantimes.com.gh/wp-content/uploads/2019/02/cropped-fav-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.ghanaiantimes.com.gh/wp-content/uploads/2019/02/cropped-fav-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://www.ghanaiantimes.com.gh/wp-content/uploads/2019/02/cropped-fav-270x270.jpg" />
+</head>
+
+<body data-rsssl=1 id="tie-body" class="error404 tie-no-js wrapper-has-shadow block-head-1 magazine1 is-lazyload is-thumb-overlay-disabled is-desktop is-header-layout-3 has-header-ad full-width">
+
+
+
+<div class="background-overlay">
+
+	<div id="tie-container" class="site tie-container">
+
+		
+		<div id="tie-wrapper">
+
+			
+<header id="theme-header" class="theme-header header-layout-3 main-nav-light main-nav-default-light main-nav-below has-stream-item has-shadow has-normal-width-logo has-custom-sticky-logo mobile-header-default">
+	
+<div class="container header-container">
+	<div class="tie-row logo-row">
+
+		
+		<div class="logo-wrapper">
+			<div class="tie-col-md-4 logo-container clearfix">
+				
+		<div id="logo" class="image-logo" >
+
+			
+			<a title="Ghanaian Times" href="https://www.ghanaiantimes.com.gh/">
+				
+				<picture class="tie-logo-default tie-logo-picture">
+					
+					<source class="tie-logo-source-default tie-logo-source" srcset="https://www.ghanaiantimes.com.gh/wp-content/uploads/2020/03/gtlogo-retina.png 2x, https://www.ghanaiantimes.com.gh/wp-content/uploads/2019/07/gtlogo-retina-1.png 1x">
+					<img class="tie-logo-img-default tie-logo-img" src="https://www.ghanaiantimes.com.gh/wp-content/uploads/2019/07/gtlogo-retina-1.png" alt="Ghanaian Times" width="500" height="152" style="max-height:152px; width: auto;" />
+				</picture>
+						</a>
+
+			
+		</div><!-- #logo /-->
+
+		<div id="mobile-header-components-area_2" class="mobile-header-components"><ul class="components"><li class="mobile-component_menu custom-menu-link"><a href="#" id="mobile-menu-icon" class="menu-text-wrapper"><span class="tie-mobile-menu-icon tie-icon-grid-4"></span><span class="menu-text">Menu</span></a></li> <li class="mobile-component_search custom-menu-link">
+				<a href="#" class="tie-search-trigger-mobile">
+					<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">Search for</span>
+				</a>
+			</li> <li class="mobile-component_skin custom-menu-link">
+				<a href="#" class="change-skin" title="Switch skin">
+					<span class="tie-icon-moon change-skin-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">Switch skin</span>
+				</a>
+			</li></ul></div>			</div><!-- .tie-col /-->
+		</div><!-- .logo-wrapper /-->
+
+		<div class="tie-col-md-8 stream-item stream-item-top-wrapper"><div class="stream-item-top"><div class="stream-item-size" style=""><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728 by 90 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5661135867362203"
+     data-ad-slot="8030703611"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><!-- .tie-col /-->
+	</div><!-- .tie-row /-->
+</div><!-- .container /-->
+
+<div class="main-nav-wrapper">
+	<nav id="main-nav" data-skin="search-in-main-nav" class="main-nav header-nav live-search-parent"  aria-label="Primary Navigation">
+		<div class="container">
+
+			<div class="main-menu-wrapper">
+
+				
+				<div id="menu-components-wrap">
+
+					
+		<div id="sticky-logo" class="image-logo">
+
+			
+			<a title="Ghanaian Times" href="https://www.ghanaiantimes.com.gh/">
+				
+				<picture class="tie-logo-default tie-logo-picture">
+					<source class="tie-logo-source-default tie-logo-source" srcset="https://www.ghanaiantimes.com.gh/wp-content/uploads/2020/03/gtlogo-retina.png">
+					<img class="tie-logo-img-default tie-logo-img" src="https://www.ghanaiantimes.com.gh/wp-content/uploads/2020/03/gtlogo-retina.png" alt="Ghanaian Times" style="max-height:49px; width: auto;" />
+				</picture>
+						</a>
+
+			
+		</div><!-- #Sticky-logo /-->
+
+		<div class="flex-placeholder"></div>
+		
+
+
+					<div class="main-menu main-menu-wrap tie-alignleft">
+						<div id="main-nav-menu" class="main-menu header-menu"><ul id="menu-tielabs-main-menu" class="menu"><li id="menu-item-978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-978"><a href="https://www.ghanaiantimes.com.gh/">Home</a></li>
+<li id="menu-item-981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-981 mega-menu mega-recent-featured mega-menu-posts " data-id="21" ><a href="https://www.ghanaiantimes.com.gh/category/news/">News</a>
+<div class="mega-menu-block menu-sub-content"  >
+
+<div class="mega-menu-content">
+<div class="mega-ajax-content">
+</div><!-- .mega-ajax-content -->
+
+</div><!-- .mega-menu-content -->
+
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-1302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1302 mega-menu mega-recent-featured mega-menu-posts " data-id="27" ><a href="https://www.ghanaiantimes.com.gh/category/politics/">Politics</a>
+<div class="mega-menu-block menu-sub-content"  >
+
+<div class="mega-menu-content">
+<div class="mega-ajax-content">
+</div><!-- .mega-ajax-content -->
+
+</div><!-- .mega-menu-content -->
+
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-1300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1300 menu-item-has-icon mega-menu mega-cat mega-menu-posts " data-id="18" ><a href="https://www.ghanaiantimes.com.gh/category/business/"> <span aria-hidden="true" class="tie-menu-icon fas fa-business-time"></span> Business</a>
+<div class="mega-menu-block menu-sub-content"  >
+
+<div class="mega-menu-content">
+<div class="mega-cat-wrapper">
+
+						<div class="mega-cat-content horizontal-posts">
+
+								<div class="mega-ajax-content mega-cat-posts-container clearfix">
+
+						</div><!-- .mega-ajax-content -->
+
+						</div><!-- .mega-cat-content -->
+
+					</div><!-- .mega-cat-Wrapper -->
+
+</div><!-- .mega-menu-content -->
+
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-1422" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1422 mega-menu mega-recent-featured mega-menu-posts " data-id="25" ><a href="https://www.ghanaiantimes.com.gh/category/local-sports/">Sports</a>
+<div class="mega-menu-block menu-sub-content"  >
+
+<div class="mega-menu-content">
+<div class="mega-ajax-content">
+</div><!-- .mega-ajax-content -->
+
+</div><!-- .mega-menu-content -->
+
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-1788" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1788 menu-item-has-icon mega-menu mega-recent-featured mega-menu-posts " data-id="588"  data-icon="true" ><a href="https://www.ghanaiantimes.com.gh/category/crime/"> <span aria-hidden="true" class="tie-menu-icon fab fa-shopware"></span> Crime</a>
+<div class="mega-menu-block menu-sub-content"  >
+
+<div class="mega-menu-content media-overlay">
+<div class="mega-ajax-content">
+</div><!-- .mega-ajax-content -->
+
+</div><!-- .mega-menu-content -->
+
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-44156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44156"><a href="https://www.ghanaiantimes.com.gh/category/tie-world/news-accross-africa/">Africa</a></li>
+<li id="menu-item-988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-988 mega-menu mega-links mega-links-4col "><a href="#">More</a>
+<div class="mega-menu-block menu-sub-content"  >
+
+<ul class="sub-menu-columns">
+	<li id="menu-item-980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-980 mega-link-column "><a class="mega-links-head"  href="https://www.ghanaiantimes.com.gh/category/tie-world/">World</a></li>
+	<li id="menu-item-1301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1301 mega-link-column "><a class="mega-links-head"  href="https://www.ghanaiantimes.com.gh/category/education/"> <span aria-hidden="true" class="tie-menu-icon fas fa-book"></span> Education</a></li>
+	<li id="menu-item-1286" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1286 mega-link-column "><a class="mega-links-head"  href="https://www.ghanaiantimes.com.gh/category/editorial/">Editorial</a></li>
+	<li id="menu-item-1288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1288 mega-link-column "><a class="mega-links-head"  href="https://www.ghanaiantimes.com.gh/category/features/">Features</a></li>
+	<li id="menu-item-982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-982 mega-link-column "><a class="mega-links-head"  href="https://www.ghanaiantimes.com.gh/category/tie-life-style/"> <span aria-hidden="true" class="tie-menu-icon fas fa-align-right"></span> Lifestyle</a></li>
+	<li id="menu-item-44150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-44150 mega-link-column "><a class="mega-links-head"  href="https://www.ghanaiantimes.com.gh/category/gallery/">Gallery</a></li>
+</ul>
+
+</div><!-- .mega-menu-block --> 
+</li>
+<li id="menu-item-94455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-94455"><a href="https://www.ghanaiantimes.com.gh/contact/">Contact Us</a></li>
+</ul></div>					</div><!-- .main-menu.tie-alignleft /-->
+
+					<ul class="components">			<li class="search-compact-icon menu-item custom-menu-link">
+				<a href="#" class="tie-search-trigger">
+					<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+					<span class="screen-reader-text">Search for</span>
+				</a>
+			</li>
+				<li class="skin-icon menu-item custom-menu-link">
+		<a href="#" class="change-skin" title="Switch skin">
+			<span class="tie-icon-moon change-skin-icon" aria-hidden="true"></span>
+			<span class="screen-reader-text">Switch skin</span>
+		</a>
+	</li>
+	 <li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.ghanaiantimes.com.gh/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/Ghanaian_Times"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://web.facebook.com/ghanaiantimes"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li> </ul><!-- Components -->
+				</div><!-- #menu-components-wrap /-->
+			</div><!-- .main-menu-wrapper /-->
+		</div><!-- .container /-->
+
+			</nav><!-- #main-nav /-->
+</div><!-- .main-nav-wrapper /-->
+
+</header>
+
+		<script type="text/javascript">
+			try{if("undefined"!=typeof localStorage){var header,mnIsDark=!1,tnIsDark=!1;(header=document.getElementById("theme-header"))&&((header=header.classList).contains("main-nav-default-dark")&&(mnIsDark=!0),header.contains("top-nav-default-dark")&&(tnIsDark=!0),"dark"==tieSkin?(header.add("main-nav-dark","top-nav-dark"),header.remove("main-nav-light","top-nav-light")):"light"==tieSkin&&(mnIsDark||(header.remove("main-nav-dark"),header.add("main-nav-light")),tnIsDark||(header.remove("top-nav-dark"),header.add("top-nav-light"))))}}catch(a){console.log(a)}
+		</script>
+		<div id="content" class="site-content container"><div id="main-content-row" class="tie-row main-content-row">
+	<div class="main-content tie-col-md-12" role="main">
+
+		<div class="container-404">
+
+			
+			
+			<h2>404 :(</h2>
+			<h3>Oops! That page can&rsquo;t be found.</h3>
+
+
+			
+
+			
+		</div><!-- .container-404 /-->
+
+	</div><!-- .main-content /-->
+
+</div><!-- .main-content-row /--></div><!-- #content /-->
+<footer id="footer" class="site-footer dark-skin dark-widgetized-area">
+
+	
+			<div id="site-info" class="site-info site-info-layout-2">
+				<div class="container">
+					<div class="tie-row">
+						<div class="tie-col-md-12">
+
+							<div class="footer-menu"><ul id="menu-tielabs-secondry-menu" class="menu"><li id="menu-item-1014" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1014"><a href="https://www.ghanaiantimes.com.gh/">Home</a></li>
+<li id="menu-item-1015" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1015"><a href="#">About</a></li>
+<li id="menu-item-1018" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1018"><a href="https://www.ghanaiantimes.com.gh/category/news/">News</a></li>
+<li id="menu-item-1023" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1023"><a href="https://www.ghanaiantimes.com.gh/contact-us/">Ads</a></li>
+<li id="menu-item-1024" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1024"><a href="https://www.ghanaiantimes.com.gh/contact-us/">Contact</a></li>
+</ul></div><ul class="social-icons"><li class="social-icons-item"><a class="social-link facebook-social-icon" rel="external noopener nofollow" target="_blank" href="https://web.facebook.com/ghanaiantimes"><span class="tie-social-icon tie-icon-facebook"></span><span class="screen-reader-text">Facebook</span></a></li><li class="social-icons-item"><a class="social-link twitter-social-icon" rel="external noopener nofollow" target="_blank" href="https://twitter.com/Ghanaian_Times"><span class="tie-social-icon tie-icon-twitter"></span><span class="screen-reader-text">Twitter</span></a></li><li class="social-icons-item"><a class="social-link rss-social-icon" rel="external noopener nofollow" target="_blank" href="https://www.ghanaiantimes.com.gh/feed/"><span class="tie-social-icon tie-icon-feed"></span><span class="screen-reader-text">RSS</span></a></li></ul> 
+
+						</div><!-- .tie-col /-->
+					</div><!-- .tie-row /-->
+				</div><!-- .container /-->
+			</div><!-- #site-info /-->
+			
+</footer><!-- #footer /-->
+
+
+		<a id="go-to-top" class="go-to-top-button" href="#go-to-tie-body">
+			<span class="tie-icon-angle-up"></span>
+			<span class="screen-reader-text">Back to top button</span>
+		</a>
+	
+		</div><!-- #tie-wrapper /-->
+
+		
+	<aside class=" side-aside normal-side dark-skin dark-widgetized-area appear-from-right" aria-label="Secondary Sidebar" style="visibility: hidden;">
+		<div data-height="100%" class="side-aside-wrapper has-custom-scroll">
+
+			<a href="#" class="close-side-aside remove big-btn light-btn">
+				<span class="screen-reader-text">Close</span>
+			</a><!-- .close-side-aside /-->
+
+
+			
+				<div id="mobile-container">
+
+											<div id="mobile-search">
+							<form role="search" method="get" class="search-form" action="https://www.ghanaiantimes.com.gh/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>							</div><!-- #mobile-search /-->
+						
+					<div id="mobile-menu" class="">
+											</div><!-- #mobile-menu /-->
+
+					
+				</div><!-- #mobile-container /-->
+			
+
+			
+		</div><!-- .side-aside-wrapper /-->
+	</aside><!-- .side-aside /-->
+
+	
+	</div><!-- #tie-container /-->
+</div><!-- .background-overlay /-->
+
+		<script type="text/javascript">
+			if( 'loading' in HTMLImageElement.prototype) {
+				document.querySelectorAll('[data-src]').forEach( function(img){
+					img.src = img.dataset.src;
+					img.removeAttribute('data-src');
+				});
+			}
+		</script>
+		<div id="autocomplete-suggestions" class="autocomplete-suggestions"></div><div id="is-scroller-outer"><div id="is-scroller"></div></div><div id="fb-root"></div>		<div id="tie-popup-search-desktop" class="tie-popup tie-popup-search-wrap" style="display: none;">
+			<a href="#" class="tie-btn-close remove big-btn light-btn">
+				<span class="screen-reader-text">Close</span>
+			</a>
+			<div class="popup-search-wrap-inner">
+
+				<div class="live-search-parent pop-up-live-search" data-skin="live-search-popup" aria-label="Search">
+
+										<form method="get" class="tie-popup-search-form" action="https://www.ghanaiantimes.com.gh/">
+							<input class="tie-popup-search-input is-ajax-search" inputmode="search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Type and hit Enter" />
+							<button class="tie-popup-search-submit" type="submit">
+								<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+								<span class="screen-reader-text">Search for</span>
+							</button>
+						</form>
+						
+				</div><!-- .pop-up-live-search /-->
+
+			</div><!-- .popup-search-wrap-inner /-->
+		</div><!-- .tie-popup-search-wrap /-->
+				<div id="tie-popup-search-mobile" class="tie-popup tie-popup-search-wrap" style="display: none;">
+			<a href="#" class="tie-btn-close remove big-btn light-btn">
+				<span class="screen-reader-text">Close</span>
+			</a>
+			<div class="popup-search-wrap-inner">
+
+				<div class="live-search-parent pop-up-live-search" data-skin="live-search-popup" aria-label="Search">
+
+										<form method="get" class="tie-popup-search-form" action="https://www.ghanaiantimes.com.gh/">
+							<input class="tie-popup-search-input is-ajax-search" inputmode="search" type="text" name="s" title="Search for" autocomplete="off" placeholder="Search for" />
+							<button class="tie-popup-search-submit" type="submit">
+								<span class="tie-icon-search tie-search-icon" aria-hidden="true"></span>
+								<span class="screen-reader-text">Search for</span>
+							</button>
+						</form>
+						
+				</div><!-- .pop-up-live-search /-->
+
+			</div><!-- .popup-search-wrap-inner /-->
+		</div><!-- .tie-popup-search-wrap /-->
+						<div id="side-stream-container" class="container"></div>
+				<div class="side-stream" id="side-stream-right" style="display:none; z-index:108; position:absolute; text-align:center; top:0px; width:200px; overflow:hidden;"><script type="text/javascript">
+	atOptions = {
+		'key' : '66ecb883e173714c9ec0a9390bc8f50d',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/66ecb883e173714c9ec0a9390bc8f50d/invoke.js"></scr' + 'ipt>');
+</script> </div>
+				<div class="side-stream" id="side-stream-left"  style="display:none; z-index:108; position:absolute; text-align:center; top:0px; width:200px; overflow:hidden;"><script type="text/javascript">
+	atOptions = {
+		'key' : '66ecb883e173714c9ec0a9390bc8f50d',
+		'format' : 'iframe',
+		'height' : 600,
+		'width' : 160,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/66ecb883e173714c9ec0a9390bc8f50d/invoke.js"></scr' + 'ipt>');
+</script> </div>
+			<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.ghanaiantimes.com.gh\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.4' id='contact-form-7-js'></script>
+<script type='text/javascript' id='tie-side-e3lan-js-extra'>
+/* <![CDATA[ */
+var tie_side_e3lan = {"is_boxed":"","screen_width":"1080","side_margin":"15","margin_top":"600","margin_top_scroll":"100","left_ad_code":"<script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '66ecb883e173714c9ec0a9390bc8f50d',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 600,\r\n\t\t'width' : 160,\r\n\t\t'params' : {}\r\n\t};\r\n\tdocument.write('<scr' + 'ipt type=\"text\/javascript\" src=\"\/\/www.highcpmcreativeformat.com\/66ecb883e173714c9ec0a9390bc8f50d\/invoke.js\"><\/scr' + 'ipt>');\r\n<\/script>","left_ad_width":"200","left_ad_height":"","right_ad_code":"<script type=\"text\/javascript\">\r\n\tatOptions = {\r\n\t\t'key' : '66ecb883e173714c9ec0a9390bc8f50d',\r\n\t\t'format' : 'iframe',\r\n\t\t'height' : 600,\r\n\t\t'width' : 160,\r\n\t\t'params' : {}\r\n\t};\r\n\tdocument.write('<scr' + 'ipt type=\"text\/javascript\" src=\"\/\/www.highcpmcreativeformat.com\/66ecb883e173714c9ec0a9390bc8f50d\/invoke.js\"><\/scr' + 'ipt>');\r\n<\/script>","right_ad_width":"200","right_ad_height":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/js/side-e3lan.js?ver=0621ff1d1a7a69c31fa9c0bd192756a5' id='tie-side-e3lan-js'></script>
+<script type='text/javascript' id='tie-scripts-js-extra'>
+/* <![CDATA[ */
+var tie = {"is_rtl":"","ajaxurl":"https:\/\/www.ghanaiantimes.com.gh\/wp-admin\/admin-ajax.php","is_taqyeem_active":"1","is_sticky_video":"","mobile_menu_top":"","mobile_menu_active":"area_2","mobile_menu_parent":"","lightbox_all":"true","lightbox_gallery":"","lightbox_skin":"dark","lightbox_thumb":"vertical","lightbox_arrows":"true","is_singular":"","autoload_posts":"","reading_indicator":"true","lazyload":"true","select_share":"","select_share_twitter":"","select_share_facebook":"","select_share_linkedin":"","select_share_email":"","facebook_app_id":"5303202981","twitter_username":"","responsive_tables":"","ad_blocker_detector":"","sticky_behavior":"upwards","sticky_desktop":"true","sticky_mobile":"","sticky_mobile_behavior":"upwards","ajax_loader":"<div class=\"loader-overlay\"><div class=\"spinner-circle\"><\/div><\/div>","type_to_search":"1","lang_no_results":"Nothing Found","sticky_share_mobile":"true","sticky_share_post":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/js/scripts.min.js?ver=6.3.1' id='tie-scripts-js'></script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/ilightbox/lightbox.js?ver=6.3.1' id='tie-js-ilightbox-js'></script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/js/sliders.min.js?ver=6.3.1' id='tie-js-sliders-js'></script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/js/shortcodes.js?ver=6.3.1' id='tie-js-shortcodes-js'></script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/js/desktop.min.js?ver=6.3.1' id='tie-js-desktop-js'></script>
+<script type='text/javascript' src='https://www.ghanaiantimes.com.gh/wp-content/themes/jannah/assets/js/live-search.js?ver=6.3.1' id='tie-js-livesearch-js'></script>
+		<script type='text/javascript'>
+			!function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
+		</script>
+
+		<script type='text/javascript'>
+			var c = document.body.className;
+			c = c.replace(/tie-no-js/, 'tie-js');
+			document.body.className = c;
+		</script>
+		
+</body>
+</html>
+
+
+<!-- Page supported by LiteSpeed Cache 5.7.0.1 on 2023-12-22 20:07:03 -->

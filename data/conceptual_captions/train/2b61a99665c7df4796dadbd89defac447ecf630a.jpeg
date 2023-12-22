@@ -1,0 +1,206 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Journal</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&amp;display=swap" rel="stylesheet" />
+    <style type="text/css">
+        .page410 {
+            max-width: 1240px;
+            margin: 0 auto;
+            font-family: 'Open Sans', sans-serif !important;
+        }
+        .page410 a {
+            text-decoration: none;
+        }
+        .page410 h2 {
+            font-size: 36px !important;
+            font-weight: normal;
+    
+        }
+        .page410 h5{
+            width: 219px;
+            height: 48px;
+            background: #73a9b8;
+            border-radius: 24px;
+            color:#fff;
+            font-size: 16px !important;
+            line-height: 46px;
+            text-align: center;
+        }
+
+        .page410 h5 a{
+            color:#fff;
+            text-decoration: none;
+        }
+
+        .page410 p {
+            color:#000;
+            font-size: 20px  !important;
+            line-height: 28px;
+        }
+
+        .page410 p a{
+            color:#000;
+            text-decoration: underline;
+            font-weight:bold;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            width: 100%;
+        }
+        
+        .header {
+            display: flex;
+            flex-wrap: nowrap;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #fff;
+            width: 100%;
+            min-height:84px;
+          
+        }
+        .header1 {
+          max-width:416px;
+       }
+
+        .header1 img {
+          max-height: 80px;
+        }
+
+        .header2 {
+            max-width:200px;
+            margin-right:20px;
+            min-width: 80px; 
+            display: flex;
+        }
+        
+        .header2 div {
+            margin: 0 5px;
+            width:32px;
+        }
+       
+        .mainbox {
+            display: flex;
+            justify-content: normal;
+            align-items: center;
+            width:100%;
+            margin: 0 ;
+        }
+        .message{
+            width: 50%;
+            padding: 0 40px;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .message p {
+            margin-bottom: 20px;
+        }
+
+        .mainpic {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            flex-basis: 50%;
+            margin: 0 ;
+        }
+
+        .mainpic div {
+            width: 100%;
+        }
+        .footer {
+           width: 100%;
+           display: flex;
+           flex-wrap: nowrap;
+           align-items: center;
+           background-color: #e0e0e0;
+           min-height:80px;
+        }
+
+        .footer .copyright {
+            color: #666;
+            font-family: 'Open Sans', sans-serif !important;
+            font-size: 12px;
+            font-weight: normal;
+            height: 17px;
+            width: 33%;
+            padding: 0 40px;
+        }
+
+        .footer .follow {
+            color: #141414;
+            font-family: 'Open Sans', sans-serif !important;
+            font-size: 12px;
+            font-weight: bold;
+            height: 17px;
+            letter-spacing: 1px;
+            text-align: right;
+            text-transform: uppercase;
+            width: 200px;
+        }
+
+        .footer .socialmedia {
+            margin-left:10px;
+        } 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    
+    .header {
+        height: 80px;
+    }
+       
+</style>
+
+</head>
+<body>
+
+    <div class="page410">
+        <div class="container">
+        
+        <!-- site header -->  
+            <div class="header">
+                <div class="header1">
+                  <a href="https://www.chroniclelive.co.uk/"><img src="https://s3.mirror.co.uk/static-pages/logo-journal.png" /> </a>
+                </div>
+                <div class="header2">
+                    <div class="facebook410"><a href="https://www.facebook.com/NewcastleChronicle"><img src="https://s3.mirror.co.uk/static-pages/facebook_journal.png" /></a></div><div class="twitter410"><a href="https://twitter.com/ChronicleLive"><img src="https://s3.mirror.co.uk/static-pages/twitter_journal.png?sadf=" /></a></div>
+                </div>
+            </div>
+            
+        <!-- End site  header --> 
+
+        
+        <!-- main box -->
+            <div class="mainbox">
+                <div class="message">
+                    <h2>Oops! What you’re looking for no longer exists…</h2>
+                    <p>We have closed The Journal but we’re still here for you. You can now find all the local news coverage on <a href="https://www.chroniclelive.co.uk/">Chronicle Live.</a></p>
+                    <p>Join us there!</p>
+                    <h5><a href="https://www.chroniclelive.co.uk/">Go to Chronicle Live</a></h5>
+                </div>
+                
+                <div class="mainpic">
+                   <div>
+                        <img src="https://s3.mirror.co.uk/static-pages/main_journal.png" />
+                    </div>
+                </div>
+               
+                
+            </div>
+             <!-- end of  main box -->
+ 
+             <div class="footer">
+                <div class="copyright">&copy; 2020 a Reach plc subsidiary</div>
+                <div class="follow">Follow Chronicle Live</div>
+                <div class="socialmedia"><a href="https://www.facebook.com/NewcastleChronicle"><img src="https://s3.mirror.co.uk/static-pages/facebook.png" /></a> <a href="https://twitter.com/ChronicleLive"><img src="https://s3.mirror.co.uk/static-pages/twitter.png" /></a></div>
+             </div>
+        </div>
+    </div>
+
+</body>
+</html>
+

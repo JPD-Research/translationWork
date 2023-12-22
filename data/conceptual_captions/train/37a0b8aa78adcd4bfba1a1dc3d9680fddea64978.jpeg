@@ -1,0 +1,1872 @@
+<!DOCTYPE html>
+
+<!--[if IE]><![endif]-->
+
+<!--[if IE 8 ]><html dir="ltr" lang="el" class="ie8"><![endif]-->
+
+<!--[if IE 9 ]><html dir="ltr" lang="el" class="ie9"><![endif]-->
+
+<!--[if (gt IE 9)|!(IE)]><!-->
+
+<html dir="ltr" lang="el">
+
+<!--<![endif]-->
+
+<head>
+
+                    <!-- Google Marketing Tools Opencart - https://devmanextensions.com -->
+                        <script>
+                            //Google Marketing Tools https://devmanextensions.com/ - Declare basic variables 
+                            var dataLayer = [];
+					        var gmt_ajax_link_data = 'https://www.petridisflowers.com/index.php?route=extension/module/gmt_datalayer/setup&v=74b04422-d9a4-4807-9b89-06227ca8c961';
+					        var eeMultiChanelVisitProductPageStep = 1;
+                            var eeMultiChanelAddToCartStep = 2;
+                            var eeMultiChanelVisitCartPageStep = 3;
+                            var eeMultiChanelVisitCheckoutStep = 4;
+                            var eeMultiChanelFinishOrderStep = 5;
+                            var productHrefs = [];
+                            var promotionHrefs = [];
+                     </script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+					new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+					})(window,document,'script','dataLayer','GTM-PPK62LS');</script>
+<script> var datalayer_data = {"general_data":{"current_view":"404.shtml","current_list":"404.shtml","current_currency":"EUR","current_categories":[],"store_name":"\u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae \u039b\u03bf\u03c5\u03bb\u03bf\u03c5\u03b4\u03b9\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u0391\u03b8\u03ae\u03bd\u03b1 | Petridis Flowers","userId":0,"string_searched":"","cart_products":[],"debug_enabled":false}}; </script>
+<script> var fb_api_track_info = {"event_name":"PageView","currency":"EUR","value":"0.00","event_source_url":"https:\/\/www.petridisflowers.com\/image\/cache\/data\/Flowers\/vazo-me-krinoes-kai-mikro-arkoethaki-102-500x500.jpg"}; </script>                    <!-- Google Marketing Tools Opencart - https://devmanextensions.com -->
+                
+
+<meta charset="UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Η αιτούμενη σελίδα, δε βρέθηκε!</title>
+
+<base href="https://www.petridisflowers.com/" />
+
+
+
+<meta name="google-site-verification" content="Gm-HNsbcn7KqksxtLpa1Vlbi0wK4Dy0VCuGYjEJ_dMA" />
+
+
+
+<script src="catalog/view/javascript/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+
+<link href="catalog/view/theme/organ2/stylesheet/bootstrap.min.css" rel="stylesheet" media="screen" />
+
+<script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+
+<link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/organ2/stylesheet/font-awesome.css" media="all">
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/organ2/stylesheet/simple-line-icons.css" media="all">
+
+<link rel="stylesheet" href="catalog/view/theme/organ2/stylesheet/owl.carousel.css" type="text/css">
+
+<link rel="stylesheet" href="catalog/view/theme/organ2/stylesheet/owl.theme.css" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/organ2/stylesheet/jquery.bxslider.css" >
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/organ2/stylesheet/jquery.mobile-menu.css" >
+
+
+
+<link href="catalog/view/javascript/owlcarousel/css/owl.carousel.min.css" rel="stylesheet" type="text/css" />
+
+<link href="catalog/view/javascript/owlcarousel/css/owl.theme.default.min.css" rel="stylesheet" type="text/css" />
+
+<link href="catalog/view/javascript/owlcarousel/js/owl.carousel.js" rel="stylesheet" type="text/css" />
+
+   
+
+
+
+
+
+
+<link href="catalog/view/theme/default/stylesheet/isearch.css" type="text/css" rel="stylesheet" media="screen" />
+
+
+<link href="catalog/view/javascript/isenselabs_gdpr/cookieconsent.min.css" type="text/css" rel="stylesheet" media="screen" />
+
+
+
+
+<link href="catalog/view/theme/organ2/stylesheet/stylesheet.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/organ2/stylesheet/style.css" media="all">
+
+
+
+<!-- Google Fonts -->
+
+<link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i|Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=greek" rel="stylesheet">
+
+
+
+
+
+
+<script type="text/javascript" src="catalog/view/theme/organ2/js/common.js"></script>
+
+<script type="text/javascript" src="catalog/view/theme/organ2/js/common1.js"></script>
+
+<script src="catalog/view/javascript/jquery/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="catalog/view/theme/organ2/js/jquery.mobile-menu.min.js"></script>
+
+<script type="text/javascript" src="catalog/view/theme/organ2/js/jquery.countdown.min.js"></script>
+
+
+
+
+<link href="https://www.petridisflowers.com/image/catalog/favicon.png" rel="icon" />
+
+
+
+<script src="catalog/view/javascript/isearch.js" type="text/javascript"></script>
+
+
+<script src="catalog/view/javascript/devmanextensions_gmt/data_layer_events.js" type="text/javascript"></script>
+
+
+<script src="catalog/view/javascript/isenselabs_gdpr/cookiemanager.js" type="text/javascript"></script>
+
+
+<script src="catalog/view/javascript/isenselabs_gdpr/cookieconsent.min.js" type="text/javascript"></script>
+
+
+
+
+
+<style type="text/css">
+
+
+
+
+
+
+/* sale label */
+
+.sale-label {
+
+background:  #
+}
+
+
+
+/*Main color section */
+
+
+
+
+
+
+
+
+
+/* header color section */
+
+
+
+
+
+
+
+/*Top Menu */
+
+/*background*/
+
+
+/*main menu links*/
+
+
+/*main menu link hover*/
+
+
+
+/*sub links hover*/
+
+
+
+
+/*buttons*/
+
+
+
+
+
+
+
+/*price*/
+
+
+
+
+
+
+/*footer*/
+
+
+
+
+
+</style>
+
+<link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+
+
+
+
+
+<script>
+
+$( document ).ready(function() {
+
+    $('.item-nav').first().click()
+
+    
+
+            $('.fadeOut').owlCarousel({
+
+              items: 5,
+
+              animateOut: 'fadeOut',
+
+              loop: true,
+
+              margin: 10,
+
+              nav: true,
+
+              navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"]
+
+
+
+            });
+
+            $('.fadeOut').owlCarousel({
+
+              animateOut: 'slideOutDown',
+
+              animateIn: 'flipInX',
+
+              items: 1,
+
+              margin: 30,
+
+              stagePadding: 30,
+
+              smartSpeed: 450,
+
+              nav: true,
+
+              navText : ["<i class='fa fa-chevron-left'></i>","<i class='fa fa-chevron-right'></i>"]
+
+
+
+            });
+
+            
+
+           jQuery("li.tab-nav-actived").addClass('thm-producttabs_active')
+
+           
+
+           $('.pdt-nav li').on('click', function(){
+
+               $(this).addClass('thm-producttabs_active')
+
+               $(this).siblings().removeClass('thm-producttabs_active')
+
+           })
+
+
+
+
+
+
+
+
+
+            $(window).on('scroll', function () {
+
+                var string = $('body').attr('class')
+
+                var txt = 'category'
+
+                
+
+                // console.log(string.includes(txt))
+
+                
+
+                if(string.includes(txt)){
+
+                  var $w = $(window);
+
+                  
+
+                  if($w.scrollTop()>=250){
+
+                      $('#column-left').hide()
+
+                      
+
+                      $('#content').removeClass('col-sm-9')
+
+                      $('#content').removeClass('col-sm-push-3')
+
+                      $('#content').addClass('col-sm-12')
+
+                  }else{
+
+                      
+
+                      $('#content').addClass('col-sm-9')
+
+                      $('#content').addClass('col-sm-push-3')
+
+                      $('#content').removeClass('col-sm-12')
+
+    
+
+                      $('#column-left').show()
+
+                  }
+
+                    
+
+                }
+
+                
+
+
+
+
+
+            
+
+            });
+
+            
+
+            $("#thm_producttabs1 .item").removeClass("wide-first")
+
+            $("#thm_producttabs1 .item").removeClass("last")
+
+            
+
+            function chnagePosition(){
+
+                if($('.pro_row').hasClass('products-list')){
+
+                    $('#content .ratings').css('margin-left', '31%')
+
+                    $('.desc p').css('margin-left', '32%')
+
+                }else{
+
+                    $('#content .ratings').removeAttr('style')
+
+                }
+
+
+
+            }
+
+            
+
+            
+
+            chnagePosition();
+
+            
+
+            $('.view-mode button').on('click', function(){
+
+                chnagePosition();
+
+            })
+
+            
+
+            
+
+           
+
+
+
+
+
+});
+
+
+
+
+
+
+
+</script>
+
+
+
+
+        	<!--Cookie Consent Bar by iSenseLabs GDPR Extension-->
+	<script>
+		var analytics_cookies_disable = '_ga,_gid,_gat,__atuvc,__atuvs,__utma,__cfduid';
+		var marketing_cookies_disable = '_gads,IDE,test_cookie,fr,tr,collect,GPS,PREF,BizoID';
+		var disabled_cookie_sets = '';
+		var url_variations = JSON.parse('[".www.petridisflowers.com",".petridisflowers.com"]');
+		var disable_marketing = false;
+		var disable_analytics = false;
+		var disable_functional = false;
+		
+		$(document).ready(function() {
+			function maintainCookies() {
+				if (disabled_cookie_sets.indexOf('marketing') >= 0) disable_marketing = true;
+				if (disabled_cookie_sets.indexOf('analytics') >= 0) disable_analytics = true;
+				$.each(Cookies.get(), function(i, item) {
+					if (disable_analytics && (analytics_cookies_disable.indexOf(i) >= 0)) {
+						$.each(url_variations, function(ai, asite) {
+							clearCookie(i,asite,'/');
+						});
+					}
+					if (disable_marketing && (marketing_cookies_disable.indexOf(i) >= 0)) {
+						$.each(url_variations, function(mi, msite) {
+							clearCookie(i,msite,'/');
+						});
+					}
+				});
+				return true;
+			}
+			maintainCookies();
+		});
+	</script>
+	
+	<script>
+		window.addEventListener("load", function(){
+			window.cookieconsent.initialise({
+			  			  			  "palette": {
+				"popup": {
+				  "background": "#000000",
+				  "text": "#ffffff"
+				},
+				"button": {
+				  "background": "#9bba3b",
+				  "text": "#000000"
+				}
+			  },
+			  "type": "opt-in",
+			  			  "content": {
+				"message": "Αυτός ο ιστότοπος χρησιμοποιεί cookies για να έχετε την καλύτερη εμπειρία περιήγησης.",
+				"cookie_preferences" : '',
+				"allow": "Αποδέχομαι",
+				"dismiss": "Κλείσιμο",
+				"settings": "Ρυθμίσεις",
+								"link": "Πολιτική Απορρήτου",
+				"href": "https://www.petridisflowers.com/privacy-and-policy"
+							  }
+			})
+			
+			var html_cookie_settings = '<br /><div id="cookieconsent:settings" class="cc-settings-view"><div class="cc-settings-dialog"><span class="cookie_settings_header">Επιλέξτε τύπο cookie που αποδέχεστε τη χρήση του</span><br /><br /><label><input type="checkbox" checked="checked" disabled="disabled" value="functional" /> Αυστηρά απαιτούμενα cookies</label><br />Αυτά τα cookies απαιτούνται για την εκτέλεση του ιστότοπου και δεν μπορούν να απενεργοποιηθούν. Αυτά τα cookie ορίζονται μόνο ως απάντηση σε ενέργειες που πραγματοποιήθηκαν από εσάς, όπως γλώσσα, νόμισμα, περίοδο σύνδεσης, προτιμήσεις απορρήτου. Μπορείτε να ρυθμίσετε το πρόγραμμα περιήγησής σας να αποκλείει αυτά τα cookies, αλλά ο ιστότοπός μας ενδέχεται να μην λειτουργεί στη συνέχεια.<br /><br /><label><input type="checkbox" checked="checked" name="cookie_isl_analytics" value="analytics" /> Analytics και στατιστικά στοιχεία</label><br />Αυτά τα cookies μας επιτρέπουν να μετράμε την επισκεψιμότητα επισκεπτών και να βλέπουμε τις πηγές επισκεψιμότητας συλλέγοντας πληροφορίες σε σύνολα δεδομένων. Επίσης, μας βοηθούν να κατανοήσουμε ποια προϊόντα και ενέργειες είναι πιο δημοφιλή από άλλα.<br /><br /><label><input type="checkbox" checked="checked" name="cookie_isl_marketing" value="marketing" /> Marketing and Retargeting</label><br />Αυτά τα cookies καθορίζονται συνήθως από τους συνεργάτες μάρκετινγκ και διαφήμισης. Μπορούν να χρησιμοποιηθούν από αυτούς για να δημιουργήσουν ένα προφίλ που σας ενδιαφέρει και αργότερα να σας δείξει σχετικές διαφημίσεις. Εάν δεν επιτρέψετε αυτά τα cookies, δεν θα δοκιμάσετε στοχευμένες διαφημίσεις για τα ενδιαφέροντά σας.<br /><br /><div class="cc-compliance cc-highlight"><a class="cc-btn cc-btn-close-settings">Κλείσε</a>&nbsp;&nbsp;<a class="cc-btn cc-btn-save-settings">Αποθήκευση αλλαγών</a></div></div></div>';
+			$('body').append(html_cookie_settings);
+		});
+
+	</script>
+	
+	<script>
+		$(document).ready(function() {
+						$('body').delegate('a.cc-btn.cc-allow', 'click', function(e) {
+				$.get('https://www.petridisflowers.com/index.php?route=extension/module/isenselabs_gdpr/accept_pp_from_ccb');
+			});
+			 
+			$('body').delegate('a.cc-btn.cc-dismiss', 'click', function(e) {
+									var cookie_text = 'analytics,marketing';
+					Cookies.set('cookieconsent_preferences_disabled', cookie_text, { expires: 365 });			
+							});
+			
+			$('body').delegate('a.cc-btn-close-settings', 'click', function(e) {
+				$('.cc-settings-view').fadeOut(100);
+			});
+			$('body').delegate('a.cc-btn-save-settings', 'click', function(e) {
+				var cookie_text = '';
+				if ($('input[name="cookie_isl_analytics"]:checked').length == 0) {
+					cookie_text += 'analytics,';
+				}
+				if ($('input[name="cookie_isl_marketing"]:checked').length == 0) {
+					cookie_text += 'marketing,';
+				}
+				Cookies.set('cookieconsent_preferences_disabled', cookie_text, { expires: 365 });
+				$('.cc-settings-view').fadeToggle(100);
+			});
+		});
+	</script>
+	
+        
+
+        <script type="text/javascript">
+          function facebook_loadScript(url, callback) {
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            if(script.readyState) {  // only required for IE <9
+              script.onreadystatechange = function() {
+                if (script.readyState === "loaded" || script.readyState === "complete") {
+                  script.onreadystatechange = null;
+                  if (callback) {
+                    callback();
+                  }
+                }
+              };
+            } else {  //Others
+              if (callback) {
+                script.onload = callback;
+              }
+            }
+
+            script.src = url;
+            document.getElementsByTagName("head")[0].appendChild(script);
+          }
+        </script>
+
+        <script type="text/javascript">
+          (function() {
+            var enableCookieBar = '';
+            if (enableCookieBar === 'true') {
+              facebook_loadScript("catalog/view/javascript/facebook/cookieconsent.min.js");
+
+              // loading the css file
+              var css = document.createElement("link");
+              css.setAttribute("rel", "stylesheet");
+              css.setAttribute("type", "text/css");
+              css.setAttribute(
+                "href",
+                "catalog/view/theme/css/facebook/cookieconsent.min.css");
+              document.getElementsByTagName("head")[0].appendChild(css);
+
+              window.addEventListener("load", function(){
+                function setConsent() {
+                  fbq(
+                    'consent',
+                    this.hasConsented() ? 'grant' : 'revoke'
+                  );
+                }
+                window.cookieconsent.initialise({
+                  palette: {
+                    popup: {
+                      background: '#237afc'
+                    },
+                    button: {
+                      background: '#fff',
+                      text: '#237afc'
+                    }
+                  },
+                  cookie: {
+                    name: fbq.consentCookieName
+                  },
+                  type: 'opt-out',
+                  showLink: false,
+                  content: {
+                    dismiss: 'Agree',
+                    deny: 'Opt Out',
+                    header: 'Our Site Uses Cookies',
+                    message: 'By clicking Agree, you agree to our <a class="cc-link" href="https://www.facebook.com/legal/terms/update" target="_blank">terms of service</a>, <a class="cc-link" href="https://www.facebook.com/policies/" target="_blank">privacy policy</a> and <a class="cc-link" href="https://www.facebook.com/policies/cookies/" target="_blank">cookies policy</a>.'
+                  },
+                  layout: 'basic-header',
+                  location: true,
+                  revokable: true,
+                  onInitialise: setConsent,
+                  onStatusChange: setConsent,
+                  onRevokeChoice: setConsent
+                }, function (popup) {
+                  // If this isn't open, we know that we can use cookies.
+                  if (!popup.getStatus() && !popup.options.enabled) {
+                    popup.setStatus(cookieconsent.status.dismiss);
+                  }
+                });
+              });
+            }
+          })();
+        </script>
+
+        <script type="text/javascript">
+          (function() {
+            !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+            var enableCookieBar = '';
+            if (enableCookieBar === 'true') {
+              fbq.consentCookieName = 'fb_cookieconsent_status';
+
+              (function() {
+                function getCookie(t){var i=("; "+document.cookie).split("; "+t+"=");if(2==i.length)return i.pop().split(";").shift()}
+                var consentValue = getCookie(fbq.consentCookieName);
+                fbq('consent', consentValue === 'dismiss' ? 'grant' : 'revoke');
+              })();
+            }
+
+                      })();
+        </script>
+      
+<script type="text/javascript"></script>
+</head>
+
+<body class="error-not_found inner-page cms-index-index">
+
+                    <!-- Google Marketing Tools Opencart - https://devmanextensions.com -->
+                        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PPK62LS"
+					height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>                    <!-- Google Marketing Tools Opencart - https://devmanextensions.com -->
+                
+
+<div class="espa">
+
+  <img src="catalog/view/theme/organ2/image/espa-logo.jpg" alt="banner" />
+
+</div>
+
+<div id="page">
+
+<header>
+
+<div class="header-container">
+
+      <div class="header-top">
+
+       <div class="container">
+
+            <div class="row">
+
+
+
+               <div class="col-xs-7 col-sm-5">
+
+                        
+  <div class="dropdown block-language-wrapper">
+
+    <form action="https://www.petridisflowers.com/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="language">
+
+
+
+
+
+                      
+                      
+          <a href="#" title="Greek" class="block-language dropdown-toggle" data-target="#" data-toggle="dropdown" role="button"> <img alt="Greek" src="catalog/language/el-gr/el-gr.png"> Greek <span class="caret"></span> </a>
+
+        
+      
+
+
+      <ul class="dropdown-menu">
+
+        
+          <li>
+
+            <a href="en-gb"><img src="catalog/language/en-gb/en-gb.png" alt="English" title="English" /> English</a>
+
+          </li>
+
+        
+          <li>
+
+            <a href="el-gr"><img src="catalog/language/el-gr/el-gr.png" alt="Greek" title="Greek" /> Greek</a>
+
+          </li>
+
+        
+      </ul>
+
+
+
+
+			<input type="hidden" name="route" value="error/not_found" />
+			<input type="hidden" name="url" value="" />
+			
+      <input type="hidden" name="code" value="" />
+
+      <input type="hidden" name="redirect" value="https://www.petridisflowers.com/index.php?route=error/not_found" />
+
+    </form>
+
+  </div>
+
+
+                        
+                        <div class="welcome-msg">
+
+                         
+                          <p>Καλωσήρθατε επισκέπτη!</p>
+
+                          
+                        </div>
+
+                        <div class="contactTel">Τηλ. Παραγγελίες: <span>210 7709620</span></div>
+
+              </div>
+
+
+
+           <div class="col-xs-5 col-sm-7">
+
+
+
+	       <div class="top-cart-contain  pull-right">
+
+                <!-- Top Cart -->
+
+                <div class="mini-cart">
+
+                 <div id="cart">
+  <div data-hover="dropdown" class="basket dropdown-toggle"> <a href="https://www.petridisflowers.com/index.php?route=checkout/cart"> Καλάθι <span class="cart_count">0</span> </a> </div>  
+  <input id="cart-txt-heading" type="hidden" name="cart-txt-heading" value="Καλάθι ">
+  <ul class="dropdown-menu pull-right top-cart-content arrow_box">
+        <li>
+      <p class="text-center noitem">Το καλάθι αγορών είναι άδειο!</p>
+    </li>
+      </ul>
+</div>
+
+                </div>
+
+                <!-- Top Cart -->
+
+                <div id="ajaxconfig_info" style="display:none"><a href="#/" title="ajax"></a>
+
+                  <input value="" type="hidden">
+
+                  <input id="enable_module" value="1" type="hidden">
+
+                  <input class="effect_to_cart" value="1" type="hidden">
+
+                  <input class="title_shopping_cart" value="Go to shopping cart" type="hidden">
+
+                </div>
+
+               </div>
+
+
+
+               <!-- search col -->
+
+               <div class="top-search">
+
+                  <!--input type="text" name="search" value="Αναζήτηση" class="searchbox" id="search" autocomplete="off" onfocus="this.value=''"/>
+  <button id="submit-button-search-header" type="button" class="search-btn-bg"><span class="glyphicon glyphicon-search"></span></button>
+   <div class="search-autocomplete" id="search_autocomplete" style="display: none;"></div-->
+
+<div class="block-icon pull-right"> <a data-target=".bs-example-modal-lg" data-toggle="modal" class="search-focus dropdown-toggle links"> <em class="fa fa-search"></em> </a>
+  <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button aria-label="Close" data-dismiss="modal" class="close" type="button"><img src="catalog/view/theme/organ1/image/f-box-close-icon.png" alt="close"> </button>
+        </div>
+        <div class="modal-body">
+          <form class="navbar-form">
+            <div id="search">
+              <div class="input-group">
+                <label for="search-text" class="search-label" style="font-size: 0;">Search</label>
+                <input name="search" id="search-text" value=" " placeholder="Search" class="form-control" type="text">
+                <button type="button" class="btn-search"><em class="fa fa-search"></em></button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+               </div>
+
+              <!-- search col -->
+
+
+
+               <div class="toplinks">
+
+                <div class="links">
+
+                      <div class="myaccount"><a href="https://www.petridisflowers.com/index.php?route=account/account" title="Ο Λογαριασμός μου"><span class="hidden-xs">Ο Λογαριασμός μου</span></a></div>
+
+                      <div class="check"><a href="https://www.petridisflowers.com/index.php?route=checkout/checkout" title="Ολοκλήρωση αγοράς"><span class="hidden-xs">Ολοκλήρωση αγοράς</span></a></div>
+
+                       
+                      <div class="demo"> <a title="Blog" href="https://www.petridisflowers.com/index.php?route=thmsoftblog/article"><span class="hidden-xs">Blog</span></a></div>
+                      <div class="login">  
+                      <a href="https://www.petridisflowers.com/index.php?route=account/login"><span class="hidden-xs">Σύνδεση Λογαριασμού</span></a>
+
+
+
+                      </div>
+
+                </div>
+
+               </div>
+
+              </div>
+
+
+
+    </div>
+
+    </div>
+
+    </div><!-- end header top -->
+
+
+
+  </div><!-- end header cointainer -->
+
+
+
+
+
+
+  <nav>
+
+<div class="container">
+
+
+
+  <!-- Header Logo -->
+
+  
+      <div  class="logo"> 
+         
+        <a href="https://www.petridisflowers.com/" title="Petridis Flowers">
+
+          <img src="https://www.petridisflowers.com/image/catalog/logo-2.png" title="Petridis Flowers" alt="Petridis Flowers"/>
+       
+        </a></div>
+        
+
+  
+
+
+<div class="mm-toggle-wrap">
+
+  <div class="mm-toggle"><em class="fa fa-align-justify"></em><span class="mm-label">ΜΕΝΟΥ</span> </div>
+
+</div>
+
+<!-- <div class="nav-inner"> -->
+
+
+   
+   <ul class="hidden-xs menu-item menu-item-left" id="nav-left">
+
+   
+
+
+    
+    <li id="nav-home" class="level0 parent drop-menu"> <a class="level-top" href="https://www.petridisflowers.com/"> <span>Αρχική</span> </a>
+
+    </li>
+    
+    <li  class="mega-menu">
+
+      <a href="https://www.petridisflowers.com/Forever-Roses" class="level-top">
+
+      <span>Forever Roses</span>
+
+      </a>
+
+      
+      
+    </li>
+
+    
+    <li  class="mega-menu">
+
+      <a href="https://www.petridisflowers.com/index.php?route=product/category&amp;path=134" class="level-top">
+
+      <span>Flowers-in-a-box</span>
+
+      </a>
+
+      
+      
+    </li>
+
+    
+      </ul>
+
+      
+      <ul class="hidden-xs menu-item menu-item-right" id="nav-right-1">
+
+      
+    <li  class="mega-menu">
+
+      <a href="https://www.petridisflowers.com/occassions" class="level-top">
+
+      <span>Ανα Περίσταση</span>
+
+      </a>
+
+      
+      
+      <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">
+
+        <div class="container">
+
+      <div class="level0-wrapper2">
+
+
+
+
+
+        
+
+
+
+
+         
+
+
+           <!-- top Menu images -->
+
+          
+
+
+          <div class="">
+
+
+
+           <!-- left Menu images -->
+
+              
+
+
+
+
+          <div class="">
+
+
+
+ <ul class="level0">
+
+           
+
+
+             
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Just-Because"><span>Just Because</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/all-occassions-love-and-romance"><span>Love &amp; Romance</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Birthday"><span>Γενέθλια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+
+
+
+              
+
+
+             
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Thank-you"><span>Ευχαριστήρια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/occasions-christmas"><span>Χριστούγεννα</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-New-Baby"><span>Γέννηση,λουλούδια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+
+
+
+              
+
+
+             
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Anniversary"><span>Επέτειος Γάμου</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Get Well"><span>Ανάρρωση</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Sympathy"><span>Συλλυπητήρια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+
+
+
+              
+
+
+             
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Business"><span>Επιχειρηματικά Δώρα</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/Occassions-Congratulations"><span>Συγχαρητήρια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/occassions/occassions-name-day"><span>Ονομαστική Εορτή</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+
+
+
+              
+              </ul>
+
+
+
+          </div><!-- level -->
+
+
+
+           <!-- bottom Menu images -->
+
+          
+
+
+
+
+
+
+        </div> <!--nav-block nav-block-center-->
+
+
+
+        <!-- Right Menu images -->
+
+          
+
+
+
+
+
+
+      </div>  <!-- level0-wrapper2 -->
+
+    </div><!-- container -->
+
+
+
+
+
+      </div>
+
+      
+    </li>
+
+    
+    <li  class="mega-menu">
+
+      <a href="https://www.petridisflowers.com/Βirthday" class="level-top">
+
+      <span>Γενέθλια</span>
+
+      </a>
+
+      
+      
+      <div class="level0-wrapper dropdown-6col" style="left: 0px; display: none;">
+
+        <div class="container">
+
+      <div class="level0-wrapper2">
+
+
+
+
+
+        
+
+
+
+
+         
+
+
+           <!-- top Menu images -->
+
+          
+
+
+          <div class="">
+
+
+
+           <!-- left Menu images -->
+
+              
+
+
+
+
+          <div class="">
+
+
+
+ <ul class="level0">
+
+           
+
+
+             
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday-Bouquets"><span>Μπουκέτα Λουλουδιών</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday-Roses"><span>Τριαντάφυλλα για Γενέθλια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday-Best-Sellers"><span>Best Sellers</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday/flowers-arrangements"><span>Συνθέσεις Λουλουδιών</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday/Flowers"><span>Λουλούδια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday/Plants"><span>Φυτά για Γενέθλια</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+              <li class="level1 nav-6-1 parent item">
+
+                 
+
+
+              <a href="https://www.petridisflowers.com/Βirthday/Birthday-Flower-Gifts"><span>Λουλούδια &amp; Δώρα</span></a>
+
+              
+
+
+
+
+              </li>
+
+              
+              
+              
+
+
+
+              
+              </ul>
+
+
+
+          </div><!-- level -->
+
+
+
+           <!-- bottom Menu images -->
+
+          
+
+
+
+
+
+
+        </div> <!--nav-block nav-block-center-->
+
+
+
+        <!-- Right Menu images -->
+
+          
+
+
+
+
+
+
+      </div>  <!-- level0-wrapper2 -->
+
+    </div><!-- container -->
+
+
+
+
+
+      </div>
+
+      
+    </li>
+
+    
+    <li  class="mega-menu">
+
+      <a href="https://www.petridisflowers.com/plants-bonsai" class="level-top">
+
+      <span>Μπονσάι</span>
+
+      </a>
+
+      
+      
+    </li>
+
+    
+      </ul>
+
+      
+      <ul class="hidden-xs menu-item menu-item-right" id="nav-right-2">
+
+      
+    <!-- Custom menu -->
+
+    
+    <!-- </ul> -->
+
+
+
+<!-- </div> --><!-- nav-inner -->
+
+</div>
+
+
+
+</nav>
+
+
+
+</header>
+
+
+
+<div class="main-container col2-right-layout">
+<div class="main container">
+  <div class="row">                <div id="content" class="col-sm-12">
+<style type="text/css">
+.iSearchBox li .iMarq {
+    background-color:#9bba3b;    
+}
+.iSearchBoxWrapper .iSearchBox {
+    width: 100%;    
+}
+
+    .iSearchBox li .iSearchModel {
+        display:none;    
+    }
+    .iSearchBox li h3 {
+        width:42%;    
+    }
+.iSearchBox li h3 {
+    font-weight:bold;    
+}
+</style>
+
+<style type="text/css">
+    .iSearchBox li:hover h3 {
+ color: #000;
+}</style>
+
+<script type="text/javascript">
+    var ocVersion = "2.3.0.2";
+    var moreResultsText = 'Προβολή όλων των αποτελεσμάτων';
+    var noResultsText = 'Δεν βρέθηκαν αποτελέσματα';
+    //var SCWords = $.parseJSON('[{"incorrect":"cnema","correct":"cinema"}]');
+    //var spellCheckSystem = 'no';
+    var useAJAX = 'yes';
+    var loadImagesOnInstantSearch = 'yes';
+    var useStrictSearch = 'no';
+    var responsiveDesign = 'no';
+    var afterHittingEnter = 'isearchengine2000';
+    var productHeadingInstant = 'Κορυφαία αποτελέσματα του προϊόντος';
+    var suggestionHeadingInstant = 'Προτάσεις όρων αναζήτησης';
+    var searchInModel = 'yes';
+    var searchInDescription = true;
+    var productsData = [];
+    var iSearchResultsLimit = '5';
+    var isearch_module_path = 'extension/module/isearch';
+</script>
+     
+      <section class="content-wrapper bounceInUp animated">
+        <div class="container">
+          <div class="std">
+            <div class="page-not-found">
+              <h2></h2>
+              <h3>Ωχ! Η σελίδα που ζητήσατε δεν βρέθηκε!</h3>
+              <div><a onclick="window.location='https://www.petridisflowers.com/index.php?route=common/home';" class="btn-home"><span>Μετάβαση στην Αρχική</span></a></div>
+            </div>
+          </div>
+        </div>
+      </section>
+          </div>
+    </div>
+</div>
+
+<div class="our-features-box">
+  <div class="container">
+    <ul>
+      <li>
+        <div class="feature-box red_bg"> <span class="fa fa-truck"></span>
+          <div class="content">
+            <h3>ΔΩΡΕΑΝ ΑΠΟΣΤΟΛΗ ΓΙΑ ΠΑΡΑΓΓΕΛΙΕΣ ΑΝΩ ΤΩΝ 60€</h3>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="feature-box yellow_bg"> <span class="icon-screen-smartphone"></span>
+          <div class="content">
+            <h3>ΤΗΛΕΦΩΝΙΚΕΣ ΠΑΡΑΓΓΕΛΙΕΣ: +30 210 7793447</h3>
+          </div>
+        </div>
+      </li>
+      <li class="last">
+        <div class="feature-box brown_bg"> <span class="icon-credit-card"></span>
+          <div class="content">
+            <h3>VISA/MASTERCARD, PAYPAL, ΤΡΑΠΕΖΙΚΟ ΕΜΒΑΣΜΑ</h3>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<footer>
+  <div class="footer-inner">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-xs-12 col-lg-8">
+          <div class="footer-column pull-left">
+            <h4>Εξυπηρέτηση Πελατών</h4>
+            <ul class="links">
+              <li class="first"><a href="https://www.petridisflowers.com/index.php?route=information/contact">Επικοινωνήστε μαζί μας</a></li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=account/return/add">Επιστροφές</a></li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=account/wishlist">Λίστα Αγαπημένων</a></li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=account/order">Ιστορικό Παραγγελιών</a></li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=information/sitemap">Χάρτης Ιστότοπου</a></li><li><a href="https://www.petridisflowers.com/index.php?route=thmsofttestimonial/thmsofttestimonial">Testimonials</a></li>
+              <li class="last"><a href="https://www.petridisflowers.com/index.php?route=account/account" title="Ο Λογαριασμός μου">Ο Λογαριασμός μου</a></li>
+            </ul>
+          </div>
+          <div class="footer-column pull-left">
+            <h4>Περισσότερα</h4>
+            <ul class="links">
+              <li class="first"><a href="https://www.petridisflowers.com/index.php?route=product/manufacturer">Ευρετήριο Κατασκευαστών</a></li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=account/voucher">Αγορά Δωροεπιταγής</a></li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=affiliate/account">Πρόγραμμα Συνεργατών</a></li>
+                              <li><a href="https://www.petridisflowers.com/index.php?route=thmsoftblog/article">Blog</a></li>
+                            <li><a href="https://www.petridisflowers.com/index.php?route=account/order">Ιστορικό Παραγγελιών</a></li>
+              <li class="last"><a href="https://www.petridisflowers.com/index.php?route=product/special">Προσφορές</a></li>
+            </ul>
+          </div>
+                      <div class="footer-column pull-left">
+              <h4>Πληροφορίες</h4>
+              <ul class="links">
+                                  <li class="first"><a href="https://www.petridisflowers.com/about-us">Ανθοπωλείο Πετρίδης</a></li>
+                                  <li class=""><a href="https://www.petridisflowers.com/delivery-information.html">Πληροφορίες Αποστολής</a></li>
+                                  <li class=""><a href="https://www.petridisflowers.com/index.php?route=information/information&amp;information_id=7">Στολισμός γάμου</a></li>
+                                  <li class=""><a href="https://www.petridisflowers.com/privacy-and-policy">Πολιτική Απορρήτου</a></li>
+                                  <li class=""><a href="https://www.petridisflowers.com/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+                              </ul>
+            </div>
+                  </div>
+        <div class="col-xs-12 col-lg-4">
+          <div class="footer-column-last">
+                          <div class="newsletter-wrap">
+                <h4>Εγγραφείτε στο newsletter μας:</h4>
+<div id="container_form_news">
+	<div id="container_form_news2">
+		<div class="subscribe-content" id="subscribe-form">
+			<label for="subscribe-input" class="subscribe-label">Enter Your Email</label>
+			<input type="text" name="subscribe-input" id="subscribe-input" value="" placeholder="Enter Your Email" class="input-text required-entry validate-email" />
+			<button class="button subscribe" type="button" name="submit_newsletter" id="submit_newsletter" onclick="return TSEmailValidation()"><span>Εγγραφή</span></button>
+			<p id="subscriber_content" class="required"></p>
+		</div>
+	</div>
+</div>
+<script language="javascript">
+	function TSEmailValidation(mail) {
+		subscribemail = document.getElementById("subscribe-input").value;
+		var emailRegEx = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+		if (subscribemail != '') {
+
+			if (subscribemail.search(emailRegEx) != -1) {
+
+
+				email = document.getElementById("subscribe-input").value;
+				var xmlhttp;
+				if (window.XMLHttpRequest) {
+					xmlhttp = new XMLHttpRequest();
+				} else {
+					xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+
+				xmlhttp.onreadystatechange = function() {
+					if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+						document.getElementById("subscriber_content").innerHTML = xmlhttp.responseText;
+					}
+				}
+				xmlhttp.open("GET", "index.php?route=extension/module/newslettersubscription/addsubscriberemail&email=" + email, true);
+				xmlhttp.send();
+				return (true);
+			}
+			document.getElementById("subscriber_content").innerHTML = "Please enter an email address.";
+			return (false);
+		}
+		document.getElementById("subscriber_content").innerHTML = "This is a required field.";
+		return false;
+	}
+</script>              </div>
+                        <a href="https://www.flowerdelivery-reviews.com/best-flower-delivery-athens/" title="Link" target="_blank"><img src="https://www.petridisflowers.com/image/catalog/fdr-logo.png" alt="fdr" height="120px" /></a>
+
+            <div class="social">
+              <h4>Ακολουθήστε μας στο</h4>
+              <ul class="link">
+                                  <li class="fb pull-left"><a href="https://www.facebook.com/petridis.flowers" title="fb" target="_blank"></a></li>
+                                                                                                                              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      
+      <div class="col-sm-12 col-xs-12 footer-logo">
+        <h3 class="pf-footer-company-name">Petridis Flowershop</h3>
+        <img alt="crocus" src="catalog/view/theme/organ2/image/logo.png">
+      </div>
+      <div class="payment-methods"><img src="/catalog/view/theme/organ2/image/horizontal-banner-transparent2.png" alt="Horizontal_Banner_transparent" /></div>
+    </div>
+
+  </div>
+
+
+
+  <div class="footer-bottom">
+    <div class="container">
+      
+      <div class="row">
+        <address>
+                      <span><em class="fa fa-map-marker"></em>Λεωφόρος Μεσογείων 17, 11526 Αθήνα</span>
+                                <span><em class="fa fa-mobile"></em>+30 210 7709620</span>
+                                <span><em class="fa fa-envelope"></em>info@petridisflowers.com</span>
+                  </address>
+        <div class="col-sm-12 col-xs-12 coppyright">
+          <p></p><div class="pf-coppyright-develop">Developed by <a href="https://above.ge" target="_blank">ABOVE Digital</a></div><p></p>        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+                <!-- Facebook JSSDK -->
+        <script>
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId            : '',
+              autoLogAppEvents : true,
+              xfbml            : true,
+              version          : 'v4.0'
+            });
+          };
+
+          (function(d, s, id){
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement(s); js.id = id;
+             js.src = "https://connect.facebook.net/en_US/sdk.js";
+             fjs.parentNode.insertBefore(js, fjs);
+           }(document, 'script', 'facebook-jssdk'));
+        </script>
+        <div
+          class="fb-customerchat"
+          attribution="fbe_opencart"
+          page_id="154805227901751"
+        />
+              
+</footer>
+</div> <!-- page id -->
+<div id="mobile-menu">
+  <div class="mobile-menu-inner">
+    <ul>
+      <li>
+        <div class="mm-search">
+          <div id="search1">
+            <div class="input-group">
+              <div class="input-group-btn">
+                <button id="mm-submit-button-search-header" class="btn btn-default">
+                  <em class="fa fa-search"></em>
+                </button>
+              </div>
+              <label for="srch-term" class="srch-term">Αναζήτηση...</label>
+              <input id="srch-term" class="form-control simple" type="text" name="search_mm" maxlength="70" value="" placeholder="Αναζήτηση...">
+            </div>
+          </div>
+        </div>
+      </li>
+
+              <li>
+          <a href="https://www.petridisflowers.com/index.php?route=common/home">Αρχική</a>
+        </li>
+              <li><a href="https://www.petridisflowers.com/Forever-Roses">Forever Roses</a>
+                  </li>
+              <li><a href="https://www.petridisflowers.com/index.php?route=product/category&amp;path=134">Flowers-in-a-box</a>
+                  </li>
+              <li><a href="https://www.petridisflowers.com/occassions">Ανα Περίσταση</a>
+                      <ul>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Just-Because">Just Because</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/all-occassions-love-and-romance">Love &amp; Romance</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Birthday">Γενέθλια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Thank-you">Ευχαριστήρια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/occasions-christmas">Χριστούγεννα</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-New-Baby">Γέννηση,λουλούδια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Anniversary">Επέτειος Γάμου</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Get Well">Ανάρρωση</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Sympathy">Συλλυπητήρια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Business">Επιχειρηματικά Δώρα</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/Occassions-Congratulations">Συγχαρητήρια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/occassions/occassions-name-day">Ονομαστική Εορτή</a>
+                                  </li>
+                          </ul>
+                  </li>
+              <li><a href="https://www.petridisflowers.com/Βirthday">Γενέθλια</a>
+                      <ul>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday-Bouquets">Μπουκέτα Λουλουδιών</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday-Roses">Τριαντάφυλλα για Γενέθλια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday-Best-Sellers">Best Sellers</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday/flowers-arrangements">Συνθέσεις Λουλουδιών</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday/Flowers">Λουλούδια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday/Plants">Φυτά για Γενέθλια</a>
+                                  </li>
+                              <li><a href="https://www.petridisflowers.com/Βirthday/Birthday-Flower-Gifts">Λουλούδια &amp; Δώρα</a>
+                                  </li>
+                          </ul>
+                  </li>
+              <li><a href="https://www.petridisflowers.com/plants-bonsai">Μπονσάι</a>
+                  </li>
+          </ul>
+    <div class="top-links">
+
+      <ul class="links">
+        <li><a href="https://www.petridisflowers.com/index.php?route=account/account" title="Ο Λογαριασμός μου">Ο Λογαριασμός μου</a></li>
+        <li><a href="https://www.petridisflowers.com/index.php?route=account/wishlist" id="wishlist-total" title="Λίστα Αγαπημένων">Λίστα Αγαπημένων</a></li>
+        <li><a href="https://www.petridisflowers.com/index.php?route=checkout/checkout" title="Αγορά">Αγορά</a></li>
+                  <li><a href="https://www.petridisflowers.com/index.php?route=thmsoftblog/article"><span>Blog</span></a></li>        <!--li class="last">
+                        </li-->
+      </ul>
+    </div>
+  </div>
+</div><!-- mobile-menu -->
+
+<script type="text/javascript">
+    window.onload = function() {
+      $('div.poc_form.form_delivery_address > div:nth-child(9) > div > select').attr("disabled", true);
+
+    }
+  </script>
+
+
+                <!-- Google Marketing Tools Opencart - https://devmanextensions.com -->
+                                    <!-- Google Marketing Tools Opencart - https://devmanextensions.com -->
+            
+</body>
+
+</html>

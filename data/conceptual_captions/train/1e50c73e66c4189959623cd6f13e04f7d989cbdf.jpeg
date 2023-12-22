@@ -1,0 +1,777 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head profile="https://gmpg.org/xfn/11">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://homofabulus.com/favicon.ico" />
+
+<title>
+</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="http://homofabulus.com/wp-content/themes/busybee/busybee/style.css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/HomoFabulus" />
+<link rel="pingback" href="" />
+   
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta2)/IE7.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://homofabulus.com/wp-content/themes/busybee/busybee/includes/js/menu.js"></script>	
+<script type="text/javascript" src="http://homofabulus.com/wp-content/themes/busybee/busybee/includes/js/pngfix.js"></script>	
+<![endif]-->
+
+<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Homo Fabulus" />
+	<meta property="og:site_name" content="Homo Fabulus" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://homofabulus.com/#website","url":"https://homofabulus.com/","name":"Homo Fabulus","description":"Biologie et sciences cognitives pour mieux comprendre le comportement humain","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://homofabulus.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//homofabulus.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/homofabulus.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='automatic-css-tooltip-css' href='https://homofabulus.com/wp-content/plugins/automatic-css-tooltip/thetooltip/thetooltip.css?ver=1.0.0' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='http://homofabulus.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='digg-digg-css' href='http://homofabulus.com/wp-content/plugins/digg-digg/css/diggdigg-style.css?ver=5.3.6' type='text/css' media='screen' />
+<link rel='stylesheet' id='rss-news-display.css-css' href='http://homofabulus.com/wp-content/plugins/rss-news-display/rss-news-display.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stcr-font-awesome-css' href='http://homofabulus.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/font-awesome.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='stcr-style-css' href='http://homofabulus.com/wp-content/plugins/subscribe-to-comments-reloaded/includes/css/stcr-style.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css' href='http://homofabulus.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.77.2' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://homofabulus.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='newsletter-css' href='http://homofabulus.com/wp-content/plugins/newsletter/style.css?ver=8.0.4' type='text/css' media='all' />
+<script type="text/javascript" src="http://homofabulus.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://homofabulus.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://homofabulus.com/wp-content/plugins/automatic-css-tooltip/js/act.js?ver=1.0.1" id="automatic-css-tooltip-js"></script>
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var _ckyConfig = {"_ipData":[],"_assetsURL":"http:\/\/homofabulus.com\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/","_publicURL":"http:\/\/homofabulus.com","_expiry":"365","_categories":[{"name":"N\u00e9cessaire","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true}},{"name":"Fonctionnelle","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Analytique","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Performance","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}},{"name":"Publicit\u00e9","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false}}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"settings":{"type":"box","position":"bottom-left","applicableLaw":"gdpr"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":true,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":{"background-color":"#0056A7"},"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863DC"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":false,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#1863dc"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}}}}},"_version":"3.1.7","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863DC","border-color":"#1863DC"}},{"tag":"reject-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"#1863DC"}},{"tag":"settings-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"#1863DC"}},{"tag":"readmore-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863DC","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#1863DC","border-color":"#1863DC"}},{"tag":"revisit-consent","styles":{"background-color":"#0056A7"}}],"_shortCodes":[{"key":"cky_readmore","content":"<a href=\"#\" class=\"cky-policy\" aria-label=\"Politique relative aux cookies\" target=\"_blank\" rel=\"noopener\" data-cky-tag=\"readmore-button\">Politique relative aux cookies<\/a>","tag":"readmore-button","status":false,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"cky_show_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"show-desc-button\" aria-label=\"Afficher plus\">Afficher plus<\/button>","tag":"show-desc-button","status":true,"attributes":[]},{"key":"cky_hide_desc","content":"<button class=\"cky-show-desc-btn\" data-cky-tag=\"hide-desc-button\" aria-label=\"Afficher moins\">Afficher moins<\/button>","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"cky_category_toggle_label","content":"[cky_{{status}}_category_label] [cky_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"cky_enable_category_label","content":"Activer","tag":"","status":true,"attributes":[]},{"key":"cky_disable_category_label","content":"D\u00e9sactiver","tag":"","status":true,"attributes":[]},{"key":"cky_video_placeholder","content":"<div class=\"video-placeholder-normal\" data-cky-tag=\"video-placeholder\" id=\"[UNIQUEID]\"><p class=\"video-placeholder-text-normal\" data-cky-tag=\"placeholder-title\">Veuillez accepter le consentement des cookies<\/p><\/div>","tag":"","status":true,"attributes":[]},{"key":"cky_enable_optout_label","content":"Activer","tag":"","status":true,"attributes":[]},{"key":"cky_disable_optout_label","content":"D\u00e9sactiver","tag":"","status":true,"attributes":[]},{"key":"cky_optout_toggle_label","content":"[cky_{{status}}_optout_label] [cky_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"cky_optout_option_title","content":"Ne pas vendre ou partager mes informations personnelles","tag":"","status":true,"attributes":[]},{"key":"cky_optout_close_label","content":"Fermer","tag":"","status":true,"attributes":[]}],"_rtl":"","_providersToBlock":[]};
+var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.cky-hide{display: none;}.cky-btn-revisit-wrapper{display: flex; align-items: center; justify-content: center; background: #0056a7; width: 45px; height: 45px; border-radius: 50%; position: fixed; z-index: 999999; cursor: pointer;}.cky-revisit-bottom-left{bottom: 15px; left: 15px;}.cky-revisit-bottom-right{bottom: 15px; right: 15px;}.cky-btn-revisit-wrapper .cky-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.cky-btn-revisit-wrapper .cky-btn-revisit img{max-width: fit-content; margin: 0; height: 30px; width: 30px;}.cky-revisit-bottom-left:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; left: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-left:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; left: calc(100% + 2px); border-left-width: 0; border-right-color: #4e4b66;}.cky-revisit-bottom-right:hover::before{content: attr(data-tooltip); position: absolute; background: #4e4b66; color: #ffffff; right: calc(100% + 7px); font-size: 12px; line-height: 16px; width: max-content; padding: 4px 8px; border-radius: 4px;}.cky-revisit-bottom-right:hover::after{position: absolute; content: \"\"; border: 5px solid transparent; right: calc(100% + 2px); border-right-width: 0; border-left-color: #4e4b66;}.cky-revisit-hide{display: none;}.cky-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.cky-consent-container .cky-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.cky-box-bottom-left{bottom: 40px; left: 40px;}.cky-box-bottom-right{bottom: 40px; right: 40px;}.cky-box-top-left{top: 40px; left: 40px;}.cky-box-top-right{top: 40px; right: 40px;}.cky-custom-brand-logo-wrapper .cky-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.cky-notice .cky-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.cky-notice-des *,.cky-preference-content-wrapper *,.cky-accordion-header-des *,.cky-gpc-wrapper .cky-gpc-desc *{font-size: 14px;}.cky-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.cky-notice-des img{height: 25px; width: 25px;}.cky-consent-bar .cky-notice-des p,.cky-gpc-wrapper .cky-gpc-desc p,.cky-preference-body-wrapper .cky-preference-content-wrapper p,.cky-accordion-header-wrapper .cky-accordion-header-des p,.cky-cookie-des-table li div:last-child p{color: inherit; margin-top: 0;}.cky-notice-des P:last-child,.cky-preference-content-wrapper p:last-child,.cky-cookie-des-table li div:last-child p:last-child,.cky-gpc-wrapper .cky-gpc-desc p:last-child{margin-bottom: 0;}.cky-notice-des a.cky-policy,.cky-notice-des button.cky-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.cky-notice-des button.cky-policy{padding: 0;}.cky-notice-des a.cky-policy:focus-visible,.cky-notice-des button.cky-policy:focus-visible,.cky-preference-content-wrapper .cky-show-desc-btn:focus-visible,.cky-accordion-header .cky-accordion-btn:focus-visible,.cky-preference-header .cky-btn-close:focus-visible,.cky-switch input[type=\"checkbox\"]:focus-visible,.cky-footer-wrapper a:focus-visible,.cky-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.cky-btn:focus:not(:focus-visible),.cky-accordion-header .cky-accordion-btn:focus:not(:focus-visible),.cky-preference-content-wrapper .cky-show-desc-btn:focus:not(:focus-visible),.cky-btn-revisit-wrapper .cky-btn-revisit:focus:not(:focus-visible),.cky-preference-header .cky-btn-close:focus:not(:focus-visible),.cky-consent-bar .cky-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.cky-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.cky-accordion-btn:not(:hover):not(:active),button.cky-banner-btn-close:not(:hover):not(:active),button.cky-btn-revisit:not(:hover):not(:active),button.cky-btn-close:not(:hover):not(:active){background: transparent;}.cky-consent-bar button:hover,.cky-modal.cky-modal-open button:hover,.cky-consent-bar button:focus,.cky-modal.cky-modal-open button:focus{text-decoration: none;}.cky-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.cky-notice-btn-wrapper .cky-btn{text-shadow: none; box-shadow: none;}.cky-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.cky-btn:hover{opacity: 0.8;}.cky-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.cky-btn:last-child{margin-right: 0;}@media (max-width: 576px){.cky-box-bottom-left{bottom: 0; left: 0;}.cky-box-bottom-right{bottom: 0; right: 0;}.cky-box-top-left{top: 0; left: 0;}.cky-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.cky-box-bottom-left, .cky-box-bottom-right, .cky-box-top-left, .cky-box-top-right{width: 100%; max-width: 100%;}.cky-consent-container .cky-consent-bar{padding: 20px 0;}.cky-custom-brand-logo-wrapper, .cky-notice .cky-title, .cky-notice-des, .cky-notice-btn-wrapper{padding: 0 24px;}.cky-notice-des{max-height: 40vh; overflow-y: scroll;}.cky-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-notice-btn-wrapper .cky-btn-customize{order: 2;}.cky-notice-btn-wrapper .cky-btn-reject{order: 3;}.cky-notice-btn-wrapper .cky-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.cky-notice .cky-title{font-size: 16px;}.cky-notice-des *{font-size: 12px;}.cky-notice-des, .cky-btn{font-size: 12px;}}.cky-modal.cky-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.cky-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.cky-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.cky-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.cky-preference-header .cky-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.cky-preference-header .cky-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.cky-preference-header .cky-btn-close img{margin: 0; height: 10px; width: 10px;}.cky-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.cky-preference-content-wrapper,.cky-gpc-wrapper .cky-gpc-desc{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.cky-preference-content-wrapper{border-bottom: 1px solid;}.cky-preference-content-wrapper img{height: 25px; width: 25px;}.cky-preference-content-wrapper .cky-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-wrapper{margin-bottom: 10px;}.cky-accordion{border-bottom: 1px solid;}.cky-accordion:last-child{border-bottom: none;}.cky-accordion .cky-accordion-item{display: flex; margin-top: 10px;}.cky-accordion .cky-accordion-body{display: none;}.cky-accordion.cky-accordion-active .cky-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.cky-accordion-header-wrapper{cursor: pointer; width: 100%;}.cky-accordion-item .cky-accordion-header{display: flex; justify-content: space-between; align-items: center;}.cky-accordion-header .cky-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.cky-accordion-header .cky-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.cky-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.cky-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.cky-accordion-chevron-hide{display: none;}.cky-accordion .cky-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.cky-audit-table{background: #f4f4f4; border-radius: 6px;}.cky-audit-table .cky-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.cky-audit-table .cky-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.cky-audit-table .cky-cookie-des-table:last-child{border-bottom: none;}.cky-audit-table .cky-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.cky-audit-table .cky-cookie-des-table li:first-child{padding-top: 0;}.cky-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.cky-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.cky-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.cky-footer-wrapper{position: relative;}.cky-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.cky-prefrence-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.cky-preference-header,.cky-preference-body-wrapper,.cky-preference-content-wrapper,.cky-accordion-wrapper,.cky-accordion,.cky-accordion-wrapper,.cky-footer-wrapper,.cky-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.cky-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.cky-modal{max-width: 100%;}.cky-preference-center{max-height: 100vh;}.cky-prefrence-btn-wrapper{flex-direction: column;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding-right: 0;}.cky-prefrence-btn-wrapper .cky-btn{width: 100%; margin: 10px 0 0 0;}.cky-prefrence-btn-wrapper .cky-btn-reject{order: 3;}.cky-prefrence-btn-wrapper .cky-btn-accept{order: 1; margin-top: 0;}.cky-prefrence-btn-wrapper .cky-btn-preferences{order: 2;}}@media (max-width: 425px){.cky-accordion-chevron{margin-right: 15px;}.cky-notice-btn-wrapper{margin-top: 0;}.cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.cky-preference-header .cky-preference-title{font-size: 16px;}.cky-preference-header{padding: 16px 24px;}.cky-preference-content-wrapper *, .cky-accordion-header-des *{font-size: 12px;}.cky-preference-content-wrapper, .cky-preference-content-wrapper .cky-show-more, .cky-accordion-header .cky-always-active, .cky-accordion-header-des, .cky-preference-content-wrapper .cky-show-desc-btn, .cky-notice-des a.cky-policy{font-size: 12px;}.cky-accordion-header .cky-accordion-btn{font-size: 14px;}}.cky-switch{display: flex;}.cky-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.cky-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.cky-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.cky-switch input[type=\"checkbox\"]:after{display: none;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.cky-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.cky-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.cky-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.cky-consent-bar .cky-banner-btn-close{position: absolute; right: 9px; top: 5px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.cky-consent-bar .cky-banner-btn-close img{height: 9px; width: 9px; margin: 0;}.cky-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; white-space: nowrap; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.cky-consent-bar .cky-banner-btn-close:focus-visible,.cky-notice-btn-wrapper .cky-btn-do-not-sell:focus-visible,.cky-opt-out-btn-wrapper .cky-btn:focus-visible,.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.cky-consent-container{width: 100%;}}@media (max-width: 352px){.cky-notice-des a.cky-policy, .cky-notice-btn-wrapper .cky-btn-do-not-sell{font-size: 12px;}}.cky-opt-out-wrapper{padding: 12px 0;}.cky-opt-out-wrapper .cky-opt-out-checkbox-wrapper{display: flex; align-items: center;}.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.cky-opt-out-checkbox-wrapper.cky-disabled .cky-opt-out-checkbox-label,.cky-opt-out-checkbox-wrapper.cky-disabled input[type=\"checkbox\"].cky-opt-out-checkbox{cursor: no-drop;}.cky-gpc-wrapper{margin: 0 0 0 32px;}.cky-footer-wrapper .cky-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.cky-opt-out-btn-wrapper .cky-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.cky-opt-out-btn-wrapper .cky-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.cky-opt-out-btn-wrapper .cky-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{font-size: 14px;}.cky-gpc-wrapper .cky-gpc-desc, .cky-gpc-wrapper .cky-gpc-desc *{font-size: 12px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox{width: 16px; height: 16px;}.cky-opt-out-checkbox-wrapper input[type=\"checkbox\"].cky-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.cky-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-normal{background-image: url(\"\/wp-content\/plugins\/cookie-law-info\/lite\/frontend\/images\/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.cky-rtl{direction: rtl; text-align: right;}.cky-rtl .cky-banner-btn-close{left: 9px; right: auto;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 8px;}.cky-rtl .cky-notice-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 8px;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-accordion .cky-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.cky-rtl .cky-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.cky-rtl .cky-notice-btn-wrapper .cky-btn:last-child{margin-right: 0;}.cky-rtl .cky-prefrence-btn-wrapper .cky-btn{margin-right: 0;}.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.cky-rtl .cky-accordion.cky-accordion-active .cky-accordion-body{padding: 0 15px 0 0;}}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn{margin-right: 12px;}.cky-rtl .cky-opt-out-btn-wrapper .cky-btn:first-child{margin-right: 0;}.cky-rtl .cky-opt-out-checkbox-wrapper .cky-opt-out-checkbox-label{margin: 0 12px 0 0;}"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://homofabulus.com/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.1.7" id="cookie-law-info-js"></script>
+<script type="text/javascript" src="http://homofabulus.com/wp-content/plugins/rss-news-display/js/jquery.cycle.all.min.js?ver=6.4.2" id="jquery.cycle.all.min-js"></script>
+<script type="text/javascript" src="http://homofabulus.com/wp-content/themes/busybee/busybee/includes/js/tabs.js?ver=6.4.2" id="tabs-js"></script>
+<link rel="https://api.w.org/" href="https://homofabulus.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://homofabulus.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<style id="cky-style-inline">[data-cky-tag]{visibility:hidden;}</style><style data-context="foundation-flickity-css">/*! Flickity v2.0.2
+http://flickity.metafizzy.co
+---------------------------------------------- */.flickity-enabled{position:relative}.flickity-enabled:focus{outline:0}.flickity-viewport{overflow:hidden;position:relative;height:100%}.flickity-slider{position:absolute;width:100%;height:100%}.flickity-enabled.is-draggable{-webkit-tap-highlight-color:transparent;tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.flickity-enabled.is-draggable .flickity-viewport{cursor:move;cursor:-webkit-grab;cursor:grab}.flickity-enabled.is-draggable .flickity-viewport.is-pointer-down{cursor:-webkit-grabbing;cursor:grabbing}.flickity-prev-next-button{position:absolute;top:50%;width:44px;height:44px;border:none;border-radius:50%;background:#fff;background:hsla(0,0%,100%,.75);cursor:pointer;-webkit-transform:translateY(-50%);transform:translateY(-50%)}.flickity-prev-next-button:hover{background:#fff}.flickity-prev-next-button:focus{outline:0;box-shadow:0 0 0 5px #09f}.flickity-prev-next-button:active{opacity:.6}.flickity-prev-next-button.previous{left:10px}.flickity-prev-next-button.next{right:10px}.flickity-rtl .flickity-prev-next-button.previous{left:auto;right:10px}.flickity-rtl .flickity-prev-next-button.next{right:auto;left:10px}.flickity-prev-next-button:disabled{opacity:.3;cursor:auto}.flickity-prev-next-button svg{position:absolute;left:20%;top:20%;width:60%;height:60%}.flickity-prev-next-button .arrow{fill:#333}.flickity-page-dots{position:absolute;width:100%;bottom:-25px;padding:0;margin:0;list-style:none;text-align:center;line-height:1}.flickity-rtl .flickity-page-dots{direction:rtl}.flickity-page-dots .dot{display:inline-block;width:10px;height:10px;margin:0 8px;background:#333;border-radius:50%;opacity:.25;cursor:pointer}.flickity-page-dots .dot.is-selected{opacity:1}</style><style data-context="foundation-slideout-css">.slideout-menu{position:fixed;left:0;top:0;bottom:0;right:auto;z-index:0;width:256px;overflow-y:auto;-webkit-overflow-scrolling:touch;display:none}.slideout-menu.pushit-right{left:auto;right:0}.slideout-panel{position:relative;z-index:1;will-change:transform}.slideout-open,.slideout-open .slideout-panel,.slideout-open body{overflow:hidden}.slideout-open .slideout-menu{display:block}.pushit{display:none}</style><meta name="generator" content="Busy Bee 2.0.7" />
+<meta name="generator" content="Woo Framework Version 1.2.2" />
+<link href="http://homofabulus.com/wp-content/themes/busybee/busybee/styles/custom.css" rel="stylesheet" type="text/css" />
+<link href="http://homofabulus.com/wp-content/themes/busybee/busybee/custom.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="https://homofabulus.com/wp-content/uploads/2015/12/logoopt-03.png"/>
+<style>.ios7.web-app-mode.has-fixed header{ background-color: rgba(3,122,221,.88);}</style><style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style>
+</head>
+
+<body>
+
+
+
+<!-- Set video category -->
+
+<div id="wrap">
+	<!-- Top Starts -->
+	<div id="top-out">
+		<div id="top">
+		<!-- Page Nav Starts -->
+        
+			<div id="page_navi" class="wrap">
+            
+            
+            <!-- REMOVED 30/11/2015:
+            
+            
+				<div class="col-left">
+					<ul id="nav">
+												<li class="page_item current_page_item"><a href="https://homofabulus.com">Accueil</a></li>
+<li class="page_item current_page_item"><a href="https://homofabulus.com/annonces">Annonces</a></li>
+<li class="page_item current_page_item"><a href="https://homofabulus.com/a-propos">À propos</a></li>
+<li class="page_item current_page_item"><a href="https://homofabulus.com/contact">Contact</a></li>
+											</ul>
+				</div>
+				<div class="col-right">
+					<ul class="rss">
+						<li><a href="http://feeds.feedburner.com/HomoFabulus">Articles</a></li>
+						<!-- <li class="last"><a href="https://homofabulus.com/comments/feed/">Commentaires</a></li> 
+											</ul>
+                    
+                    
+				</div>     
+                
+                FIN REMOVED 30/11/2015 -->
+                
+                
+			</div>  
+            
+            
+            
+			<!-- Page Nav Ends -->
+			<div id="header">
+<a href="https://homofabulus.com" title="Biologie et sciences cognitives pour mieux comprendre le comportement humain"><img class="title" src="https://homofabulus.com/wp-content/uploads/2020/04/homo-fabulus-banniere-939x436_2.jpg" alt="Homo Fabulus" /></a>
+				<!--  <h1><a href="https://homofabulus.com">Homo Fabulus</a></h1> -->
+				
+				
+				<!-- Top Ad Starts -->
+								<!-- Top Ad Ends -->
+
+				<!-- Twitter Starts -->
+								<!-- Twitter Ad Ends -->
+                
+				
+			</div>
+			<!-- Category Nav Starts -->
+			<div id="cat_navi" class="wrap">
+				<ul id="secnav">
+					
+                    
+                    <!-- REMOVED 30/11/2015:
+                    
+                    
+					
+					  
+                    <li>
+                        <a href="https://homofabulus.com/actu/">Actu<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/adaptationnisme/">Adaptationnisme<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/agression/">Agression<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/archeologie/">Archéologie<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/best-of/">Best Of<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/biologie-theorique/">Biologie théorique<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/climat/">Climat<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/cooperation/">Coopération<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/emotions/">Emotions<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/evolution/">Évolution<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/genetique/">Génétique<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/ia/">IA<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/livres/">Livres<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/morale/">Morale<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/nourriture/">Nourriture<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/parentalite/">Parentalité<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/politique/">Politique<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/psychologie-evolutionnaire/">Psychologie évolutionnaire<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/sante/">Santé<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/sciences-cognitives-appliquees/">Sciences cognitives appliquées<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/sexe/">Sexe<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/societe/">Société<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/sociobiologie/">Sociobiologie<br/> <span></span></a>
+                        
+                                            </li>
+	
+					  
+                    <li>
+                        <a href="https://homofabulus.com/videos/">Vidéos<br/> <span></span></a>
+                        
+                                            </li>
+	
+					                    
+                    FIN REMOVED 30/11/2015 -->
+                    
+                    
+                    <li><a href="https://homofabulus.com/best-of">Best-of<br/><span>Articles appréciés</span></a></li>
+                    <li><a href="https://homofabulus.com/a-propos">Qui suis-je ?<br/><span>Si je le savais </span></a> </li>
+                    <li><a href="https://homofabulus.com/contact">Me contacter<br/><span>Balance ton 06</span></a></li>
+                    <li><a href="https://homofabulus.com/newsletter">Newsletter<br/><span>Pour les news et des cadeaux réguliers !</span></a></li>
+                    
+                    
+				</ul>
+			</div>
+			<!-- Category Nav Ends -->
+		</div>
+	</div>
+	<!-- Top Ends -->
+	<!-- Middle Starts -->
+	<div id="middle-out-top">
+	<div id="middle-out-bottom">
+	<div id="middle-content">
+	<div id="middle-content-bottom">
+		<!-- Content Starts -->
+		<div id="content" class="wrap">
+			<div class="col-left">
+				<div id="main-content">
+				
+				<!-- Latest Starts -->
+					<div class="archives post wrap">
+					
+						<h2 class="page">Error 404 - Page not found!</h2>
+						<p>The page you trying to reach does not exist, or has been moved. Please use the menus or the search box to find what you are looking for.</p>
+					
+					</div>
+					<!-- Latest Ends -->
+					
+				</div>
+			</div>
+			
+			<div class="col-right">
+				<!-- Sidebar Starts -->
+<div id="sidebar">
+
+<div class="widgetized">
+
+
+<div id="text-7" class="block widget widget_text">
+
+
+<h2>Me soutenir</h2>
+
+<br /><br /><br /><br />
+
+Si vous appréciez mon travail, vous pouvez me soutenir financièrement sur <a href="https://www.kisskissbankbank.com/fr/projects/homofabulus/">Kisskissbankbank</a>, <a href="https://www.paypal.com/donate/?hosted_button_id=8XGV4YA4MSXJW">Paypal</a>, <a href="https://tipeee.com/homofabulus/">Tipeee</a> ou <a href="https://www.patreon.com/HomoFabulus">Patreon</a> :<br /><br />
+
+<a href="https://www.kisskissbankbank.com/fr/projects/homofabulus/"><img alt="kisskissbankbank" width="200px" src="https://homofabulus.com/wp-content/uploads/2020/04/kisskissbankbank.png" /></a><br /><br />
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="8XGV4YA4MSXJW" />
+<input type="image" src="https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_FR/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+<!--  <a href="https://tipeee.com/homofabulus/"><img alt="tipeee" width="200px" src="https://homofabulus.com/wp-content/uploads/2020/04/tipeee.png" /></a><br /><br />
+
+<a href="https://patreon.com/homofabulus"><img alt="patreon" width="200px" src="https://homofabulus.com/wp-content/uploads/2020/04/patreon.png" /></a><br /><br />  -->
+
+<br /><br />
+
+(voir <a href="https://homofabulus.com/soutenir-homo-fabulus/">cette page</a> pour les avantages / inconvénients des différentes plateformes.)
+
+<br /><br />
+
+
+Vous pouvez aussi acheter un de mes livres ci-dessous (cliquez dessus), mais comme je ne touche que 10% de leur prix, votre soutien régulier sur les plateformes de dons sera toujours important pour moi !
+<br /><br />
+
+<a href="https://amzn.to/30RGhs9"><img alt="pourquoi notre cerveau a inventé le bien et le mal" height="180px" src="https://homofabulus.com/wp-content/uploads/2022/12/Pourquoi-notre-cerveau-a-invente-le-bien-et-le-mal.jpg" /></a>
+<a href="https://www.ulule.com/livre-homofabulus"><img alt="livre biologie et politique homo fabulus" height="180px" src="https://homofabulus.com/wp-content/uploads/2023/10/couv.png" /></a>
+
+<br /><br />
+
+
+<h2>Ma newsletter.</h2>
+
+<br /><br /><br /><br />
+
+
+Pour être tenu au courant de mon actu et gagner des livres, <a href="https://homofabulus.com/newsletter">cliquez ici</a> !.
+
+<br /><br />
+
+
+<h2>Sélection de livres sur les mêmes sujets (cliquez sur l’image).</h2>
+
+<br /><br /><br /><br />
+
+<a target="_blank" href="https://homofabulus.com/selection-livres/"><img alt="selection homo fabulus" width="200px" src="https://homofabulus.com/wp-content/uploads/2022/12/selection.jpg" /></a>
+
+
+</div>
+
+<div id="text-7" class="block widget widget_text">
+
+<h2>Réseaux sociaux</h2>
+
+<br /><br /><br /><br />
+
+<div> 
+    Mon compte twitter : <a href="https://twitter.com/stdebove">@stdebove</a><br />
+    Mon compte mastodon : <a href="https://fediscience.org/@StephaneDebove">@<span class="__cf_email__" data-cfemail="55062130253d343b301130373a2330153330313c26363c303b36307b3a2732">[email&#160;protected]</span></a><br />
+	Mon compte facebook : <a href="https://www.facebook.com/stephanedbv">https://www.facebook.com/stephanedbv</a> <br />
+	Mon compte instagram : <a href="https://www.instagram.com/stephanedebove/">https://www.instagram.com/stephanedebove/</a>
+ </div>
+
+<br /><br />
+
+<div class="fb-like-box" data-href="https://www.facebook.com/pages/Homo-Fabulus/264008736993891 " data-width="270" data-show-faces="true" data-stream="false" data-header="true"></div>
+
+<!--<h2>Propagez le mème</h2><div class="fix"></div> -->
+
+
+&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/HomoFabulus" class="twitter-follow-button" data-show-count="true" data-lang="fr" data-size="large">Suivre @HFabulus</a>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+<div class="block">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox">
+   <div class="custom_images">
+      <a class="addthis_button_facebook"><img src="https://homofabulus.com/wp-content/logos_partage/facebook_48.png" width="48" height="48" border="0" alt="Partager sur Facebook" /></a> 
+      <a class="addthis_button_twitter"><img src="https://homofabulus.com/wp-content/logos_partage/twitter_48.png" width="48" height="48" border="0" alt="Partager sur Twitter" /></a>
+	<a class="addthis_button_email"><img src="https://homofabulus.com/wp-content/logos_partage/mail_48.png" width="48" height="48" border="0" alt="Partager par email" /></a>
+      <a href="https://feeds.feedburner.com/HomoFabulus"><img src="https://homofabulus.com/wp-content/logos_partage/rss_48.png" width="48" height="48" border="0" alt="RSS" /></a>
+      <a class="addthis_button_more"><img src="https://homofabulus.com/wp-content/logos_partage/plus_48.png" width="48" height="48" border="0" alt="More..." /></a>
+
+   
+   </div>
+
+
+</div>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f1b10a01b023464"></script>
+<!-- AddThis Button END -->
+</div>
+</div>
+	<!-- Widgetized Sidebar Top -->    						
+	<div class="widgetized">	
+	    		           
+	</div>
+
+    <!-- TABS STARTS -->           
+		<div id="tabs" class="block">
+	
+		<ul class="idTabs wrap tabs">
+			<li><a href="#pop">Populaires</a></li>
+			<li><a href="#comm">Réactions</a></li>
+			<li><a href="#tagcloud">Tags</a></li>
+		</ul>
+		<div class="inside">
+			<ul id="pop">
+						<li>
+							<a title="Le libre-arbitre n'existe pas" href="https://homofabulus.com/le-libre-arbitre-nexiste-pas/"><img src="http://homofabulus.com/wp-content/themes/busybee/busybee/thumb.php?src=https://homofabulus.com/wp-content/uploads/2013/02/libre-arbitre.jpg&amp;h=35&amp;w=35&amp;zc=1&amp;q=95" alt="Le libre-arbitre n'existe pas" class="thumbnail" /></a>            
+                            
+            
+            <a href="https://homofabulus.com/le-libre-arbitre-nexiste-pas/" title="Le libre-arbitre n'existe pas">Le libre-arbitre n'existe pas</a>
+    		<div style="clear:both"></div>
+
+        </li>
+		<li>
+							<a title="Mon avis sur Sapiens de Yuval Noah Harari" href="https://homofabulus.com/mon-avis-sur-sapiens-de-yuval-noah-harari/"><img src="http://homofabulus.com/wp-content/themes/busybee/busybee/thumb.php?src=https://homofabulus.com/wp-content/uploads/2017/02/20170224_101806.jpg&amp;h=35&amp;w=35&amp;zc=1&amp;q=95" alt="Mon avis sur Sapiens de Yuval Noah Harari" class="thumbnail" /></a>            
+                            
+            
+            <a href="https://homofabulus.com/mon-avis-sur-sapiens-de-yuval-noah-harari/" title="Mon avis sur Sapiens de Yuval Noah Harari">Mon avis sur Sapiens de Yuval Noah Harari</a>
+    		<div style="clear:both"></div>
+
+        </li>
+		<li>
+							<a title="Les origines de la morale, ma thèse et une FAQ" href="https://homofabulus.com/les-origines-de-la-morale-ma-these-et-une-faq/"><img src="http://homofabulus.com/wp-content/themes/busybee/busybee/thumb.php?src=https://homofabulus.com/wp-content/uploads/2016/08/the-eye-of-sauron_3133429b.jpg&amp;h=35&amp;w=35&amp;zc=1&amp;q=95" alt="Les origines de la morale, ma thèse et une FAQ" class="thumbnail" /></a>            
+                            
+            
+            <a href="https://homofabulus.com/les-origines-de-la-morale-ma-these-et-une-faq/" title="Les origines de la morale, ma thèse et une FAQ">Les origines de la morale, ma thèse et une FAQ</a>
+    		<div style="clear:both"></div>
+
+        </li>
+		<li>
+							<a title="L'humain est-il un polygame refoulé ? Partie 1/3 : l'homme, ce parasite sexuel." href="https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/"><img src="http://homofabulus.com/wp-content/themes/busybee/busybee/thumb.php?src=https://homofabulus.com/wp-content/uploads/2015/11/jolies-filles-li.jpg&amp;h=35&amp;w=35&amp;zc=1&amp;q=95" alt="L'humain est-il un polygame refoulé ? Partie 1/3 : l'homme, ce parasite sexuel." class="thumbnail" /></a>            
+                            
+            
+            <a href="https://homofabulus.com/homme-est-il-un-polygame-refoule-partie-1-parasitisme-sexuel-monogamie/" title="L'humain est-il un polygame refoulé ? Partie 1/3 : l'homme, ce parasite sexuel.">L'humain est-il un polygame refoulé ? Partie 1/3 : l'homme, ce parasite sexuel.</a>
+    		<div style="clear:both"></div>
+
+        </li>
+		<li>
+							<a title="L'argent de Curiosity ne serait-il pas mieux dépensé sur Terre ? Lettre d'Ernst Stuhlinger." href="https://homofabulus.com/largent-de-curiosity-ne-serait-il-pas-mieux-depense-sur-terre-lettre-dernst-stuhlinger/"><img src="http://homofabulus.com/wp-content/themes/busybee/busybee/thumb.php?src=https://homofabulus.com/wp-content/uploads/2012/08/Apollo-8-premiere-photo-terre-2.jpg&amp;h=35&amp;w=35&amp;zc=1&amp;q=95" alt="L'argent de Curiosity ne serait-il pas mieux dépensé sur Terre ? Lettre d'Ernst Stuhlinger." class="thumbnail" /></a>            
+                            
+            
+            <a href="https://homofabulus.com/largent-de-curiosity-ne-serait-il-pas-mieux-depense-sur-terre-lettre-dernst-stuhlinger/" title="L'argent de Curiosity ne serait-il pas mieux dépensé sur Terre ? Lettre d'Ernst Stuhlinger.">L'argent de Curiosity ne serait-il pas mieux dépensé sur Terre ? Lettre d'Ernst Stuhlinger.</a>
+    		<div style="clear:both"></div>
+
+        </li>
+                    
+			</ul>
+
+			<ul id="comm">
+				                    
+			</ul>	
+			
+			<div id="tagcloud">
+				<a href="https://homofabulus.com/tag/adaptation/" class="tag-cloud-link tag-link-19 tag-link-position-1" style="font-size: 16.8pt;" aria-label="Adaptation (2 items)">Adaptation</a>
+<a href="https://homofabulus.com/tag/attractivite/" class="tag-cloud-link tag-link-23 tag-link-position-2" style="font-size: 12pt;" aria-label="Attractivité (1 item)">Attractivité</a>
+<a href="https://homofabulus.com/tag/avortement/" class="tag-cloud-link tag-link-50 tag-link-position-3" style="font-size: 12pt;" aria-label="Avortement (1 item)">Avortement</a>
+<a href="https://homofabulus.com/tag/bataille-des-sexes/" class="tag-cloud-link tag-link-36 tag-link-position-4" style="font-size: 12pt;" aria-label="Bataille des sexes (1 item)">Bataille des sexes</a>
+<a href="https://homofabulus.com/tag/bateman/" class="tag-cloud-link tag-link-35 tag-link-position-5" style="font-size: 12pt;" aria-label="Bateman (1 item)">Bateman</a>
+<a href="https://homofabulus.com/tag/choco-bn/" class="tag-cloud-link tag-link-43 tag-link-position-6" style="font-size: 12pt;" aria-label="Choco BN (1 item)">Choco BN</a>
+<a href="https://homofabulus.com/tag/coccinelle/" class="tag-cloud-link tag-link-77 tag-link-position-7" style="font-size: 16.8pt;" aria-label="Coccinelle (2 items)">Coccinelle</a>
+<a href="https://homofabulus.com/tag/colere/" class="tag-cloud-link tag-link-22 tag-link-position-8" style="font-size: 12pt;" aria-label="Colère (1 item)">Colère</a>
+<a href="https://homofabulus.com/tag/conflit-parents-enfants/" class="tag-cloud-link tag-link-46 tag-link-position-9" style="font-size: 20pt;" aria-label="Conflit Parents-Enfants (3 items)">Conflit Parents-Enfants</a>
+<a href="https://homofabulus.com/tag/diabete/" class="tag-cloud-link tag-link-49 tag-link-position-10" style="font-size: 12pt;" aria-label="Diabète (1 item)">Diabète</a>
+<a href="https://homofabulus.com/tag/depression/" class="tag-cloud-link tag-link-16 tag-link-position-11" style="font-size: 12pt;" aria-label="Dépression (1 item)">Dépression</a>
+<a href="https://homofabulus.com/tag/deprime/" class="tag-cloud-link tag-link-17 tag-link-position-12" style="font-size: 12pt;" aria-label="Déprime (1 item)">Déprime</a>
+<a href="https://homofabulus.com/tag/energie/" class="tag-cloud-link tag-link-6 tag-link-position-13" style="font-size: 12pt;" aria-label="Energie (1 item)">Energie</a>
+<a href="https://homofabulus.com/tag/evolution/" class="tag-cloud-link tag-link-5 tag-link-position-14" style="font-size: 16.8pt;" aria-label="Evolution (2 items)">Evolution</a>
+<a href="https://homofabulus.com/tag/facebook/" class="tag-cloud-link tag-link-28 tag-link-position-15" style="font-size: 12pt;" aria-label="Facebook (1 item)">Facebook</a>
+<a href="https://homofabulus.com/tag/fitness/" class="tag-cloud-link tag-link-20 tag-link-position-16" style="font-size: 12pt;" aria-label="Fitness (1 item)">Fitness</a>
+<a href="https://homofabulus.com/tag/fitness-inclusive/" class="tag-cloud-link tag-link-45 tag-link-position-17" style="font-size: 12pt;" aria-label="Fitness Inclusive (1 item)">Fitness Inclusive</a>
+<a href="https://homofabulus.com/tag/force-physique/" class="tag-cloud-link tag-link-25 tag-link-position-18" style="font-size: 12pt;" aria-label="Force physique (1 item)">Force physique</a>
+<a href="https://homofabulus.com/tag/grossesse/" class="tag-cloud-link tag-link-48 tag-link-position-19" style="font-size: 12pt;" aria-label="Grossesse (1 item)">Grossesse</a>
+<a href="https://homofabulus.com/tag/genes/" class="tag-cloud-link tag-link-52 tag-link-position-20" style="font-size: 12pt;" aria-label="Gènes (1 item)">Gènes</a>
+<a href="https://homofabulus.com/tag/haig/" class="tag-cloud-link tag-link-51 tag-link-position-21" style="font-size: 12pt;" aria-label="Haig (1 item)">Haig</a>
+<a href="https://homofabulus.com/tag/hominine/" class="tag-cloud-link tag-link-61 tag-link-position-22" style="font-size: 16.8pt;" aria-label="Hominine (2 items)">Hominine</a>
+<a href="https://homofabulus.com/tag/homo-sapiens/" class="tag-cloud-link tag-link-7 tag-link-position-23" style="font-size: 12pt;" aria-label="Homo sapiens (1 item)">Homo sapiens</a>
+<a href="https://homofabulus.com/tag/mimetisme/" class="tag-cloud-link tag-link-74 tag-link-position-24" style="font-size: 16.8pt;" aria-label="Mimétisme (2 items)">Mimétisme</a>
+<a href="https://homofabulus.com/tag/monogamie/" class="tag-cloud-link tag-link-101 tag-link-position-25" style="font-size: 16.8pt;" aria-label="Monogamie (2 items)">Monogamie</a>
+<a href="https://homofabulus.com/tag/morale/" class="tag-cloud-link tag-link-130 tag-link-position-26" style="font-size: 20pt;" aria-label="Morale (3 items)">Morale</a>
+<a href="https://homofabulus.com/tag/neanderthal/" class="tag-cloud-link tag-link-8 tag-link-position-27" style="font-size: 12pt;" aria-label="Néanderthal (1 item)">Néanderthal</a>
+<a href="https://homofabulus.com/tag/neocortex/" class="tag-cloud-link tag-link-26 tag-link-position-28" style="font-size: 12pt;" aria-label="Néocortex (1 item)">Néocortex</a>
+<a href="https://homofabulus.com/tag/obesite/" class="tag-cloud-link tag-link-4 tag-link-position-29" style="font-size: 12pt;" aria-label="Obésité (1 item)">Obésité</a>
+<a href="https://homofabulus.com/tag/parasite/" class="tag-cloud-link tag-link-34 tag-link-position-30" style="font-size: 12pt;" aria-label="Parasite (1 item)">Parasite</a>
+<a href="https://homofabulus.com/tag/politique/" class="tag-cloud-link tag-link-30 tag-link-position-31" style="font-size: 16.8pt;" aria-label="Politique (2 items)">Politique</a>
+<a href="https://homofabulus.com/tag/polyandrie/" class="tag-cloud-link tag-link-33 tag-link-position-32" style="font-size: 16.8pt;" aria-label="Polyandrie (2 items)">Polyandrie</a>
+<a href="https://homofabulus.com/tag/polygamie/" class="tag-cloud-link tag-link-32 tag-link-position-33" style="font-size: 20pt;" aria-label="Polygamie (3 items)">Polygamie</a>
+<a href="https://homofabulus.com/tag/polygynie/" class="tag-cloud-link tag-link-31 tag-link-position-34" style="font-size: 20pt;" aria-label="Polygynie (3 items)">Polygynie</a>
+<a href="https://homofabulus.com/tag/primates/" class="tag-cloud-link tag-link-27 tag-link-position-35" style="font-size: 12pt;" aria-label="Primates (1 item)">Primates</a>
+<a href="https://homofabulus.com/tag/reproduction/" class="tag-cloud-link tag-link-47 tag-link-position-36" style="font-size: 12pt;" aria-label="Reproduction (1 item)">Reproduction</a>
+<a href="https://homofabulus.com/tag/reseau-social/" class="tag-cloud-link tag-link-29 tag-link-position-37" style="font-size: 12pt;" aria-label="Réseau Social (1 item)">Réseau Social</a>
+<a href="https://homofabulus.com/tag/sciences-de-la-vie/" class="tag-cloud-link tag-link-160 tag-link-position-38" style="font-size: 16.8pt;" aria-label="Sciences de la Vie (2 items)">Sciences de la Vie</a>
+<a href="https://homofabulus.com/tag/sexe/" class="tag-cloud-link tag-link-153 tag-link-position-39" style="font-size: 16.8pt;" aria-label="Sexe (2 items)">Sexe</a>
+<a href="https://homofabulus.com/tag/similarite-genetique/" class="tag-cloud-link tag-link-44 tag-link-position-40" style="font-size: 16.8pt;" aria-label="Similarité génétique (2 items)">Similarité génétique</a>
+<a href="https://homofabulus.com/tag/singe/" class="tag-cloud-link tag-link-10 tag-link-position-41" style="font-size: 12pt;" aria-label="Singe (1 item)">Singe</a>
+<a href="https://homofabulus.com/tag/singes/" class="tag-cloud-link tag-link-9 tag-link-position-42" style="font-size: 12pt;" aria-label="Singes (1 item)">Singes</a>
+<a href="https://homofabulus.com/tag/strategies-sexuelles/" class="tag-cloud-link tag-link-37 tag-link-position-43" style="font-size: 16.8pt;" aria-label="Stratégies sexuelles (2 items)">Stratégies sexuelles</a>
+<a href="https://homofabulus.com/tag/theorie-du-signal/" class="tag-cloud-link tag-link-18 tag-link-position-44" style="font-size: 12pt;" aria-label="théorie du signal (1 item)">théorie du signal</a>
+<a href="https://homofabulus.com/tag/utilitarisme/" class="tag-cloud-link tag-link-133 tag-link-position-45" style="font-size: 16.8pt;" aria-label="Utilitarisme (2 items)">Utilitarisme</a>			</div>
+		</div>
+		
+	</div>
+    	<!-- TABS ENDS -->
+
+	<!-- Widgetized Sidebar -->	
+	<div class="widgetized">
+	    <div id="search_main" class="block">
+    <form method="get" id="searchform" action="https://homofabulus.com">
+        <div>
+        <input type="text" class="field" name="s" id="s"  value="Entrer des mots-clés..." onfocus="if (this.value == 'Entrer des mots-clés...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Entrer des mots-clés...';}" />
+        <input type="image" src="http://homofabulus.com/wp-content/themes/busybee/busybee/styles/custom/img_search.gif" class="submit" name="submit" />
+        </div>
+    </form>
+</div>
+<div id="categories-2" class="block widget widget_categories"><h2>Categories</h2><div class="fix"></div>
+			<ul>
+					<li class="cat-item cat-item-56"><a href="https://homofabulus.com/actu/">Actu</a>
+</li>
+	<li class="cat-item cat-item-188"><a href="https://homofabulus.com/adaptationnisme/">Adaptationnisme</a>
+</li>
+	<li class="cat-item cat-item-110"><a href="https://homofabulus.com/agression/">Agression</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="https://homofabulus.com/alimentation/">Alimentation</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="https://homofabulus.com/annonces/">Annonces</a>
+</li>
+	<li class="cat-item cat-item-170"><a href="https://homofabulus.com/archeologie/">Archéologie</a>
+</li>
+	<li class="cat-item cat-item-161"><a href="https://homofabulus.com/best-of/">Best Of</a>
+</li>
+	<li class="cat-item cat-item-136"><a href="https://homofabulus.com/biais-cognitif/">Biais Cognitif</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="https://homofabulus.com/billets-humeurs/">Billets d&#039;humeur</a>
+</li>
+	<li class="cat-item cat-item-182"><a href="https://homofabulus.com/biologie-theorique/">Biologie théorique</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="https://homofabulus.com/climat/">Climat</a>
+</li>
+	<li class="cat-item cat-item-139"><a href="https://homofabulus.com/cognition/">Cognition</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="https://homofabulus.com/cooperation/">Coopération</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="https://homofabulus.com/creationnisme/">Créationnisme</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="https://homofabulus.com/definitions/">Définitions</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="https://homofabulus.com/emotions/">Emotions</a>
+</li>
+	<li class="cat-item cat-item-181"><a href="https://homofabulus.com/evolution/">Évolution</a>
+</li>
+	<li class="cat-item cat-item-190"><a href="https://homofabulus.com/genetique/">Génétique</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="https://homofabulus.com/ia/">IA</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="https://homofabulus.com/image-du-jour/">Image du jour</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="https://homofabulus.com/livres/">Livres</a>
+</li>
+	<li class="cat-item cat-item-187"><a href="https://homofabulus.com/morale/">Morale</a>
+</li>
+	<li class="cat-item cat-item-150"><a href="https://homofabulus.com/neurosciences/">Neurosciences</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="https://homofabulus.com/nourriture/">Nourriture</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="https://homofabulus.com/paleoanthropologie/">Paléoanthropologie</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="https://homofabulus.com/parentalite/">Parentalité</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="https://homofabulus.com/philosophie/">Philosophie</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="https://homofabulus.com/politique/">Politique</a>
+</li>
+	<li class="cat-item cat-item-175"><a href="https://homofabulus.com/psychologie-evolutionnaire/">Psychologie évolutionnaire</a>
+</li>
+	<li class="cat-item cat-item-68"><a href="https://homofabulus.com/religion/">Religion</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="https://homofabulus.com/sante/">Santé</a>
+</li>
+	<li class="cat-item cat-item-200"><a href="https://homofabulus.com/sciences-cognitives-appliquees/">Sciences cognitives appliquées</a>
+</li>
+	<li class="cat-item cat-item-151"><a href="https://homofabulus.com/sciences-de-la-vie/">Sciences de la Vie</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://homofabulus.com/sexe/">Sexe</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="https://homofabulus.com/societe/">Société</a>
+</li>
+	<li class="cat-item cat-item-191"><a href="https://homofabulus.com/sociobiologie/">Sociobiologie</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://homofabulus.com/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="https://homofabulus.com/videos/">Vidéos</a>
+</li>
+			</ul>
+
+			</div>		           
+	</div>	
+	
+</div>
+<!-- Sidebar Ends -->			</div>
+		</div>
+		<!-- Content Ends -->
+	</div>
+	</div>
+	</div>
+	</div>
+	<!-- Middle Ends -->
+		
+	<!-- Footer Starts -->
+	<div id="footer-out">
+	<div id="footer">
+	<div class="position wrap">
+		
+		<!-- Footer Widget Area Starts -->
+		
+		<div class="block">
+					           
+		</div>
+		<div class="block">
+			<div id="block-2" class="widget widget_block widget_text">
+<p><a href="https://homofabulus.com/confidentialite/">Confidentialité</a>  <a href="https://homofabulus.com/conditions-dutilisation/">Conditions d’utilisation</a>  <a href="https://homofabulus.com/mentions-legales/">Mentions légales</a>  <a href="https://homofabulus.com/contact/">Contact</a></p>
+</div>		           
+		</div>
+		<div class="block">
+					           
+		</div>
+		
+		<!-- Footer Widget Area Ends -->
+				
+	</div>
+	</div>
+	</div>
+	<!-- Footer Ends -->
+	<!-- Copyright Starts -->
+	<div id="copyright-out">
+	<div id="copyright" class="wrap">
+		<div class="col-left">
+			<p></p>
+<p></p>
+		</div>
+		<div class="col-right">
+			<p></p>
+		</div>
+	</div>
+	</div>
+	<!-- Copyright Ends -->
+	
+</div>
+<script id="ckyBannerTemplate" type="text/template"><div class="cky-overlay cky-hide"></div><div class="cky-btn-revisit-wrapper cky-revisit-hide" data-cky-tag="revisit-consent" data-tooltip="Paramètres des cookies" style="background-color:#0056a7"> <button class="cky-btn-revisit" aria-label="Paramètres des cookies"> <img src="https://homofabulus.com/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg" alt="Revisit consent button"> </button></div><div class="cky-consent-container cky-hide"> <div class="cky-consent-bar" data-cky-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4;color:#212121">  <div class="cky-notice"> <p class="cky-title" data-cky-tag="title" style="color:#212121">Nous respectons votre vie privée.</p><div class="cky-notice-group"> <div class="cky-notice-des" data-cky-tag="description" style="color:#212121"> <p>Nous utilisons des cookies pour améliorer votre expérience de navigation, diffuser des publicités ou des contenus personnalisés et analyser notre trafic. En cliquant sur « Tout accepter », vous consentez à notre utilisation des cookies.</p> </div><div class="cky-notice-btn-wrapper" data-cky-tag="notice-buttons"> <button class="cky-btn cky-btn-customize" aria-label="Personnaliser" data-cky-tag="settings-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Personnaliser</button> <button class="cky-btn cky-btn-reject" aria-label="Tout rejeter" data-cky-tag="reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc">Tout rejeter</button> <button class="cky-btn cky-btn-accept" aria-label="Accepter tout" data-cky-tag="accept-button" style="color:#FFFFFF;background-color:#1863dc;border-color:#1863dc">Accepter tout</button>  </div></div></div></div></div><div class="cky-modal"> <div class="cky-preference-center" data-cky-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#F4F4F4"> <div class="cky-preference-header"> <span class="cky-preference-title" data-cky-tag="detail-title" style="color:#212121">Personnaliser les préférences en matière de consentement</span> <button class="cky-btn-close" aria-label="[cky_preference_close_label]" data-cky-tag="detail-close"> <img src="https://homofabulus.com/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="cky-preference-body-wrapper"> <div class="cky-preference-content-wrapper" data-cky-tag="detail-description" style="color:#212121"> <p>Nous utilisons des cookies pour vous aider à naviguer efficacement et à exécuter certaines fonctionnalités. Vous trouverez des informations détaillées sur tous les cookies sous chaque catégorie de consentement ci-dessous.</p><p>Les cookies qui sont catégorisés comme « nécessaires » sont stockés sur votre navigateur car ils sont essentiels pour permettre les fonctionnalités de base du site. </p><p>Nous utilisons également des cookies tiers qui nous aident à analyser la façon dont vous utilisez ce site web, à enregistrer vos préférences et à vous fournir le contenu et les publicités qui vous sont pertinents. Ces cookies ne seront stockés dans votre navigateur qu'avec votre consentement préalable.</p><p>Vous pouvez choisir d'activer ou de désactiver tout ou partie de ces cookies, mais la désactivation de certains d'entre eux peut affecter votre expérience de navigation.</p> </div><div class="cky-accordion-wrapper" data-cky-tag="detail-categories"> <div class="cky-accordion" id="ckyDetailCategorynecessary"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Nécessaire" data-cky-tag="detail-category-title" style="color:#212121">Nécessaire</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchnecessary"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les cookies nécessaires sont cruciaux pour les fonctions de base du site Web et celui-ci ne fonctionnera pas comme prévu sans eux. Ces cookies ne stockent aucune donnée personnellement identifiable.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Aucun cookie à afficher.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryfunctional"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Fonctionnelle" data-cky-tag="detail-category-title" style="color:#212121">Fonctionnelle</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchfunctional"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les cookies fonctionnels permettent d'exécuter certaines fonctionnalités telles que le partage du contenu du site Web sur des plateformes de médias sociaux, la collecte de commentaires et d'autres fonctionnalités tierces.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Aucun cookie à afficher.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryanalytics"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Analytique" data-cky-tag="detail-category-title" style="color:#212121">Analytique</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchanalytics"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les cookies analytiques sont utilisés pour comprendre comment les visiteurs interagissent avec le site Web. Ces cookies aident à fournir des informations sur le nombre de visiteurs, le taux de rebond, la source de trafic, etc.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Aucun cookie à afficher.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryperformance"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Performance" data-cky-tag="detail-category-title" style="color:#212121">Performance</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchperformance"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les cookies de performance sont utilisés pour comprendre et analyser les indices de performance clés du site Web, ce qui permet de fournir une meilleure expérience utilisateur aux visiteurs.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Aucun cookie à afficher.</p></div> </div> </div><div class="cky-accordion" id="ckyDetailCategoryadvertisement"> <div class="cky-accordion-item"> <div class="cky-accordion-chevron"><i class="cky-chevron-right"></i></div> <div class="cky-accordion-header-wrapper"> <div class="cky-accordion-header"><button class="cky-accordion-btn" aria-label="Publicité" data-cky-tag="detail-category-title" style="color:#212121">Publicité</button><span class="cky-always-active">Toujours actif</span> <div class="cky-switch" data-cky-tag="detail-category-toggle"><input type="checkbox" id="ckySwitchadvertisement"></div> </div> <div class="cky-accordion-header-des" data-cky-tag="detail-category-description" style="color:#212121"> <p>Les cookies de publicité sont utilisés pour fournir aux visiteurs des publicités personnalisées basées sur les pages visitées précédemment et analyser l'efficacité de la campagne publicitaire.</p></div> </div> </div> <div class="cky-accordion-body"> <div class="cky-audit-table" data-cky-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="cky-empty-cookies-text">Aucun cookie à afficher.</p></div> </div> </div> </div></div><div class="cky-footer-wrapper"> <span class="cky-footer-shadow"></span> <div class="cky-prefrence-btn-wrapper" data-cky-tag="detail-buttons"> <button class="cky-btn cky-btn-reject" aria-label="Tout rejeter" data-cky-tag="detail-reject-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Tout rejeter </button> <button class="cky-btn cky-btn-preferences" aria-label="Enregistrer mes préférences" data-cky-tag="detail-save-button" style="color:#1863dc;background-color:transparent;border-color:#1863dc"> Enregistrer mes préférences </button> <button class="cky-btn cky-btn-accept" aria-label="Accepter tout" data-cky-tag="detail-accept-button" style="color:#ffffff;background-color:#1863dc;border-color:#1863dc"> Accepter tout </button> </div><div style="padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;border-radius: 0 0 6px 6px;direction: ltr;justify-content: flex-end;align-items: center;background-color:#EDEDED;color:#293C5B" data-cky-tag="detail-powered-by"> Powered by <a target="_blank" rel="noopener" href="https://www.cookieyes.com/product/cookie-consent" style="margin-left: 5px;line-height: 0"><img src="https://homofabulus.com/wp-content/plugins/cookie-law-info/lite/frontend/images/poweredbtcky.svg" alt="Cookieyes logo" style="width: 78px;height: 13px;margin: 0"></a> </div></div></div></div></script><!-- Powered by WPtouch: 4.3.55 --><script type="text/javascript" id="wp-polls-js-extra">
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/homofabulus.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://homofabulus.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.77.2" id="wp-polls-js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9734248-7']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('http:' == document.location.protocol ? 'http://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+</html>

@@ -1,0 +1,1053 @@
+
+
+<!doctype html>
+<html class="no-js" lang="" >
+    <head>
+        <!-- Font loading -->
+        <script src="https://use.typekit.net/zhb4tnj.js"></script>
+        <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+        
+            <!-- Data layer -->
+            <script>
+                // Define dataLayer and the gtag function.
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag("consent", "default", {
+                    ad_storage: "denied",
+                    analytics_storage: "denied",
+                    functionality_storage: "denied",
+                    personalization_storage: "denied",
+                    security_storage: "granted",
+                    wait_for_update: 2000,
+                });
+                gtag("set", "ads_data_redaction", true);
+            </script>
+        
+
+        
+
+        
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PW7HS7');</script>
+            <!-- End Google Tag Manager -->
+        
+
+        <!-- TODO fallbacks if page is not defined e.g. for 404 page -->
+        <meta charset="utf-8" />
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>404 - Page not found</title>
+        <meta name="description" content="" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- favicons -->
+        
+        <link rel="apple-touch-icon" sizes="57x57" href="/static/img/favicon/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/static/img/favicon/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/static/img/favicon/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/static/img/favicon/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/static/img/favicon/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/static/img/favicon/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/static/img/favicon/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/static/img/favicon/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/static/img/favicon/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="/static/img/favicon/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/static/img/favicon/favicon-194x194.png" sizes="194x194">
+        <link rel="icon" type="image/png" href="/static/img/favicon/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/static/img/favicon/android-chrome-192x192.png" sizes="192x192">
+        <link rel="icon" type="image/png" href="/static/img/favicon/favicon-16x16.png" sizes="16x16">
+        <link rel="manifest" href="/static/img/favicon/manifest.json">
+        <link rel="mask-icon" href="/static/img/favicon/safari-pinned-tab.svg" color="#5bbad5">
+        <link rel="shortcut icon" href="/static/img/favicon/favicon.ico">
+        <meta name="msapplication-TileColor" content="#da532c">
+        <meta name="msapplication-TileImage" content="/static/img/favicon/mstile-144x144.png">
+        <meta name="msapplication-config" content="/static/img/favicon/browserconfig.xml">
+        <meta name="theme-color" content="#ffffff">
+
+        <!-- Twitter summary card - see https://dev.twitter.com/cards/types/summary -->
+        <!--  and https://dev.twitter.com/cards/getting-started -->
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@shakespearebt" />
+        <meta name="twitter:title" content="" />
+        <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="">
+
+        <!--facebook opengraph tags-->
+        <meta property="fb:app_id" content="1623690144613678" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="" />
+        <meta property="og:title" content="" />
+        <meta property="og:image" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:site_name" content="Shakespeare Birthplace Trust" />
+
+        
+
+        <!-- / Font loading -->
+
+        <link rel="stylesheet" type="text/css" href="/static/css/main.css">
+
+        <!-- Ionicons - needed for button icons etc -->
+        <link rel="stylesheet" type="text/css" href="//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+/>
+
+
+        
+    </head>
+
+    <body class="template-">
+        
+            <!-- Google Tag Manager (noscript) -->
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PW7HS7"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+            <!-- End Google Tag Manager (noscript) -->
+        
+
+        
+
+        
+
+
+<header class="header js-header">
+    
+        <div class="container mod-header">
+            <a href="/"
+            class="header-logo is-visible js-logo mod-always-visible"
+            tabindex="1"
+            title="Go to the Shakespeare Birthplace Trust home page">
+                
+                    <img src="/static/img/logo-red.svg"
+                        class="header-logo-img"
+                        alt="Shakespeare Birthplace Trust logo">
+                
+            </a>
+            
+
+            
+
+            <nav class="nav js-nav nav--desktop" role="navigation" aria-label="Primary">
+                <ul class="nav-primary js-nav-section" role="menubar">
+                    <li role="presentation" class="nav-primary-item">
+                        <a class="nav-primary-item-link mod-home js-home"
+                        tabindex="0"
+                        title="Go to the Shakespeare Birthplace Trust home page"
+                        href="/">
+                            <span class="sr-only">Home</span>
+                            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 539 538.9" style="enable-background:new 0 0 539 538.9;" xml:space="preserve"> <defs> </defs> <g> <path d="M101.2,538.9c-4.4,0-15.7-0.9-24.7-9.5c-4.8-4.5-10.5-12.8-10.5-26.1V312.1H54.8c-18.8,0-42.3-10.8-50.8-31.6 c-9.8-23.6,0.6-36.8,11.1-47.3L233.3,15c9.7-9.7,22.5-15,36.2-15c13.7,0,26.5,5.3,36.2,15l218.3,218.3 c10.5,10.5,20.9,23.6,11.2,47.3c-8,19.2-26.6,31.6-47.3,31.6h-18.3v191.2c0,17.3-12.5,35.6-35.6,35.6c-0.7,0-67.5-0.2-82.9-0.2 c-23.1,0-35.6-18.7-35.6-36.2v-145h-96.1v145.8c0,17.3-12.5,35.6-35.6,35.6h-81.9C101.6,538.9,101.4,538.9,101.2,538.9z M355.4,502.1v0.5C355.4,502.5,355.4,502.3,355.4,502.1z M105.9,498.9h73.4V353.1c0-0.1,0-0.2,0-0.3c0.2-13.9,7.1-25.2,18.9-31.2 c7.5-3.8,14.7-4.1,16.7-4.1h104.9c17.3,0,35.6,12.5,35.6,35.6v145.6c17.6,0,60.2,0.1,74.1,0.2V292.1c0-11,9-20,20-20h38.3 c4.5,0,8.6-2.7,10.4-6.9c0.1-0.3,0.2-0.5,0.3-0.8c-0.6-0.7-1.5-1.6-2.7-2.8c0,0,0,0,0,0L277.4,43.3c-2.1-2.1-4.9-3.3-7.9-3.3 c-3,0-5.8,1.2-7.9,3.3L43.3,261.6c-1.3,1.3-2.1,2.2-2.7,2.9c0.1,0.2,0.2,0.5,0.3,0.8c1.1,2.7,7.8,6.9,13.9,6.9h31.2 c11,0,20,9,20,20V498.9z M219.3,353.3C219.3,353.3,219.3,353.3,219.3,353.3C219.3,353.3,219.3,353.3,219.3,353.3z M499.6,266 L499.6,266L499.6,266z"></path> </g> </svg>
+
+                        </a>
+                    </li>
+                    
+                    
+                        <li role="presentation" class="nav-primary-item">
+                            <a class="nav-primary-item-link js-nav-link"
+                            tabindex="0"
+                            href="/visit/">
+                                Visit
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                            
+                                
+                                    <ul class="subitem-list js-subitem-list">
+                                        <div class="container">
+                                            
+                                                <li class="subitem-list-item">
+                                                    <a class="subitem-list-item-link"
+                                                    href="/visit/shakespeares-birthplace/">
+                                                        
+                                                            
+                                                            <span class="subitem-list-item-link-image"
+                                                                style="background-image: url(https://media.shakespeare.org.uk/images/BP_JadeSmith_2016.aa414120.fill-110x70-c75.jpg)">
+                                                            </span>
+                                                        
+                                                        <h4 class="subitem-list-item-link-title">
+                                                            Shakespeare&#x27;s Birthplace
+                                                        </h4>
+                                                        <h5 class="subitem-list-item-link-subtitle">
+                                                            Visit William Shakespeare&#x27;s Birthplace and explore his childhood world, right where it all began.
+                                                        </h5>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="subitem-list-item">
+                                                    <a class="subitem-list-item-link"
+                                                    href="/visit/plan-your-visit/">
+                                                        
+                                                            
+                                                            <span class="subitem-list-item-link-image"
+                                                                style="background-image: url(https://media.shakespeare.org.uk/images/Birthplace_Header.4664cb9c.fill-110x70-c75.jpg)">
+                                                            </span>
+                                                        
+                                                        <h4 class="subitem-list-item-link-title">
+                                                            Plan Your Visit
+                                                        </h4>
+                                                        <h5 class="subitem-list-item-link-subtitle">
+                                                            Prices, booking, opening times and more to help you get organised
+                                                        </h5>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="subitem-list-item">
+                                                    <a class="subitem-list-item-link"
+                                                    href="/visit/whats-on/">
+                                                        
+                                                            
+                                                            <span class="subitem-list-item-link-image"
+                                                                style="background-image: url(https://media.shakespeare.org.uk/images/Low_res_poetry_festival.2e16d0ba.fill-110x70-c75.jpg)">
+                                                            </span>
+                                                        
+                                                        <h4 class="subitem-list-item-link-title">
+                                                            What&#x27;s On
+                                                        </h4>
+                                                        <h5 class="subitem-list-item-link-subtitle">
+                                                            Enjoy seasonal activities and special events throughout the year
+                                                        </h5>
+                                                    </a>
+                                                </li>
+                                            
+                                                <li class="subitem-list-item">
+                                                    <a class="subitem-list-item-link"
+                                                    href="/visit/faqs/">
+                                                        
+                                                            
+                                                            <span class="subitem-list-item-link-image"
+                                                                style="background-image: url(https://media.shakespeare.org.uk/images/Birthplace.dfe4a950.fill-110x70-c75.jpg)">
+                                                            </span>
+                                                        
+                                                        <h4 class="subitem-list-item-link-title">
+                                                            Visiting FAQs
+                                                        </h4>
+                                                        <h5 class="subitem-list-item-link-subtitle">
+                                                            Information to help you plan your visit to Shakespeare&#x27;s family homes
+                                                        </h5>
+                                                    </a>
+                                                </li>
+                                            
+                                        </div>
+                                    </ul>
+                                
+                            
+                        </li>
+                    
+                        <li role="presentation" class="nav-primary-item">
+                            <a class="nav-primary-item-link js-nav-link"
+                            tabindex="0"
+                            href="/explore-shakespeare/">
+                                Explore Shakespeare
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                            
+                                
+                                    <ul class="subitem-list mod-small js-subitem-list">
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/shakespedia/">
+                                                    Shakespedia
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/blogs/">
+                                                    Blogs
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/collections/">
+                                                    Collections
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/podcasts/">
+                                                    Podcasts
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/leisure-courses/">
+                                                    Leisure Courses
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/museum-from-home/">
+                                                    Museum From Home
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/explore-shakespeare/shakespeare-shorts/">
+                                                    Shakespeare Shorts
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            
+                        </li>
+                    
+                        <li role="presentation" class="nav-primary-item">
+                            <a class="nav-primary-item-link js-nav-link"
+                            tabindex="0"
+                            href="/education/">
+                                Education
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                            
+                                
+                                    <ul class="subitem-list mod-small js-subitem-list">
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/early-years-home-educators-and-families/">
+                                                    Early Years
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/schools/">
+                                                    Schools
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/universities/">
+                                                    Universities
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/self-led-learning/">
+                                                    Self-led Learning
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/residential-courses/">
+                                                    Residential Courses
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/teaching-resources/">
+                                                    Teaching Resources
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/home-learning/">
+                                                    Home Learning
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/how-to-book/">
+                                                    Bookings &amp; Enquiries
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/shakespeare-week/">
+                                                    Shakespeare Week
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/meet-the-team/">
+                                                    Meet the team
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/research-scholars/">
+                                                    Research &amp; Scholars
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/education-projects/">
+                                                    Education Projects
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/home-educators/">
+                                                    Home Educators
+                                                </a>
+                                            </li>
+                                        
+                                            <li class="subitem-list-item mod-small">
+                                                <a class="subitem-list-item-link mod-block"
+                                                href="/education/learning-news/">
+                                                    Learning News
+                                                </a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                            
+                        </li>
+                    
+                </ul>
+
+                
+                    <ul class="nav-secondary js-nav-section" role="menubar">
+                        <li class="nav-secondary-item">
+                            
+                            <a href="/support-us/"
+                            title="Find out how you can support the Shakespeare Birthplace Trust"
+                            class="nav-secondary-item-link js-nav-link">
+                                Support us
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                        </li>
+                        <li class="nav-secondary-item">
+                            <a href="https://www.shakespeare.org.uk/shop/"
+                            title="Go to the shop page"
+                            class="nav-secondary-item-link js-nav-link">
+                                Shop
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                        </li>
+                        <li class="nav-secondary-item">
+                            <a href="/about-us/"
+                            title="Find out more about the Shakespeare Birthplace Trust"
+                            class="nav-secondary-item-link js-nav-link">
+                                About us
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                        </li>
+                    </ul>
+                
+
+                <a href="#" class="nav-search js-search-trigger"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 19 19.6" style="enable-background:new 0 0 19 19.6;" xml:space="preserve"><defs></defs><path d="M19,18.2l-5.3-5.3c1.2-1.4,1.9-3.2,1.9-5.1c0-4.3-3.5-7.8-7.8-7.8S0,3.5,0,7.8s3.5,7.8,7.8,7.8 c1.6,0,3.2-0.5,4.4-1.4l5.4,5.4L19,18.2z M2,7.8C2,4.6,4.6,2,7.8,2c3.2,0,5.8,2.6,5.8,5.8s-2.6,5.8-5.8,5.8C4.6,13.6,2,11,2,7.8z"></path></svg></a>
+            </nav>
+
+            
+
+            <nav class="nav nav--mobile js-mobile-menu" role="navigation" aria-label="Primary">
+                <ul class="nav-primary js-primary-nav" role="menubar">
+                    
+                    
+                        <li role="presentation" class="nav-primary-item">
+                            <a class="nav-primary-item-link js-primary-item-link"
+                            tabindex="0"
+                            href="/visit/">
+                                Visit
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                            
+                                <ul class="subitem-list-mobile js-submenu">
+                                    <button role="button" class="subitem-list-back js-back">
+                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                                        Back
+                                    </button>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/visit/shakespeares-birthplace/">
+                                                Shakespeare&#x27;s Birthplace
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/visit/plan-your-visit/">
+                                                Plan Your Visit
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/visit/whats-on/">
+                                                What&#x27;s On
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/visit/faqs/">
+                                                Visiting FAQs
+                                            </a>
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                        <li role="presentation" class="nav-primary-item">
+                            <a class="nav-primary-item-link js-primary-item-link"
+                            tabindex="0"
+                            href="/explore-shakespeare/">
+                                Explore Shakespeare
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                            
+                                <ul class="subitem-list-mobile js-submenu">
+                                    <button role="button" class="subitem-list-back js-back">
+                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                                        Back
+                                    </button>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/shakespedia/">
+                                                Shakespedia
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/blogs/">
+                                                Blogs
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/collections/">
+                                                Collections
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/podcasts/">
+                                                Podcasts
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/leisure-courses/">
+                                                Leisure Courses
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/museum-from-home/">
+                                                Museum From Home
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/explore-shakespeare/shakespeare-shorts/">
+                                                Shakespeare Shorts
+                                            </a>
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                        <li role="presentation" class="nav-primary-item">
+                            <a class="nav-primary-item-link js-primary-item-link"
+                            tabindex="0"
+                            href="/education/">
+                                Education
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                            
+                                <ul class="subitem-list-mobile js-submenu">
+                                    <button role="button" class="subitem-list-back js-back">
+                                        <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                                        Back
+                                    </button>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/early-years-home-educators-and-families/">
+                                                Early Years
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/schools/">
+                                                Schools
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/universities/">
+                                                Universities
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/self-led-learning/">
+                                                Self-led Learning
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/residential-courses/">
+                                                Residential Courses
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/teaching-resources/">
+                                                Teaching Resources
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/home-learning/">
+                                                Home Learning
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/how-to-book/">
+                                                Bookings &amp; Enquiries
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/shakespeare-week/">
+                                                Shakespeare Week
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/meet-the-team/">
+                                                Meet the team
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/research-scholars/">
+                                                Research &amp; Scholars
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/education-projects/">
+                                                Education Projects
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/home-educators/">
+                                                Home Educators
+                                            </a>
+                                        </li>
+                                    
+                                        <li class="subitem-list-item mod-small">
+                                            <a class="subitem-list-item-link"
+                                            href="/education/learning-news/">
+                                                Learning News
+                                            </a>
+                                        </li>
+                                    
+                                </ul>
+                            
+                        </li>
+                    
+                </ul>
+
+                
+                    <ul class="nav-secondary" role="menubar">
+                        <li class="nav-secondary-item">
+                            <a href="/support-us/"
+                            title="Find out how you can support the Shakespeare Birthplace Trust"
+                            class="nav-secondary-item-link js-nav-link">
+                                Support us
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                        </li>
+                        <li class="nav-secondary-item">
+                            <a href="https://www.shakespeare.org.uk/shop/"
+                            title="Go to the shop page"
+                            class="nav-secondary-item-link">
+                                Shop
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                        </li>
+                        <li class="nav-secondary-item">
+                            <a href="/about-us/"
+                            title="Find out more about the Shakespeare Birthplace Trust"
+                            class="nav-secondary-item-link">
+                                About us
+                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+                            </a>
+                        </li>
+                        <li class="nav-secondary-item">
+                            <a href="https://tickets.shakespeare.org.uk/events"
+                            class="header-voucher "
+                            title="Book now">
+                                <img src="/static/img/ticket.svg"
+                                    class="header-voucher-img"
+                                    alt="Ticket icon">
+                                Book Now
+                            </a>
+                        </li>
+                    </ul>
+                
+
+                <a href="#" class="nav-search js-search-trigger"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 19 19.6" style="enable-background:new 0 0 19 19.6;" xml:space="preserve"><defs></defs><path d="M19,18.2l-5.3-5.3c1.2-1.4,1.9-3.2,1.9-5.1c0-4.3-3.5-7.8-7.8-7.8S0,3.5,0,7.8s3.5,7.8,7.8,7.8 c1.6,0,3.2-0.5,4.4-1.4l5.4,5.4L19,18.2z M2,7.8C2,4.6,4.6,2,7.8,2c3.2,0,5.8,2.6,5.8,5.8s-2.6,5.8-5.8,5.8C4.6,13.6,2,11,2,7.8z"></path></svg></a><a href="#" class="nav-hamburger js-mobile-menu-toggle"><div class="nav-hamburger-icon"><span class="nav-hamburger-icon-line"></span><span class="nav-hamburger-icon-line"></span><span class="nav-hamburger-icon-line"></span></div></a>
+            </nav>
+
+        </div>
+
+        <form action="/search/"
+            class="search js-search"
+            method="get"
+            role="search">
+            <input type="text"
+                class="search-input js-search-input"
+                placeholder="Search the site"
+                name="query"
+                " />
+            <button type="submit"
+                    class="search-button">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 19 19.6" style="enable-background:new 0 0 19 19.6;" xml:space="preserve"> <defs> </defs> <path d="M19,18.2l-5.3-5.3c1.2-1.4,1.9-3.2,1.9-5.1c0-4.3-3.5-7.8-7.8-7.8S0,3.5,0,7.8s3.5,7.8,7.8,7.8 c1.6,0,3.2-0.5,4.4-1.4l5.4,5.4L19,18.2z M2,7.8C2,4.6,4.6,2,7.8,2c3.2,0,5.8,2.6,5.8,5.8s-2.6,5.8-5.8,5.8C4.6,13.6,2,11,2,7.8z"></path> </svg>
+
+            </button>
+            <a href="#close"
+            class="search-close js-search-trigger">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 18.3 18.3" style="enable-background:new 0 0 18.3 18.3;" xml:space="preserve"> <defs> </defs> <polygon points="18.3,1.4 16.9,0 9.2,7.8 1.4,0 0,1.4 7.8,9.2 0,16.9 1.4,18.3 9.2,10.6 16.9,18.3 18.3,16.9 10.6,9.2 "></polygon> </svg>
+
+            </a>
+        </form>
+    
+</header>
+
+
+        
+
+
+<div class="share js-share">
+    <p class="share-text">Share this page</p>
+
+    
+        <ul class="share-list">
+            <li class="share-list-item mod-close js-share-close">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 16.2 29.6" style="enable-background:new 0 0 16.2 29.6;" xml:space="preserve"> <defs> </defs> <g> <polygon points="14.8,0 16.2,1.4 2.8,14.8 16.2,28.2 14.8,29.6 0,14.8     "></polygon> </g> </svg>
+
+            </li>
+
+            <!-- see https://developers.facebook.com/docs/sharing/reference/feed-dialog/v2.5 -->
+            <!-- Add a default image to use for social sharing here in case one is not provided on the page. -->
+            <li class="share-list-item">
+                <a class="share-list-item-link js-share-link" href="https://www.facebook.com/dialog/feed?app_id=1623690144613678&amp;link=&amp;picture=&amp;name=&amp;description=&amp;redirect_uri="
+                   title="Share on Facebook">
+                    <span class="sr-only">Share on Facebook</span>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 30 64" style="enable-background:new 0 0 30 64;" xml:space="preserve"> <defs> </defs> <path id="facebook_1_" d="M30,0c0,3.7,0,10.3,0,10.3s-7.6-0.8-9.5,2.2c-1,1.6-0.4,6.2-0.5,9.6c3.3,0,6.8,0,10.1,0 c-0.9,3.9-1.5,6.6-2.1,9.9c-2.9,0-8,0-8,0v32c0,0-9.5,0-14,0c0-9.9,0-21.4,0-31.9c-2.2,0-3.8,0-5.9,0c0-3.7,0-6.4,0-10.1 c2.1,0,3.8,0,5.9,0C6.2,14.7,6.3,7.4,9.9,3.7C14.1-0.5,18,0,30,0z"></path> </svg>
+
+                </a>
+            </li>
+
+            <!-- see https://dev.twitter.com/web/tweet-button/web-intent -->
+            <li class="share-list-item">
+                <a class="share-list-item-link js-share-link" href="https://twitter.com/intent/tweet?text=&amp;url=&amp;via=shakespearebt"
+                   title="Share on Twitter">
+                    <span class="sr-only">Share on Twitter</span>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 64 51.9" style="enable-background:new 0 0 64 51.9;" xml:space="preserve"> <defs> </defs> <path id="twitter_1_" d="M43.5,0c5.1-0.1,7.8,1.8,10.4,4.1c2.2-0.2,5-1.4,6.7-2.3c0.5-0.3,1.1-0.6,1.6-0.9 c-1,2.6-2.3,4.6-4.3,6.2c-0.4,0.3-0.9,0.8-1.4,1c0,0,0,0,0,0c2.8,0,5.2-1.3,7.4-2c0,0,0,0,0,0c-1.2,1.9-2.8,3.8-4.5,5.1 c-0.7,0.5-1.4,1.1-2,1.6c0,3,0,5.9-0.6,8.4c-3.3,14.7-12,24.7-25.7,29c-4.9,1.5-12.9,2.2-18.6,0.8c-2.8-0.7-5.3-1.5-7.7-2.5 c-1.3-0.6-2.5-1.2-3.7-1.9C0.8,46.5,0.4,46.3,0,46c1.3,0,2.8,0.4,4.2,0.2C5.5,46,6.8,46,7.9,45.8c3-0.7,5.6-1.5,7.9-2.8 c1.1-0.6,2.8-1.4,3.6-2.3c-1.5,0-2.8-0.3-3.9-0.7c-4.2-1.5-6.7-4.3-8.3-8.4c1.3,0.1,5,0.5,5.9-0.3c-1.6-0.1-3.2-1-4.3-1.7 c-3.4-2.1-6.2-5.7-6.2-11.2c0.4,0.2,0.9,0.4,1.3,0.6c0.9,0.4,1.7,0.6,2.8,0.8c0.4,0.1,1.3,0.3,1.8,0.2c0,0,0,0-0.1,0 c-0.7-0.8-1.7-1.3-2.4-2.1C3.8,15,1.7,10.8,3,5.8c0.3-1.3,0.9-2.4,1.4-3.4c0,0,0,0,0.1,0C4.7,3,5.3,3.4,5.7,3.8 c1.1,1.4,2.5,2.6,3.9,3.7c4.8,3.7,9.1,6.1,16,7.8c1.8,0.4,3.8,0.8,5.9,0.8c-0.6-1.7-0.4-4.5,0.1-6.2c1.2-4.2,3.7-7.2,7.4-8.8 c0.9-0.4,1.9-0.7,2.9-0.9C42.5,0.1,43,0.1,43.5,0z"></path></svg>
+
+                </a>
+            </li>
+
+            <!-- see https://developer.linkedin.com/docs/share-on-linkedin -->
+            <li class="share-list-item">
+                <a class="share-list-item-link js-share-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=&amp;title=&amp;summary=&amp;source=Shakespeare%20Birthplace%20Trust"
+                title="Share on LinkedIn">
+                    <span class="sr-only">Share on LinkedIn</span>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 32 32" xml:space="preserve"> <defs> </defs> <path d="M26 25.963h-4.185v-6.55c0-1.56-.027-3.57-2.175-3.57-2.18 0-2.51 1.7-2.51 3.46v6.66h-4.182V12.495h4.012v1.84h.058c.558-1.058 1.924-2.174 3.96-2.174 4.24 0 5.022 2.79 5.022 6.418v7.386zM8.23 10.655a2.426 2.426 0 0 1 0-4.855 2.427 2.427 0 0 1 0 4.855zm-2.098 1.84h4.19v13.468h-4.19V12.495z" fill-rule="evenodd"/></svg>
+
+                </a>
+            </li>
+        </ul>
+    
+</div>
+
+
+        <main class="main js-main">
+            <div class="cover js-cover"></div>
+
+            
+
+    <section class="error-header">
+        <h1 class="error-header-title">
+            404 - Page not found
+        </h1>
+        <h2 class="error-header-subtitle">
+            Sorry, this page could not be found.
+        </h2>
+        <p class="error-header-subtitle">Please browse the site using the menus above, or search for something specific by clicking on the magnifying glass.</p>
+    </section>
+
+
+
+            
+
+
+<footer class="footer">
+    
+        <div class="footer__nav-container">
+            <section class="footer-section">
+                <h5 class="footer-section-title">Highlights</h5>
+                
+                    <a href="https://www.shakespeare.org.uk/visit/plan-your-visit/"
+                    class="footer-section-link">
+                        Plan Your Visit
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/visit/plan-your-visit/groups/"
+                    class="footer-section-link">
+                        Groups
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/visit/plan-your-visit/access/"
+                    class="footer-section-link">
+                        Access
+                    </a>
+                
+            </section>
+
+            <section class="footer-section mod-get-involved">
+                <h5 class="footer-section-title">Get involved</h5>
+                
+                    <a href="https://www.shakespeare.org.uk/support-us/donate/"
+                    class="footer-section-link">
+                        Donate
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/support-us/volunteer/"
+                    class="footer-section-link">
+                        Volunteer
+                    </a>
+                
+                    <a href="https://jobs.shakespeare.org.uk/home.html"
+                    class="footer-section-link">
+                        Jobs
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/about-us/contact-us/"
+                    class="footer-section-link">
+                        Contact Us
+                    </a>
+                
+            </section>
+
+            <section class="footer-section mod-useful">
+                <h5 class="footer-section-title">Useful</h5>
+                
+                    <a href="https://www.shakespeare.org.uk/explore-shakespeare/collections/"
+                    class="footer-section-link">
+                        Collections
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/education/research-scholars/"
+                    class="footer-section-link">
+                        Research
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/about-us/news-media/"
+                    class="footer-section-link">
+                        Press &amp; Media
+                    </a>
+                
+                    <a href="https://www.shakespeare.org.uk/terms-conditions/"
+                    class="footer-section-link">
+                        T&amp;Cs, Privacy and Cookies
+                    </a>
+                
+            </section>
+        
+
+        <section class="footer-section mod-social">
+            <h5 class="footer-section-title">Follow us</h5>
+            
+                <a href="https://www.facebook.com/ShakespeareBT"
+                class="footer-section-link">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 30 64" style="enable-background:new 0 0 30 64;" xml:space="preserve"> <defs> </defs> <path id="facebook_1_" d="M30,0c0,3.7,0,10.3,0,10.3s-7.6-0.8-9.5,2.2c-1,1.6-0.4,6.2-0.5,9.6c3.3,0,6.8,0,10.1,0 c-0.9,3.9-1.5,6.6-2.1,9.9c-2.9,0-8,0-8,0v32c0,0-9.5,0-14,0c0-9.9,0-21.4,0-31.9c-2.2,0-3.8,0-5.9,0c0-3.7,0-6.4,0-10.1 c2.1,0,3.8,0,5.9,0C6.2,14.7,6.3,7.4,9.9,3.7C14.1-0.5,18,0,30,0z"></path> </svg>
+
+                    Facebook
+                </a>
+            
+            
+                <a href="https://twitter.com/shakespearebt"
+                class="footer-section-link">
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/" x="0px" y="0px" viewBox="0 0 64 51.9" style="enable-background:new 0 0 64 51.9;" xml:space="preserve"> <defs> </defs> <path id="twitter_1_" d="M43.5,0c5.1-0.1,7.8,1.8,10.4,4.1c2.2-0.2,5-1.4,6.7-2.3c0.5-0.3,1.1-0.6,1.6-0.9 c-1,2.6-2.3,4.6-4.3,6.2c-0.4,0.3-0.9,0.8-1.4,1c0,0,0,0,0,0c2.8,0,5.2-1.3,7.4-2c0,0,0,0,0,0c-1.2,1.9-2.8,3.8-4.5,5.1 c-0.7,0.5-1.4,1.1-2,1.6c0,3,0,5.9-0.6,8.4c-3.3,14.7-12,24.7-25.7,29c-4.9,1.5-12.9,2.2-18.6,0.8c-2.8-0.7-5.3-1.5-7.7-2.5 c-1.3-0.6-2.5-1.2-3.7-1.9C0.8,46.5,0.4,46.3,0,46c1.3,0,2.8,0.4,4.2,0.2C5.5,46,6.8,46,7.9,45.8c3-0.7,5.6-1.5,7.9-2.8 c1.1-0.6,2.8-1.4,3.6-2.3c-1.5,0-2.8-0.3-3.9-0.7c-4.2-1.5-6.7-4.3-8.3-8.4c1.3,0.1,5,0.5,5.9-0.3c-1.6-0.1-3.2-1-4.3-1.7 c-3.4-2.1-6.2-5.7-6.2-11.2c0.4,0.2,0.9,0.4,1.3,0.6c0.9,0.4,1.7,0.6,2.8,0.8c0.4,0.1,1.3,0.3,1.8,0.2c0,0,0,0-0.1,0 c-0.7-0.8-1.7-1.3-2.4-2.1C3.8,15,1.7,10.8,3,5.8c0.3-1.3,0.9-2.4,1.4-3.4c0,0,0,0,0.1,0C4.7,3,5.3,3.4,5.7,3.8 c1.1,1.4,2.5,2.6,3.9,3.7c4.8,3.7,9.1,6.1,16,7.8c1.8,0.4,3.8,0.8,5.9,0.8c-0.6-1.7-0.4-4.5,0.1-6.2c1.2-4.2,3.7-7.2,7.4-8.8 c0.9-0.4,1.9-0.7,2.9-0.9C42.5,0.1,43,0.1,43.5,0z"></path></svg>
+
+                    Twitter
+                </a>
+            
+            
+                <a href="https://instagram.com/shakespearebtrust"
+                class="footer-section-link">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 503.84 503.84"><title>glyph-logo_May2016</title><path d="M251.92 45.39c67.27 0 75.23.26 101.8 1.47 24.56 1.12 37.9 5.22 46.78 8.67a78.05 78.05 0 0 1 29 18.84 78.05 78.05 0 0 1 18.84 29c3.45 8.88 7.55 22.22 8.67 46.78 1.21 26.56 1.47 34.53 1.47 101.8s-.26 75.23-1.47 101.8c-1.12 24.56-5.22 37.9-8.67 46.78a83.43 83.43 0 0 1-47.81 47.81c-8.88 3.45-22.22 7.55-46.78 8.67-26.56 1.21-34.53 1.47-101.8 1.47s-75.24-.26-101.8-1.47c-24.56-1.12-37.9-5.22-46.78-8.67a78.05 78.05 0 0 1-29-18.84 78.05 78.05 0 0 1-18.84-29c-3.45-8.88-7.55-22.22-8.67-46.78-1.21-26.56-1.47-34.53-1.47-101.8s.26-75.23 1.47-101.8c1.12-24.56 5.22-37.9 8.67-46.78a78.05 78.05 0 0 1 18.84-29 78.05 78.05 0 0 1 29-18.84c8.88-3.45 22.22-7.55 46.78-8.67 26.56-1.21 34.53-1.47 101.8-1.47m0-45.39c-68.42 0-77 .29-103.87 1.52S102.92 7 86.92 13.22a123.49 123.49 0 0 0-44.64 29.06 123.49 123.49 0 0 0-29.06 44.64c-6.22 16-10.48 34.32-11.7 61.13S0 183.5 0 251.92s.29 77 1.52 103.87 5.48 45.13 11.7 61.13a123.49 123.49 0 0 0 29.06 44.62 123.49 123.49 0 0 0 44.64 29.07c16 6.23 34.34 10.49 61.15 11.71s35.45 1.52 103.87 1.52 77-.29 103.87-1.52 45.11-5.48 61.11-11.71a128.82 128.82 0 0 0 73.69-73.69c6.23-16 10.49-34.34 11.71-61.15s1.52-35.45 1.52-103.87-.29-77-1.52-103.87-5.48-45.11-11.71-61.11a123.49 123.49 0 0 0-29.06-44.62 123.49 123.49 0 0 0-44.63-29.08c-16-6.22-34.32-10.48-61.13-11.7S320.34 0 251.92 0z"/><path d="M251.92 122.56a129.36 129.36 0 1 0 129.36 129.36 129.36 129.36 0 0 0-129.36-129.36zm0 213.36a84 84 0 1 1 84-84 84 84 0 0 1-84 84z"/><circle cx="386.4" cy="117.44" r="30.23"/></svg>
+
+                    Instagram
+                </a>
+            
+            
+            
+                <a href="https://www.shakespeare.org.uk/visit/plan-your-visit/covid-19-coronavirus/join-our-mailing-list-updates/"
+                class="footer-section-link">
+                    Newsletter
+                </a>
+            
+        </section>
+
+        
+            <section class="footer-section mod-advert">
+                <small class="footer-section-subtitle">
+                    We are a charity
+                </small>
+                <h4 class="footer-section-title mod-gold">
+                    Help us keep Shakespeare&#x27;s story alive
+                </h4>
+                <p class="footer-section-text">
+                    Thank you for your support to help care for the world&#x27;s greatest Shakespeare heritage and keep his story alive.
+                </p>
+            </section>
+        
+    </div>
+
+    <div class="footer__meta-container">
+        <div class="footer__copyright-container">
+            <p class="footer-message">
+                The independent charity that cares for the world’s greatest Shakespeare heritage sites in Stratford-upon-Avon, and promotes the enjoyment and understanding of his works, life and times all over the world. Celebrating Shakespeare is at the heart of everything we do.
+            </p>
+
+            <p class="footer-copyright">&copy; 2023 Shakespeare Birthplace Trust Registered Charity Number 209302</p>
+        </div>
+
+        <div class="footer__credits">
+            <a href="/" title="Go to the home page">
+                <img src="/static/img/logo-red.svg" class="footer__logo footer__logo--sbt" alt="Shakespeare Birthplace Trust logo">
+            </a>
+
+            <a href="http://www.artscouncil.org.uk/">
+                <img src="/static/img/arts-council.svg" class="footer__logo footer__logo--ac" alt="Arts Council logo">
+            </a>
+        </div>
+    </div>
+</footer>
+
+
+            
+
+
+
+    
+        
+    
+
+
+            
+
+    <div id="cookie-banner-wrapper">
+        <div id="cookie-banner">
+            <div class="container flex" id="cookie-banner__headline">
+                <div class="body-copy">
+                    <div class="rich-text"><p data-block-key="fwqgk">We use essential and non-essential cookies that improve the functionality and experience of the website. For more information, see our <a href="https://www.shakespeare.org.uk/terms-conditions/cookie-policy/">Cookies Policy.</a></p></div>
+                </div>
+                <div class="actions">
+                    <button id="cookie-banner__accept" class="button mod-green">Accept</button>
+                    <button id="cookie-banner__settings" class="button mod-link">Settings</button>
+                </div>
+            </div>
+
+            <ul class="cookie-options container">
+                <li class="body-copy">
+                    <h3>Necessary cookies</h3>
+                    <div class="rich-text"><p data-block-key="gs6jp">Necessary cookies ensure the smooth running of the website, including core functionality and security. The website cannot function properly without these cookies.</p></div>
+                </li>
+                <li class="body-copy">
+                    <h3>Analytics cookies</h3>
+                    <div class="toggle-wrapper">
+                        <input id="cookies--analytics" name="cookies--analytics" class="toggle" type="checkbox" />
+                        <label for="cookies--analytics" class="toggle--label">Analytics cookies</label>
+                        <div class="faux-toggle"></div>
+                    </div>
+                    <div class="rich-text"><p data-block-key="gat9x">Analytical cookies are used to determine how visitors are using a website, enabling us to enhance performance and functionality of the website. These are non-essential cookies but are not used for advertising purposes.</p></div>
+                </li>
+                <li class="body-copy">
+                    <h3>Advertising cookies</h3>
+                    <div class="toggle-wrapper">
+                        <input id="cookies--advertising" name="cookies--advertising" class="toggle" type="checkbox" />
+                        <label for="cookies--advertising" class="toggle--label">Advertising cookies</label>
+                        <div class="faux-toggle"></div>
+                    </div>
+                    <div class="rich-text"><p data-block-key="avu1i">Advertising cookies help us monitor the effectiveness of our recruitment campaigns as well as enabling advertising to be tailored to you through retargeting advertising services. This means there is the possibility of you seeing more adverts from the Shakespeare Birthplace Trust on other websites that you visit.</p></div>
+                </li>
+                <li class="body-copy">
+                    <button id="cookie-banner__save" class="button mod-reverse">Save settings</button>
+                    <button id="cookie-banner__settings-minimise" class="button mod-link">Minimise</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+        </main>
+
+
+        <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+        <script src="//code.jquery.com/jquery-2.2.1.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.9/jquery.lazy.min.js"></script>
+        <script type="text/javascript" src="/static/js/main.bundled.js"></script>
+
+         
+    </body>
+</html>

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name='robots' content='noindex, follow' />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Ric Barratt Photography</title>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page not found - Ric Barratt Photography" />
+	<meta property="og:site_name" content="Ric Barratt Photography" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://ricbarratt.com/#website","url":"https://ricbarratt.com/","name":"Ric Barratt Photography","description":"Landscape photographer","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ricbarratt.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='preconnect' href='//www.google-analytics.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link href='https://fonts.googleapis.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Ric Barratt Photography &raquo; Feed" href="https://ricbarratt.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Ric Barratt Photography &raquo; Comments Feed" href="https://ricbarratt.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ricbarratt.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://ricbarratt.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://ricbarratt.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5' media='all' />
+<link rel='stylesheet' id='generate-widget-areas-css' href='https://ricbarratt.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.3.1' media='all' />
+<link rel='stylesheet' id='generate-style-css' href='https://ricbarratt.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.3.1' media='all' />
+<style id='generate-style-inline-css'>
+.page-header {margin-bottom: 40px;margin-left: 40px}
+.generate-columns {margin-bottom: 40px;padding-left: 40px;}.generate-columns-container {margin-left: -40px;}.page-header {margin-bottom: 40px;margin-left: 40px}.generate-columns-container > .paging-navigation {margin-left: 40px;}
+body{background-color:#f8f7f9;color:#404040;}a{color:#0066cc;}a:hover, a:focus, a:active{color:#0066cc;}.grid-container{max-width:1480px;}.wp-block-group__inner-container{max-width:1480px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:60px;}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#1e73be;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}body, button, input, select, textarea{font-family:Roboto, sans-serif;font-size:17px;}body{line-height:1.5;}p{margin-bottom:1em;}.main-title{font-size:28px;}.site-description{font-size:14px;}.main-navigation a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{font-size:18px;}button:not(.menu-toggle),html input[type="button"],input[type="reset"],input[type="submit"],.button,.wp-block-button .wp-block-button__link{font-size:14px;}.site-info{font-size:14px;}h1{font-weight:500;font-size:28px;line-height:1.2;}h3{font-weight:300;font-size:22px;line-height:1.2;}h4{font-weight:500;font-size:17px;line-height:1.4;}h5{font-weight:500;font-size:14px;}.footer-widgets{font-size:14px;}h2{font-weight:500;font-size:22px;}.widget-title{font-weight:500;font-size:14px;margin-bottom:20px;}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:#ffffff;}.top-bar a:hover{color:#303030;}.site-header{background-color:rgba(23,26,30,0);color:#515151;}.site-header a{color:#ffffff;}.site-header a:hover{color:#0070c9;}.main-title a,.main-title a:hover{color:#515151;}.site-description{color:#515151;}.main-navigation,.main-navigation ul ul{background-color:#f8f7f9;}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:#515151;}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:#7a8896;background-color:#ffffff;}button.menu-toggle:hover,button.menu-toggle:focus{color:#515151;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#7a8896;background-color:#ffffff;}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:#7a8896;background-color:#ffffff;}.main-navigation ul ul{background-color:#eaeaea;}.main-navigation .main-nav ul ul li a{color:#515151;}.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.main-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#7a8896;background-color:#eaeaea;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#7a8896;background-color:#eaeaea;}.entry-title a{color:#404040;}.entry-title a:hover{color:#0066cc;}.entry-meta{color:#404040;}.entry-meta a{color:#0066cc;}.sidebar .widget{color:#515151;background-color:#ededed;}.sidebar .widget a{color:#0070c9;}.sidebar .widget .widget-title{color:#515151;}.footer-widgets a:hover{color:#0070c9;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#262626;}.site-info a{color:#262626;}.site-info a:hover{color:#0070c9;}.footer-bar .widget_nav_menu .current-menu-item a{color:#0070c9;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:#c4c4c4;background-color:#fafafa;border-color:#bcbcbc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:#353535;background-color:#e0e0e0;border-color:#ffffff;}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#4c4c4c;background-color:#f7f7f7;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#0070c9;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:#0070c9;color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 840px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:#515151;}}.inside-top-bar{padding:10px 2px 2px 2px;}.inside-header{padding:40px;}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 24px 0px 24px;}.site-main .wp-block-group__inner-container{padding:40px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-40px;width:calc(100% + 80px);max-width:calc(100% + 80px);}.sidebar .widget, .page-header, .widget-area .main-navigation, .site-main > *{margin-bottom:40px;}.separate-containers .site-main{margin:40px;}.both-right .inside-left-sidebar,.both-left .inside-left-sidebar{margin-right:20px;}.both-right .inside-right-sidebar,.both-left .inside-right-sidebar{margin-left:20px;}.separate-containers .featured-image{margin-top:40px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:40px;margin-bottom:40px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{padding-left:16px;padding-right:16px;line-height:50px;}.main-navigation .main-nav ul ul li a{padding:10px 16px 10px 16px;}.navigation-search input[type="search"]{height:50px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:16px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:16px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:16px;}.widget-area .widget{padding:20px;}.inside-site-info{padding:20px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:18px;}.site-main .wp-block-group__inner-container{padding:18px;}.inside-header{padding-right:0px;padding-left:0px;}.inside-site-info{padding-right:10px;padding-left:10px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-18px;width:calc(100% + 36px);max-width:calc(100% + 36px);}.one-container .site-main .paging-navigation{margin-bottom:40px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:25%;}.site-content .content-area{width:100%;}@media (max-width: 840px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{transition: line-height 300ms ease}.main-navigation.toggled .main-nav > ul{background-color: #f8f7f9}.sticky-enabled .gen-sidebar-nav.is_stuck .main-navigation {margin-bottom: 0px;}.sticky-enabled .gen-sidebar-nav.is_stuck {z-index: 500;}.sticky-enabled .main-navigation.is_stuck {box-shadow: 0 2px 2px -2px rgba(0, 0, 0, .2);}.navigation-stick:not(.gen-sidebar-nav) {left: 0;right: 0;width: 100% !important;}.both-sticky-menu .main-navigation:not(#mobile-header).toggled .main-nav > ul,.mobile-sticky-menu .main-navigation:not(#mobile-header).toggled .main-nav > ul,.mobile-header-sticky #mobile-header.toggled .main-nav > ul {position: absolute;left: 0;right: 0;z-index: 999;}.nav-float-right .navigation-stick {width: 100% !important;left: 0;}.nav-float-right .navigation-stick .navigation-branding {margin-right: auto;}.main-navigation.has-sticky-branding:not(.grid-container) .inside-navigation:not(.grid-container) .navigation-branding{margin-left: 10px;}.main-navigation.navigation-stick.has-sticky-branding .inside-navigation.grid-container{padding-left:40px;padding-right:40px;}@media (max-width:768px){.main-navigation.navigation-stick.has-sticky-branding .inside-navigation.grid-container{padding-left:0;padding-right:0;}}
+.post-image:not(:first-child), .page-content:not(:first-child), .entry-content:not(:first-child), .entry-summary:not(:first-child), footer.entry-meta{margin-top:1em;}.post-image-above-header .inside-article div.featured-image, .post-image-above-header .inside-article div.post-image{margin-bottom:1em;}
+</style>
+<link rel='stylesheet' id='generate-google-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic&#038;display=auto&#038;ver=3.3.1' media='all' />
+<style id='generateblocks-inline-css'>
+.gb-icon svg{fill:currentColor;}.gb-highlight{background:none;color:unset;}.gb-headline-c4e043f8{font-size:17px;text-align:center;padding-top:0px;margin-top:5px;margin-bottom:5px;color:var(--contrast);}.gb-headline-c4e043f8 a{color:var(--contrast);}.gb-headline-c4e043f8 a:hover{color:var(--accent);}.gb-headline-15695ec3{font-size:14px;text-align:center;margin-bottom:5px;color:var(--contrast);}.gb-headline-15695ec3 a{color:var(--contrast);}.gb-headline-15695ec3 a:hover{color:var(--accent);}.gb-headline-9a211c5c{font-size:14px;font-weight:500;margin-top:15px;margin-bottom:15px;}.gb-headline-8c794181{font-size:14px;margin-bottom:8px;display:flex;align-items:flex-start;}.gb-headline-8c794181 .gb-icon{line-height:0;padding-top:0.2em;padding-right:0.5em;display:inline-flex;}.gb-headline-8c794181 .gb-icon svg{width:1em;height:1em;}h4.gb-headline-490fad84{margin-bottom:2px;}h2.gb-headline-f6e5e32a{display:flex;align-items:center;}h2.gb-headline-f6e5e32a .gb-icon{line-height:0;}h2.gb-headline-f6e5e32a .gb-icon svg{width:2em;height:2em;}h2.gb-headline-40672603{margin-top:10px;}.gb-button-wrapper{display:flex;flex-wrap:wrap;align-items:flex-start;justify-content:flex-start;clear:both;}.gb-button-wrapper-55a9e7ed{justify-content:center;}.gb-button-wrapper-rb{margin-top:2px;margin-bottom:2px;}.gb-button{text-decoration:none;}.gb-icon svg{fill:currentColor;}.gb-accordion__item:not(.gb-accordion__item-open) > .gb-button .gb-accordion__icon-open{display:none;}.gb-accordion__item.gb-accordion__item-open > .gb-button .gb-accordion__icon{display:none;}.gb-button-wrapper .gb-button-read-more, .gb-button-wrapper .gb-button-read-more:visited{padding:0;color:#0066cc;display:inline-flex;align-items:center;justify-content:center;text-align:center;}.gb-button-wrapper .gb-button-read-more:hover, .gb-button-wrapper .gb-button-read-more:active, .gb-button-wrapper .gb-button-read-more:focus{color:#0066cc;}.gb-button-wrapper .gb-button-read-more .gb-icon{font-size:0.7em;line-height:0;padding-top:0.2em;padding-right:0.5em;align-items:center;display:inline-flex;}.gb-button-wrapper .gb-button-read-more .gb-icon svg{height:1em;width:1em;}.gb-button-wrapper .gb-button-rb-rounded, .gb-button-wrapper .gb-button-rb-rounded:visited{font-size:16px;padding:7px 17px;border-radius:50px;border:1px solid;color:#404040;display:inline-flex;align-items:center;justify-content:center;text-align:center;}.gb-button-wrapper .gb-button-rb-rounded:hover, .gb-button-wrapper .gb-button-rb-rounded:active, .gb-button-wrapper .gb-button-rb-rounded:focus{background-color:#404040;color:#e4e4e4;}.gb-button-wrapper .gb-button-rb-rounded .gb-icon{font-size:1.2em;line-height:0;padding-right:8px;align-items:center;display:inline-flex;}.gb-button-wrapper .gb-button-rb-rounded .gb-icon svg{height:1em;width:1em;}.gb-button-wrapper .gb-button-rb-no-border, .gb-button-wrapper .gb-button-rb-no-border:visited{font-size:16px;padding:7px 17px;border-radius:50px;border:0px solid;color:#404040;display:inline-flex;align-items:center;justify-content:center;text-align:center;}.gb-button-wrapper .gb-button-rb-no-border:hover, .gb-button-wrapper .gb-button-rb-no-border:active, .gb-button-wrapper .gb-button-rb-no-border:focus{color:#0066cc;}.gb-button-wrapper .gb-button-rb-no-border .gb-icon{font-size:1.6em;line-height:0;padding-right:0.5em;align-items:center;display:inline-flex;}.gb-button-wrapper .gb-button-rb-no-border .gb-icon svg{height:1em;width:1em;}.gb-button-wrapper .gb-button-rb-rounded2, .gb-button-wrapper .gb-button-rb-rounded2:visited{font-size:16px;padding:7px 17px;border-radius:50px;border:1px solid;color:#404040;display:inline-flex;align-items:center;justify-content:center;text-align:center;}.gb-button-wrapper .gb-button-rb-rounded2:hover, .gb-button-wrapper .gb-button-rb-rounded2:active, .gb-button-wrapper .gb-button-rb-rounded2:focus{background-color:#404040;color:#e4e4e4;}.gb-button-wrapper .gb-button-rb-rounded2 .gb-icon{font-size:1.2em;line-height:0;padding-right:8px;align-items:center;display:inline-flex;}.gb-button-wrapper .gb-button-rb-rounded2 .gb-icon svg{height:1em;width:1em;}.gb-button-wrapper .gb-button-rb-read-more-small, .gb-button-wrapper .gb-button-rb-read-more-small:visited{font-size:16px;padding:8px 0;border-radius:50px;border:0px solid;color:#0066cc;display:inline-flex;align-items:center;justify-content:center;text-align:center;}.gb-button-wrapper .gb-button-rb-read-more-small:hover, .gb-button-wrapper .gb-button-rb-read-more-small:active, .gb-button-wrapper .gb-button-rb-read-more-small:focus{color:#0066cc;}.gb-button-wrapper .gb-button-rb-read-more-small .gb-icon{font-size:0.8em;line-height:0;padding-top:2px;padding-right:6px;align-items:center;display:inline-flex;}.gb-button-wrapper .gb-button-rb-read-more-small .gb-icon svg{height:1em;width:1em;}.gb-button-wrapper a.gb-button-faa63f14{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:2px 12px 2px 2px;margin:2px 0 2px 5px;color:#404040;}.gb-button-wrapper a.gb-button-faa63f14:hover, .gb-button-wrapper a.gb-button-faa63f14:active, .gb-button-wrapper a.gb-button-faa63f14:focus{color:#0066cc;}.gb-button-wrapper a.gb-button-faa63f14 .gb-icon{font-size:32px;line-height:0;}.gb-button-wrapper a.gb-button-faa63f14 .gb-icon svg{height:1em;width:1em;}.gb-button-wrapper a.gb-button-f3273a8d{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-f3273a8d:hover, .gb-button-wrapper a.gb-button-f3273a8d:active, .gb-button-wrapper a.gb-button-f3273a8d:focus{border-color:#0066cc;color:#0066cc;}.gb-button-wrapper a.gb-button-1507770a{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-1507770a:hover, .gb-button-wrapper a.gb-button-1507770a:active, .gb-button-wrapper a.gb-button-1507770a:focus{border-color:#0066cc;color:#0066cc;}.gb-button-wrapper a.gb-button-abe6749d{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-abe6749d:hover, .gb-button-wrapper a.gb-button-abe6749d:active, .gb-button-wrapper a.gb-button-abe6749d:focus{border-color:#0066cc;color:#0066cc;}.gb-button-wrapper a.gb-button-d8342942{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-d8342942:hover, .gb-button-wrapper a.gb-button-d8342942:active, .gb-button-wrapper a.gb-button-d8342942:focus{border-color:#0066cc;color:#0066cc;}.gb-button-wrapper a.gb-button-11297b06{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-11297b06:hover, .gb-button-wrapper a.gb-button-11297b06:active, .gb-button-wrapper a.gb-button-11297b06:focus{border-color:#0066cc;color:#0066cc;}.gb-button-wrapper a.gb-button-7efd1d20{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-7efd1d20:hover, .gb-button-wrapper a.gb-button-7efd1d20:active, .gb-button-wrapper a.gb-button-7efd1d20:focus{border-color:#0066cc;color:#0066cc;}.gb-button-wrapper a.gb-button-3098856b{display:inline-flex;align-items:center;justify-content:center;font-size:16px;text-align:center;padding:7px 12px;margin:1px 5px;border-radius:50px;border:#404040;color:#404040;}.gb-button-wrapper a.gb-button-3098856b:hover, .gb-button-wrapper a.gb-button-3098856b:active, .gb-button-wrapper a.gb-button-3098856b:focus{border-color:#0066cc;color:#0066cc;}.gb-block-image img{vertical-align:middle;}.gb-block-image-d2395938{padding-top:40px;padding-bottom:40px;text-align:center;}.gb-container .wp-block-image img{vertical-align:middle;}.gb-container .gb-shape{position:absolute;overflow:hidden;pointer-events:none;line-height:0;}.gb-container .gb-shape svg{fill:currentColor;}.gb-container.gb-tabs__item:not(.gb-tabs__item-open){display:none;}.gb-container-9957fd49{margin-right:20px;margin-left:20px;border-top:1px solid #404040;border-bottom:1px solid #404040;}.gb-container-9957fd49 > .gb-inside-container{padding:0;max-width:1480px;margin-left:auto;margin-right:auto;}.gb-grid-wrapper > .gb-grid-column-9957fd49 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-container-0ff3a850 > .gb-inside-container{padding:5px 0;}.gb-grid-wrapper > .gb-grid-column-0ff3a850{width:100%;}.gb-grid-wrapper > .gb-grid-column-0ff3a850 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-container-f8400b63{max-width:1480px;padding-top:40px;padding-right:40px;padding-left:40px;margin-right:auto;margin-left:auto;}.gb-container-5a7b0921{font-size:14px;border-top:1px solid #c5c5c5;border-bottom:1px solid #c5c5c5;color:var(--contrast);}.gb-container-5a7b0921 a{color:var(--contrast);}.gb-container-5a7b0921 a:hover{color:var(--contrast);}.gb-container-6907289f{max-width:1480px;padding-top:20px;padding-bottom:20px;margin-right:auto;margin-left:auto;}.gb-container-538e9fea{font-size:14px;color:#3d3d3d;}.gb-container-538e9fea > .gb-inside-container{padding-right:40px;padding-left:40px;max-width:1480px;margin-left:auto;margin-right:auto;}.gb-container-538e9fea a{color:#3d3d3d;}.gb-container-538e9fea a:hover{color:#3d3d3d;}.gb-grid-wrapper > .gb-grid-column-538e9fea > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-container-ae2ae9ae{margin-bottom:11px;border-bottom:1px solid #c5c5c5;}.gb-container-ae2ae9ae > .gb-inside-container{padding-top:40px;max-width:1480px;margin-left:auto;margin-right:auto;}.gb-grid-wrapper > .gb-grid-column-ae2ae9ae > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper > .gb-grid-column-7c59eff8{width:40%;flex-shrink:1;}.gb-grid-wrapper > .gb-grid-column-7c59eff8 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper > .gb-grid-column-b2b23c14{width:15%;}.gb-grid-wrapper > .gb-grid-column-b2b23c14 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper > .gb-grid-column-d6d4adc9{width:15%;}.gb-grid-wrapper > .gb-grid-column-d6d4adc9 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper > .gb-grid-column-7b86a366{width:15%;}.gb-grid-wrapper > .gb-grid-column-7b86a366 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-container-a6327914{font-size:14px;}.gb-grid-wrapper > .gb-grid-column-a6327914{width:15%;}.gb-grid-wrapper > .gb-grid-column-a6327914 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper > .gb-grid-column-2bf5d6a3{width:50%;}.gb-grid-wrapper > .gb-grid-column-2bf5d6a3 > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper > .gb-grid-column-e9aec07a{width:50%;}.gb-grid-wrapper > .gb-grid-column-e9aec07a > .gb-container{display:flex;flex-direction:column;height:100%;}.gb-grid-wrapper{display:flex;flex-wrap:wrap;}.gb-grid-column{box-sizing:border-box;}.gb-grid-wrapper .wp-block-image{margin-bottom:0;}.gb-grid-wrapper-de6d97ba > .gb-grid-column{padding-left:0px;}.gb-grid-wrapper-2a46acd4{margin-left:-40px;}.gb-grid-wrapper-2a46acd4 > .gb-grid-column{padding-left:40px;padding-bottom:40px;}@media (max-width: 1024px) {h2.gb-headline-f6e5e32a{margin-bottom:0px;}h2.gb-headline-40672603{margin-top:0px;}.gb-button-wrapper a.gb-button-faa63f14{font-size:15px;padding-top:0px;padding-bottom:0px;padding-left:0px;margin:4px 9px 4px 4px;}.gb-button-wrapper a.gb-button-faa63f14 .gb-icon{font-size:28px;}.gb-button-wrapper a.gb-button-f3273a8d{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}.gb-button-wrapper a.gb-button-1507770a{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}.gb-button-wrapper a.gb-button-abe6749d{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}.gb-button-wrapper a.gb-button-d8342942{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}.gb-button-wrapper a.gb-button-11297b06{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}.gb-button-wrapper a.gb-button-7efd1d20{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}.gb-button-wrapper a.gb-button-3098856b{font-size:14px;padding:5px 10px;margin:4px;border:0px solid;}}@media (max-width: 767px) {h2.gb-headline-40672603{margin-bottom:0px;}.gb-button-wrapper .gb-button-faa63f14{display:none !important;}.gb-grid-wrapper > .gb-grid-column-0ff3a850{width:100%;}.gb-container-f8400b63{padding-right:20px;padding-left:20px;}.gb-container-538e9fea > .gb-inside-container{padding-right:20px;padding-left:20px;}.gb-grid-wrapper > .gb-grid-column-7c59eff8{width:100%;}.gb-grid-wrapper > .gb-grid-column-b2b23c14{width:50%;}.gb-grid-wrapper > .gb-grid-column-d6d4adc9{width:50%;}.gb-grid-wrapper > .gb-grid-column-7b86a366{width:50%;}.gb-grid-wrapper > .gb-grid-column-a6327914{width:50%;}.gb-grid-wrapper > .gb-grid-column-2bf5d6a3{width:100%;}.gb-grid-wrapper > .gb-grid-column-e9aec07a{width:100%;}}.gb-container-link{position:absolute;top:0;right:0;bottom:0;left:0;z-index:99;}
+</style>
+<link rel='stylesheet' id='generate-blog-css' href='https://ricbarratt.com/wp-content/plugins/gp-premium/blog/functions/css/style.min.css?ver=2.3.2' media='all' />
+<link rel='stylesheet' id='generate-secondary-nav-css' href='https://ricbarratt.com/wp-content/plugins/gp-premium/secondary-nav/functions/css/main.min.css?ver=2.3.2' media='all' />
+<style id='generate-secondary-nav-inline-css'>
+.secondary-navigation{background-color:rgba(99,99,99,0);}.secondary-nav-below-header .secondary-navigation .inside-navigation.grid-container, .secondary-nav-above-header .secondary-navigation .inside-navigation.grid-container{padding:0px 20px 0px 20px;}.secondary-navigation .main-nav ul li a,.secondary-navigation .menu-toggle,.secondary-menu-bar-items .menu-bar-item > a{color:var(--contrast);}.secondary-navigation .secondary-menu-bar-items{color:var(--contrast);}button.secondary-menu-toggle:hover,button.secondary-menu-toggle:focus{color:var(--contrast);}.widget-area .secondary-navigation{margin-bottom:40px;}.secondary-navigation ul ul{background-color:#303030;top:auto;}.secondary-navigation .main-nav ul ul li a{color:#ffffff;}.secondary-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .secondary-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .secondary-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .secondary-menu-bar-items .menu-bar-item:hover > a{color:var(--accent);background-color:rgba(48,48,48,0);}.secondary-navigation .main-nav ul ul li:not([class*="current-menu-"]):hover > a,.secondary-navigation .main-nav ul ul li:not([class*="current-menu-"]):focus > a,.secondary-navigation .main-nav ul ul li.sfHover:not([class*="current-menu-"]) > a{color:#ffffff;background-color:#474747;}.secondary-navigation .main-nav ul li[class*="current-menu-"] > a{color:#222222;background-color:rgba(255,255,255,0);}.secondary-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#474747;}.secondary-navigation.toggled .dropdown-menu-toggle:before{display:none;}@media (max-width: 840px) {.secondary-menu-bar-items .menu-bar-item:hover > a{background: none;color: var(--contrast);}}
+</style>
+<link rel='stylesheet' id='generate-secondary-nav-mobile-css' href='https://ricbarratt.com/wp-content/plugins/gp-premium/secondary-nav/functions/css/main-mobile.min.css?ver=2.3.2' media='all' />
+<link rel='stylesheet' id='generate-navigation-branding-css' href='https://ricbarratt.com/wp-content/plugins/gp-premium/menu-plus/functions/css/navigation-branding-flex.min.css?ver=2.3.2' media='all' />
+<style id='generate-navigation-branding-inline-css'>
+@media (max-width: 840px){.site-header, #site-navigation, #sticky-navigation{display:none !important;opacity:0.0;}#mobile-header{display:block !important;width:100% !important;}#mobile-header .main-nav > ul{display:none;}#mobile-header.toggled .main-nav > ul, #mobile-header .menu-toggle, #mobile-header .mobile-bar-items{display:block;}#mobile-header .main-nav{-ms-flex:0 0 100%;flex:0 0 100%;-webkit-box-ordinal-group:5;-ms-flex-order:4;order:4;}}.main-navigation.has-branding .inside-navigation.grid-container, .main-navigation.has-branding.grid-container .inside-navigation:not(.grid-container){padding:0px 40px 0px 40px;}.main-navigation.has-branding:not(.grid-container) .inside-navigation:not(.grid-container) .navigation-branding{margin-left:10px;}.navigation-branding img, .site-logo.mobile-header-logo img{height:50px;width:auto;}.navigation-branding .main-title{line-height:50px;}@media (max-width: 840px){.main-navigation.has-branding.nav-align-center .menu-bar-items, .main-navigation.has-sticky-branding.navigation-stick.nav-align-center .menu-bar-items{margin-left:auto;}.navigation-branding{margin-right:auto;margin-left:10px;}.navigation-branding .main-title, .mobile-header-navigation .site-logo{margin-left:10px;}.main-navigation.has-branding .inside-navigation.grid-container{padding:0px;}}
+</style>
+<script src="https://ricbarratt.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script id="nrci_methods-js-extra">
+var nrci_opts = {"gesture":"Y","drag":"Y","touch":"Y","admin":"N"};
+</script>
+<script src="https://ricbarratt.com/wp-content/plugins/no-right-click-images-plugin/no-right-click-images.js" id="nrci_methods-js"></script>
+<link rel="https://api.w.org/" href="https://ricbarratt.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ricbarratt.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="icon" href="https://ricbarratt.com/wp-content/uploads/2019/12/rb_logo_60.png" sizes="32x32" />
+<link rel="icon" href="https://ricbarratt.com/wp-content/uploads/2019/12/rb_logo_60.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ricbarratt.com/wp-content/uploads/2019/12/rb_logo_60.png" />
+<meta name="msapplication-TileImage" content="https://ricbarratt.com/wp-content/uploads/2019/12/rb_logo_60.png" />
+		<style id="wp-custom-css">
+			.single-post .entry-header {
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom: 60px;
+}
+
+.archive .page-header {
+    text-align: center;
+	padding-top: 40px;
+	padding-bottom: 20px;
+
+
+}
+
+.archive .page-header .taxonomy-description {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/**
+.archive.tax-location .page-header  {
+text-align: left;
+		max-width: 800px;
+	clear: both;
+}
+**/
+
+
+/* Format the sticky nav header across the site */
+
+.sticky-enabled .main-navigation.is_stuck {
+background: rgba(245, 245, 245, 0.90);
+-webkit-backdrop-filter: saturate(180%) blur(20px);
+backdrop-filter: saturate(180%) blur(20px);
+box-shadow: none;
+		border-bottom: 1px #ccc solid;
+}
+
+/* Remove the borders from sticky header menu buttons */
+#sticky-navigation .gb-container {
+	border: 0;
+}
+
+.rounded-corners {
+    border-top-left-radius: 8px;
+	 border-top-right-radius: 8px;
+}
+
+.comments-area {display: none}
+
+
+@media (min-width: 1025px) {
+	
+	.portrait .photo-grid > .gb-grid-column:nth-child(1)
+{
+	width: 58%;
+}
+	
+		.portrait .photo-grid > .gb-grid-column:nth-child(2)
+{
+	width: 42%;
+}
+
+.portrait .photo-grid .container-text > .gb-inside-container > .gb-grid-wrapper > .gb-grid-column
+{
+	width: 100%;
+	}
+}
+
+
+
+@media 
+(-webkit-min-device-pixel-ratio: 2), 
+	(min-resolution: 192dpi) {
+					.landscape .photo-grid > .gb-grid-column:nth-child(1) .gb-inside-container,
+		.home-landscape
+{
+	max-width: 784px;
+		margin-left: auto;
+	margin-right: auto;
+}
+				.portrait	 .photo-grid > .gb-grid-column:nth-child(1) .gb-inside-container,
+		.home-portrait
+{
+	max-width: 580px;
+	margin-left: auto;
+	margin-right: auto;
+}	
+		
+}
+
+
+
+@media 
+(-webkit-min-device-pixel-ratio: 2) and (min-width: 1025px), 
+(min-resolution: 192dpi) and (min-width: 1025px)
+{ 
+ .photo-grid > .gb-grid-column:nth-child(1)
+{
+	width: 58%;
+}
+	
+	 .photo-grid > .gb-grid-column:nth-child(2)
+{
+	width: 42%;
+}
+	
+ .photo-grid .container-text > .gb-inside-container > .gb-grid-wrapper > .gb-grid-column
+{
+	width: 100%;
+	}
+}
+
+
+
+
+	
+
+
+
+
+
+
+.reverse-icon .gb-button-text,
+.gb-button-rb-read-more-small .gb-button-text {
+    order: -1;
+    margin-right: 10px;
+
+	}
+
+
+
+
+
+/* Underline links in articles */
+a:hover
+ {
+	text-decoration-line: underline !important;
+	text-decoration-color: currentcolor;
+}
+.footer-widgets a,
+.footer-widgets a:hover
+{
+	color: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Meta slider drop-down */
+.accordion-container {
+	display: none;
+	padding: 15px;
+	opacity: 0;
+	-moz-transition: opacity 0.3s;
+	-o-transition: opacity 0.3s;
+	-webkit-transition: opacity 0.3s;
+	transition: opacity 0.3s;
+	z-index: 1;
+	background: #e4e4e4;
+	position: relative;
+}
+
+/* Make the slider visible when droped down */
+.accordion-container.visible {
+	opacity: 1;
+}
+
+.toggle-open .accordion-container {
+	display: block;
+}
+
+/* Change the cursor over the slider drop-down buttons */
+.accordion-toggle,
+div.rb-lightbox,
+div.rb-lightbox-title,
+.gb-button {
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Remove site nav button from nav bar when at top of page */
+#site-navigation .gb-button-wrapper .rb-nav-logo {
+	display: none;
+}
+
+
+@media (min-width: 841px) {
+	.main-navigation .inside-navigation {
+		width: 100%;
+		display: block;
+	}
+}
+
+
+
+
+
+/* Social icons in menu */
+.main-navigation a .lsicon {
+	font-size: 20px;
+}
+.fa-500px, .fa-instagram {
+	height: 20px;
+	width: 20px;
+}
+.top-bar .lsi-social-icons li a {
+	padding: 4px;
+}
+
+/*turn off hover on touch devices */
+@media (hover:none) {
+	a:hover,a:visited {
+		background: none;
+	}
+}
+		</style>
+		</head>
+
+<body class="error404 wp-embed-responsive post-image-above-header post-image-aligned-center masonry-enabled generate-columns-activated secondary-nav-float-right secondary-nav-aligned-right sticky-menu-fade sticky-enabled both-sticky-menu mobile-header mobile-header-logo mobile-header-sticky landscape no-sidebar nav-below-header one-container header-aligned-left dropdown-hover" itemtype="https://schema.org/WebPage" itemscope>
+	<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>		<header class="site-header" id="masthead" aria-label="Site"  itemtype="https://schema.org/WPHeader" itemscope>
+			<div class="inside-header grid-container">
+				<div class="site-branding">
+						<p class="main-title" itemprop="headline">
+					<a href="https://ricbarratt.com/" rel="home">
+						Ric Barratt Photography
+					</a>
+				</p>
+						<p class="site-description" itemprop="description">
+					Landscape photographer
+				</p>
+					</div>			<nav id="secondary-navigation" class="secondary-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope">
+				<div class="inside-navigation grid-container grid-parent">
+										<button class="menu-toggle secondary-menu-toggle">
+						<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span>					</button>
+					<div class="main-nav"><ul id="menu-information" class=" secondary-menu sf-menu"><li id="menu-item-3824" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-3824"><a href="https://ricbarratt.com/posts/">Posts</a></li>
+<li id="menu-item-2679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2679"><a href="https://ricbarratt.com/about/">About</a></li>
+<li id="menu-item-2680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2680"><a href="https://ricbarratt.com/contact/">Contact</a></li>
+</ul></div>				</div><!-- .inside-navigation -->
+			</nav><!-- #secondary-navigation -->
+						</div>
+		</header>
+				<nav id="mobile-header" data-auto-hide-sticky itemtype="https://schema.org/SiteNavigationElement" itemscope class="main-navigation mobile-header-navigation has-branding has-sticky-branding has-menu-bar-items">
+			<div class="inside-navigation grid-container grid-parent">
+				<div class="site-logo mobile-header-logo">
+						<a href="https://ricbarratt.com/" title="Ric Barratt Photography" rel="home">
+							<img src="https://ricbarratt.com/wp-content/uploads/2021/03/rb-logo.svg" alt="Ric Barratt Photography" class="is-logo-image" width="122" height="122" />
+						</a>
+					</div>					<button class="menu-toggle" aria-controls="mobile-menu" aria-expanded="false">
+						<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span>					</button>
+					<div id="mobile-menu" class="main-nav"><ul id="menu-main-menu" class=" menu sf-menu"><li id="menu-item-3795" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-3795"><a href="https://ricbarratt.com/gallery/cloudstone/">Cloudstone</a></li>
+<li id="menu-item-3794" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-3794"><a href="https://ricbarratt.com/gallery/saltwind/">Saltwind</a></li>
+<li id="menu-item-3793" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-3793"><a href="https://ricbarratt.com/gallery/huetide/">Huetide</a></li>
+<li id="menu-item-2224" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-2224"><a href="https://ricbarratt.com/gallery/citylights/">Citylights</a></li>
+<li id="menu-item-2223" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-2223"><a href="https://ricbarratt.com/gallery/panoramas/">Panoramas</a></li>
+<li id="menu-item-2226" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-2226"><a href="https://ricbarratt.com/gallery/monochromes/">Monochromes</a></li>
+<li id="menu-item-3556" class="menu-item menu-item-type-taxonomy menu-item-object-gallery menu-item-3556"><a href="https://ricbarratt.com/gallery/nature/">Nature</a></li>
+<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-297"><a href="https://ricbarratt.com/posts/">Posts</a></li>
+<li id="menu-item-1246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1246"><a href="https://ricbarratt.com/about/">About</a></li>
+<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="https://ricbarratt.com/contact/">Contact</a></li>
+</ul></div><div class="menu-bar-items"></div>			</div><!-- .inside-navigation -->
+		</nav><!-- #site-navigation -->
+				<nav class="main-navigation has-menu-bar-items sub-menu-left" id="site-navigation" aria-label="Primary"  itemtype="https://schema.org/SiteNavigationElement" itemscope>
+			<div class="inside-navigation grid-container">
+				<div class="gb-container gb-container-9957fd49"><div class="gb-inside-container">
+<div class="gb-grid-wrapper gb-grid-wrapper-de6d97ba">
+<div class="gb-grid-column gb-grid-column-0ff3a850"><div class="gb-container gb-container-0ff3a850"><div class="gb-inside-container">
+<div class="gb-button-wrapper gb-button-wrapper-deebbe8f">
+
+<a class="gb-button gb-button-faa63f14 rb-nav-logo" href="https://ricbarratt.com/"><span class="gb-icon"><svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.48 122.48"><path d="M26.5,63.05V85.42H20.25V31.63H35q9.9,0,14.63,3.79t4.72,11.4q0,10.68-10.81,14.42l14.6,24.18H50.75l-13-22.37Zm0-5.37h8.58q6.62,0,9.71-2.64t3.09-7.89c0-3.55-1.05-6.12-3.15-7.69s-5.46-2.35-10.1-2.35H26.5Z" transform="translate(0 0)"></path><path d="M65.6,31.63H80.8q10.71,0,15.49,3.2t4.78,10.11a11.71,11.71,0,0,1-2.67,7.9,12.92,12.92,0,0,1-7.78,4v.36q12.25,2.1,12.25,12.88,0,7.22-4.87,11.26t-13.63,4H65.6Zm6.26,23h10.3c4.41,0,7.58-.69,9.53-2.08s2.9-3.72,2.9-7c0-3-1.07-5.19-3.23-6.53s-5.6-2-10.3-2h-9.2Zm0,5.3V80.05H83.08q6.51,0,9.8-2.52t3.3-7.89c0-3.34-1.13-5.79-3.37-7.36s-5.66-2.35-10.25-2.35Z" transform="translate(0 0)"></path><path d="M122.48,122.48H0V0H122.48ZM5,117.48H117.48V5H5Z" transform="translate(0 0)"></path></svg></span></a>
+
+
+
+<a class="gb-button gb-button-f3273a8d gb-button-text" href="https://ricbarratt.com/gallery/cloudstone/">Cloudstone</a>
+
+
+
+<a class="gb-button gb-button-1507770a gb-button-text" href="https://ricbarratt.com/gallery/saltwind/">Saltwind</a>
+
+
+
+<a class="gb-button gb-button-abe6749d gb-button-text" href="https://ricbarratt.com/gallery/fairweather/">Fairweather</a>
+
+
+
+<a class="gb-button gb-button-d8342942 gb-button-text" href="https://ricbarratt.com/gallery/huetide/">Huetide</a>
+
+
+
+<a class="gb-button gb-button-11297b06 gb-button-text" href="https://ricbarratt.com/gallery/citylights/">Citylights</a>
+
+
+
+<a class="gb-button gb-button-7efd1d20 gb-button-text" href="https://ricbarratt.com/gallery/monochromes/">Monochromes</a>
+
+
+
+<a class="gb-button gb-button-3098856b gb-button-text" href="https://ricbarratt.com/gallery/nature/">Nature</a>
+
+</div>
+</div></div></div>
+</div>
+</div></div>				<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+					<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="mobile-menu">Menu</span>				</button>
+				<div class="menu-bar-items"></div>			</div>
+		</nav>
+		
+	<div class="site grid-container container hfeed" id="page">
+				<div class="site-content" id="content">
+			
+	<div class="content-area" id="primary">
+		<main class="site-main" id="main">
+			<div class="generate-columns-container masonry-container are-images-unloaded"><div class="grid-sizer grid-33 tablet-grid-50 mobile-grid-100"></div><div class="inside-article">
+
+	
+	<header class="entry-header" aria-label="Content">
+				<h1 class="entry-title" itemprop="headline">Oops! That page can&rsquo;t be found.</h1>
+	</header>
+
+	
+	<div class="entry-content" itemprop="text">
+		<p>It looks like nothing was found at this location. Maybe try searching?</p><form method="get" class="search-form" action="https://ricbarratt.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:">
+	</label>
+	<button class="search-submit" aria-label="Search"><span class="gp-icon icon-search"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path fill-rule="evenodd" clip-rule="evenodd" d="M208 48c-88.366 0-160 71.634-160 160s71.634 160 160 160 160-71.634 160-160S296.366 48 208 48zM0 208C0 93.125 93.125 0 208 0s208 93.125 208 208c0 48.741-16.765 93.566-44.843 129.024l133.826 134.018c9.366 9.379 9.355 24.575-.025 33.941-9.379 9.366-24.575 9.355-33.941-.025L337.238 370.987C301.747 399.167 256.839 416 208 416 93.125 416 0 322.875 0 208z" /></svg></span></button></form>
+	</div>
+
+	
+</div>
+</div><!-- .generate-columns-contaier -->		</main>
+	</div>
+
+	
+	</div>
+</div>
+
+
+<div class="site-footer footer-bar-active footer-bar-align-left">
+	<div class="gb-container gb-container-f8400b63">
+<div class="gb-container gb-container-5a7b0921">
+<div class="gb-container gb-container-6907289f">
+<div class="yoast-breadcrumbs"><span><span><a href="https://ricbarratt.com/">Home</a></span> » <span class="breadcrumb_last" aria-current="page">Error 404: Page not found</span></span></div>
+</div>
+</div>
+</div><div class="gb-container gb-container-538e9fea"><div class="gb-inside-container">
+<div class="gb-container gb-container-ae2ae9ae"><div class="gb-inside-container">
+<div class="gb-grid-wrapper gb-grid-wrapper-2a46acd4">
+<div class="gb-grid-column gb-grid-column-7c59eff8"><div class="gb-container gb-container-7c59eff8"><div class="gb-inside-container">
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:40px">
+<h2 class="gb-headline gb-headline-f6e5e32a"><span class="gb-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 122.48 122.48" data-name="Layer 1" id="Layer_1"><path transform="translate(0 0)" d="M26.5,63.05V85.42H20.25V31.63H35q9.9,0,14.63,3.79t4.72,11.4q0,10.68-10.81,14.42l14.6,24.18H50.75l-13-22.37Zm0-5.37h8.58q6.62,0,9.71-2.64t3.09-7.89c0-3.55-1.05-6.12-3.15-7.69s-5.46-2.35-10.1-2.35H26.5Z"></path><path transform="translate(0 0)" d="M65.6,31.63H80.8q10.71,0,15.49,3.2t4.78,10.11a11.71,11.71,0,0,1-2.67,7.9,12.92,12.92,0,0,1-7.78,4v.36q12.25,2.1,12.25,12.88,0,7.22-4.87,11.26t-13.63,4H65.6Zm6.26,23h10.3c4.41,0,7.58-.69,9.53-2.08s2.9-3.72,2.9-7c0-3-1.07-5.19-3.23-6.53s-5.6-2-10.3-2h-9.2Zm0,5.3V80.05H83.08q6.51,0,9.8-2.52t3.3-7.89c0-3.34-1.13-5.79-3.37-7.36s-5.66-2.35-10.25-2.35Z"></path><path transform="translate(0 0)" d="M122.48,122.48H0V0H122.48ZM5,117.48H117.48V5H5Z"></path></svg></span></h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h2 class="gb-headline gb-headline-40672603 gb-headline-text"><a href="https://ricbarratt.com/" data-type="page" data-id="396">Ric Barratt Photography</a></h2>
+</div>
+</div>
+
+</div></div></div>
+
+<div class="gb-grid-column gb-grid-column-b2b23c14"><div class="gb-container gb-container-b2b23c14"><div class="gb-inside-container">
+
+<h5 class="gb-headline gb-headline-4b441817 gb-headline-text">Galleries</h5>
+
+
+<nav class=" is-vertical wp-block-navigation is-layout-flex wp-container-core-navigation-layout-1 wp-block-navigation-is-layout-flex" aria-label="Galleries"><ul class="wp-block-navigation__container  is-vertical wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/cloudstone/"><span class="wp-block-navigation-item__label">Cloudstone</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/saltwind/"><span class="wp-block-navigation-item__label">Saltwind</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/huetide/"><span class="wp-block-navigation-item__label">Huetide</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/citylights/"><span class="wp-block-navigation-item__label">Citylights</span><span class="wp-block-navigation-item__description">Photographs of cities, buildings and architecture.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/panoramas/"><span class="wp-block-navigation-item__label">Panoramas</span><span class="wp-block-navigation-item__description">Wide, panoramic photographs. These images were taken with wide-angle lenses, or multiple images were combined to form panoramas.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/monochromes/"><span class="wp-block-navigation-item__label">Monochromes</span><span class="wp-block-navigation-item__description">Monochrome/black-and-white images of a variety of subjects.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/gallery/nature/"><span class="wp-block-navigation-item__label">Nature</span></a></li></ul></nav>
+</div></div></div>
+
+<div class="gb-grid-column gb-grid-column-d6d4adc9"><div class="gb-container gb-container-d6d4adc9"><div class="gb-inside-container">
+
+<h5 class="gb-headline gb-headline-de4957c0 gb-headline-text">Locations</h5>
+
+
+<nav class=" is-vertical wp-block-navigation is-layout-flex wp-container-core-navigation-layout-2 wp-block-navigation-is-layout-flex" aria-label="Locations"><ul class="wp-block-navigation__container  is-vertical wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/england/"><span class="wp-block-navigation-item__label">England</span><span class="wp-block-navigation-item__description">England is the largest country in the United Kingdom. It has a population of 56 million, the most of all the UK countries. It is renown for its beautiful ‘patchwork’ countryside, quaint old villages, and mixed weather. The capital city is London.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/scotland/"><span class="wp-block-navigation-item__label">Scotland</span><span class="wp-block-navigation-item__description">Scotland is the northernmost country in the United Kingdom. It is renown for its vast mountain ranges, breath-taking scenery, distinctive and proud heritage, and its numerous wild islands. Its southern border is shared with England.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/wales/"><span class="wp-block-navigation-item__label">Wales</span><span class="wp-block-navigation-item__description">Wales forms one of the four countries which make up the United Kingdom. It is renown for its rugged mountain landscapes, unpredictable weather, dramatic coastline, and beautiful valleys filled with attractive farmland and plenty of sheep!</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/canada/"><span class="wp-block-navigation-item__label">Canada</span><span class="wp-block-navigation-item__description">Canada is the second largest country on the planet, and offers some of the world’s remotest and wildest locations. Canada offers a seemingly endless supply of breath-taking vitas for the landscape photographer to capture.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/france/"><span class="wp-block-navigation-item__label">France</span><span class="wp-block-navigation-item__description">France is a country located in Western Europe. It is renown for its culinary arts, fine wines, Mediterranean beaches and medieval towns and cities. France has a population of approximately 67 million and the capital city is Paris.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/italy/"><span class="wp-block-navigation-item__label">Italy</span><span class="wp-block-navigation-item__description">Italy is a country in southern Europe known for its warm climate, Mediterranean beaches, wine, art and cuisine. The capital city of Rome is home to the Vatican, and was once the heart of the Roman Empire.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/location/spain/"><span class="wp-block-navigation-item__label">Spain</span><span class="wp-block-navigation-item__description">Spain is a country in south-west Europe renown for its Mediterranean resorts, diverse culture and geography. Spain’s population is approximately 47 million and the capital city is Madrid.</span></a></li></ul></nav>
+</div></div></div>
+
+<div class="gb-grid-column gb-grid-column-7b86a366"><div class="gb-container gb-container-7b86a366"><div class="gb-inside-container">
+
+<h5 class="gb-headline gb-headline-74f09106 gb-headline-text">Keywords</h5>
+
+
+<nav class=" is-vertical wp-block-navigation is-layout-flex wp-container-core-navigation-layout-3 wp-block-navigation-is-layout-flex" aria-label="Keywords"><ul class="wp-block-navigation__container  is-vertical wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/bridge/"><span class="wp-block-navigation-item__label">Bridge</span><span class="wp-block-navigation-item__description">Photographs of bridges.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/lake/"><span class="wp-block-navigation-item__label">Lake</span><span class="wp-block-navigation-item__description">Photographs of lochs, lakes and other bodies of water.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/long-exposure/"><span class="wp-block-navigation-item__label">Long exposure</span><span class="wp-block-navigation-item__description">Long-exposure photographs, normally captured using a tripod.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/macro/"><span class="wp-block-navigation-item__label">Macro</span><span class="wp-block-navigation-item__description">Close-up photographs of flowers and insects.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/mountains/"><span class="wp-block-navigation-item__label">Mountains</span><span class="wp-block-navigation-item__description">Photographs of mountains.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/night/"><span class="wp-block-navigation-item__label">Night</span><span class="wp-block-navigation-item__description">Photographs taken in the evening or at night.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/river/"><span class="wp-block-navigation-item__label">River</span><span class="wp-block-navigation-item__description">Photographs of rivers and streams.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/ruins/"><span class="wp-block-navigation-item__label">Ruins</span><span class="wp-block-navigation-item__description">Photograph of ruined buildings or transport.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/sea/"><span class="wp-block-navigation-item__label">Sea</span><span class="wp-block-navigation-item__description">Photographs that include the sea.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/sunrise/"><span class="wp-block-navigation-item__label">Sunrise</span><span class="wp-block-navigation-item__description">Photographs of sunrises. You might also be interest in my sunset photographs.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/sunset/"><span class="wp-block-navigation-item__label">Sunset</span><span class="wp-block-navigation-item__description">Photographs of sunsets. You might also be interest in my sunrise photographs.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/waterfall/"><span class="wp-block-navigation-item__label">Waterfall</span><span class="wp-block-navigation-item__description">Photographs of waterfalls and cascades.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/winter/"><span class="wp-block-navigation-item__label">Winter</span><span class="wp-block-navigation-item__description">Photographs of frosty and wintery scenes.</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/keyword/woodland/"><span class="wp-block-navigation-item__label">Woodland</span><span class="wp-block-navigation-item__description">Photographs of woodlands and forests.</span></a></li></ul></nav>
+</div></div></div>
+
+<div class="gb-grid-column gb-grid-column-a6327914"><div class="gb-container gb-container-a6327914"><div class="gb-inside-container">
+
+<h5 class="gb-headline gb-headline-20b829c8 gb-headline-text">Information</h5>
+
+
+<nav class=" is-vertical wp-block-navigation is-layout-flex wp-container-core-navigation-layout-4 wp-block-navigation-is-layout-flex" aria-label="Information"><ul class="wp-block-navigation__container  is-vertical wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/posts/"><span class="wp-block-navigation-item__label">Posts</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/about/"><span class="wp-block-navigation-item__label">About</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://ricbarratt.com/contact/"><span class="wp-block-navigation-item__label">Contact</span></a></li></ul></nav>
+</div></div></div>
+</div>
+</div></div>
+
+<div class="gb-grid-wrapper gb-grid-wrapper-0878e48a">
+<div class="gb-grid-column gb-grid-column-2bf5d6a3"><div class="gb-container gb-container-2bf5d6a3"><div class="gb-inside-container">
+
+<p class="has-text-align-left">Copyright © 2015 - 2023 Ric Barratt Photography. All rights reserved.</p>
+
+</div></div></div>
+
+<div class="gb-grid-column gb-grid-column-e9aec07a"><div class="gb-container gb-container-e9aec07a"><div class="gb-inside-container">
+
+<p class="has-text-align-right"><a href="https://ricbarratt.com/privacy-notice/">Privacy notice</a> | <a href="https://ricbarratt.com/disclaimer/">Disclaimer</a> | <a href="https://ricbarratt.com/copyright/">Copyright information</a></p>
+
+</div></div></div>
+</div>
+</div></div></div>
+
+<script id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><style id='core-block-supports-inline-css'>
+.wp-container-core-columns-layout-1.wp-container-core-columns-layout-1{flex-wrap:nowrap;}.wp-container-core-navigation-layout-1.wp-container-core-navigation-layout-1{flex-direction:column;align-items:flex-start;}.wp-container-core-navigation-layout-2.wp-container-core-navigation-layout-2{flex-direction:column;align-items:flex-start;}.wp-container-core-navigation-layout-3.wp-container-core-navigation-layout-3{flex-direction:column;align-items:flex-start;}.wp-container-core-navigation-layout-4.wp-container-core-navigation-layout-4{flex-direction:column;align-items:flex-start;}
+</style>
+<script src="https://ricbarratt.com/wp-content/plugins/gp-premium/menu-plus/functions/js/sticky.min.js?ver=2.3.2" id="generate-sticky-js"></script>
+<script src="https://ricbarratt.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.5" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/ricbarratt.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+</script>
+<script src="https://ricbarratt.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.5" id="contact-form-7-js"></script>
+<script id="generate-smooth-scroll-js-extra">
+var smooth = {"elements":[".smooth-scroll","li.smooth-scroll a"],"duration":"800"};
+</script>
+<script src="https://ricbarratt.com/wp-content/plugins/gp-premium/general/js/smooth-scroll.min.js?ver=2.3.2" id="generate-smooth-scroll-js"></script>
+<!--[if lte IE 11]>
+<script src="https://ricbarratt.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.3.1" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Submenu","closeSubMenuLabel":"Close Submenu"};
+</script>
+<script src="https://ricbarratt.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.3.1" id="generate-menu-js"></script>
+<script src="https://ricbarratt.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://ricbarratt.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script id="generate-blog-js-extra">
+var generateBlog = {"more":"+ More","loading":"Loading...","icon":"<span class=\"gp-icon spinner\">\n\t\t\t\t<svg viewBox=\"0 0 512 512\" aria-hidden=\"true\" version=\"1.1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"1em\" height=\"1em\">\n\t\t\t\t\t<path d=\"M288 32c0 17.673-14.327 32-32 32-17.673 0-32-14.327-32-32 0-17.673 14.327-32 32-32 17.673 0 32 14.327 32 32zM288 480c0 17.673-14.327 32-32 32-17.673 0-32-14.327-32-32 0-17.673 14.327-32 32-32 17.673 0 32 14.327 32 32zM448 256c0 17.673 14.327 32 32 32 17.673 0 32-14.327 32-32 0-17.673-14.327-32-32-32-17.673 0-32 14.327-32 32zM32 288c-17.673 0-32-14.327-32-32 0-17.673 14.327-32 32-32 17.673 0 32 14.327 32 32 0 17.673-14.327 32-32 32zM391.764 391.764c-12.496 12.497-12.496 32.759 0 45.255 12.497 12.497 32.758 12.497 45.255 0 12.497-12.496 12.497-32.758 0-45.255-12.497-12.496-32.758-12.496-45.255 0zM74.981 120.235c-12.497-12.496-12.497-32.758 0-45.254 12.496-12.497 32.758-12.497 45.254 0 12.497 12.496 12.497 32.758 0 45.254-12.496 12.497-32.758 12.497-45.254 0zM120.235 391.765c-12.496-12.497-32.758-12.497-45.254 0-12.497 12.496-12.497 32.758 0 45.254 12.496 12.497 32.758 12.497 45.254 0 12.497-12.496 12.497-32.758 0-45.254z\"\/>\n\t\t\t\t<\/svg>\n\t\t\t<\/span>","masonryInit":{"columnWidth":".grid-sizer","itemSelector":".masonry-post","stamp":".page-header","percentPosition":true,"stagger":30,"visibleStyle":{"transform":"translateY(0)","opacity":1},"hiddenStyle":{"transform":"translateY(5px)","opacity":0}},"infiniteScrollInit":{"path":".infinite-scroll-path a","append":"#main .infinite-scroll-item","history":false,"loadOnScroll":true,"button":null,"scrollThreshold":600}};
+</script>
+<script src="https://ricbarratt.com/wp-content/plugins/gp-premium/blog/functions/js/scripts.min.js?ver=2.3.2" id="generate-blog-js"></script>
+
+</body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.0.0.1 on 2023-12-22 20:06:46 -->

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/bike" />
+<link rel="shortlink" href="/node/6" />
+<link rel="shortcut icon" href="http://paullieberman.net/sites/all/themes/chinook/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Bike | Paul&#039;s Bike Rides</title>
+  <style>
+@import url("http://paullieberman.net/modules/system/system.base.css?s5vx4y");
+</style>
+<style>
+@import url("http://paullieberman.net/modules/field/theme/field.css?s5vx4y");
+@import url("http://paullieberman.net/modules/node/node.css?s5vx4y");
+@import url("http://paullieberman.net/sites/default/modules/ridelog/ridelog.css?s5vx4y");
+@import url("http://paullieberman.net/sites/all/modules/views/css/views.css?s5vx4y");
+@import url("http://paullieberman.net/sites/all/modules/ckeditor/css/ckeditor.css?s5vx4y");
+</style>
+<style>
+@import url("http://paullieberman.net/sites/all/modules/ctools/css/ctools.css?s5vx4y");
+</style>
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap-theme.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.3.1/7.x-3.x/drupal-bootstrap.css" media="all" />
+<style>
+@import url("http://paullieberman.net/sites/all/themes/chinook/css/style.css?s5vx4y");
+</style>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="https://cdn.jsdelivr.net/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <script src="http://paullieberman.net/sites/all/modules/jquery_update/replace/jquery/2.2/jquery.min.js?v=2.2.4"></script>
+<script src="http://paullieberman.net/misc/jquery-extend-3.4.0.js?v=2.2.4"></script>
+<script src="http://paullieberman.net/misc/jquery-html-prefilter-3.5.0-backport.js?v=2.2.4"></script>
+<script src="http://paullieberman.net/misc/jquery.once.js?v=1.2"></script>
+<script src="http://paullieberman.net/misc/drupal.js?s5vx4y"></script>
+<script src="http://paullieberman.net/sites/all/modules/jquery_update/js/jquery_browser.js?v=0.0.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.js"></script>
+<script src="http://paullieberman.net/sites/all/modules/entityreference/js/entityreference.js?s5vx4y"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"chinook","theme_token":"ZsW6kyyxf1TaHSwqPeRbqzCEiiDPMrAE1wjtkNgOfzg","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/2.2\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/js\/jquery_browser.js":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/js\/bootstrap.js":1,"sites\/all\/modules\/entityreference\/js\/entityreference.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/default\/modules\/ridelog\/ridelog.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/css\/bootstrap.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@3.4.1\/dist\/css\/bootstrap-theme.css":1,"https:\/\/cdn.jsdelivr.net\/npm\/@unicorn-fail\/drupal-bootstrap-styles@0.0.2\/dist\/3.3.1\/7.x-3.x\/drupal-bootstrap.css":1,"sites\/all\/themes\/chinook\/css\/style.css":1}},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="navbar-is-static-top html front not-logged-in no-sidebars page-node page-node- page-node-6 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <header id="page-header" role="banner" class="navbar navbar-static-top navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+            <a class="logo navbar-btn pull-left" href="/" title="Home">
+        <img src="http://paullieberman.net/sites/default/files/head2.png" alt="Home" />
+      </a>
+      
+      <a class="name navbar-brand" href="/" title="Home">
+  Paul's Bike Rides</a>
+     
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div> <!-- /navbar-header -->
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf active"><a href="/" title="" class="active">Home</a></li>
+<li class="expanded dropdown"><a href="/my-bikes" title="" data-target="#" class="dropdown-toggle" data-hover="dropdown">Bicycles <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/bike/ravn">Ravn</a></li>
+<li class="leaf"><a href="/bike/grando">Grando</a></li>
+<li class="leaf"><a href="/bike/soma-saga">Soma Saga</a></li>
+<li class="leaf"><a href="/bike/cilantro">Cilantro</a></li>
+<li class="leaf"><a href="/bike/armstrong">Armstrong</a></li>
+<li class="last leaf"><a href="/old-bikes">Bikes I no longer own</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/bike/rides" title="" data-target="#" class="dropdown-toggle" data-hover="dropdown">Rides <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/bike/log" title="">Ride log</a></li>
+<li class="leaf"><a href="/rusa/rides">RUSA/ACP rides</a></li>
+<li class="last leaf"><a href="/ridelog/stats" title="">Stats</a></li>
+</ul></li>
+<li class="expanded dropdown"><a href="/bike/tours" title="" data-target="#" class="dropdown-toggle" data-hover="dropdown">Tours <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/bike/tour/south-coast-2022">South Coast 2022</a></li>
+<li class="leaf"><a href="/bike/tour/crga-2022">CRGA 2022</a></li>
+<li class="leaf"><a href="/bike/tour/loop-tour-2021-idaho">Loop Tour 2021 - Idaho</a></li>
+<li class="leaf"><a href="/bike/tour/coast-solo-2020">Coast Solo 2020</a></li>
+<li class="leaf"><a href="/bike/tour/loop-tour-2022">Loop Tour 2022</a></li>
+<li class="leaf"><a href="/bike/tour/loop-tour-2023-olympic-penincycle">Loop Tour 2023 - Olympic Penincycle</a></li>
+<li class="leaf"><a href="/bike/tour/oregon-outback-2022">Oregon Outback 2022</a></li>
+<li class="leaf"><a href="/bike/tour/coast-range-gravel-adventure-2020">Coast Range Gravel Adventure 2020</a></li>
+<li class="leaf"><a href="/bike/tour/crga-2019" title="">Coast Range Gravel Adventure 2019</a></li>
+<li class="leaf"><a href="/bike/tour/san-juan-islands-2019">San Juan Islands 2019</a></li>
+<li class="leaf"><a href="/bike/tour/mvbc-loop-tour-2019-north-coast">MVBC Loop Tour 2019 - North Coast</a></li>
+<li class="leaf"><a href="/bike/tour/coast-range-gravel-adventure-2018">Coast Range Gravel Adventure 2018</a></li>
+<li class="leaf"><a href="/bike/tour/mvbc-mini-loop-2019">MVBC Mini-Loop 2019</a></li>
+<li class="leaf"><a href="/bike/tour/mini-loop-tour-2018">Mini-Loop Tour 2018</a></li>
+<li class="leaf"><a href="/bike/tour/mvbc-loop-tour-2018-john-day">MVBC Loop Tour 2018 - John Day</a></li>
+<li class="leaf"><a href="/bike/tour/mini-loop-tour-2017">Mini-Loop Tour 2017</a></li>
+<li class="leaf"><a href="/bike/tour/loop-tour-2017-southern-oregon">Loop Tour 2017 - Southern Oregon</a></li>
+<li class="leaf"><a href="/bike/tour/new-zealand-2017">New Zealand 2017</a></li>
+<li class="leaf"><a href="/bike/tour/oregon-2016-crater-lake-ashland">Oregon 2016 - Crater Lake - Ashland</a></li>
+<li class="leaf"><a href="/bike/tour/washington-2016">Washington 2016</a></li>
+<li class="leaf"><a href="/bike/tour/mvbc-loop-tour-2016-wallowas">MVBC Loop Tour 2016 - Wallowas</a></li>
+<li class="leaf"><a href="/bike/tour/coast-loop-bike-travel-weekend">Coast Loop - Bike Travel Weekend</a></li>
+<li class="leaf"><a href="/bike/tour/florida-2016">Florida 2016</a></li>
+<li class="leaf"><a href="/bike/tour/coast-loop-2015">Coast Loop 2015</a></li>
+<li class="leaf"><a href="/bike/tour/mvbc-loop-tour-2015-olympic-peninsula">MVBC Loop Tour 2015 - Olympic Peninsula</a></li>
+<li class="leaf"><a href="/bike/tour/mvbc-loop-tour-2014-oregon-cascades">MVBC Loop Tour 2014 - Oregon Cascades</a></li>
+<li class="leaf"><a href="/bike/tour/northern-washington-2013">Northern Washington 2013</a></li>
+<li class="leaf"><a href="/bike/tour/north-oregon-coast-2012">North Oregon Coast 2012</a></li>
+<li class="leaf"><a href="/bike/tour/northwest-passage-2010">Northwest Passage 2010</a></li>
+<li class="leaf"><a href="/bike/tour/colorado-2009">Colorado 2009</a></li>
+<li class="last leaf"><a href="/bike/tour/northern-idaho-2005">Northern Idaho - 2005</a></li>
+</ul></li>
+<li class="leaf"><a href="/bike/service-log" title="">Service log</a></li>
+<li class="expanded dropdown"><a href="/blog" title="" data-target="#" class="dropdown-toggle" data-hover="dropdown">Blog <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/blog/ravn-multimodal">Ravn Multimodal</a></li>
+<li class="leaf"><a href="/blog/coffeeneuring-2017">Coffeeneuring 2017</a></li>
+<li class="last leaf"><a href="/blog/best-2016-touring" title="">Best of 2016 Touring</a></li>
+</ul></li>
+<li class="last expanded dropdown"><a href="/articles" title="Some stuff I wrote." data-target="#" class="dropdown-toggle" data-hover="dropdown">Articles <span class="caret"></span></a><ul class="dropdown-menu"><li class="first leaf"><a href="/article/installing-vo-wheel-stabilizer-soma-saga-700c">Installing a VO wheel stabilizer on  a Soma Saga 700c</a></li>
+<li class="leaf"><a href="/article/compass-tires-touring">Compass Tires for Touring</a></li>
+<li class="leaf"><a href="/blog/soma-saga-10000-mile-review">Soma Saga - 10,000 mile review</a></li>
+<li class="leaf"><a href="/blog/arkel-orca-panniers">Arkel Orca Panniers</a></li>
+<li class="leaf"><a href="/blog/brooks-cambium-saddles">Brooks Cambium saddles</a></li>
+<li class="leaf"><a href="/article/preparing-bicycle-tour">Preparing for a bicycle tour</a></li>
+<li class="leaf"><a href="/article/soma-saga-1000-mile-review">Soma Saga - 1,000 mile review</a></li>
+<li class="last leaf"><a href="/article/mountain-trucker">Mountain Trucker</a></li>
+</ul></li>
+</ul>                  </nav>
+      </div> <!-- /navbar-collapse -->
+    
+          <h1 id="site-name">
+        <a  href="/" title="Home">Paul's Bike Rides</a>
+      </h1>
+    
+
+  </div> <!-- /container -->
+</header>
+
+
+    <!-- Featured -->
+     
+
+<!-- Content --> 
+<div class="main-container container">
+  <div class="row-fluid">
+
+    <section class="col-sm-12">
+           <a id="main-content"></a>
+                    <h1 class="page-header">Bike</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-6" class="node node-page clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><div class="row">
+<div class="col-sm-8">
+<p>
+			Welcome to my bicycle rides website. I've been logging all of my rides here since 2004. I ride each week with the <a href="https://mvbc.com">Mid-Valley Bicycle Club</a>. I especially like multi-day touring and I try and do at least a two week tour each summer. I like to explore the old logging roads in the Oregon Coast Range as well as the gravel roads east of the Cascades in Central Oregon.</p>
+<p><img alt="Riding my bike" src="/sites/default/files/surf1.jpg" />
+</p></div>
+<div class="col-sm-4">
+		<img alt="Riding my bike" src="/sites/default/files/ride2.png" />
+<p>
+			Riding the Oregon Outback</p>
+</div>
+</div>
+</div></div></div>    </article>
+
+</section>
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://paullieberman.net/sites/all/themes/bootstrap/js/bootstrap.js?s5vx4y"></script>
+</body>
+</html>

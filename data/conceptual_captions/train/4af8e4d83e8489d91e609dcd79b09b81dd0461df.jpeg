@@ -1,0 +1,483 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="og: https://ogp.me/ns#" class="no-js">
+<head>
+<meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-4960395-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-4960395-1", {"groups":"default","anonymize_ip":true,"allow_ad_personalization_signals":false,"page_path":"/404.html?page=" + document.location.pathname + document.location.search + "&from=" + document.referrer});</script>
+<link rel="canonical" href="https://eurasianet.org/page-not-found" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<title>Page not found | Eurasianet</title>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+<meta name="google-site-verification" content="PwP2lyQ6EQA3-cv9gQbb7Vc6JSGQfYcN0B61dqN-5TY" />
+<meta name="pocket-site-verification" content="89157ef9f936d00b63669a84116581" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/ajax-progress.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/autocomplete-loading.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/progress.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/sticky-header.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tabledrag.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tree-child.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?s56cvb" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?s56cvb" />
+<link rel="stylesheet" media="all" href="//use.typekit.net/gpe5nmj.css" />
+<link rel="stylesheet" media="all" href="/themes/gesso/css/styles.css?s56cvb" />
+</head>
+<body class="path-sites not-front node-page node-page--node-type-error">
+<div class="skiplinks">
+<a href="#main" class="skiplinks__link visually-hidden focusable">Skip to main content</a>
+</div>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+<div class="l-page ">
+<header class="l-header l-header--fixed" role="banner">
+<div class="l-constrain">
+<div class="l-header__grid">
+<div class="l-header__branding">
+<a class="site-name" href="/" title="Home" rel="home">
+<h1 class="site-name__text">Eurasianet </h1>
+</a>
+</div>
+<div class="l-header__content">
+<nav class="nav" role="navigation">
+<h2 class="visually-hidden">Main Menu</h2>
+<input class="nav__trigger" type="checkbox" id="NavButton">
+<label class="nav__label" for="NavButton" onclick></label>
+<ul class="menu menu--main">
+<li class="menu__item">
+<a class="menu__link  menu__link--regions" href>Regions</a>
+</li>
+<li class="menu__item   is-collapsed">
+<a class="menu__link  is-collapsed menu__link--topics" href>Topics</a>
+</li>
+<li class="menu__item">
+<a class="menu__link  menu__link--media" href>Media</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/about">About</a>
+</li>
+<li class="menu__item">
+<a class="menu__link  menu__link--search" href>Search</a>
+</li>
+<li class="menu__item">
+<a class="menu__link  menu__link--newsletter" href="http://eepurl.com/dEnDgP">Newsletter</a>
+</li>
+<li class="menu__item">
+<a class="menu__link  menu__link--russian" href="http://russian.eurasianet.org">русский</a>
+</li>
+<li class="menu__item">
+<a class="menu__link  menu__link--button" href="https://gofund.me/f367ffb9">Support us</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="modal modal--region" style="display: none;">
+<div class="modal__container">
+<a class="modal__close" href="#">X</a>
+<div class="modal__grid">
+<div class="view view view--regions view--display-default js-view-dom-id-a2879fa9f8f2ccb2e28c05b3df47dabbbe64c9cc4d20302d5025b415d3b2945e">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/region/caucasus">Caucasus</a>
+</h4>
+<div class="view view view--regions-menu view--display-default js-view-dom-id-ec2f9f9ffe4c2a3873b04973fb2e0c497299ff075d344f6cdbb25747df3a38fa">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/armenia">Armenia</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/azerbaijan">Azerbaijan</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/georgia">Georgia</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--regions view--display-default js-view-dom-id-cd49e2315fdf5c76c05ce2e6ff27c236d4cf9ada96d93fa91ed003ada818af89">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/region/central-asia">Central Asia</a>
+</h4>
+<div class="view view view--regions-menu view--display-default js-view-dom-id-b324efb3a1ef8f8939af96d810b8d74cd19e0018141ad10dccc555e66577fcc0">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/kazakhstan">Kazakhstan</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/kyrgyzstan">Kyrgyzstan</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/tajikistan">Tajikistan</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/turkmenistan">Turkmenistan</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/uzbekistan">Uzbekistan</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--regions view--display-default js-view-dom-id-484049bed7a5383d5cfbac4032cb4f3bfa945eecb6ddff47036b2c8bfcbac76c">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/region/conflict-zones">Conflict Zones</a>
+</h4>
+<div class="view view view--regions-menu view--display-default js-view-dom-id-e0746fecf1f58006fb654b8f8b8d946849041e6fa4a5d03e57cbe4d88d7e8989">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/abkhazia">Abkhazia</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/nagorno-karabakh">Nagorno Karabakh</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/south-ossetia">South Ossetia</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--regions view--display-default js-view-dom-id-af27346ef18c086f762c01d3614825a607594e6ef99c993d7fd8151c498b34d0">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/region/eastern-europe">Eastern Europe</a>
+</h4>
+<div class="view view view--regions-menu view--display-default js-view-dom-id-323e0ce32c60bb9faa79a690a215c75dbfa6931ada3e85d12a38f7a4fae59f16">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/belarus">Belarus</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/moldova">Moldova</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/russia">Russia</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/the-baltics">The Baltics</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/ukraine">Ukraine</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--regions view--display-default js-view-dom-id-67e71bab1fc82c97b233cc7e8b48f1350e522cec47548e97ead437abe7beb871">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/region/eurasian-fringe">Eurasian Fringe</a>
+</h4>
+<div class="view view view--regions-menu view--display-default js-view-dom-id-7cac1b041b9c9f72c66564f0899ec7b327a78d4f87bc140d68f631878ffab7f9">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/afghanistan">Afghanistan</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/china">China</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/eu">EU</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/iran">Iran</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/mongolia">Mongolia</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/turkey">Turkey</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/united-kingdom">United Kingdom</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/region/united-states">United States</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal--topic" style="display: none;">
+<div class="modal__container">
+<a class="modal__close" href="#">X</a>
+<div class="modal__grid">
+<div class="view view view--topics view--display-default js-view-dom-id-d4c9ab213dbf1b07d354ce6616f20c77e48f2b2a19c16b7904a79662a8d8bb46">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/topic/environment">Environment</a>
+</h4>
+<div class="view view view--topics-menu view--display-default js-view-dom-id-c3a733f97c560996e3730c3abd62f2bad15217ee283aac4b27bb8f8deeef4e96">
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--topics view--display-default js-view-dom-id-6998e2ade73d383725fe35eb4f1c6606b5e00110c4110df558f75b7dbd692d85">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/topic/economy">Economy</a>
+</h4>
+<div class="view view view--topics-menu view--display-default js-view-dom-id-53270c35314093123f79768b833bb941edc0977328b3c82caa06b4f215e2382a">
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--topics view--display-default js-view-dom-id-bb529d0e526f720e08a1362c7bf9ab19f19dc57c6afce1e7fc07cf403faaae39">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/topic/politics">Politics</a>
+</h4>
+<div class="view view view--topics-menu view--display-default js-view-dom-id-d46c83855716e4a464f9f6e96aa81622ab45bc99509aec74831d2bf5937fced9">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/topic/kazakhstans-bloody-january-2022">Kazakhstan&#039;s Bloody January 2022</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/topic/kyrgyzstan-2020-unrest">Kyrgyzstan 2020 unrest</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--topics view--display-default js-view-dom-id-03d93f438d40d79d94878db5ab7b6ec3cccd12f5a0787eafb08fee5d161335cb">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/topic/security">Security</a>
+</h4>
+<div class="view view view--topics-menu view--display-default js-view-dom-id-852d96b964e9a42bf1d2084e886fc10092ac09a9598c628a437becf4cbf97dd5">
+</div>
+</div>
+</div>
+</div>
+<div class="view view view--topics view--display-default js-view-dom-id-e77ceac5574ab3e5e04156e0c0fac5368a7fe0733484a8237e74ba3a3f7a231d">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/topic/society">Society</a>
+</h4>
+<div class="view view view--topics-menu view--display-default js-view-dom-id-60ea5f7500cb93123d9133308febeb50374d0eb4dcf784fc43357bc0e67bf314">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/topic/american-diplomats-in-central-asia">American diplomats in Central Asia</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/topic/arts-and-culture">Arts and Culture</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/topic/coronavirus">Coronavirus</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/topic/student-spotlight">Student spotlight</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal--media" style="display: none;">
+<div class="modal__container">
+<a class="modal__close" href="#">X</a>
+<div class="modal__grid">
+<div class="views-element-container">
+<div class="view view view--media-terms view--display-default js-view-dom-id-38736c6fa5303041423f7a74d8718629ac7305dec93ca70c265882efda95a1ac">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/media/visual-stories">Visual Stories</a>
+</h4>
+<div class="views-element-container">
+<div class="view view view--media-terms-menu view--display-default js-view-dom-id-a97d5aead1cffb52549dd849851e2ea488ace821685e51d637e1a62fe3f26d72">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/media/podcast">Podcast</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/media/video">Video</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-element-container">
+<div class="view view view--blogs view--display-default js-view-dom-id-0483dd1913a3ba11bd52ccc4f7544ac135a7b040bf91a7be5ee62bdfcce7e28b">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/latest">Blogs</a>
+</h4>
+<div class="views-element-container">
+<div class="view view view--blogs-menu view--display-default js-view-dom-id-ffa703522f2472f69f78634979079d4862cf5cc21b552b3a16bc307700baeeaa">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/voices/tamada-tales">Tamada Tales</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/voices/the-bug-pit">The Bug Pit</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="views-element-container">
+<div class="view view view--podcasts view--display-default js-view-dom-id-e15b4cc845443d84e458c5c0b4e9981e1a191fc7ebcadaa9b827087d166c203d">
+<div class="view__content">
+<div class="views-row"><h4 class="term-parent">
+<a class="term-parent__link" href="/podcasts">Podcasts</a>
+</h4>
+<div class="views-element-container">
+<div class="view view view--podcasts-menu view--display-default js-view-dom-id-dd5980f1a37e3e9a865adf4c9adc53098bb8fb4f57f9089174b2b4da353f0ce7">
+<div class="view__content">
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/podcast/eurasiachat">EurasiaChat</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/podcast/expert-opinions">Expert Opinions</a>
+</div></div>
+<div class="views-row"><div class="term-child">
+<a class="term-child__link" href="/podcast/central-asianist">The Central Asianist</a>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal modal--search" style="display: none;">
+<div class="modal__container">
+<a class="modal__close" href="#">X</a>
+<div class="modal__grid">
+<form id="views-exposed-form-search" class="views-exposed-form" action="/search" method="get" accept-charset="UTF-8">
+<div class="form-item form-item--textfield">
+<label for="edit-keywords-search" class="form-item__label">Search by keyword</label>
+<input type="text" id="edit-keywords-search" name="keywords" value size="30" maxlength="128" class="form-item__text" placeholder="Search by keyword">
+<div class="form-item__description">You can search using keywords to narrow down the list.</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</header>
+<main id="main" class="l-main" role="main" tabindex="-1">
+<div class="l-highlighted">
+<div class="l-constrain">
+<div data-drupal-messages-fallback class="hidden"></div>
+</div>
+</div>
+<div class="l-content">
+<article class="error">
+<div class="l-constrain">
+<section class="content-embed">
+<p> </p>
+<p>Page not found :-(</p>
+<p>Oops. The link you are trying to visit is broken or has a typo.</p>
+<p>Try our great <a href="https://eurasianet.org/search">new search function</a>.</p>
+</section>
+</div>
+</article>
+</div>
+</main>
+<footer class="l-footer" role="contentinfo">
+<div class="l-constrain">
+<div class="l-footer__grid">
+<div class="l-footer__branding">
+<a class="site-name" href="/" title="Home" rel="home">
+<h1 class="site-name__text">Eurasianet </h1>
+</a>
+</div>
+<div class="l-footer__content">
+<ul class="menu menu--footer">
+<li class="menu__item">
+<a class="menu__link" href="/about">About</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/about/team">Team</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/about/contribute">Contribute</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/about/republishing">Republishing</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/privacy-policy">Privacy Policy</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/about/corrections">Corrections</a>
+</li>
+<li class="menu__item">
+<a class="menu__link" href="/about/contact">Contact</a>
+</li>
+</ul>
+<div class="copyright">
+Eurasianet &copy; 2023
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-4960395-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"user":{"uid":0,"permissionsHash":"4a1cd5942279ca10e077be5e03d52bccc499aba378e3b945eb66e4bccf70ab19"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.0"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.1.6"></script>
+<script src="/core/misc/drupal.js?v=10.1.6"></script>
+<script src="/core/misc/drupal.init.js?v=10.1.6"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/libraries/jquery.sticky-kit.min.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/libraries/ofi.min.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/libraries/headroom.min.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/header.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/modal.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/scripts.js?v=10.1.6"></script>
+<script src="/themes/gesso/js/mobile-menu.js?v=10.1.6"></script>
+</body>
+</html>

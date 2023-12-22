@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Not found</title>
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="">
+        <meta property="twitter:title" content="">
+        <meta property="twitter:description" content="">
+        <meta property="twitter:text:description" content="">
+        <meta property="twitter:image" content="">
+        <meta name="google" content="notranslate" />
+        <meta name="robots" content="noindex,nofollow,noarchive,NOODP" />
+
+	<style type="text/css" media="all">
+            @import url(/core/dynamic_base.css);
+            @import url(/core/dynamic_main.css);
+        </style>
+
+	<style type="text/css" media="print">
+		@import url(/styles/print.css);
+	</style>
+
+</head>
+<body class="section-pagenotfound">
+    <div id="wrapper">
+
+        <div id="toolbar">
+        </div>
+
+        <div id="container">
+            <div id="header">
+                <div id="logo"><a href="/"></a></div>
+                <div class="clear"></div>
+            </div>
+
+            <div id="main_content">
+
+                <h1>Not found</h1>
+                <div class="clear"></div>
+                The page requested was not found on this server.
+                <div class="divider"></div>
+
+                <div class="link"><a href="/">Go to the homepage</a></div>
+
+            </div>
+
+        </div>
+    </div>
+<!-- sentry-verification-string -->
+</body>
+</html>

@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+	<html class="ie ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+	<html class="ie ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US">
+	<!--<![endif]-->
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width">
+		<title>Page not found | 101 India</title>
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<link rel="pingback" href="https://101india.com/xmlrpc.php">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" type="text/css" href="https://101india.com/wp-content/themes/Arabia/css/slick.css">
+		<link rel="stylesheet" type="text/css" href="https://101india.com/wp-content/themes/Arabia/css/slick-theme.css">
+		<link rel="stylesheet" href="https://101india.com/wp-content/themes/Arabia/css/lightbox.min.css">
+		<link rel="stylesheet" type="text/css" href="https://101india.com/wp-content/themes/Arabia/css/customStyle.css">
+		<link rel="stylesheet" type="text/css" href="https://101india.com/wp-content/themes/Arabia/css/responsive.css">
+		<!--[if lt IE 9]>
+			<script src="https://101india.com/wp-content/themes/Arabia/js/html5.js?ver=3.7.0"></script>
+		<![endif]-->
+		<meta name='robots' content='noindex, nofollow' />
+<link rel="alternate" type="application/rss+xml" title="101 India &raquo; Feed" href="https://101india.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="101 India &raquo; Comments Feed" href="https://101india.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/101india.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://101india.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://101india.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css' href='https://101india.com/wp-content/themes/Arabia/fonts/source-sans-pro-plus-bitter.css?ver=20230328' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css' href='https://101india.com/wp-content/themes/Arabia/style.css?ver=20230328' media='all' />
+<script src="https://101india.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://101india.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://101india.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://101india.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+	<style type="text/css" id="twentythirteen-header-css">
+		.site-header {
+		background: url(https://101india.com/wp-content/themes/Arabia/images/headers/circle.png) no-repeat scroll top;
+		background-size: 1600px auto;
+	}
+	@media (max-width: 767px) {
+		.site-header {
+			background-size: 768px auto;
+		}
+	}
+	@media (max-width: 359px) {
+		.site-header {
+			background-size: 360px auto;
+		}
+	}
+			</style>
+			<style id="wp-custom-css">
+			.current-menu-item a{color: #D9E020;}
+.paginationWrap a {
+    margin-left: 1.75rem;
+    margin-right: 1.75rem;
+		border:none;
+}
+.paginationWrap a {
+    background: transparent;
+    border: 0;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #9b9b9b;
+}
+.paginationWrap .current {
+    color: #664aff;
+		margin-left: 1.75rem;
+    margin-right: 1.75rem;
+		border:none;
+		background: transparent;
+    border: 0;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+.paginationWrap .extend{
+		color: #664aff;
+		margin-left: 1.75rem;
+    margin-right: 1.75rem;
+		border:none;
+		background: transparent;
+    border: 0;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+.paginationWrap .previouspostslink, .paginationWrap .nextpostslink {
+    color: #664aff;
+}
+.tagsMain ul li a:nth-child(2n+1)
+{
+	color:#fff;
+	text-decoration:none;
+}
+.tagsMain ul li a:nth-child(2n) {
+	color: #4C49A2;
+	text-decoration:none;
+}		</style>
+			</head>
+	
+	<body class="error404 wp-embed-responsive single-author">
+		<header class="fixed-top">
+			<div class="container-fluid position-relative">
+				<div class="row">
+					<div class="col-12">
+						<nav class="navbar bg-transparent py-0">
+							<div class="container-fluid py-3">
+								<a class="navbar-brand" href="https://101india.com">
+									<img src="https://101india.com/wp-content/uploads/2023/07/logo.png" alt="Logo" class="img-fluid d-none d-md-inline-block">
+									<img src="https://101india.com/wp-content/uploads/2023/07/mobLogo.png" alt="Logo" class="img-fluid d-inline-block d-md-none">
+								</a>
+								<div class="nav-grid">
+									<button class="btn searchIcon focusNo activeNo border-0 me-md-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWidthExample" aria-expanded="false" aria-controls="collapseWidthExample"><i class="fa fa-search" aria-hidden="true"></i></button>
+									<button class="navbar-toggler border-0 focusNo mt-1" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+										<span class="navbar-toggler-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+									</button>
+								</div>
+								<div class="offcanvas offcanvas-end border-0" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+									<div class="offcanvas-header">
+										<h5 class="offcanvas-title" id="offcanvasNavbarLabel">
+											<a href="https://101india.com"><img src="https://101india.com/wp-content/uploads/2023/07/whiteLogo.png" class="img-fluid"></a>
+										</h5>
+										<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+									</div>
+									<div class="offcanvas-body">
+																				<div class="menu-header-menu-container"><ul id="menu-header-menu" class="navbar-nav justify-content-end flex-grow-1" itemscope itemtype="http://www.schema.org/SiteNavigationElement"><li  id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32 nav-item"><a itemprop="url" href="https://101india.com/" class="nav-link"><span itemprop="name">Home</span></a></li>
+<li  id="menu-item-147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-147 nav-item"><a itemprop="url" href="https://101india.com/category/series/" class="nav-link"><span itemprop="name">Series</span></a></li>
+<li  id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-9 nav-item"><a href="#" data-bs-toggle="dropdown" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-9"><span itemprop="name">CATEGORY</span></a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-9">
+	<li  id="menu-item-10" class="pink menu-item menu-item-type-custom menu-item-object-custom menu-item-10 nav-item"><a itemprop="url" href="https://101india.com/category/funny/" class="dropdown-item"><span itemprop="name">funny</span></a></li>
+	<li  id="menu-item-150" class="maroon menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150 nav-item"><a itemprop="url" href="https://101india.com/category/love-sex/" class="dropdown-item"><span itemprop="name">LOVE &amp; SEX</span></a></li>
+	<li  id="menu-item-148" class="skyBlue menu-item menu-item-type-taxonomy menu-item-object-category menu-item-148 nav-item"><a itemprop="url" href="https://101india.com/category/people/" class="dropdown-item"><span itemprop="name">PEOPLE</span></a></li>
+	<li  id="menu-item-145" class="green menu-item menu-item-type-taxonomy menu-item-object-category menu-item-145 nav-item"><a itemprop="url" href="https://101india.com/category/travel-food/" class="dropdown-item"><span itemprop="name">TRAVEL &amp; FOOD</span></a></li>
+	<li  id="menu-item-14" class="purple menu-item menu-item-type-custom menu-item-object-custom menu-item-14 nav-item"><a itemprop="url" href="https://101india.com/category/fiction/" class="dropdown-item"><span itemprop="name">fiction</span></a></li>
+	<li  id="menu-item-149" class="orange menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149 nav-item"><a itemprop="url" href="https://101india.com/category/music/" class="dropdown-item"><span itemprop="name">MUSIC</span></a></li>
+	<li  id="menu-item-146" class="litegreen menu-item menu-item-type-taxonomy menu-item-object-category menu-item-146 nav-item"><a itemprop="url" href="https://101india.com/category/sports/" class="dropdown-item"><span itemprop="name">SPORTS</span></a></li>
+	<li  id="menu-item-151" class="skyBlue menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151 nav-item"><a itemprop="url" href="https://101india.com/category/arts-culture/" class="dropdown-item"><span itemprop="name">ARTS &amp; CULTURE</span></a></li>
+	<li  id="menu-item-18" class="blue menu-item menu-item-type-custom menu-item-object-custom menu-item-18 nav-item"><a itemprop="url" href="https://101india.com/category/horror/" class="dropdown-item"><span itemprop="name">horror</span></a></li>
+	<li  id="menu-item-19" class="violet menu-item menu-item-type-custom menu-item-object-custom menu-item-19 nav-item"><a itemprop="url" href="https://101india.com/category/bizarre/" class="dropdown-item"><span itemprop="name">bizarre</span></a></li>
+</ul>
+</li>
+<li  id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 nav-item"><a itemprop="url" href="https://101india.com/login/" class="nav-link"><span itemprop="name">Login</span></a></li>
+<li  id="menu-item-217" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-217 nav-item"><a itemprop="url" href="https://101india.com/signup/" class="nav-link"><span itemprop="name">Signup</span></a></li>
+</ul></div>									</div>
+								</div>
+							</div>
+						</nav>
+					</div>
+				</div>
+				<div class="searchBox collapse border-top" id="collapseWidthExample">
+					<form action="https://101india.com/search" method="get">
+						<div class="input-group py-4 bg-white">
+							
+							<span class="input-group-text rounded-0 bg-transparent" id="basic-addon1"><i class="fa fa-search" aria-hidden="true"></i></span>
+							<input type="text" class="form-control rounded-0 border-0" aria-label="Username" name="keyword" aria-describedby="basic-addon1">
+							
+						</div>
+					</form>
+				</div>
+			</div>
+		</header>
+		
+		
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+			<header class="page-header">
+				<h1 class="page-title">Not Found</h1>
+			</header>
+
+			<div class="page-wrapper">
+				<div class="page-content">
+					<h2>This is somewhat embarrassing, isn&rsquo;t it?</h2>
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+					<form role="search" method="get" class="search-form" action="https://101india.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</div><!-- .page-content -->
+			</div><!-- .page-wrapper -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+<section class="newsLetter">
+	<div class="container">
+		<div class="row">
+			<div class="col text-center">
+				<h3 class="mb-0">Don’t Miss A Thing.</h3>
+<h3 class="mb-0">One subscription. Endless content.</h3>
+<p class="text-white mb-0">Subscribe to our Newsletter. Your inbox will get all our latest stories and annoucements.</p>			</div>
+		</div>
+		<div class="row formSec justify-content-center">
+			<div class="col-lg-10">
+				
+<div class="wpcf7 no-js" id="wpcf7-f5-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/sites/default/files/image-upload/blogs/TravelandFood/29NovSecretDevkundWaterfalls/Inline%204%20%3C%20Sunrise%20at%20the%20river%20behind%20the%20farmhouse%20%3E.jpg#wpcf7-f5-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="5" />
+<input type="hidden" name="_wpcf7_version" value="5.8.5" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f5-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<div class="row">
+	<div class="col-md-4 col-5 mb-3 mt-md-0">
+		<div>
+			<p><span class="wpcf7-form-control-wrap" data-name="fullname"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control border-0 p-md-3 p-2" aria-required="true" aria-invalid="false" placeholder="Name" value="" type="text" name="fullname" /></span>
+			</p>
+		</div>
+	</div>
+	<div class="col-md-6 col-7 mb-3 mt-md-0">
+		<div>
+			<p><span class="wpcf7-form-control-wrap" data-name="email-529"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control border-0 p-md-3 p-2" aria-required="true" aria-invalid="false" placeholder="Email" value="" type="email" name="email-529" /></span>
+			</p>
+		</div>
+	</div>
+	<div class="col-md-2">
+		<p><input class="wpcf7-form-control wpcf7-submit has-spinner btn btn-secondary btn-sub w-100 p-md-3 p-2" type="submit" value="SUBSCRIBE" />
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+			</div>
+		</div>
+	</div>
+</section>
+<footer>
+	<div class="container">
+        <div class="row align-items-center justify-content-between">
+			<div class="col-lg-3 text-center flogoBox order-2 order-md-1 mt-4 mt-md-0">
+				<a href="https://101india.com"><img src="https://101india.com/wp-content/uploads/2023/07/footerLogo.png" class="img-fluid" alt="Logo"></a>
+				<p class="mb-0 mt-4">&copy; 101 India Digital Pvt Ltd. <br> All Right Reserved</p>
+			</div>
+			<div class="col-lg-8 order-1 order-md-2">
+				<div class="follow d-flex flex-wrap align-items-center text-center text-md-strat">
+					<div class="followText col-md-3 col-12 text-uppercase">Follow Us On</div>
+					<div class="followIcons col-md-9 col-12 text-center">
+						<span>
+															<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+															<a href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+															<a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+															<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+															<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+															<a href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+													</span>
+					</div>
+				</div>
+				<div class="col footerLinks">
+					<ul class="nav justify-content-between">
+												<li class="nav-item">
+							<a class="nav-link" href="https://101india.com/">About</a>
+						</li>
+												<li class="nav-item">
+							<a class="nav-link" href="https://101india.com/">Contact</a>
+						</li>
+												<li class="nav-item">
+							<a class="nav-link" href="https://101india.com/terms-and-conditions/">Terms</a>
+						</li>
+												<li class="nav-item">
+							<a class="nav-link" href="https://101india.com/privacy-policy-2/">Policy</a>
+						</li>
+												<li class="nav-item">
+							<a class="nav-link" href="#">Jobs@101india</a>
+						</li>
+											</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+<script src="https://101india.com/wp-content/themes/Arabia/js/jquery.min.js"></script>
+<script src="https://101india.com/wp-content/themes/Arabia/js/slick.js"></script>
+<script src="https://101india.com/wp-content/themes/Arabia/js/lightbox.js"></script>
+<script>
+        var width = $(window).width();
+        if (width > 767) {
+            $(window).scroll(function() {
+                var scroll = $(window).scrollTop();
+
+                if (scroll >= 10) {
+                    $("header").addClass("bg-white shadow");
+                } else {
+                    $("header").removeClass("bg-white shadow");
+                }
+            });
+        }
+
+        $(document).ready(function() {
+            $('.boxSlider').slick({
+                dots: false,
+                infinite: true,
+                speed: 300,
+                autoplay: true,
+                autoplaySpeed: 4000,
+                arrows: true,
+                slidesToShow: 6,
+                slidesToScroll: 1,
+                responsive: [{
+                        breakpoint: 1024,
+                        settings: {
+                            slidesToShow: 6,
+                            slidesToScroll: 1,
+                            infinite: true,
+                            dots: false
+                        }
+                    },
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 3,
+                            arrows: false,
+                            dots: true,
+                            slidesToScroll: 1
+                        }
+                    },
+                    {
+                        breakpoint: 480,
+                        settings: {
+                            slidesToShow: 3,
+                            dots: true,
+                            arrows: false,
+                            slidesToScroll: 1
+                        }
+                    }
+                    // You can unslick at a given breakpoint now by adding:
+                    // settings: "unslick"
+                    // instead of a settings object
+                ]
+            });
+            $('.bannerTag').slick({
+                dots: true,
+                infinite: true,
+                arrows: false,
+                speed: 300,
+                autoplay: true,
+                slidesToShow: 1
+            });
+            $('.bannerTag2').slick({
+                dots: true,
+                infinite: true,
+                arrows: false,
+                speed: 300,
+                autoplay: true,
+                slidesToShow: 1
+            });
+            $('.bannerMainSlider').slick({
+                dots: true,
+                infinite: true,
+                arrows: false,
+                speed: 300,
+                autoplay: true,
+                slidesToShow: 1
+            });
+
+            $(".mainSlider").slick({
+                dots: true,
+                infinite: true,
+                autoplay: true,
+                arrows: false,
+                slidesToShow: 1,
+                slidesToScroll: 1
+              });
+        });
+
+    </script>
+<script>
+	$(".bestBox").click(function() {
+			var targeBox = $(this).data("point");
+			// alert(targeBox);
+			$(".bestBox").removeClass("active");
+			$(this).addClass('active');
+			
+			$(".seriseDetails").removeClass("active");
+			$(".seriseDetails").hide();
+			$(targeBox).show();
+			$(targeBox).addClass("active");
+			
+		});
+
+	// $(".bestBox").click(function() {
+	// 		var targeBox = $(this).data("point");
+	// 		if ($(targeBox).is(:visible)) {
+	// 			$(".seriseDetails").hide();
+	// 		} else {
+	// 			$(".seriseDetails").hide();
+	// 			$(targeBox).show();
+	// 		}
+			
+			
+	// 	});
+		$(".closeButton, .dataClose").click(function() {
+			$(".seriseDetails").slideUp();
+			//$(".seriseDetails").delay(2000).removeClass("active");
+		});
+		// $(".bestBox.active").click(function() {
+		// 	$(".seriseDetails").delay(1500).alert("hello");
+		// 	//$(".seriseDetails").delay(2000).removeClass("active");
+		// });
+
+
+			// $( ".bestBox.active" ).on( "click", function() {
+			//   // $(".seriseDetails").delay(1500).alert("hello");
+			// 	$(".closeButton").click();
+			// });
+	</script>
+<script src="https://101india.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.5" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/101india.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://101india.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.5" id="contact-form-7-js"></script>
+<script src="https://101india.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script src="https://101india.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script src="https://101india.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
+</body>
+</html>

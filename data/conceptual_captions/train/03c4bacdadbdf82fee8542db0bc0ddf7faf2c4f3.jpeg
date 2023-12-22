@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta class="foundation-mq">
+<meta name="description" content="iBuyNew is where Australia buys new property. Find, compare and buy hundreds of new &amp; off the plan apartments, townhouses and house packages across Australia."/>
+
+<meta name="keywords" content=""/>
+
+<meta name="google-site-verification" content="664fv-xwzwshrOie-REnykxWqHho7FNF2wooCC8LcRo"/>
+
+<meta name="facebook-domain-verification" content="i8as9c6wujnbr97rugeho8g4k46by9"/>
+
+<meta property="og:title" content=""/>
+<meta property="og:url" content="https://www.ibuynew.com.au/getattachment/d0f15619-f8ff-4a96-9fbf-7adbdd2be150/growth-in-buying-off-the-plan.aspx"/>
+<meta property="og:description" content="iBuyNew is where Australia buys new property. Find, compare and buy hundreds of new &amp; off the plan apartments, townhouses and house packages across Australia."/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="https://prod-new.cdn.ibuynew.com.au/images/home-banner/2400-ibuynew-from-home-to-settlement.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:locale" content="en-au"/>
+<meta property="og:locale:alternate" content="en-au"/>
+    
+    <title></title>
+
+    <!-- Favicons -->
+    <link rel="icon" href="/favicons/favicon.ico?v=3"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png?v=3"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png?v=3"/>
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png?v=3"/>
+<link rel="icon" type="image/png" sizes="260x260" href="/favicons/favicon-260x260.png?v=3"/>
+<link rel="icon" type="image/png" sizes="36x36" href="/favicons/android-chrome-36x36.png?v=3"/>
+<link rel="icon" type="image/png" sizes="48x48" href="/favicons/android-chrome-48x48.png?v=3"/>
+<link rel="icon" type="image/png" sizes="72x72" href="/favicons/android-chrome-72x72.png?v=3"/>
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/android-chrome-96x96.png?v=3"/>
+<link rel="icon" type="image/png" sizes="144x144" href="/favicons/android-chrome-144x144.png?v=3"/>
+<link rel="icon" type="image/png" sizes="192x192" href="/favicons/android-chrome-192x192.png?v=3"/>
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png?v=3">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png?v=3"/>
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png?v=3"/>
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png?v=3"/>
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png?v=3"/>
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png?v=3"/>
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png?v=3"/>
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png?v=3"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png?v=3"/>
+<meta name="msapplication-TileImage" sizes="70x70" content="/favicons/mstile-70x70.png?v=3"/>
+<meta name="msapplication-TileImage" sizes="144x144" content="/favicons/mstile-144x144.png?v=3"/>
+<meta name="msapplication-TileImage" sizes="150x150" content="/favicons/mstile-150x150.png?v=3"/>
+<meta name="msapplication-TileImage" sizes="310x150" content="/favicons/mstile-310x150.png?v=3"/>
+<meta name="msapplication-TileImage" sizes="310x310" content="/favicons/mstile-310x310.png?v=3"/>
+
+    
+    <link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-Black.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-BlackItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-ExtraBold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-ExtraBoldItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-Bold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-BoldItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-SemiBold.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-SemiBoldItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-Medium.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-MediumItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-Regular.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-RegularItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-Light.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-LightItalic.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-ExtraLight.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Mulish/Mulish-ExtraLightItalic.ttf" type="font/ttf" crossorigin="anonymous">
+
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Roboto/Roboto-Regular.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Roboto/Roboto-Medium.ttf" type="font/ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://prod-new.cdn.ibuynew.com.au/fonts/Roboto/Roboto-Bold.ttf" type="font/ttf" crossorigin="anonymous">
+
+    
+    <link rel="stylesheet" href="https://prod-new.cdn.ibuynew.com.au/fonts/fontawesome/css/all.css" />
+
+            <link rel="canonical" href="https://www.ibuynew.com.au/getattachment/d0f15619-f8ff-4a96-9fbf-7adbdd2be150/growth-in-buying-off-the-plan.aspx">
+    
+        <!--  Clickcease.com tracking-->
+<script type='text/javascript'>var script = document.createElement('script');
+    script.async = true; script.type = 'text/javascript';
+    var target = 'https://www.clickcease.com/monitor/stat.js';
+    script.src = target;var elem = document.head;elem.appendChild(script);
+</script>
+<noscript>
+    <a href='https://www.clickcease.com' rel='nofollow'><img src='https://monitor.clickcease.com/stats/stats.aspx' alt='ClickCease'/></a>
+</noscript>
+<!--  Clickcease.com tracking-->
+    
+    <link rel="stylesheet" href="https://prod-new.cdn.ibuynew.com.au/build/css/app.css?id=70e8367267177558733e11b78efb0441" />
+
+    
+    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+    <link href="https://calendly.com/assets/external/widget.css" rel="stylesheet">
+</head>
+
+<body data-user="" data-unique-user-id="" >
+    <div id="generalEnquiryRenderer">
+        <general-enquiry-full-screen></general-enquiry-full-screen>
+    </div>
+
+    <div class="appUtility">
+        <off-the-plan-guide-download-modal />
+    </div>
+
+    <div class="exit-intent-popup-trigger">
+        <exit-feedback-renderer/>
+    </div>
+
+
+    <nav class="navbar navigation sticky-top navbar-expand-lg ibu-main-nav is-fixed" id="ibn-nav">
+    <a class="navbar-brand ibu-home-icon" aria-label="navigations" href="/">
+        <div class="logoSvgContainer">
+    <img src="/images/logo/ibu-racv.svg" alt="logo"/>
+</div>
+    </a>
+    <div id="masterNavBar" class="master-nav-bar ">
+    <button id="mobileMenuToggler" class="navbar-toggler text-left " type="button" data-toggle="collapse"
+    data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+    aria-label="Toggle navigation" onclick="event.preventDefault(); handleToggleHamburgerMenu();">
+    <i class="fas fa-bars navbar-close"></i>
+    <div class="navbar-open">
+        <i class="fa-regular fa-xmark-large"></i>
+    </div>
+</button>
+
+<div class="mobile-contact ">
+    <div class="login-register d-none d-lg-flex " id="login-register">
+                <a href="https://www.ibuynew.com.au/login" class="ibu-register d-none d-md-block" aria-label="account">Register</a>
+        <span class="text-center"><i class="fa-light fa-pipe"></i></span>
+        <a href="https://www.ibuynew.com.au/dashboard"
+            class="ibu-account  d-none d-md-block "
+            aria-label="account">Login</a>
+            </div>
+    <div class="enquire mainNavEnquireBtn">
+        <enquire-button></enquire-button>
+    </div>
+</div>
+
+<div class="collapse navbar-collapse ibn-main-nav" id="navbarSupportedContent">
+    <div class="propertyTypeSearchQuickAccess d-block d-lg-none">
+        <div class="shadowCaster"></div>
+        <div class="propertyTypes">
+            <div class="row menu-buttons">
+                <div class="col-12 col-md-4">
+                    <a class="btn btnPrimaryBlue d-flex align-items-center justify-content-center"
+                        href="https://www.ibuynew.com.au/apartments">
+                        <span class="propertyTypeName">Browse Apartments</span>
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-4">
+                    <a class="btn btnPrimaryBlue d-flex align-items-center justify-content-center"
+                        href="https://www.ibuynew.com.au/townhouses">
+                        <span class="propertyTypeName">Browse Townhouses</span>
+                    </a>
+                </div>
+
+                <div class="col-12 col-md-4">
+                    <a class="btn btnPrimaryBlue d-flex align-items-center justify-content-center"
+                        href="https://www.ibuynew.com.au/house-and-land-advice">
+                        <span class="propertyTypeName">Browse House and Land</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+    <ul class="navbar-nav">
+        <li class="nav-item dropdown d-block d-lg-none">
+            <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                New Properties by State
+            </a>
+            <div class="dropdown-menu menuContainer" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/developments/vic">VIC</a>
+                <a class="dropdown-item" href="/developments/nsw">NSW</a>
+                <a class="dropdown-item" href="/developments/qld">QLD</a>
+                <a class="dropdown-item" href="/developments/wa">WA</a>
+                <a class="dropdown-item" href="/developments/sa">SA</a>
+                <a class="dropdown-item" href="/developments/tas">TAS</a>
+            </div>
+        </li>
+        <li class="nav-item dropdown d-block d-lg-none">
+            <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                New Properties by City
+            </a>
+            <div class="dropdown-menu menuContainer " aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/developments/nsw/sydney/">Sydney</a>
+                <a class="dropdown-item" href="/developments/vic/melbourne/">Melbourne</a>
+                <a class="dropdown-item" href="/developments/qld/brisbane/">Brisbane</a>
+                <a class="dropdown-item" href="/developments/qld/south-east/gold-coast/gold-coast">Gold Coast</a>
+                <a class="dropdown-item" href="/developments/wa/perth/">Perth</a>
+                <a class="dropdown-item" href="/developments/sa/adelaide/">Adelaide</a>
+                <a class="dropdown-item" href="/developments/act/canberra/">Canberra</a>
+            </div>
+        </li>
+        <li id="initial-parent-dropdown-show" class="nav-item dropdown d-none d-lg-block ">
+            <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Browse Properties
+            </a>
+            <div class="dropdown-menu menuContainer ibn-nav-new-properties "
+                aria-labelledby="navbarDropdown">
+                <div class="d-flex">
+                    <div>
+                        <ul class="navbar-nav mobileNavSubmenu">
+                            <li id="initial-child-dropdown-show" class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle child-dropdown" role="button" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">
+                                    By property type
+                                </a>
+                                <div class="dropdown-menu mobileNavSubmenuItems" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item"
+                                        href="https://www.ibuynew.com.au/developments">All Properties</a>
+                                    <a class="dropdown-item"
+                                        href="https://www.ibuynew.com.au/apartments">Apartments</a>
+                                    <a class="dropdown-item"
+                                        href="https://www.ibuynew.com.au/townhouses">Townhouses</a>
+                                    <a class="dropdown-item" href="https://www.ibuynew.com.au/house-and-land-advice">House and Land</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul class="navbar-nav mobileNavSubmenu">
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle child-dropdown" role="button" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">
+                                    By state
+                                </a>
+                                <div class="dropdown-menu mobileNavSubmenuItems" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="/developments/vic">VIC</a>
+                                    <a class="dropdown-item" href="/developments/nsw">NSW</a>
+                                    <a class="dropdown-item" href="/developments/qld">QLD</a>
+                                    <a class="dropdown-item" href="/developments/wa">WA</a>
+                                    <a class="dropdown-item" href="/developments/sa">SA</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="nav-item dropdown ">
+            <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                Articles &amp; Resources
+            </a>
+            <div class="d-lg-none dropdown-menu menuContainer " aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="/industry-outlooks/news-trends">News</a>
+                <a class="dropdown-item" href="/industry-outlooks/commentary">Commentary</a>
+                <a class="dropdown-item" href="/industry-outlooks/reports">Reports</a>
+              <a class="dropdown-item" href="/investing-buying/first-home-buyers">First Home Buyers</a>
+                <a class="dropdown-item" href="/investing-buying/investors">Investors</a>
+                <a class="dropdown-item" href="/investing-buying/upsizers">Upsizers</a>
+                <a class="dropdown-item" href="/investing-buying/downsizers">Downsizers</a>
+                <a class="dropdown-item" href="/tools-calculators">Tools &amp; Calculators</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/suburbs">Suburb Profiles</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/developer-profiles">Developer Profiles</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/finance/home-loans">Home Loans</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan/guide">OTP Guide</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan/guide-foreign-buyers">Foreign Buyers Guide</a>
+            </div>
+            <div class="dropdown-menu menuContainer ibn-nav-new-properties "
+                aria-labelledby="navbarDropdown">
+                <div class="d-none d-lg-flex">
+                    <div>
+                        <ul class="navbar-nav mobileNavSubmenu">
+                            <li id="initial-child-dropdown-show" class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle child-dropdown" role="button" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">
+                                    Industry outlook
+                                </a>
+                                <div class="dropdown-menu mobileNavSubmenuItems" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="/industry-outlooks/news-trends">News</a>
+                                    <a class="dropdown-item" href="/industry-outlooks/commentary">Commentary</a>
+                                    <a class="dropdown-item" href="/industry-outlooks/reports">Reports</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul class="navbar-nav mobileNavSubmenu">
+                            <li id="initial-child-dropdown-show" class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle child-dropdown" role="button" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">
+                                    Expert advice for
+                                </a>
+                                <div class="dropdown-menu mobileNavSubmenuItems" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="/investing-buying/first-home-buyers">First Home Buyers</a>
+                                    <a class="dropdown-item" href="/investing-buying/investors">Investors</a>
+                                    <a class="dropdown-item" href="/investing-buying/upsizers">Upsizers</a>
+                                    <a class="dropdown-item" href="/investing-buying/downsizers">Downsizers</a>
+
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul class="navbar-nav mobileNavSubmenu">
+                            <li id="initial-child-dropdown-show" class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle child-dropdown" role="button" data-toggle="dropdown"
+                                    aria-haspopup="true" aria-expanded="false">
+                                    Resources
+                                </a>
+                                <div class="dropdown-menu mobileNavSubmenuItems" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="/tools-calculators">Tools &amp; Calculators</a>
+                                    <a class="dropdown-item" href="https://www.ibuynew.com.au/suburbs">Suburb Profiles</a>
+                                    <a class="dropdown-item" href="https://www.ibuynew.com.au/developer-profiles">Developer Profiles</a>
+                                    <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan/guide">OTP Guide</a>
+                                    <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan/guide-foreign-buyers">Foreign Buyers Guide</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="nav-item dropdown ">
+            <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="dropdown"
+                aria-haspopup="true" aria-expanded="false">
+                About iBuyNew
+            </a>
+            <div class="dropdown-menu menuContainer " aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/about-us">About Us</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan">Off the Plan</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/finance/home-loans">Home Loans</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/contact-us">Contact</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/faqs">FAQs</a>
+            </div>
+        </li>
+    </ul>
+    <div class="login-register-container-nav-footer d-flex d-lg-none align-items-center">
+                <div class="sign-in">
+            <a class="login" href="/login">
+                Sign In
+            </a>
+        </div>
+        <div class="vertical-bar"></div>
+        <div class="register">
+            <a class="login" href="/login">
+                Register
+            </a>
+        </div>
+            </div>
+</div>
+
+</div>
+</nav>
+    <div class="appSiteWideNotification">
+    <site-wide-notification
+        :is-success=true
+        
+        
+        :message="&quot;&quot;"
+        :notify-title="&quot;&quot;"
+    >
+    </site-wide-notification>
+</div>
+        <div class="container errorPage pb-3">
+        <div class="section text-center">
+            <svg class="not-found" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 194.382 65.208">
+                <g id="Group_2" data-name="Group 2" transform="translate(-571.348 -198)">
+                    <path id="Path_1" data-name="Path 1" d="M53.7-35.157H45.44v10.77H28.926v-10.77H3.348V-47.542l28.63-40.746H45.44v40.3H53.7ZM28.926-47.991V-63.069l-10.5,15.078Z" transform="translate(568 287.012)" fill="#041e42"/>
+                    <path id="Path_2" data-name="Path 2" d="M53.7-35.157H45.44v10.77H28.926v-10.77H3.348V-47.542l28.63-40.746H45.44v40.3H53.7ZM28.926-47.991V-63.069l-10.5,15.078Z" transform="translate(712.032 287.012)" fill="#041e42"/>
+                    <path id="_i_class_fas_fa-exclamation-circle_i_" data-name="&lt;i class=&quot;fas fa-exclamation-circle&quot;&gt;&lt;/i&gt;" d="M66.661-47.318a32.609,32.609,0,0,0-32.6-32.6,32.609,32.609,0,0,0-32.6,32.6,32.6,32.6,0,0,0,32.6,32.6A32.6,32.6,0,0,0,66.661-47.318Zm-32.6,6.573A6.047,6.047,0,0,1,40.1-34.7a6.047,6.047,0,0,1-6.048,6.048A6.047,6.047,0,0,1,28.01-34.7,6.047,6.047,0,0,1,34.057-40.744ZM28.316-62.482a1.578,1.578,0,0,1,1.575-1.664h8.333A1.578,1.578,0,0,1,39.8-62.482L38.823-44.6a1.578,1.578,0,0,1-1.575,1.492H30.866A1.578,1.578,0,0,1,29.291-44.6Z" transform="translate(633.664 277.922)" fill="#041e42"/>
+                </g>
+            </svg>
+            <div class="h2">PAGE NOT FOUND</div>
+            <div class="h5 font-bold pb-4">Sorry, the page that you have requested cannot be found.</div><br/>
+            <div>
+                Here are some helpful links instead
+            </div>
+            <div class="linksContainer">
+                <a href="https://www.ibuynew.com.au" class="back">Home</a>
+                <a href="/apartments" class="back">Apartments</a>
+                <a href="/townhouses" class="back">Townhouses</a>
+                <a href="/house-and-land-packages" class="back">House and Land</a>
+                <a href="https://www.ibuynew.com.au/off-the-plan" class="back">About OTP</a>
+                <a href="https://www.ibuynew.com.au/suburbs" class="back">Suburb Profiles</a>
+            </div>
+        </div>
+    </div>
+
+    <footer id="ibuyNew-footer" class="footer-area">
+    <div id="get-in-touch">
+    <get-in-touch></get-in-touch>
+</div>    <div class="homepage-subscribe">
+        <div class="container-fluid news-letter-area lazy" id="news-letter-area">
+    <div class="section">
+        <div class="d-lg-flex justify-content-lg-center m-auto">
+            <h3 class="subscribe-heading ml-lg-3">
+                Subscribe for new property alerts and expert advice
+            </h3>
+        </div>
+        <button
+            class="d-md-none btn btnPrimaryGreen expandSubscribeFormBtn"
+            onclick="event.preventDefault(); handleExpandSubscribeFormBtn()"
+        >
+            Subscribe
+        </button>
+        <div class="d-none d-md-block subscription-forms-container">
+            <form id="newsLetterSubscribeSectionForm" method="POST" class="subscribe-form" name="Subscribe footer">
+                <input type="hidden" name="_token" value="t3zDhpFvqN2Rm5a0BMvKkSS9JmYdemuaCj4l018d">                <div class="fields d-flex justify-content-md-between flex-column flex-md-row">
+                    <div class="field field-email">
+                        <input
+                            class="form-control"
+                            type="email"
+                            name="email"
+                            placeholder="Email address"
+                            value=""
+                            id="email-newsLetterSubscribeSectionForm-input"
+                        />
+                    </div>
+                    <div class="horizontalLine"></div>
+                    <div class="field  field-buyer-type">
+                        <div class="subscribeFooterDropdown">
+                            <dropdown-input-transparent
+                                input-name="buyer_type"
+                                placeholder="I am a..."
+                                :options="[{&quot;value&quot;:&quot;first_home_buyer&quot;,&quot;label&quot;:&quot;First Home Buyer&quot;},{&quot;value&quot;:&quot;investor&quot;,&quot;label&quot;:&quot;Investor&quot;},{&quot;value&quot;:&quot;downsizer&quot;,&quot;label&quot;:&quot;Downsizer&quot;},{&quot;value&quot;:&quot;upgrader&quot;,&quot;label&quot;:&quot;Upgrader&quot;}]"
+                                :default-to-first-option="false"
+                                forced-input
+                                size="md"
+                                class-name="buyerTypeDropDown"
+                                id="buyer_type-newsLetterSubscribeSectionForm-input"
+                            />
+                        </div>
+                    </div>
+                    <div class="horizontalLine"></div>
+                    <div class="field field-state">
+                        <div class="subscribeFooterDropdown">
+                            <dropdown-input-transparent
+                                input-name="state"
+                                placeholder="In state..."
+                                :options="[{&quot;label&quot;:&quot;VIC&quot;,&quot;value&quot;:&quot;VIC&quot;},{&quot;label&quot;:&quot;NSW&quot;,&quot;value&quot;:&quot;NSW&quot;},{&quot;label&quot;:&quot;QLD&quot;,&quot;value&quot;:&quot;QLD&quot;},{&quot;label&quot;:&quot;SA&quot;,&quot;value&quot;:&quot;SA&quot;},{&quot;label&quot;:&quot;WA&quot;,&quot;value&quot;:&quot;WA&quot;},{&quot;label&quot;:&quot;ACT&quot;,&quot;value&quot;:&quot;ACT&quot;},{&quot;label&quot;:&quot;NT&quot;,&quot;value&quot;:&quot;NT&quot;},{&quot;label&quot;:&quot;TAS&quot;,&quot;value&quot;:&quot;TAS&quot;}]"
+                                :default-to-first-option="false"
+                                forced-input
+                                class-name="statesDropDown"
+                                size="md"
+                                id="state-newsLetterSubscribeSectionForm-input"
+                            />
+                        </div>
+                    </div>
+                </div>
+                <div class="button-subscribe">
+                    <button
+                        id="newsLetterSubscribeSectionForm-recaptcha"
+                        class=" g-recaptcha  btn btnPrimaryGreen"
+                                                data-callback="recaptchaNewsLetterSubscribeSectionFormSubmitAjax"
+                        data-sitekey="6LeHDMcZAAAAAMlMW4zRsx7u6icLjSNZKVRs5LzE"
+                                            >
+                        Subscribe 
+                    </button>
+
+                </div>
+                <input id="newsLetterSubscribeSectionForm-reset" type="reset" value="reset" class="d-none">
+            </form>
+            <div class="text-danger text-center text-left smallText">
+                <div id="email-newsLetterSubscribeSectionForm-error"></div>
+                <div id="buyer_type-newsLetterSubscribeSectionForm-error"></div>
+                <div id="state-newsLetterSubscribeSectionForm-error"></div>
+            </div>
+            <div class="d-none successfulSubscription"></div>
+            <div class="tnc text-center d-inline-block py-2 smallText">
+                Your privacy is important to us. To better serve you, the information you enter in this form is recorded in real-time.
+            </div>
+        </div>
+
+    </div>
+</div>
+
+    </div>
+        <div class="footer-contents-container">
+        <div class="container">
+            <div class="row footer-contents">
+                <div class="footer-contact d-flex align-items-center m-auto">
+                    <a class="d-flex call-us segment-tracking-phone align-items-center text-decoration-none"
+                        href="tel:1300 123 463">
+                        <img src="/images/icons/call-us-icon.svg" class="" />
+                        <span class="h3 mb-0">1300 123 463</span>
+                    </a>
+                    <div class="appGetStarted">
+    <get-started/>
+</div>
+                    <!-- <div class="btn btnPrimaryGreen" @click.prevent="handleOpeningEnquiryModal">Get started</div> -->
+                </div>
+            </div>
+            <hr />
+            <div class="row footer-details">
+                <div class="col-12 col-md-3 p-0 pl-md-2 p-lg-0">
+                    <a href="https://www.ibuynew.com.au">
+                        <img src="/images/logo/ibu-racv.svg" alt="In Partnership with RACV" />
+                    </a>
+                </div>
+                <div class="col-12 col-md-6 text-center">
+                    <p>
+                        Free expert advice on new and off the plan properties, supporting you from search to settlement.
+                    </p>
+                    <div class="trustpilotMicroRatingsFooter">
+                        <div
+    class="trustpilot-widget"
+    data-locale="en-US"
+    data-template-id="5419b637fa0340045cd0c936"
+    data-businessunit-id="556573e00000ff00057fafa3"
+    data-style-height="20px"
+    data-style-width="100%"
+    data-stars="4,5"
+    data-theme="white"
+    data-float="left"
+>
+    <a href="https://www.trustpilot.com/review/ibuynew.com.au" target="_blank" rel="noopener"></a>
+</div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-3 p-0 pr-md-2 p-lg-0 text-center">
+                    <div class="social-media-area">
+    <div class="social-icon-container">
+        <a
+            class="social-icon segment-tracking-social text-decoration-none"
+            data-segment-title="Facebook"
+            data-segment-path="https://www.ibuynew.com.au/getattachment/d0f15619-f8ff-4a96-9fbf-7adbdd2be150/growth-in-buying-off-the-plan.aspx"
+            aria-label="facebook"
+            href="https://www.facebook.com/Ibuynew"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-facebook-f text-white"></i>
+        </a>
+        <a
+            class="social-icon segment-tracking-social text-decoration-none"
+            data-segment-title="LinkedIn"
+            data-segment-path="https://www.ibuynew.com.au/getattachment/d0f15619-f8ff-4a96-9fbf-7adbdd2be150/growth-in-buying-off-the-plan.aspx"
+            aria-label="linkedin"
+            href="https://www.linkedin.com/company/ibuynew"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-linkedin-in text-white"></i>
+        </a>
+        <a
+            class="social-icon segment-tracking-social text-decoration-none"
+            data-segment-title="Instagram"
+            data-segment-path="https://www.ibuynew.com.au/getattachment/d0f15619-f8ff-4a96-9fbf-7adbdd2be150/growth-in-buying-off-the-plan.aspx"
+            aria-label="instagram"
+            href="https://www.instagram.com/ibuynew_property/"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            <i class="fab fa-instagram text-white"></i>
+        </a>
+    </div>
+</div>
+                </div>
+            </div>
+            <hr />
+            <div class="d-none d-md-block">
+    <div class="row footer-links ">
+        <div class="col-md-3 col-sm-3">
+            <p>Search Developments</p>
+            <div class="">
+                <a class="dropdown-item" href="/developments/vic/melbourne?searchString='Melbourne'"> Developments Melbourne</a>
+                <a class="dropdown-item" href="/developments/nsw/sydney?searchString='Sydney'">Developments Sydney</a>
+                <a class="dropdown-item" href="/developments/qld/brisbane?searchString='Brisbane'">Developments Brisbane</a>
+                <a class="dropdown-item" href="/developments/qld/south-east/gold-coast?searchString='Gold Coast'">Developments Gold Coast</a>
+                <a class="dropdown-item" href="/developments/act/canberra?searchString='Canberra'">Developments Canberra</a>
+                <a class="dropdown-item" href="/developments/sa/adelaide?searchString='Adelaide'">Developments Adelaide</a>
+                <a class="dropdown-item" href="/developments/wa/perth?searchString='Perth'">Developments Perth</a>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-3">
+            <p>Search New Apartments</p>
+            <div>
+                <a class="dropdown-item" href="/apartments/vic/melbourne?searchString='Melbourne'">New Apartments Melbourne</a>
+                <a class="dropdown-item" href="/apartments/nsw/sydney?searchString='Sydney'">New Apartments Sydney</a>
+                <a class="dropdown-item" href="/apartments/qld/brisbane?searchString='Brisbane'">New Apartments Brisbane</a>
+                <a class="dropdown-item" href="/apartments/qld/south-east/gold-coast?searchString='Gold Coast'">New Apartments Gold Coast</a>
+                <a class="dropdown-item" href="/apartments/act/canberra?searchString='Canberra'">New Apartments Canberra</a>
+                <a class="dropdown-item" href="/apartments/sa/adelaide?searchString='Adelaide'">New Apartments Adelaide</a>
+                <a class="dropdown-item" href="/apartments/wa/perth?searchString='Perth'">New Apartments Perth</a>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-3">
+            <p>Search New Townhouses</p>
+            <div>
+                <a class="dropdown-item" href="/townhouses/vic/melbourne?searchString='Melbourne'">New Townhouses Melbourne</a>
+                <a class="dropdown-item" href="/townhouses/nsw/sydney?searchString='Sydney'">New Townhouses Sydney</a>
+                <a class="dropdown-item" href="/townhouses/qld/brisbane?searchString='Brisbane'">New Townhouses Brisbane</a>
+                <a class="dropdown-item" href="/townhouses/qld/south-east/gold-coast?searchString='Gold Coast'">New Townhouses Gold Coast</a>
+                <a class="dropdown-item" href="/townhouses/act/canberra?searchString='Canberra'">New Townhouses Canberra</a>
+                <a class="dropdown-item" href="/townhouses/sa/adelaide?searchString='Adelaide'">New Townhouses Adelaide</a>
+                <a class="dropdown-item" href="/townhouses/wa/perth?searchString='Perth'">New Townhouses Perth</a>
+            </div>
+        </div>
+        <div class="col-md-3 col-sm-3">
+            <p>About iBuyNew</p>
+            <div>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/about-us">About Us</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan">Off the Plan</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/finance/home-loans">Home Loans</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/suburbs">Suburb Profiles</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan/guide">Off the Plan Guide</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/contact-us">Contact</a>
+                <a class="dropdown-item" href="https://www.ibuynew.com.au/faqs">FAQs</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row footer-links d-block d-md-none">
+    <div class="col-md-3 footer-links__item">
+        <a class="nav-link dropdown-toggle parent-dropdown " data-toggle="collapse" href="#collapseExample"
+            role="button" aria-expanded="false" aria-controls="collapseExample">
+            Search Developments
+        </a>
+        <div class="collapse" id="collapseExample">
+            <a class="dropdown-item" href="/developments/vic/melbourne?searchString='Melbourne'"> Developments Melbourne</a>
+            <a class="dropdown-item" href="/developments/nsw/sydney?searchString='Sydney'"> Developments Sydney</a>
+            <a class="dropdown-item" href="/developments/qld/brisbane?searchString='Brisbane'"> Developments Brisbane</a>
+            <a class="dropdown-item" href="/developments/qld/south-east/gold-coast?searchString='Gold Coast'"> Developments Gold Coast</a>
+            <a class="dropdown-item" href="/developments/act/canberra?searchString='Canberra'"> Developments Canberra</a>
+            <a class="dropdown-item" href="/developments/sa/adelaide?searchString='Adelaide'"> Developments Adelaide</a>
+            <a class="dropdown-item" href="/developments/wa/perth?searchString='Perth'"> Developments Perth</a>
+        </div>
+    </div>
+    <div class="col-md-3 footer-links__item">
+        <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="collapse"
+            href="#collapseExample2" role="button" aria-expanded="false" aria-controls="collapseExample2">
+             Search New Apartments
+        </a>
+        <div class="collapse" id="collapseExample2">
+            <a class="dropdown-item" href="/apartments/vic/melbourne?searchString='Melbourne'">New Apartments Melbourne</a>
+            <a class="dropdown-item" href="/apartments/nsw/sydney?searchString='Sydney'">New Apartments Sydney</a>
+            <a class="dropdown-item" href="/apartments/qld/brisbane?searchString='Brisbane'">New Apartments Brisbane</a>
+            <a class="dropdown-item" href="/apartments/qld/south-east/gold-coast?searchString='Gold Coast'">New Apartments Gold Coast</a>
+            <a class="dropdown-item" href="/apartments/act/canberra?searchString='Canberra'">New Apartments Canberra</a>
+            <a class="dropdown-item" href="/apartments/sa/adelaide?searchString='Adelaide'">New Apartments Adelaide</a>
+            <a class="dropdown-item" href="/apartments/wa/perth?searchString='Perth'">New Apartments Perth</a>
+        </div>
+    </div>
+    <div class="col-md-3 footer-links__item">
+        <a class="nav-link dropdown-toggle parent-dropdown " role="button" data-toggle="collapse"
+            href="#collapseExample3" role="button" aria-expanded="false" aria-controls="collapseExample3">
+            Search New Townhouses
+        </a>
+        <div class="collapse" id="collapseExample3">
+            <a class="dropdown-item" href="/townhouses/vic/melbourne?searchString='Melbourne'">New Townhouses Melbourne</a>
+            <a class="dropdown-item" href="/townhouses/nsw/sydney?searchString='Sydney'">New Townhouses Sydney</a>
+            <a class="dropdown-item" href="/townhouses/qld/brisbane?searchString='Brisbane'">New Townhouses Brisbane</a>
+            <a class="dropdown-item" href="/townhouses/qld/south-east/gold-coast?searchString='Gold Coast'">New Townhouses Gold Coast</a>
+            <a class="dropdown-item" href="/townhouses/act/canberra?searchString='Canberra'">New Townhouses Canberra</a>
+            <a class="dropdown-item" href="/townhouses/sa/adelaide?searchString='Adelaide'">New Townhouses Adelaide</a>
+            <a class="dropdown-item" href="/townhouses/wa/perth?searchString='Perth'">New Townhouses Perth</a>
+        </div>
+    </div>
+    <div class="col-md-3 footer-links__item">
+        <a class="nav-link dropdown-toggle parent-dropdown" role="button" data-toggle="collapse"
+            href="#collapseExample4" role="button" aria-expanded="false" aria-controls="collapseExample4">
+            About iBuyNew
+        </a>
+        <div class="collapse" id="collapseExample4">
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/about-us">About Us</a>
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan">Off the Plan</a>
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/finance/home-loans">Home Loans</a>
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/suburbs">Suburb Profiles</a>
+            <a class="dropdown-item" href="/industry-outlooks/news-trends">News</a>
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/off-the-plan/guide">Off the Plan Guide</a>
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/contact-us">Contact</a>
+            <a class="dropdown-item" href="https://www.ibuynew.com.au/faqs">FAQs</a>
+        </div>
+    </div>
+</div>
+        </div>
+    </div>
+        <div class="container-fluid footer-disclaimer">
+
+        <div class="row copyright text-center">
+            <div class="col-12 ">
+                <img class="flags" src="https://prod-new.cdn.ibuynew.com.au/images/icons/flag-aboriginal-torres-strait-islander.jpg"
+                    alt="Aboriginal and Torres Strait Islander Flags" />
+                <img class="flags" src="https://prod-new.cdn.ibuynew.com.au/images/icons/pride-flag.jpg"
+                    alt="Aboriginal and Torres Strait Islander Flags" />
+                <p class="countryAcknowledgement">
+                    iBuyNew acknowledges the traditional owners of the land on which our staff and offices are located
+                    <br class="d-none d-md-block">
+                    throughout Australia. We pay our respects to their Elders past and present.
+                </p>
+                <p class="countryAcknowledgement">
+                    iBuyNew is committed to providing inclusive services and work environments
+                    <br class="d-none d-md-block">
+                    where all individuals feel accepted, safe and affirmed.
+                </p>
+                <hr/>
+                <br/>
+                <p class="countryAcknowledgement">
+                    iBuyNew is also a proud member of the Property Investment Professionals of Australia, and a
+                    licensed real estate agency in the states of Victoria, New South Wales and Queensland.
+                </p>
+                <div class="logos-container">
+                    <div class="wrapper-image">
+                        <img src="https://prod-new.cdn.ibuynew.com.au/images/icons/pipa-logo.png" alt="Property investment professsional of Australia" />
+                    </div>
+                    <div class="wrapper-image">
+                        <img src="https://prod-new.cdn.ibuynew.com.au/images/icons/reiq-logo.png" alt="Real Estate Institute of Queensland"/>
+                    </div>
+                    <div class="wrapper-image">
+                        <img src="https://prod-new.cdn.ibuynew.com.au/images/icons/reinsw-logo.png" alt="Real Estate Institute of New South Wales"/>
+                    </div>
+                    <div class="wrapper-image">
+                        <img src="https://prod-new.cdn.ibuynew.com.au/images/icons/reiv-logo.png" alt="Real estate institude of Victoria"/>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="footer-legal-links">
+                    This site is protected by reCAPTCHA and the Google
+                    <a class="text-decoration-none" href="https://policies.google.com/privacy">Privacy Policy</a> and
+                    <a class="text-decoration-none" href="https://policies.google.com/terms">Terms of Service</a> apply.
+                    <div class="copyrightSeparator"></div>
+                    <span>&copy; 2023 iBuyNew Australia PTY LTD.</span>
+                    <br class="d-sm-none">
+                    <span>All rights reserved.</span>
+                    <br class="d-sm-none">
+                    <div class="copyrightSeparator"></div>
+                    <a href="https://www.ibuynew.com.au/disclaimer">Disclaimer</a> |
+                    <a href="https://www.ibuynew.com.au/terms-conditions">Terms &amp; Conditions</a> |
+                    <a href="https://www.ibuynew.com.au/privacy-policy">Privacy Policy</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+    <div class="appModal">
+    <property-enquiry-success
+        information="null"
+    ></property-enquiry-success>
+</div>
+
+    <script src="//a.insiteful.co/dist/compile.min.js"></script>
+    <script type="text/javascript" defer>
+        if (typeof insiteful_activate !== "undefined") {
+            const key = "NjUxNGY3ODUyOWVlMw=="
+            insiteful_activate(key);
+        }
+    </script>
+
+    <script src="https://prod-new.cdn.ibuynew.com.au/build/js/manifest.js?id=d114b5b4e9c3cd154448a8e89e943be8"></script>
+    <script src="https://prod-new.cdn.ibuynew.com.au/build/js/vendor.js?id=f73ff91218dd377c8c9e517c3a06356d"></script>
+    <script src="https://www.google.com/recaptcha/api.js?" async defer></script>
+
+
+    
+    <script src="https://prod-new.cdn.ibuynew.com.au/build/js/app.js?id=40f9dd8615c88edb54163c03257bce99"></script>
+
+    
+        <script defer src="https://prod-new.cdn.ibuynew.com.au/build/js/vwo.js?id=c2eb8d5eae4917e3df884384bb9ab1a6"></script>
+        
+    <script type="text/javascript">
+        if (typeof sessionStorage !== "undefined" &&  sessionStorage !== null) {
+            window.onbeforeunload = sessionStorage.removeItem("isAnyPopupOpen");
+        }
+    </script>
+
+    <script type="text/javascript">
+    function hasClass(element, cls) {
+            return (' ' + element.className + ' ').indexOf(' ' + cls + ' ') > -1;
+        }
+
+        function handleToggleHamburgerMenu() {
+            const primaryNav = document.getElementById('ibn-nav');
+            const dropdownMenu = document.getElementById('navbarSupportedContent');
+            const secondaryNav = document.getElementById('ibu-nav-secondary');
+
+            let header = document.getElementById('home-nav-bar');
+            let headerHeight = header != null ? getComputedStyle(header).height.split('px')[0] : '';
+            let scrollValue = window.scrollY;
+
+            if (!hasClass(dropdownMenu, 'show')) {
+                secondaryNav!= null ? secondaryNav.style.visibility = 'hidden' : '';;
+                primaryNav.classList.add("is-fixed");
+            } else if (scrollValue < headerHeight){
+                secondaryNav!= null ? secondaryNav.style.visibility = 'visible' : '';
+                primaryNav.classList.remove("is-fixed");
+            }
+        }
+</script>
+    <script type="text/javascript">
+        function handleExpandSubscribeFormBtn() {
+            document.querySelector("#news-letter-area .expandSubscribeFormBtn").classList.add("d-none");
+            document.querySelector("#news-letter-area .subscription-forms-container").classList.add("d-block");
+        }
+
+        function recaptchaNewsSubscribeFormSuccessCallBack() {
+            // Reset custom form components
+            document.querySelector("#news-letter-area .buyerTypeDropDown button").classList.add("placeholder");
+            document.querySelector("#news-letter-area .buyerTypeDropDown button span").textContent = "I am a...";
+
+            document.querySelector("#news-letter-area .statesDropDown button").classList.add("placeholder");
+            document.querySelector("#news-letter-area .statesDropDown button span").textContent = "In state...";
+
+            document.querySelectorAll("#news-letter-area .dropdown-menu input").forEach((input) => {
+                input.value = null;
+            });
+
+            document.querySelector("#news-letter-area .successfulSubscription").classList.add("d-block");
+            document.querySelector("#news-letter-area .successfulSubscription").textContent = "You have successfully subscribed.";
+
+            document.querySelector("#news-letter-area .field-email input").classList.remove("error");
+
+            window._vis_opt_queue = window._vis_opt_queue || [];
+            window._vis_opt_queue.push(function() {_vis_opt_goal_conversion(207);});
+
+            window.VWO = window.VWO || [];
+            window.VWO.push(['track.goalConversion',7]);
+        }
+
+        function handleFormErrorCallback() {
+            if(!document.querySelector('#news-letter-area .dropdown-menu input[name="state"]').value)
+                document.querySelector("#news-letter-area .statesDropDown button").classList.add("error");
+            if(!document.querySelector('#news-letter-area .dropdown-menu input[name="buyer_type"]').value)
+                document.querySelector("#news-letter-area .buyerTypeDropDown button").classList.add("error");
+            document.querySelector("#news-letter-area .field-email input").classList.add("error");
+        }
+
+        function recaptchaNewsLetterSubscribeSectionFormSubmitAjax() {
+            let recaptchaHtmlId = "newsLetterSubscribeSectionForm-recaptcha";
+
+            
+            ajaxFormSubmit(
+                "https://www.ibuynew.com.au/subscribe",
+                document.getElementById("newsLetterSubscribeSectionForm"),
+                "",
+                "newsLetterSubscribeSectionForm-error",
+                "newsLetterSubscribeSectionForm-input",
+                "newsLetterSubscribeSectionForm-reset",
+                recaptchaHtmlId,
+                handleFormErrorCallback,
+                recaptchaNewsSubscribeFormSuccessCallBack
+            );
+        }
+    </script>
+</body>
+</html>
