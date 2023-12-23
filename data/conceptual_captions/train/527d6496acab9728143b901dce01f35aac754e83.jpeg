@@ -1,0 +1,859 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js lt-ie10" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' />
+    <link rel="profile" href="http://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://exploresrilanka.lk/xmlrpc.php" />
+    <meta name='robots' content='noindex, follow' />
+			<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script><script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script>
+	<!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Explore Sri Lanka</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Explore Sri Lanka" />
+	<meta property="og:site_name" content="Explore Sri Lanka" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://exploresrilanka.lk/#website","url":"https://exploresrilanka.lk/","name":"Explore Sri Lanka","description":"Explore Sri Lanka - Once discovered, you must explore","publisher":{"@id":"https://exploresrilanka.lk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://exploresrilanka.lk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://exploresrilanka.lk/#organization","name":"Explore Sri Lanka","url":"https://exploresrilanka.lk/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://exploresrilanka.lk/#/schema/logo/image/","url":"https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png","contentUrl":"https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png","width":164,"height":62,"caption":"Explore Sri Lanka"},"image":{"@id":"https://exploresrilanka.lk/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/Explore.Srilanka.Magazine","https://www.instagram.com/exploresrilanka"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='preconnect' href='https://fonts.gstatic.com' />
+<link rel="alternate" type="application/rss+xml" title="Explore Sri Lanka &raquo; Feed" href="https://exploresrilanka.lk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Explore Sri Lanka &raquo; Comments Feed" href="https://exploresrilanka.lk/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/exploresrilanka.lk\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://exploresrilanka.lk/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='pdfprnt_frontend-css' href='https://exploresrilanka.lk/wp-content/plugins/pdf-print/css/frontend.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='xs-front-style-css' href='https://exploresrilanka.lk/wp-content/plugins/wp-social/assets/css/frontend.css?ver=2.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='xs_login_font_login_css-css' href='https://exploresrilanka.lk/wp-content/plugins/wp-social/assets/css/font-icon.css?ver=2.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='https://exploresrilanka.lk/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.22' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://exploresrilanka.lk/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.25.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://exploresrilanka.lk/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.18.3' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://exploresrilanka.lk/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-69813-css' href='https://exploresrilanka.lk/wp-content/uploads/elementor/css/post-69813.css?ver=1703111941' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://exploresrilanka.lk/wp-content/uploads/elementor/css/global.css?ver=1703111936' type='text/css' media='all' />
+<link rel='stylesheet' id='jeg_customizer_font-css' href='//fonts.googleapis.com/css?family=Merriweather%3Aregular%2Cregular%2C700&#038;display=swap&#038;ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-frontend-css' href='https://exploresrilanka.lk/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=11.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-elementor-css' href='https://exploresrilanka.lk/wp-content/themes/jnews/assets/css/elementor-frontend.css?ver=11.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-style-css' href='https://exploresrilanka.lk/wp-content/themes/jnews/style.css?ver=11.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-darkmode-css' href='https://exploresrilanka.lk/wp-content/themes/jnews/assets/css/darkmode.css?ver=11.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-scheme-css' href='https://exploresrilanka.lk/wp-content/themes/jnews/data/import/retail/scheme.css?ver=11.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMerriweather%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.4.2' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type="text/javascript" src="https://exploresrilanka.lk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="xs_front_main_js-js-extra">
+/* <![CDATA[ */
+var rest_config = {"rest_url":"https:\/\/exploresrilanka.lk\/wp-json\/","nonce":"09ee58f2f3","insta_enabled":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-content/plugins/wp-social/assets/js/front-main.js?ver=2.2.9" id="xs_front_main_js-js"></script>
+<script type="text/javascript" id="xs_social_custom-js-extra">
+/* <![CDATA[ */
+var rest_api_conf = {"siteurl":"https:\/\/exploresrilanka.lk","nonce":"09ee58f2f3","root":"https:\/\/exploresrilanka.lk\/wp-json\/"};
+var wsluFrontObj = {"resturl":"https:\/\/exploresrilanka.lk\/wp-json\/","rest_nonce":"09ee58f2f3"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-content/plugins/wp-social/assets/js/social-front.js?ver=6.4.2" id="xs_social_custom-js"></script>
+<link rel="https://api.w.org/" href="https://exploresrilanka.lk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://exploresrilanka.lk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NR4HQ3P098"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NR4HQ3P098');
+</script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8412785656079718"
+     crossorigin="anonymous"></script>
+<style>/* CSS added by WP Meta and Date Remover*/.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }</style><meta name="generator" content="Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<link rel="icon" href="https://exploresrilanka.lk/wp-content/uploads/2022/05/ESL-64-×-64-px.png" sizes="32x32" />
+<link rel="icon" href="https://exploresrilanka.lk/wp-content/uploads/2022/05/ESL-64-×-64-px.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://exploresrilanka.lk/wp-content/uploads/2022/05/ESL-64-×-64-px.png" />
+<meta name="msapplication-TileImage" content="https://exploresrilanka.lk/wp-content/uploads/2022/05/ESL-64-×-64-px.png" />
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">.jeg_container, .jeg_content, .jeg_boxed .jeg_main .jeg_container, .jeg_autoload_separator { background-color : #ffffff; } body { --j-body-color : #333333; --j-accent-color : #000000; --j-alt-color : #000000; --j-heading-color : #212121; } body,.jeg_newsfeed_list .tns-outer .tns-controls button,.jeg_filter_button,.owl-carousel .owl-nav div,.jeg_readmore,.jeg_hero_style_7 .jeg_post_meta a,.widget_calendar thead th,.widget_calendar tfoot a,.jeg_socialcounter a,.entry-header .jeg_meta_like a,.entry-header .jeg_meta_comment a,.entry-header .jeg_meta_donation a,.entry-header .jeg_meta_bookmark a,.entry-content tbody tr:hover,.entry-content th,.jeg_splitpost_nav li:hover a,#breadcrumbs a,.jeg_author_socials a:hover,.jeg_footer_content a,.jeg_footer_bottom a,.jeg_cartcontent,.woocommerce .woocommerce-breadcrumb a { color : #333333; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a { color : #000000; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #000000; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #000000; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #000000; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #000000; } .jeg_share_button.share-float.share-monocrhome a { background-color : #000000; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #212121; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #212121; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_search_no_expand .jeg_search_input { line-height : 38px; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_nav_icon { height : 38px; } .jeg_topbar, .jeg_topbar.dark { border-color : #000000; border-top-width : 0px; } .jeg_topbar a, .jeg_topbar.dark a { color : #000000; } .jeg_midbar { height : 90px; } .jeg_midbar, .jeg_midbar.dark { background-color : #ffffff; border-bottom-width : 0px; border-bottom-color : #ffffff; color : #000000; } .jeg_midbar a, .jeg_midbar.dark a { color : #000000; } .jeg_header .jeg_bottombar.jeg_navbar,.jeg_bottombar .jeg_nav_icon { height : 60px; } .jeg_header .jeg_bottombar.jeg_navbar, .jeg_header .jeg_bottombar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_header .jeg_bottombar .jeg_menu_style_1 > li, .jeg_header .jeg_bottombar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 60px; } .jeg_header .jeg_bottombar.jeg_navbar_wrapper:not(.jeg_navbar_boxed), .jeg_header .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row { background : #ffffff; } .jeg_header .jeg_navbar_menuborder .jeg_main_menu > li:not(:last-child), .jeg_header .jeg_navbar_menuborder .jeg_nav_item, .jeg_navbar_boxed .jeg_nav_row, .jeg_header .jeg_navbar_menuborder:not(.jeg_navbar_boxed) .jeg_nav_left .jeg_nav_item:first-child { border-color : #000000; } .jeg_header .jeg_bottombar, .jeg_header .jeg_bottombar.jeg_navbar_dark { color : #000000; } .jeg_header .jeg_bottombar a, .jeg_header .jeg_bottombar.jeg_navbar_dark a { color : #000000; } .jeg_header .jeg_bottombar, .jeg_header .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-top-width : 1px; border-bottom-width : 1px; } .jeg_header_wrapper .jeg_bottombar, .jeg_header_wrapper .jeg_bottombar.jeg_navbar_dark, .jeg_bottombar.jeg_navbar_boxed .jeg_nav_row, .jeg_bottombar.jeg_navbar_dark.jeg_navbar_boxed .jeg_nav_row { border-top-color : #000000; border-bottom-color : #000000; } .jeg_stickybar.jeg_navbar,.jeg_navbar .jeg_nav_icon { height : 57px; } .jeg_stickybar.jeg_navbar, .jeg_stickybar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_stickybar .jeg_menu_style_1 > li, .jeg_stickybar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 57px; } .jeg_stickybar, .jeg_stickybar.dark { border-bottom-width : 0px; } .jeg_mobile_bottombar { height : 65px; line-height : 65px; } .jeg_mobile_midbar, .jeg_mobile_midbar.dark { background : #1c2341; color : #ffffff; border-top-width : 0px; } .jeg_mobile_midbar a, .jeg_mobile_midbar.dark a { color : #ffffff; } .jeg_header .socials_widget > a > i.fa:before { color : #000000; } .jeg_header .socials_widget.nobg > a > i > span.jeg-icon svg { fill : #000000; } .jeg_header .socials_widget.nobg > a > span.jeg-icon svg { fill : #000000; } .jeg_header .socials_widget > a > span.jeg-icon svg { fill : #000000; } .jeg_header .socials_widget > a > i > span.jeg-icon svg { fill : #000000; } .jeg_aside_item.socials_widget > a > i.fa:before { color : #706f73; } .jeg_aside_item.socials_widget.nobg a span.jeg-icon svg { fill : #706f73; } .jeg_aside_item.socials_widget a span.jeg-icon svg { fill : #706f73; } .jeg_top_date { color : #000000; } .jeg_button_1 .btn { background : #ffffff; color : #000000; border-color : #000000; } .jeg_button_1 .btn:hover { background : #ffffff; } .jeg_button_2 .btn { background : #ffffff; color : #000000; border-color : #000000; } .jeg_button_2 .btn:hover { background : #ffffff; } .jeg_header .jeg_vertical_menu.jeg_vertical_menu_1 { border-top-width : 5px; } .jeg_lang_switcher, .jeg_lang_switcher span { color : #ffffff; } .jeg_lang_switcher { background : #ffffff; } .jeg_nav_icon .jeg_mobile_toggle.toggle_btn { color : #ffffff; } .cartdetail.woocommerce .jeg_carticon { color : #ffffff; } .cartdetail.woocommerce .cartlink { color : #ffffff; } .jeg_cart_icon.woocommerce .jeg_carticon { color : #ffffff; } .jeg_nav_account, .jeg_navbar .jeg_nav_account .jeg_menu > li > a, .jeg_midbar .jeg_nav_account .jeg_menu > li > a { color : #ffffff; } .jeg_menu.jeg_accountlink li > ul li:hover > a, .jeg_menu.jeg_accountlink li > ul li.sfHover > a { background-color : #e9c334; } .jeg_header .jeg_search_wrapper.search_icon .jeg_search_toggle { color : #ffffff; } .jeg_nav_search { width : 50%; } .jeg_header .jeg_search_no_expand .jeg_search_form .jeg_search_input { background-color : #ffffff; border-color : #000000; } .jeg_header .jeg_search_no_expand .jeg_search_form button.jeg_search_button { color : #000000; } .jeg_header .jeg_menu.jeg_main_menu > li > a { color : #000000; } .jeg_menu_style_1 > li > a:before, .jeg_menu_style_2 > li > a:before, .jeg_menu_style_3 > li > a:before { background : #000000; } .jeg_header .jeg_menu.jeg_main_menu > li > a:hover, .jeg_header .jeg_menu.jeg_main_menu > li.sfHover > a, .jeg_header .jeg_menu.jeg_main_menu > li > .sf-with-ul:hover:after, .jeg_header .jeg_menu.jeg_main_menu > li.sfHover > .sf-with-ul:after, .jeg_header .jeg_menu_style_4 > li.current-menu-item > a, .jeg_header .jeg_menu_style_4 > li.current-menu-ancestor > a, .jeg_header .jeg_menu_style_5 > li.current-menu-item > a, .jeg_header .jeg_menu_style_5 > li.current-menu-ancestor > a { color : #000000; } .jeg_footer_content,.jeg_footer.dark .jeg_footer_content { background-color : #ffffff; color : #000000; } .jeg_footer .jeg_footer_heading h3,.jeg_footer.dark .jeg_footer_heading h3,.jeg_footer .widget h2,.jeg_footer .footer_dark .widget h2 { color : #ffffff; } .jeg_footer .jeg_footer_content a, .jeg_footer.dark .jeg_footer_content a { color : #000000; } .jeg_footer .jeg_footer_content a:hover,.jeg_footer.dark .jeg_footer_content a:hover { color : #000000; } .jeg_footer_bottom,.jeg_footer.dark .jeg_footer_bottom,.jeg_footer_secondary,.jeg_footer.dark .jeg_footer_secondary { background-color : #ffffff; } .jeg_footer_secondary,.jeg_footer.dark .jeg_footer_secondary,.jeg_footer_bottom,.jeg_footer.dark .jeg_footer_bottom,.jeg_footer_sidecontent .jeg_footer_primary { color : #000000; } .jeg_footer_bottom a,.jeg_footer.dark .jeg_footer_bottom a,.jeg_footer_secondary a,.jeg_footer.dark .jeg_footer_secondary a,.jeg_footer_sidecontent .jeg_footer_primary a,.jeg_footer_sidecontent.dark .jeg_footer_primary a { color : #000000; } .jeg_menu_footer a,.jeg_footer.dark .jeg_menu_footer a,.jeg_footer_sidecontent .jeg_footer_primary .col-md-7 .jeg_menu_footer a { color : #000000; } body,input,textarea,select,.chosen-container-single .chosen-single,.btn,.button { font-family: Merriweather,Helvetica,Arial,sans-serif;font-weight : 400; font-style : normal;  } .jeg_header, .jeg_mobile_wrapper { font-family: Merriweather,Helvetica,Arial,sans-serif;font-weight : 400; font-style : normal;  } .jeg_main_menu > li > a { font-family: Merriweather,Helvetica,Arial,sans-serif; } .jeg_post_title, .entry-header .jeg_post_title, .jeg_single_tpl_2 .entry-header .jeg_post_title, .jeg_single_tpl_3 .entry-header .jeg_post_title, .jeg_single_tpl_6 .entry-header .jeg_post_title, .jeg_content .jeg_custom_title_wrapper .jeg_post_title { font-family: Merriweather,Helvetica,Arial,sans-serif; } h3.jeg_block_title, .jeg_footer .jeg_footer_heading h3, .jeg_footer .widget h2, .jeg_tabpost_nav li { font-family: Merriweather,Helvetica,Arial,sans-serif; } .jeg_post_excerpt p, .content-inner p { font-family: Merriweather,Helvetica,Arial,sans-serif; } </style><style type="text/css">
+					.no_thumbnail .jeg_thumb,
+					.thumbnail-container.no_thumbnail {
+					    display: none !important;
+					}
+					.jeg_search_result .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_xs_3.no_thumbnail .jeg_postblock_content,
+					.jeg_pl_sm.no_thumbnail .jeg_postblock_content {
+					    margin-left: 0;
+					}
+					.jeg_postblock_11 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12 .no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_12.jeg_col_3o3 .no_thumbnail .jeg_postblock_content  {
+					    margin-top: 0;
+					}
+					.jeg_postblock_15 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_19 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_postblock_24 .jeg_pl_md_box.no_thumbnail .jeg_postblock_content,
+					.jeg_sidefeed .jeg_pl_md_box .jeg_postblock_content {
+					    position: relative;
+					}
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #212121 !important;
+					} 
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_title a:hover,
+					.jnews-dark-mode .jeg_postblock_carousel_2 .no_thumbnail .jeg_post_meta .fa {
+					    color: #fff !important;
+					} 
+				</style>		<style type="text/css" id="wp-custom-css">
+			
+
+.jeg_pl_md_box{
+	display:none;
+}
+
+.entry-meta {display:none !important;}
+	.home .entry-meta { display: none; }
+	.entry-footer {display:none !important;}
+	.home .entry-footer { display: none; }
+
+.wp-block-image figcaption {
+		color:black;
+}
+
+.jeg_cat_title {
+	display:none;
+}
+
+.jeg_cat_subtitle {
+	display:none;
+}
+.widget_archive {
+	display:none;
+}		</style>
+		</head>
+<body class="error404 wp-embed-responsive ehf-template-jnews ehf-stylesheet-jnews jeg_toggle_light jnews jsc_normal elementor-default elementor-kit-69813">
+
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class='ads-wrapper  '></div>    </div>
+
+    <!-- The Main Wrapper
+    ============================================= -->
+    <div class="jeg_viewport">
+
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- HEADER -->
+<div class="jeg_header full">
+    <div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+			<a href="https://exploresrilanka.lk/" style="padding: 0px 0px 0px 0px;">
+				<img class='jeg_logo_img' src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png"  alt="Retail"data-light-src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png" data-light-srcset="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 1x,  2x" data-dark-src="" data-dark-srcset=" 1x,  2x">			</a>
+		</div>
+	</div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <!-- Button -->
+<div class="jeg_nav_item jeg_button_1">
+    		<a href="https://exploresrilanka.lk/subscription"
+			class="btn outline "
+			target="_self"
+			>
+			<i class="fa fa-envelope"></i>
+			Subscription		</a>
+		</div><!-- Button -->
+<div class="jeg_nav_item jeg_button_2">
+    		<a href="https://exploresrilanka.lk/contact-us"
+			class="btn outline "
+			target="_self"
+			>
+			<i class="fa fa-arrow-circle-right"></i>
+			Advertise		</a>
+		</div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div><div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper  jeg_navbar_normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_5" data-animation="none"><li id="menu-item-69190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69190 bgnav" data-item-row="default" ><a href="#">ISSUES</a>
+<ul class="sub-menu">
+	<li id="menu-item-70176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-70176 bgnav" data-item-row="default" ><a href="#">1987 to 1990</a>
+	<ul class="sub-menu">
+		<li id="menu-item-70177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-70177 bgnav" data-item-row="default" ><a href="#">1987</a>
+		<ul class="sub-menu">
+			<li id="menu-item-70175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70175 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/may-1987/">May 1987</a></li>
+			<li id="menu-item-70307" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70307 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/june-1987/">June 1987</a></li>
+			<li id="menu-item-70365" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70365 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/july-1987/">July 1987</a></li>
+			<li id="menu-item-70413" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70413 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/august-1987/">August 1987</a></li>
+			<li id="menu-item-70535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70535 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september/september-1987/">September 1987</a></li>
+			<li id="menu-item-71231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71231 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october/october-1987-october/">October 1987</a></li>
+			<li id="menu-item-70239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70239 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/november-1987/">November 1987</a></li>
+			<li id="menu-item-70622" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70622 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-1987/">December 1987</a></li>
+		</ul>
+</li>
+		<li id="menu-item-71026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71026 bgnav" data-item-row="default" ><a href="#">1988</a>
+		<ul class="sub-menu">
+			<li id="menu-item-71233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71233 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-1988/">January 1988</a></li>
+			<li id="menu-item-71234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71234 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-1988/">February 1988</a></li>
+			<li id="menu-item-71236" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71236 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-1988/">March 1988</a></li>
+			<li id="menu-item-71238" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71238 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-1988/">April 1988</a></li>
+			<li id="menu-item-71239" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71239 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-1988/">May 1988</a></li>
+			<li id="menu-item-71240" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71240 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-1988/">June 1988</a></li>
+			<li id="menu-item-71242" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71242 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-1988/">July 1988</a></li>
+			<li id="menu-item-71243" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71243 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-1988/">August 1988</a></li>
+			<li id="menu-item-71245" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71245 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-1988/">September 1988</a></li>
+			<li id="menu-item-71246" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71246 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-1988/">October 1988</a></li>
+			<li id="menu-item-70819" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70819 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-1988/">November 1988</a></li>
+			<li id="menu-item-70820" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70820 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-1988/">December 1988</a></li>
+		</ul>
+</li>
+		<li id="menu-item-71393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-71393 bgnav" data-item-row="default" ><a href="#">1989</a>
+		<ul class="sub-menu">
+			<li id="menu-item-71389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71389 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-march-1989/">January &#8211; March 1989</a></li>
+			<li id="menu-item-71388" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71388 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-1989/">April 1989</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-69192" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69192 bgnav" data-item-row="default" ><a href="#">2010 to 2019</a>
+	<ul class="sub-menu">
+		<li id="menu-item-69177" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69177 bgnav" data-item-row="default" ><a href="#">2010</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69182 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2010/">January 2010</a></li>
+			<li id="menu-item-69181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69181 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2010/">February 2010</a></li>
+			<li id="menu-item-69185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69185 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2010/">March 2010</a></li>
+			<li id="menu-item-69178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69178 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2010/">April 2010</a></li>
+			<li id="menu-item-69186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69186 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2010/">May 2010</a></li>
+			<li id="menu-item-69184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69184 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2010/">June 2010</a></li>
+			<li id="menu-item-69183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69183 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2010/">July 2010</a></li>
+			<li id="menu-item-69179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69179 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2010/">August 2010</a></li>
+			<li id="menu-item-69188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69188 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2010/">September 2010</a></li>
+			<li id="menu-item-69189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69189 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2010/">October 2010</a></li>
+			<li id="menu-item-69187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69187 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2010/">November 2010</a></li>
+			<li id="menu-item-69180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69180 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2010/">December 2010</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69164 bgnav" data-item-row="default" ><a href="#">2011</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69169 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2011/">January 2011</a></li>
+			<li id="menu-item-69168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69168 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2011/">February 2011</a></li>
+			<li id="menu-item-69172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69172 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2011/">March 2011</a></li>
+			<li id="menu-item-69165" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69165 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2011/">April 2011</a></li>
+			<li id="menu-item-69173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69173 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2011/">May 2011</a></li>
+			<li id="menu-item-69171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69171 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2011/">June 2011</a></li>
+			<li id="menu-item-69170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69170 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2011/">July 2011</a></li>
+			<li id="menu-item-69166" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69166 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2011/">August 2011</a></li>
+			<li id="menu-item-69175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69175 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2011/">September 2011</a></li>
+			<li id="menu-item-69176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69176 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2011/">October 2011</a></li>
+			<li id="menu-item-69174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69174 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2011/">November 2011</a></li>
+			<li id="menu-item-69167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69167 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2011/">December 2011</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69151" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69151 bgnav" data-item-row="default" ><a href="#">2012</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69156 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2012/">January 2012</a></li>
+			<li id="menu-item-69155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69155 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2012/">February 2012</a></li>
+			<li id="menu-item-69159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69159 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2012/">March 2012</a></li>
+			<li id="menu-item-69152" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69152 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2012/">April 2012</a></li>
+			<li id="menu-item-69160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69160 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2012/">May 2012</a></li>
+			<li id="menu-item-69158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69158 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2012/">June 2012</a></li>
+			<li id="menu-item-69157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69157 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2012/">July 2012</a></li>
+			<li id="menu-item-69153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69153 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2012/">August 2012</a></li>
+			<li id="menu-item-69162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69162 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2012/">September 2012</a></li>
+			<li id="menu-item-69163" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69163 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2012/">October 2012</a></li>
+			<li id="menu-item-69161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69161 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2012/">November 2012</a></li>
+			<li id="menu-item-69154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69154 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2012/">December 2012</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69138 bgnav" data-item-row="default" ><a href="#">2013</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69143" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69143 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2013/">January 2013</a></li>
+			<li id="menu-item-69142" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69142 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2013/">February 2013</a></li>
+			<li id="menu-item-69146" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69146 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2013/">March 2013</a></li>
+			<li id="menu-item-69139" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69139 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2013/">April 2013</a></li>
+			<li id="menu-item-69147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69147 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2013/">May 2013</a></li>
+			<li id="menu-item-69145" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69145 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2013/">June 2013</a></li>
+			<li id="menu-item-69144" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69144 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2013/">July 2013</a></li>
+			<li id="menu-item-69140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69140 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2013/">August 2013</a></li>
+			<li id="menu-item-69149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69149 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2013/">September 2013</a></li>
+			<li id="menu-item-69150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69150 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2013/">October 2013</a></li>
+			<li id="menu-item-69148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69148 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2013/">November 2013</a></li>
+			<li id="menu-item-69141" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69141 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2013/">December 2013</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69125" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69125 bgnav" data-item-row="default" ><a href="#">2014</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69130" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69130 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2014/">January 2014</a></li>
+			<li id="menu-item-69129" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69129 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2014/">February 2014</a></li>
+			<li id="menu-item-69133" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69133 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2014/">March 2014</a></li>
+			<li id="menu-item-69126" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69126 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2014/">April 2014</a></li>
+			<li id="menu-item-69134" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69134 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2014/">May 2014</a></li>
+			<li id="menu-item-69132" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69132 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2014/">June 2014</a></li>
+			<li id="menu-item-69131" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69131 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2014/">July 2014</a></li>
+			<li id="menu-item-69127" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69127 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2014/">August 2014</a></li>
+			<li id="menu-item-69136" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69136 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2014/">September 2014</a></li>
+			<li id="menu-item-69137" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69137 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2014/">October 2014</a></li>
+			<li id="menu-item-69135" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69135 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2014/">November 2014</a></li>
+			<li id="menu-item-69128" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69128 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2014/">December 2014</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69112 bgnav" data-item-row="default" ><a href="#">2015</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69117" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69117 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2015/">January 2015</a></li>
+			<li id="menu-item-69116" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69116 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2015/">February 2015</a></li>
+			<li id="menu-item-69120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69120 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2015/">March 2015</a></li>
+			<li id="menu-item-69113" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69113 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april/">April 2015</a></li>
+			<li id="menu-item-69121" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69121 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2015/">May 2015</a></li>
+			<li id="menu-item-69119" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69119 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2015/">June 2015</a></li>
+			<li id="menu-item-69118" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69118 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2015/">July 2015</a></li>
+			<li id="menu-item-69114" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69114 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2015/">August 2015</a></li>
+			<li id="menu-item-69123" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69123 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2015/">September 2015</a></li>
+			<li id="menu-item-69124" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69124 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2015/">October 2015</a></li>
+			<li id="menu-item-69122" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69122 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2015/">November 2015</a></li>
+			<li id="menu-item-69115" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69115 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2015/">December 2015</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69099 bgnav" data-item-row="default" ><a href="#">2016</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69104 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2016/">January 2016</a></li>
+			<li id="menu-item-69103" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69103 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2016/">February 2016</a></li>
+			<li id="menu-item-69107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69107 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2016/">March 2016</a></li>
+			<li id="menu-item-69100" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69100 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2016/">April 2016</a></li>
+			<li id="menu-item-69108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69108 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2016/">May 2016</a></li>
+			<li id="menu-item-69106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69106 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2016/">June 2016</a></li>
+			<li id="menu-item-69105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69105 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2016/">July 2016</a></li>
+			<li id="menu-item-69101" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69101 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2016/">August 2016</a></li>
+			<li id="menu-item-69110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69110 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2016/">September 2016</a></li>
+			<li id="menu-item-69111" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69111 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2016/">October 2016</a></li>
+			<li id="menu-item-69109" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69109 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2016/">November 2016</a></li>
+			<li id="menu-item-69102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69102 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2016/">December 2016</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69086" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69086 bgnav" data-item-row="default" ><a href="#">2017</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69091" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69091 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2017/">January 2017</a></li>
+			<li id="menu-item-69090" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69090 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2017/">February 2017</a></li>
+			<li id="menu-item-69094" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69094 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2017/">March 2017</a></li>
+			<li id="menu-item-69087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69087 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2017/">April 2017</a></li>
+			<li id="menu-item-69095" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69095 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2017/">May 2017</a></li>
+			<li id="menu-item-69093" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69093 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2017/">June 2017</a></li>
+			<li id="menu-item-69092" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69092 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2017/">July 2017</a></li>
+			<li id="menu-item-69088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69088 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2017/">August 2017</a></li>
+			<li id="menu-item-69097" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69097 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2017/">September 2017</a></li>
+			<li id="menu-item-69098" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69098 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2017/">October 2017</a></li>
+			<li id="menu-item-69096" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69096 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2017/">November 2017</a></li>
+			<li id="menu-item-69089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69089 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2017/">December 2017</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69075" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69075 bgnav" data-item-row="default" ><a href="#">2018</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69080 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2018/">January 2018</a></li>
+			<li id="menu-item-69079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69079 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2018/">February 2018</a></li>
+			<li id="menu-item-69083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69083 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2018/">March 2018</a></li>
+			<li id="menu-item-69076" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69076 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2018/">April 2018</a></li>
+			<li id="menu-item-69084" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69084 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2018/">May 2018</a></li>
+			<li id="menu-item-69082" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69082 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2018/">June 2018</a></li>
+			<li id="menu-item-69081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69081 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2018/">July 2018</a></li>
+			<li id="menu-item-69077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69077 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2018/">August 2018</a></li>
+			<li id="menu-item-69085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69085 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2018/">November 2018</a></li>
+			<li id="menu-item-69078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69078 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2018/">December 2018</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69058 bgnav" data-item-row="default" ><a href="#">2019</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69063" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69063 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2019/">January 2019</a></li>
+			<li id="menu-item-69062" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69062 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2019/">February 2019</a></li>
+			<li id="menu-item-69066" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69066 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2019/">March 2019</a></li>
+			<li id="menu-item-69059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69059 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2019/">April 2019</a></li>
+			<li id="menu-item-69067" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69067 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2019/">May 2019</a></li>
+			<li id="menu-item-69065" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69065 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2019/">June 2019</a></li>
+			<li id="menu-item-69064" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69064 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2019/">July 2019</a></li>
+			<li id="menu-item-69060" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69060 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2019/">August 2019</a></li>
+			<li id="menu-item-69070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69070 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2019/">September 2019</a></li>
+			<li id="menu-item-69069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69069 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2019/">October 2019</a></li>
+			<li id="menu-item-69068" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69068 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2019/">November 2019</a></li>
+			<li id="menu-item-69061" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69061 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2019/">December 2019</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-69193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69193 bgnav" data-item-row="default" ><a href="#">2020 to 2023</a>
+	<ul class="sub-menu">
+		<li id="menu-item-69050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69050 bgnav" data-item-row="default" ><a href="#">2020</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69053 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january2020/">January 2020</a></li>
+			<li id="menu-item-69052" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69052 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2020/">February 2020</a></li>
+			<li id="menu-item-69054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69054 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2020/">March 2020</a></li>
+			<li id="menu-item-69057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69057 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2020/">September 2020</a></li>
+			<li id="menu-item-69056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69056 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2020/">October 2020</a></li>
+			<li id="menu-item-69055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69055 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2020/">November 2020</a></li>
+			<li id="menu-item-69051" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69051 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2020/">December 2020</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69037 bgnav" data-item-row="default" ><a href="#">2021</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69042" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69042 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january-2021/">January 2021</a></li>
+			<li id="menu-item-69041" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69041 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2021/">February 2021</a></li>
+			<li id="menu-item-69045" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69045 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march-2021/">March 2021</a></li>
+			<li id="menu-item-69038" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69038 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april-2021/">April 2021</a></li>
+			<li id="menu-item-69046" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69046 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may-2021/">May 2021</a></li>
+			<li id="menu-item-69044" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69044 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/june-2021/">June 2021</a></li>
+			<li id="menu-item-69043" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69043 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2021/">July 2021</a></li>
+			<li id="menu-item-69039" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69039 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2021/">August 2021</a></li>
+			<li id="menu-item-69049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69049 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2021/">September 2021</a></li>
+			<li id="menu-item-69048" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69048 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2021/">October 2021</a></li>
+			<li id="menu-item-69047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69047 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2021/">November 2021</a></li>
+			<li id="menu-item-69040" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69040 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/december-2021/">December 2021</a></li>
+		</ul>
+</li>
+		<li id="menu-item-712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-712 bgnav" data-item-row="default" ><a href="#">2022</a>
+		<ul class="sub-menu">
+			<li id="menu-item-71550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71550 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/january2022/">January 2022</a></li>
+			<li id="menu-item-53079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53079 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february2022/">February 2022</a></li>
+			<li id="menu-item-53081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53081 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/march2022/">March 2022</a></li>
+			<li id="menu-item-718" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-718 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/april2022/">April 2022</a></li>
+			<li id="menu-item-721" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-721 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/may2022/">May 2022</a></li>
+			<li id="menu-item-53078" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53078 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/june-2022/">June 2022</a></li>
+			<li id="menu-item-53083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53083 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/july-2022/">July 2022</a></li>
+			<li id="menu-item-55543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55543 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august-2022/">August 2022</a></li>
+			<li id="menu-item-55541" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55541 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2022/">September 2022</a></li>
+			<li id="menu-item-55644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55644 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2022/">October 2022</a></li>
+			<li id="menu-item-55725" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55725 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/november-2022/">November 2022</a></li>
+			<li id="menu-item-57428" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57428 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/december-2022/">December 2022</a></li>
+		</ul>
+</li>
+		<li id="menu-item-69071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69071 bgnav" data-item-row="default" ><a href="#">2023</a>
+		<ul class="sub-menu">
+			<li id="menu-item-69072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69072 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/january-2023/">January 2023</a></li>
+			<li id="menu-item-69074" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69074 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/february-2023/">February 2023</a></li>
+			<li id="menu-item-69073" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69073 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/march-2023/">March 2023</a></li>
+			<li id="menu-item-69730" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69730 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/april-2023/">April 2023</a></li>
+			<li id="menu-item-69801" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69801 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/may-2023/">May 2023</a></li>
+			<li id="menu-item-69959" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-69959 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/june-2023/">June 2023</a></li>
+			<li id="menu-item-70029" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70029 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/featured/july-2023/">July 2023</a></li>
+			<li id="menu-item-70523" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-70523 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/august/august-2023/">August 2023</a></li>
+			<li id="menu-item-71387" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71387 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/september-2023/">September 2023</a></li>
+			<li id="menu-item-71396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-71396 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/october-2023/">October 2023</a></li>
+			<li id="menu-item-72011" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-72011 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/category/november-2023/">November 2023</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-55548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55548 bgnav" data-item-row="default" ><a target="_blank" href="https://www.magzter.com/LK/BT-Options/Explore-Sri-Lanka/Travel/All-Issues">FOR DIGITAL SUBSCRIPTION</a></li>
+<li id="menu-item-659" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659 bgnav" data-item-row="default" ><a href="https://exploresrilanka.lk/about-us/">ABOUT US</a></li>
+</ul></div></div>
+                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        			<div
+				class="jeg_nav_item socials_widget jeg_social_icon_block nobg">
+				<a href="https://www.facebook.com/Explore.Srilanka.Magazine/" target='_blank' rel='external noopener nofollow' class="jeg_facebook"><i class="fa fa-facebook"></i> </a>			</div>
+			<!-- Search Form -->
+<div class="jeg_nav_item jeg_nav_search">
+	<div class="jeg_search_wrapper jeg_search_no_expand rounded">
+	    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	    <form action="https://exploresrilanka.lk/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div>	</div>
+</div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div><!-- /.jeg_header -->        </div>
+
+        <div class="jeg_header_sticky">
+                    </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="scroll">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container dark">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+	    	<a href="https://exploresrilanka.lk/">
+		        <img class='jeg_logo_img' src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png" srcset="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png 1x, https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png 2x" alt=""data-light-src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png" data-light-srcset="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png 1x, https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png 2x" data-dark-src="" data-dark-srcset=" 1x, https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo-1.png 2x">		    </a>
+	    </div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_search_wrapper jeg_search_popup_expand">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	<form action="https://exploresrilanka.lk/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div></div>
+<div class="sticky_blankspace" style="height: 65px;"></div>        </div>
+
+        <div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+            <div class='ads-wrapper  '></div>        </div>
+
+        
+    <div class="jeg_main ">
+        <div class="jeg_container">
+            <div class="jeg_content">
+
+                <div class="jeg_section">
+                    <div class="container">
+                        <div class="jeg_404_content row">
+                            <div class="jeg_main_content col-sm-12">
+
+                                <div class="jeg_inner_content">
+                                    <div class="jeg_archive_header">
+                                    
+                                                                            
+                                        <h1 class="jeg_archive_title">Page Not Found</h1>
+                                        <p>Sorry the page you were looking for cannot be found. Try searching for the best match or browse the links below:</p>
+                                    
+                                        <div class="jeg_archive_search">
+                                            <form action="https://exploresrilanka.lk/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div>                                        </div>
+                                    </div>
+                                    <!-- search end -->
+                                    
+                                    <div class="jnews_404_content_wrapper">
+                                        <div  class="jeg_postblock_3 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_3o3 jnews_module_72178_0_6585ebff64c4b   " data-unique="jnews_module_72178_0_6585ebff64c4b">
+					<div class="jeg_block_heading jeg_block_heading_6 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Latest Articles</span></h3>
+                     
+                 </div>
+					<div class="jeg_posts jeg_block_container">
+                
+                <div class="jeg_posts jeg_load_more_flag">
+                <article class="jeg_post jeg_pl_md_2 format-standard">
+                <div class="jeg_thumb">
+                    
+                    <a href="https://exploresrilanka.lk/gangaramaya-temple-is-podi-hamuduruwo/"><div class="thumbnail-container animate-lazy  size-715 "><img fetchpriority="high" width="350" height="250" src="https://exploresrilanka.lk/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Gangaramaya Temple is Podi Hamuduruwo " decoding="async" sizes="(max-width: 350px) 100vw, 350px" data-src="https://exploresrilanka.lk/wp-content/uploads/2023/11/1-350x250.png" data-srcset="https://exploresrilanka.lk/wp-content/uploads/2023/11/1-350x250.png 350w, https://exploresrilanka.lk/wp-content/uploads/2023/11/1-120x86.png 120w" data-sizes="auto" data-expand="700" /></div></a>
+                </div>
+                <div class="jeg_postblock_content">
+                    <h3 class="jeg_post_title">
+                        <a href="https://exploresrilanka.lk/gangaramaya-temple-is-podi-hamuduruwo/">Gangaramaya Temple is Podi Hamuduruwo </a>
+                    </h3>
+                    
+                    <div class="jeg_post_excerpt">
+                        <p>Venerable Galboda Gnanissara Thero, Chief Incumbent of the Gangaramaya Temple, has been the guiding light that has exemplified the true...</p>
+                    </div>
+                </div>
+            </article>
+            </div>
+                <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+            </div>
+            <div class="jeg_block_navigation">
+                <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                
+                
+            </div>
+					
+					<script>var jnews_module_72178_0_6585ebff64c4b = {"header_icon":"","first_title":"Latest Articles","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","sponsor":false,"number_post":"1","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","excerpt_length":20,"excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"1","pagination_scroll_limit":0,"ads_type":"disable","ads_position":1,"ads_random":"","ads_image":"","ads_image_tablet":"","ads_image_phone":"","ads_image_link":"","ads_image_alt":"","ads_image_new_tab":"","google_publisher_id":"","google_slot_id":"","google_desktop":"auto","google_tab":"auto","google_phone":"auto","content":"","ads_bottom_text":"","boxed":false,"boxed_shadow":false,"el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","box_shadow":false,"paged":1,"column_class":"jeg_col_3o3","class":"jnews_block_3"};</script>
+				</div>                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="jeg_sidebar left jeg_sticky_sidebar col-sm-4">
+    <div class="jegStickyHolder"><div class="theiaStickySidebar"></div></div></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="jeg_ad jnews_above_footer_ads "><div class='ads-wrapper  '></div></div>        </div>
+    </div>
+
+        <div class="footer-holder" id="footer" data-id="footer">
+            <div class="jeg_footer jeg_footer_6 normal">
+    <div class="jeg_footer_container jeg_container">
+
+        <div class="jeg_footer_content">
+            <div class="container">
+                <div class="jeg_footer_primary clearfix">
+                    <div class="footer_widget widget_jnews_about" id="jnews_about-1">        <div class="jeg_about ">
+			                <a class="footer_logo" href="https://exploresrilanka.lk/">
+                    <img class='lazyload'
+                         src="https://exploresrilanka.lk/wp-content/themes/jnews/assets/img/jeg-empty.png" data-src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png"  data-srcset="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 1x, https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 2x" alt="exlpore-sri-lanka-logo"  data-light-src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png"  data-light-srcset="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 1x, https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 2x"  data-dark-src="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png"  data-dark-srcset="https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 1x, https://exploresrilanka.lk/wp-content/uploads/2022/05/exlpore_logo.png 2x"                         data-pin-no-hover="true">
+                </a>
+									            <p></p>
+
+			        </div>
+		</div><div class="footer_widget widget_jnews_social" id="jnews_social-1">
+		<div class="jeg_social_wrap ">
+			
+			<div class="socials_widget   nobg">
+				<a href="https://www.facebook.com/Explore.Srilanka.Magazine/" target="_blank" rel="external noopener nofollow" class="jeg_facebook">
+                                            <i class="fa fa-facebook"></i>
+                                            
+                                        </a>			</div>
+
+						<style scoped>#jnews_social-1 .jeg_social_wrap .socials_widget i{color:#000000;}.jeg_social_wrap .socials_widget span {}#jnews_social-1.widget.widget_jnews_social .jeg_social_wrap .socials_widget span svg { fill:#000000; }</style>		</div>
+
+		</div>                </div>
+            </div>
+        </div>
+
+                            <div class="jeg_footer_instagram_wrapper jeg_container">
+                                            </div>
+                                    <div class="jeg_footer_tiktok_wrapper jeg_container">
+                                            </div>
+                
+        
+        <div class="jeg_footer_bottom">
+            <div class="container">
+
+                <!-- secondary footer right -->
+                <div class="footer_right">
+
+                    
+                    <ul class="jeg_menu_footer"><li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a rel="privacy-policy" href="https://exploresrilanka.lk/terms-and-conditions/">Terms &#038; Conditions</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="https://exploresrilanka.lk/privacy-policy/">Privacy Policy</a></li>
+</ul>
+                    
+                </div>
+
+                <!-- secondary footer left -->
+                
+                
+                                    <p class="copyright"> © 2023 BT Options. All Rights Reserved. </p>
+                
+            </div>
+        </div>
+
+        
+    </div>
+</div><!-- /.footer -->        </div>
+
+        <div class="jscroll-to-top">
+        	<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+        </div>
+    </div>
+
+    <!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand rounded">
+    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://exploresrilanka.lk/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+    <button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69190"><a href="#">ISSUES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-70176"><a href="#">1987 to 1990</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70177"><a href="#">1987</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71026"><a href="#">1988</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71393"><a href="#">1989</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69192"><a href="#">2010 to 2019</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69177"><a href="#">2010</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69164"><a href="#">2011</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69151"><a href="#">2012</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69138"><a href="#">2013</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69125"><a href="#">2014</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69112"><a href="#">2015</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69099"><a href="#">2016</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69086"><a href="#">2017</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69075"><a href="#">2018</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69058"><a href="#">2019</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-69193"><a href="#">2020 to 2023</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69050"><a href="#">2020</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69037"><a href="#">2021</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-712"><a href="#">2022</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69071"><a href="#">2023</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55548"><a target="_blank" rel="noopener" href="https://www.magzter.com/LK/BT-Options/Explore-Sri-Lanka/Travel/All-Issues">FOR DIGITAL SUBSCRIPTION</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="https://exploresrilanka.lk/about-us/">ABOUT US</a></li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget nobg">
+    <a href="https://www.facebook.com/Explore.Srilanka.Magazine/" target='_blank' rel='external noopener nofollow' class="jeg_facebook"><i class="fa fa-facebook"></i> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+	<p>© 2023 BT Options. All Rights Reserved.</p>
+</div>    </div>
+</div>    </div>
+</div><script type="text/javascript">var jfla = []</script><script type="text/javascript" id="custom-script-js-extra">
+/* <![CDATA[ */
+var wpdata = {"object_id":"0","site_url":"https:\/\/exploresrilanka.lk"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-content/plugins/wp-meta-and-date-remover/assets/js/inspector.js?ver=1.0" id="custom-script-js"></script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/exploresrilanka.lk\/wp-content\/uploads\/2016\/04\/BTI37666.jpg","popup_script":"magnific","single_gallery":"","ismobile":"","isie":"","sidefeed_ajax":"","language":"en_US","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"0","isblog":"","admin_bar":"0","follow_video":"","follow_position":"top_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"exploresrilanka.lk","zoom_button":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=11.1.2" id="jnews-frontend-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://exploresrilanka.lk/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=11.1.2" id="html5shiv-js"></script>
+<![endif]-->
+<div class="jeg_ad jnews_mobile_sticky_ads "></div><script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script></body>
+</html>
+
+
+<!-- Page cached by LiteSpeed Cache 6.0.0.1 on 2023-12-23 01:35:19 -->

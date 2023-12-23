@@ -1,0 +1,1246 @@
+<!doctype html>
+<html lang="en-US" itemscope itemtype="http://schema.org/WebPage">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+
+	<title>Page not found &#8211; Santiva Chronicle</title>
+<meta name='robots' content='max-image-preview:large' />
+<!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="N1c0im_6AbaUouOiJxXsYcsNMemZOw6Vlgd6SkPZdw8" />
+<link rel='dns-prefetch' href='//js.stripe.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts-api.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Santiva Chronicle &raquo; Feed" href="https://santivachronicle.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Santiva Chronicle &raquo; Comments Feed" href="https://santivachronicle.com/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Santiva Chronicle &raquo; iCal Feed" href="https://santivachronicle.com/events/?ical=1" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/santivachronicle.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='all-css-33d4d426b352108fec68a46ed05aca9a' href='https://santivachronicle.com/_jb_static/??-eJydVE2PEzEM/TecyGYrpO1pxWEvHFgJqdxRPtw0bb6InY6GX49n2sKAOq2mt9jxe3l2XtIVYXIiSCRLaM4nlCYoRL/1YEXwSD45yQkg3kGUlUwQOmdCqqo8RZ+eOP2xe4inNB28uUUCR45QGBUgWVVFqVliNbIC5lYNnMioeg3iXMslghn9X5AO2RxuneIahxqqk7r5YOUIYNW6qtpLpD7AHDSoPjcSrnr7b6FPJjTLAvcoI1ivIEAckNOgMByqCOCU6acKZ9G8N40fvwCnxbaOCHse0BwNx8qQ2OYaxVr+UTaQjB3jHPIYlVO/fALeiUUln9NUAe4yuyDbeQJOJehQKNbYeeuARgNMOdg/s8rvw7uSutEwZyfO+cMf4QKzPMrTADm5GCBsTop4EAJbjOyuOYY9UFHmIGO2jUcsgz8AXrci7dgKk2lfDr74N741pBw3puYQtKpy/7MBn/x//pqX7nHDYN1EP7ZcL798f/8q3jabx2QG73bE92mhTtdLaQYlQnX8P0QYxz5NLGlxwLJno6LFrZQKRP23XaY80kzipVSjwa/bfAFUjLV3CRbd2/iLA5ac8MZLIKUDcP94Apz+Vwtb1QLd8/4AOK+H0s/xdbV+/rR6Xq9eXj4Y/br6Db8flvw=' type='text/css' media='all' />
+<style id='rtcl-public-inline-css'>
+:root{--rtcl-primary-color:#36c8ae;--rtcl-link-color:#111111;--rtcl-link-hover-color:#36c8ae;--rtcl-button-bg-color:#36c8ae;--rtcl-button-color:#ffffff;--rtcl-button-hover-bg-color:#666666;--rtcl-badge-new-bg-color:#36c8ae;--rtcl-badge-new-color:#ffffff;--rtcl-badge-featured-bg-color:#36c8ae;--rtcl-badge-featured-color:#ffffff;}
+.rtcl .rtcl-icon, 
+							.rtcl-chat-form button.rtcl-chat-send, 
+							.rtcl-chat-container a.rtcl-chat-card-link .rtcl-cc-content .rtcl-cc-listing-amount,
+							.rtcl-chat-container ul.rtcl-messages-list .rtcl-message span.read-receipt-status .rtcl-icon.rtcl-read{color: #36c8ae;}#rtcl-chat-modal {background-color: var(--rtcl-primary-color); border-color: var(--rtcl-primary-color)}#rtcl-compare-btn-wrap a.rtcl-compare-btn, .rtcl-btn, #rtcl-compare-panel-btn, .rtcl-chat-container ul.rtcl-messages-list .rtcl-message-wrap.own-message .rtcl-message-text, .rtcl-sold-out {background : var(--rtcl-primary-color);}.rtcl a{ color: var(--rtcl-link-color)}.rtcl a:hover{ color: var(--rtcl-link-hover-color)}.rtcl .btn{ background-color: var(--rtcl-button-bg-color); border-color:var(--rtcl-button-bg-color); }.rtcl .btn{ color: var(--rtcl-button-color); }[class*=rtcl-slider] [class*=swiper-button-],.rtcl-carousel-slider [class*=swiper-button-] { color: var(--rtcl-button-color); }.rtcl-pagination ul.page-numbers li span.page-numbers.current,.rtcl-pagination ul.page-numbers li a.page-numbers:hover{ background-color: var(--rtcl-button-hover-bg-color); }.rtcl .btn:hover{ background-color: var(--rtcl-button-hover-bg-color); border-color: var(--rtcl-button-hover-bg-color); }
+</style>
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='vmagazine-style-inline-css'>
+ body{
+            font-family : Lato;
+            font-weight : 700;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 14px;
+            line-height : 1.2;
+            color : #666666;
+        } .entry-content h1,h1{
+            font-family : Lato;
+            font-weight : 700;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 27px;
+            line-height : 1.3;
+            color : #606060;
+        } .entry-content h2,h2{
+            font-family : Lato;
+            font-weight : 400;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 18px;
+            line-height : 1.1;
+            color : #707070;
+        } .entry-content h3,h3,.vmagazine-rec-posts.recent-post-widget .recent-posts-content .recent-post-content a{
+            font-family : Arial;
+            font-weight : 400;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 16px;
+            line-height : 1;
+            color : #666666;
+        } .entry-content h4,.widget-title,h4{
+            font-family : Lato;
+            font-weight : 400;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 12px;
+            line-height : 0.8;
+            color : #707070;
+        } .entry-content h5,h5{
+            font-family : Lato;
+            font-weight : 700;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 14px;
+            line-height : 1.3;
+            color : #252525;
+        } .entry-content h6,h6{
+            font-family : Lato;
+            font-weight : 700italic;
+            text-decoration : none;
+            text-transform : none;
+            font-size : 15px;
+            line-height : 1.3;
+            color : #252525;
+        }header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a{
+        font-family : Lato;
+        font-style : normal;
+        font-weight : 600;
+        text-decoration : none;
+        text-transform : uppercase;
+        font-size : 14px;
+        color : #000;
+    }
+
+        .vmagazine-loader{
+            background-color: #1fc4a8;
+        }
+        #loading1 #object,
+        #loading2 .object,
+        #loading5 .object,
+        #loading6 .object,
+        #loading7 .object,
+        #loading8 .object,
+        #loading9 .object,
+        #loading10 .object,
+        #loading11 .object,
+        #loading12 .object-one,
+        #loading12 .object-two,
+        #loading13 .object,
+        #loading14 .object,
+        #loading15 .object,
+        #loading16 .object,
+        #loading17 .object,
+        #loading18 .object{
+            background-color: #e52d6d;
+        }
+             #loading3 .object,
+            #loading4 .object{
+            border-color: #e52d6d !important;
+        }
+        .mob-search-form,.mobile-navigation{
+            background-color: rgb(73, 79, 86);
+        }
+            .site-footer .img-overlay{
+                background-color: rgb(73, 79, 86);
+            }
+            .site-footer,footer .buttom-footer.footer_one .footer-btm-wrap{
+                background-color: rgb(73, 79, 86);
+            }
+        .template-two .site-footer .footer-widgets .widget-title > span.title-bg span{
+            background: rgb(73, 79, 86);
+        }
+        .vmagazine-home-wrapp,.vmagazine-container,
+        .boxed-width .vmagazine-main-wrapper,
+        .boxed-width header.header-layout3 .site-main-nav-wrapper.menu-fixed-triggered, .boxed-width header .vmagazine-nav-wrapper.menu-fixed-triggered,
+        .boxed-width .vmagazine-container,.vmagazine-fullwid-slider .vmagazine-container,
+        .vmagazine-fullwid-slider.block_layout_2 .single-post .post-content-wrapper,
+        .vmagazine-breadcrumb-wrapper .vmagazine-bread-home,
+        .boxed-width .vmagazine-fullwid-slider.block_layout_2 .single-post .post-content-wrapper
+        {
+                max-width: 1120px;
+        }
+        .template-two .widget-title span, .template-two .block-title span,
+        .template-two .block-header .child-cat-tabs,
+        .template-two .vmagazine-mul-cat-tabbed .block-header .multiple-child-cat-tabs,
+        .template-two .vmagazine-block-post-slider .block-header .multiple-child-cat-tabs-post-slider,
+        .template-two .vmagazine-slider-tab-carousel .slider-cat-tabs-carousel,
+        .template-two .vmagazine-slider-tab-carousel .block-header h4.block-title span.title-bg, .template-two .vmagazine-related-wrapper h4.related-title span.title-bg
+        {
+            background: #ffffff!important;
+        }
+    .vmagazine-ticker-wrapper .default-layout .vmagazine-ticker-caption span, 
+    .vmagazine-ticker-wrapper .layout-two .vmagazine-ticker-caption span,
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover,
+    a.scrollup,a.scrollup:hover,.widget .tagcloud a:hover,span.cat-links a,.entry-footer .edit-link a.post-edit-link,
+    .template-three .widget-title:before, .template-three .block-title:before,.template-three .widget-title span, .template-three .block-title span,.widget-title:after, .block-title:after,
+    .template-four .widget-title span, .template-four .block-title span, .template-four .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title span.title-bg, .template-four .comment-respond h4.comment-reply-title span, .template-four .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title span,.template-five .widget-title:before, .template-five .block-title:before,
+    .template-five .widget-title span, .template-five .block-title span,.vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more, .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more, .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more,.vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title:after, .vmagazine-container #primary.vmagazine-content .post-review-wrapper .section-title:after, .vmagazine-container #primary.vmagazine-content .comment-respond .comment-reply-title:after,
+    .vmagazine-container #primary.vmagazine-content .comment-respond .comment-form .form-submit input.submit,.widget .custom-html-widget .tnp-field-button input.tnp-button,.woocommerce-page .vmagazine-container.sidebar-shop .widget_price_filter .ui-slider .ui-slider-range,.woocommerce-page .vmagazine-container.sidebar-shop ul.products li.product .product-img-wrap a.button,.woocommerce-page .vmagazine-container.sidebar-shop ul.products li.product .onsale, .sidebar-shop .sale span.onsale,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover,header ul.site-header-cart li span.count,
+    header ul.site-header-cart li.cart-items .widget_shopping_cart p.woocommerce-mini-cart__buttons a.button:hover,
+    .widget .tagcloud a:hover, .top-footer-wrap .vmagazine-container .widget.widget_tag_cloud .tagcloud a:hover,
+    header.header-layout3 .site-main-nav-wrapper .top-right .vmagazine-search-form-primary form.search-form label:before,
+    .vmagazine-archive-layout1 .vmagazine-container #primary article .archive-wrapper .entry-content a.vmagazine-archive-more,
+    .vmagazine-container #primary.vmagazine-content .entry-content nav.post-navigation .nav-links a:hover:before,
+    .vmagazine-archive-layout4 .vmagazine-container #primary article .entry-content a.vmagazine-archive-more,
+    header.header-layout2 .logo-ad-wrapper .middle-search form.search-form:after,
+    .ap_toggle .ap_toggle_title,.ap_tagline_box.ap-bg-box,.ap-team .member-social-group a, .horizontal .ap_tab_group .tab-title.active, .horizontal .ap_tab_group .tab-title.hover, .vertical .ap_tab_group .tab-title.active, .vertical .ap_tab_group .tab-title.hover,
+    .template-three .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title span, .template-three .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title span, .template-three .vmagazine-container #primary.vmagazine-content .comment-respond h4.comment-reply-title span, .template-three .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title span.title-bg,
+    .template-three .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title:before, .template-three .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title:before, .template-three .vmagazine-container #primary.vmagazine-content .comment-respond h4.comment-reply-title:before, .template-three .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title:before,
+    .vmagazine-container #primary.vmagazine-content .post-password-form input[type='submit'],
+    .woocommerce .cart .button, .woocommerce .cart input.button,
+    .dot_1,.vmagazine-grid-list.list #loading-grid .dot_1,
+    span.view-all a:hover,.block-post-wrapper.block_layout_3 .view-all a:hover,
+    .vmagazine-post-col.block_layout_1 span.view-all a:hover,
+    .vmagazine-mul-cat.block-post-wrapper.layout-two .block-content-wrapper .right-posts-wrapper .view-all a:hover,
+    .block-post-wrapper.list .gl-posts a.vm-ajax-load-more:hover, .block-post-wrapper.grid-two .gl-posts a.vm-ajax-load-more:hover,
+    .vmagazine-cat-slider.block-post-wrapper.block_layout_1 .content-wrapper-featured-slider .lSSlideWrapper li.single-post .post-caption p span.read-more a,.template-five .vmagazine-container #primary.vmagazine-content .comment-respond .comment-reply-title span.title-bg,
+    .template-three .vmagazine-container #primary.vmagazine-content .vmagazine-author-metabox h4.box-title span.title-bg,
+    .template-three .vmagazine-container #primary.vmagazine-content .vmagazine-author-metabox h4.box-title:before,
+    .vmagazine-container #primary.vmagazine-content .vmagazine-author-metabox .box-title:after,
+    .template-five .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title span.title-bg,
+    .template-five .vmagazine-container #primary.vmagazine-content .vmagazine-author-metabox .box-title span.title-bg,
+    .middle-search .block-loader .dot_1,.no-results.not-found form.search-form input.search-submit,
+    .widget_vmagazine_categories_tabbed .vmagazine-tabbed-wrapper ul#vmagazine-widget-tabbed li.active a, .widget_vmagazine_categories_tabbed .vmagazine-tabbed-wrapper ul#vmagazine-widget-tabbed li a:hover,
+    .vmagazine-container #primary .entry-content .post-tag .tags-links a,
+    .vmagazine-cat-slider.block-post-wrapper.block_layout_1 .lSSlideWrapper .lSAction > a:hover,
+    .related-content-wrapper a.vmagazine-related-more,
+    .vmagazine-container #primary .post-review-wrapper .review-inner-wrap .percent-review-wrapper .percent-rating-bar-wrap div, .vmagazine-container #primary .post-review-wrapper .review-inner-wrap .points-review-wrapper .percent-rating-bar-wrap div,
+    .vmagazine-fullwid-slider.block_layout_1 .slick-slider .post-content-wrapper h3.extra-large-font a:hover,
+    .vmagazine-post-carousel.block_layout_2 .block-carousel .single-post:hover .post-caption h3.large-font a,
+    .vmagazine-container #primary .comment-respond .comment-reply-title:after,
+    .template-five .vmagazine-container #primary .vmagazine-author-metabox .box-title span.title-bg, .template-five .vmagazine-container #primary .vmagazine-related-wrapper h4.related-title span.title-bg, .template-five .vmagazine-container #primary .post-review-wrapper .section-title span.title-bg, .template-five .vmagazine-container #primary .comment-respond .comment-reply-title span.title-bg,.vmagazine-post-carousel .block-carousel button.slick-arrow:hover,.vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper button.slick-arrow:hover,.vmagazine-timeline-post .timeline-post-wrapper .single-post .post-date .blog-date-inner span.posted-day,
+    .vmagazine-slider-tab-carousel .block-content-wrapper-carousel button.slick-arrow:hover,.slider-tab-wrapper .block-post-wrapper.block_layout_1 .block-content-wrapper .tab-cat-slider.slick-slider .slick-dots li button:before,.widget.widget_vmagazine_video_player .vmagazine-yt-player .vmagazine-video-holder .video-thumbs .video-controls,
+    .vmagazine-mul-cat-tabbed .block-header .multiple-child-cat-tabs .vmagazine-tabbed-links li.active a, .vmagazine-mul-cat-tabbed .block-header .multiple-child-cat-tabs .vmagazine-tabbed-links li a:hover,
+    .vmagazine-mul-cat.block-post-wrapper.layout-two .block-header .child-cat-tabs .vmagazine-tab-links li.active a, .vmagazine-mul-cat.block-post-wrapper.layout-two .block-header .child-cat-tabs .vmagazine-tab-links li a:hover,
+    .vmagazine-block-post-slider .block-header .multiple-child-cat-tabs-post-slider .vmagazine-tabbed-post-slider li.active a, .vmagazine-block-post-slider .block-header .multiple-child-cat-tabs-post-slider .vmagazine-tabbed-post-slider li a:hover,
+    .vmagazine-slider-tab-carousel .slider-cat-tabs-carousel .slider-tab-links-carousel li.active a, .vmagazine-slider-tab-carousel .slider-cat-tabs-carousel .slider-tab-links-carousel li a:hover,
+    .vmagazine-mul-cat.layout-one .block-header .child-cat-tabs .vmagazine-tab-links li.active a, .vmagazine-mul-cat.layout-one .block-header .child-cat-tabs .vmagazine-tab-links li a:hover
+    {
+        background: #1fc4a8;
+    }
+    a:hover,.vmagazine-ticker-wrapper .layout-two .ticker-tags ul li a:hover,
+    header.header-layout2 nav.main-navigation .nav-wrapper .index-icon a:hover, header.header-layout1 nav.main-navigation .nav-wrapper .index-icon a:hover, header.header-layout3 nav.main-navigation .nav-wrapper .index-icon a:hover, header.header-layout4 nav.main-navigation .nav-wrapper .index-icon a:hover,
+    .widget.widget_categories ul li,.widget.widget_categories ul li a:hover,footer .buttom-footer.footer_one .footer-credit .footer-social ul.social li a:hover,header.header-layout4 .logo-wrapper-section .vmagazine-container .social-icons ul.social li a:hover,header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover,header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-con-wrap .cat-con-section .menu-post-block h3 a:hover, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-con-wrap .cat-con-section .menu-post-block h3 a:hover, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-con-wrap .cat-con-section .menu-post-block h3 a:hover, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-con-wrap .cat-con-section .menu-post-block h3 a:hover,.vmagazine-breadcrumb-wrapper .vmagazine-bread-home span.current,.vmagazine-container .vmagazine-sidebar .widget.widget_archive ul li,.vmagazine-container .vmagazine-sidebar .widget.widget_archive ul li a:hover,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_nav_menu .menu-main-menu-container ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_entries ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_meta ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_pages ul li a:hover,.site-footer .footer-widgets .widget_vmagazine_info .footer_info_wrap .info_wrap div span:first-of-type,
+    .vmagazine-container #primary.vmagazine-content .entry-content nav.post-navigation .nav-links a:hover p,
+    .vmagazine-container #primary.vmagazine-content .post-review-wrapper .review-inner-wrap .summary-wrapper .total-reivew-wrapper span.stars-count,.vmagazine-container #primary.vmagazine-content .post-review-wrapper .review-inner-wrap .stars-review-wrapper .review-featured-wrap span.stars-count span.star-value,header.header-layout1 .vmagazine-top-header .top-menu ul li a:hover, header.header-layout3 .vmagazine-top-header .top-menu ul li a:hover,header.header-layout1 .vmagazine-top-header .top-left ul.social li a:hover, header.header-layout3 .vmagazine-top-header .top-right ul.social li a:hover,header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover,header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:hover:after, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:hover:after, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:hover:after, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:hover:after,header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li .menu-post-block:hover a, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li .menu-post-block:hover a, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li .menu-post-block:hover a, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li .menu-post-block:hover a,header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item:hover a,.woocommerce-page .vmagazine-container.sidebar-shop ul.products li.product:hover a.woocommerce-LoopProduct-link h2,.woocommerce-page .vmagazine-container.sidebar-shop ul.products span.price,.woocommerce-page .vmagazine-container.sidebar-shop .vmagazine-sidebar .widget_product_categories .product-categories li,.woocommerce-page .vmagazine-container.sidebar-shop .vmagazine-sidebar .widget_product_categories .product-categories li a:hover,.woocommerce-page .vmagazine-container.sidebar-shop .widget_top_rated_products ul.product_list_widget li ins span.woocommerce-Price-amount, .woocommerce-page .vmagazine-container.sidebar-shop .widget_recent_reviews ul.product_list_widget li ins span.woocommerce-Price-amount,.woocommerce-page .vmagazine-container.sidebar-shop .widget_top_rated_products ul.product_list_widget li:hover a, .woocommerce-page .vmagazine-container.sidebar-shop .widget_recent_reviews ul.product_list_widget li:hover a,.woocommerce div.product p.price, .woocommerce div.product span.price,.comment-form-rating p.stars,header ul.site-header-cart li.cart-items .widget_shopping_cart p.woocommerce-mini-cart__buttons a.button,footer .buttom-footer.footer_one .footer-btm-wrap .vmagazine-btm-ftr .footer-nav ul li a:hover,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_nav_menu ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_entries ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_comments ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_meta ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_pages ul li, .top-footer-wrap .vmagazine-container .widget.widget_meta ul li, .top-footer-wrap .vmagazine-container .widget.widget_pages ul li, .top-footer-wrap .vmagazine-container .widget.widget_recent_comments ul li, .top-footer-wrap .vmagazine-container .widget.widget_recent_entries ul li, .top-footer-wrap .vmagazine-container .widget.widget_rss ul li, .top-footer-wrap .vmagazine-container .widget.widget_nav_menu ul li, .top-footer-wrap .vmagazine-container .widget.widget_archive ul li,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_nav_menu ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_entries ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_meta ul li a:hover, .vmagazine-container .vmagazine-sidebar .widget.widget_pages ul li a:hover, .top-footer-wrap .vmagazine-container .widget_pages ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_meta ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_pages ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_recent_comments ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_recent_entries ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_rss ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_nav_menu ul li a:hover, .top-footer-wrap .vmagazine-container .widget.widget_archive ul li a:hover,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more:hover, .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more:hover, .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more:hover,
+    .vmagazine-archive-layout1 .vmagazine-container #primary article .archive-wrapper .entry-content a.vmagazine-archive-more:hover,
+    .vmagazine-container #primary.vmagazine-content .post-password-form input[type='submit']:hover,
+    .vmagazine-archive-layout4 .vmagazine-container #primary article .entry-content a.vmagazine-archive-more:hover,
+    .vmagazine-container #primary .entry-content .post-tag .tags-links a:hover,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more:hover:after,
+    .vmagazine-slider-tab-carousel .block-content-wrapper-carousel .single-post:hover .post-caption h3,
+    .woocommerce-page .vmagazine-container.sidebar-shop .widget_top_rated_products ul.product_list_widget li:hover a,
+    .woocommerce-page .vmagazine-container.sidebar-shop .widget_recently_viewed_products ul.product_list_widget li:hover a,
+    .woocommerce-page .vmagazine-container.sidebar-shop .widget_products ul.product_list_widget li:hover a,
+    .woocommerce-page .vmagazine-container.sidebar-shop .widget_recent_reviews ul.product_list_widget li:hover a,
+    .related-content-wrapper a.vmagazine-related-more:hover,
+    .vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper .slider-item-wrapper .slider-bigthumb:hover .post-captions h3.large-font a, .vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper .small-thumbs-wrapper .small-thumbs-inner .slider-smallthumb:hover .post-captions h3.large-font a,.vmagazine-post-carousel .block-carousel .single-post:hover .post-caption h3.large-font a
+    {
+        color: #1fc4a8;
+    }
+    .lSSlideOuter .lSPager.lSpg > li:hover a, .lSSlideOuter .lSPager.lSpg > li a:hover, .lSSlideOuter .lSPager.lSpg > li.active a,
+    .widget.widget_vmagazine_video_player .vmagazine-yt-player .vmagazine-video-holder .video-thumbs .mCS-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar
+    {
+        background-color: #1fc4a8;
+    }
+    .widget .tagcloud a:hover,.vmagazine-container .vmagazine-sidebar .widget.widget_search form.search-form input.search-field:focus,.site-footer .footer-widgets .widget .tagcloud a:hover,header ul.site-header-cart li.cart-items .widget_shopping_cart p.woocommerce-mini-cart__buttons a.button,.widget .tagcloud a:hover, .top-footer-wrap .vmagazine-container .widget.widget_tag_cloud .tagcloud a:hover,
+    .vmagazine-container #primary.vmagazine-content .entry-content nav.post-navigation .nav-links a:hover:before,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more, .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more, .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more,
+    .ap_toggle,.ap_tagline_box.ap-all-border-box,.ap_tagline_box.ap-left-border-box,
+    .vmagazine-archive-layout4 .vmagazine-container #primary article .entry-content a.vmagazine-archive-more,
+    .vmagazine-archive-layout1 .vmagazine-container #primary article .archive-wrapper .entry-content a.vmagazine-archive-more,
+    .vmagazine-container #primary.vmagazine-content .post-password-form input[type='submit'],
+    .vmagazine-container #primary.vmagazine-content .post-password-form input[type='submit']:hover,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article.sticky .archive-post,
+    .woocommerce-info,span.view-all a:hover,.vmagazine-post-col.block_layout_1 span.view-all a:hover,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .vmagazine-search-form-primary form.search-form input.search-field:focus,
+    .block-post-wrapper.block_layout_3 .view-all a:hover,
+    .vmagazine-mul-cat.block-post-wrapper.layout-two .block-content-wrapper .right-posts-wrapper .view-all a:hover,
+    .block-post-wrapper.list .gl-posts a.vm-ajax-load-more:hover, .block-post-wrapper.grid-two .gl-posts a.vm-ajax-load-more:hover,
+    .vmagazine-cat-slider.block-post-wrapper.block_layout_1 .content-wrapper-featured-slider .lSSlideWrapper li.single-post .post-caption p span.read-more a,
+    .no-results.not-found form.search-form input.search-submit,
+    .vmagazine-container #primary .entry-content .post-tag .tags-links a,
+    .related-content-wrapper a.vmagazine-related-more
+    {
+        border-color: #1fc4a8;
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_recent_comments ul li span.comment-author-link,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li a,.woocommerce-page .vmagazine-container.sidebar-shop .widget_recent_reviews ul.product_list_widget li .reviewer,
+    .vmagazine-breadcrumb-wrapper .vmagazine-bread-home li.current
+    {
+        color: rgba(31,196,168,0.6);
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_search form.search-form input.search-field:hover
+    {
+        border-color: rgba(31,196,168,0.3);
+    }
+    .lSSlideOuter .lSPager.lSpg > li a
+    {
+        background-color: rgba(31,196,168,0.3);
+    }
+    .template-two .widget-title:before, .template-two .block-title:before,
+    .template-two .vmagazine-container #primary.vmagazine-content .comment-respond h4.comment-reply-title:before, .template-two .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title:before, .template-two .vmagazine-container #primary.vmagazine-content .post-review-wrapper .section-title:before,
+    .template-two .vmagazine-container #primary.vmagazine-content .vmagazine-author-metabox h4.box-title:before{
+        background: rgba(31,196,168,0.2);
+    }
+    .template-three .widget-title span:after, .template-three .block-title span:after,
+    .template-three .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title span:after, .template-three .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title span:after, .template-three .vmagazine-container #primary.vmagazine-content .comment-respond h4.comment-reply-title span:after, .template-three .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title span.title-bg:after,
+    .template-three .vmagazine-container #primary.vmagazine-content .vmagazine-author-metabox h4.box-title span.title-bg:after,
+    .vmagazine-ticker-wrapper .default-layout .vmagazine-ticker-caption span:before, .vmagazine-ticker-wrapper .layout-two .vmagazine-ticker-caption span:before
+    {
+        border-color: transparent transparent transparent #1fc4a8;
+    }
+    .vmagazine-rec-posts.recent-post-widget .recent-posts-content .recent-post-content span a:hover{
+        color: rgba(31,196,168,0.6);
+    }
+    header.header-layout3 .site-main-nav-wrapper .top-right .vmagazine-search-form-primary{
+        border-top: solid 2px #1fc4a8;
+    }
+    .template-four .widget-title span:after, .template-four .block-title span:after, .template-four .vmagazine-container #primary.vmagazine-content .vmagazine-related-wrapper h4.related-title span.title-bg:after, .template-four .comment-respond h4.comment-reply-title span:after, .template-four .vmagazine-container #primary.vmagazine-content .post-review-wrapper h4.section-title span:after
+    {
+        border-color: #1fc4a8 transparent transparent transparent;
+    }
+    .vmagazine-post-carousel .block-carousel .slick-dots li button::before, .vmagazine-post-carousel .block-carousel li.slick-active button:before,
+    .vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper .slick-dots li button::before, .vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper li.slick-active button:before,.vmagazine-slider-tab-carousel .block-content-wrapper-carousel .slick-dots li button::before, .vmagazine-slider-tab-carousel .block-content-wrapper-carousel .slick-dots li.slick-active button::before
+    {
+        background: rgba(31,196,168,0.6);
+    }
+    .slider-tab-wrapper .block-post-wrapper.block_layout_1 .block-content-wrapper .tab-cat-slider.slick-slider .slick-active.slick-center .post-thumb .image-overlay
+    {
+        background: rgba(31,196,168,0.4);
+    }
+    .vmagazine-post-carousel .block-carousel ul.slick-dots:before,.vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper ul.slick-dots:before,.vmagazine-block-post-slider .block-content-wrapper .block-post-slider-wrapper ul.slick-dots:after,.vmagazine-post-carousel .block-carousel ul.slick-dots:after,.vmagazine-slider-tab-carousel .block-content-wrapper-carousel ul.slick-dots:before,.vmagazine-slider-tab-carousel .block-content-wrapper-carousel ul.slick-dots:after
+    {
+        background: rgba(31,196,168,0.4);
+    }
+    .site-main-nav-wrapper, header.header-layout2 .vmagazine-nav-wrapper,
+    header.header-layout1 .vmagazine-nav-wrapper, 
+    header.header-layout3 .site-main-nav-wrapper,
+    .boxed-width header.header-layout3 .site-main-nav-wrapper, 
+    .site-main-nav-wrapper,
+    header.header-layout4 nav.main-navigation .nav-wrapper,
+    .vmagazine-mob-outer
+    {
+        background: #494f56;
+    }
+    header.header-layout4 nav.main-navigation .nav-wrapper{
+        border-bottom: none;
+    }
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    .main-navigation i,.site-header-cart i,
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    .sidebar-icon i,.search-toggle i,
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    header.header-layout2 .vmagazine-nav-wrapper.menu-fixed-triggered nav.main-navigation .nav-wrapper, 
+    header.header-layout2 .vmagazine-nav-wrapper.menu-fixed-triggered nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a,
+    vmagazine-mobile-nav-wrapp i
+    
+    {
+        color: #ffffff;
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:after,
+    header.header-layout2 .vmagazine-nav-wrapper.menu-fixed-triggered nav.main-navigation .nav-wrapper .menu-mmnu-container ul > li.menu-item a::after,
+    .vmagazine-mobile-nav-wrapp .nav-toggle span:before, .vmagazine-mobile-nav-wrapp .nav-toggle span:after,
+    .vmagazine-mobile-nav-wrapp .nav-toggle span
+    {
+        background: #ffffff;
+    }
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover,
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover, 
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover,
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item:hover a
+    {
+        color: #1fc4a8;
+    }
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item a:hover{
+        background: #ffffff; 
+    }
+    header.header-layout1 .vmagazine-top-header, 
+    header.header-layout3 .vmagazine-top-header, 
+    header.header-layout4 .vmagazine-top-header
+    {
+        background: #494f56; 
+    }
+    header.header-layout1 .vmagazine-top-header .top-left ul.social li a:hover, 
+    header.header-layout3 .vmagazine-top-header .top-right ul.social li a:hover,
+    header.header-layout1 .vmagazine-top-header .top-menu ul li a:hover, 
+    header.header-layout3 .vmagazine-top-header .top-menu ul li a:hover
+    {
+        color: #31c4a6;
+    }
+    header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field, header.header-layout3 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field,header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary form.search-form:after, header.header-layout3 .vmagazine-top-header .vmagazine-search-form-primary form.search-form:after
+    {
+        color: #ffffff;
+    }
+    header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary:before{
+        background: rgba(255,255,255,0.5);
+    }
+    header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::-moz-placeholder 
+    {
+        color: #ffffff;
+    }
+    header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::placeholder{
+        color: #ffffff;
+    }
+    header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::-webkit-input-placeholder{
+        color: #ffffff;
+    }
+    header.header-layout1 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::-ms-input-placeholder{
+        color: #ffffff;
+    }
+    header.header-layout3 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::-moz-placeholder{
+        color: #ffffff;
+    }
+    header.header-layout3 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::placeholder{
+        color: #ffffff;
+    }
+    header.header-layout3 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::-webkit-input-placeholder{
+        color: #ffffff;
+    }
+    header.header-layout3 .vmagazine-top-header .vmagazine-search-form-primary form input.search-field::-ms-input-placeholder
+    {
+        color: #ffffff;
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a, 
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a, 
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a, 
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a,
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:after, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:after, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:after, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li.menu-item.menu-item-has-children:after
+    {
+        color: #ffffff;
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover, 
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover, 
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover, 
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a:hover
+    {
+        color: #494f56;
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu, 
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu, 
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu, 
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu
+    {
+        background: #ffffff; 
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap, 
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap, 
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap, 
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap
+    {
+       background: #494f56;  
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a, 
+    header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a, 
+    header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a, 
+    header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu li a
+    {
+        color: #494f56;
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat
+    {
+        color: #1fc4a8;
+    }
+    header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout2 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout1 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout3 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a:hover, header.header-layout4 nav.main-navigation .nav-wrapper .menu-mmnu-container ul li.menu-item .sub-menu.mega-sub-menu .ap-mega-menu-cat-wrap a.mega-active-cat
+    {
+        background: #1fc4a8;
+    }
+    .site-header .logo-wrapper,
+    .site-header .logo-ad-wrapper,
+    .site-header .logo-wrapper-section,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .social-icons,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .header-search-wrapper .vmagazine-search-form-primary,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .vmagazine-search-form-primary form.search-form input.search-field,
+    header.header-layout1 .logo-ad-wrapper, header.header-layout3 .logo-ad-wrapper,
+    header.header-layout2 .logo-ad-wrapper .middle-search input.search-field
+    {
+        background: #ffffff;
+    }
+    .site-header .logo-wrapper,
+    .site-header .logo-ad-wrapper,
+    .site-header .logo-wrapper-section,
+    header.header-layout2 .logo-ad-wrapper .middle-search input.search-field,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .social-icons ul.social li a,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .header-search-wrapper .search-close,
+    header.header-layout4 .logo-wrapper-section .vmagazine-container .search-toggle i
+    {
+        color: #1fc4a8;
+    }
+    header.header-layout2 .logo-ad-wrapper .middle-search input.search-field::placeholder
+    {
+        color: #1fc4a8 !important; 
+    }
+    header.header-layout2 .logo-ad-wrapper .middle-search input.search-field::-webkit-input-placeholder
+    {
+        color: #1fc4a8 !important; 
+    }
+    header.header-layout2 .logo-ad-wrapper .middle-search input.search-field::-ms-input-placeholder
+    {
+        color: #1fc4a8 !important; 
+    }
+    header.header-layout2 .logo-ad-wrapper .middle-search input.search-field::-moz-placeholder
+    {
+        color: #1fc4a8 !important; 
+    }
+    .vmagazine-ticker-wrapper{
+        background: #ffffff; 
+    }
+    .vmagazine-ticker-wrapper .default-layout .vmagazine-ticker-caption, .vmagazine-ticker-wrapper .layout-two .vmagazine-ticker-caption
+    {
+        color: #ffffff;
+    }
+    .ticker-wrapp ul li a{
+        color: #636363;
+    }
+    .vmagazine-ticker-wrapper .default-layout .lSSlideOuter .lSSlideWrapper .lSAction a.lSPrev:before, .vmagazine-ticker-wrapper .layout-two .lSSlideOuter .lSSlideWrapper .lSAction a.lSPrev:before,.vmagazine-ticker-wrapper .default-layout .lSSlideOuter .lSSlideWrapper .lSAction a.lSNext:before, .vmagazine-ticker-wrapper .layout-two .lSSlideOuter .lSSlideWrapper .lSAction a.lSNext:before
+    {
+        color: #39cc9f; 
+    }
+    .vmagazine-ticker-wrapper .default-layout .lSSlideOuter .lSSlideWrapper .lSAction a.lSPrev, .vmagazine-ticker-wrapper .layout-two .lSSlideOuter .lSSlideWrapper .lSAction a.lSPrev,.vmagazine-ticker-wrapper .default-layout .lSSlideOuter .lSSlideWrapper .lSAction a.lSNext, .vmagazine-ticker-wrapper .layout-two .lSSlideOuter .lSSlideWrapper .lSAction a.lSNex
+    {
+        border-color: #39cc9f;
+    }
+    .block-post-wrapper.block_layout_3 .single-post .content-wrapper .small-font a,
+    .vmagazine-post-col.block_layout_1 .single-post .content-wrapper .large-font a,
+    .vmagazine-rec-posts.recent-post-widget .recent-posts-content .recent-post-content a,
+    .vmagazine-post-col.block_layout_1 .single-post .content-wrapper .small-font a,
+    .vmagazine-featured-slider.featured-slider-wrapper .featured-posts li.f-slide .slider-caption h3.small-font a,
+    .vmagazine-mul-cat.block-post-wrapper.layout-two .block-content-wrapper .right-posts-wrapper .single-post h3.small-font a,
+    .vmagazine-cat-slider.block-post-wrapper.block_layout_1 .content-wrapper-featured-slider .lSSlideWrapper li.single-post .post-caption h3,
+    .block-post-wrapper.list .single-post .post-content-wrapper .large-font,
+    .block-post-wrapper.grid .posts-wrap .single-post .post-content-wrapper h3.large-font,
+    .vmagazine-mul-cat-tabbed .block-content-wrapper .top-post-wrapper .single-post .post-caption-wrapper h3.large-font,
+    .vmagazine-mul-cat-tabbed .block-content-wrapper .btm-posts-wrapper .single-post .post-caption-wrapper h3.small-font,
+    .widget_vmagazine_block_posts_column .block-post-wrapper.block_layout_4 .single-post h3.small-font,
+    .widget_vmagazine_categories_tabbed .vmagazine-tabbed-wrapper .single-post .post-caption h3.small-font,
+    .vmagazine-slider-tab-carousel .block-content-wrapper-carousel .post-caption h3,
+    .vmagazine-grid-list.grid-two .single-post.first-post h3.large-font,
+    .vmagazine-grid-list.grid-two .single-post h3.large-font,h3.small-font,
+    .vmagazine-block-post-car-small h3.extra-large-font,
+    .vmagazine-mul-cat.layout-one .block-cat-content .right-posts-wrapper .single-post .post-caption-wrapper h3.small-font,
+    .vmagazine-mul-cat.layout-one .block-cat-content .left-post-wrapper .post-caption-wrapper h3.large-font,
+    .element-has-desc .vmagazine-grid-list.grid-two .single-post.first-post h3.large-font,
+    .element-has-desc .vmagazine-grid-list.grid-two .single-post h3.large-font,
+    .vmagazine-container #primary .entry-header h1.entry-title,.vmagazine-container #primary .vmagazine-related-wrapper .single-post h3.small-font,
+    .vmagazine-archive-layout4 .vmagazine-container #primary main.site-main article .archive-post .post-title-wrap .entry-title,
+    .vmagazine-container #primary.post-single-layout2 .single_post_pagination_wrapper .prev-link .prev-text h4, .vmagazine-container #primary.post-single-layout2 .single_post_pagination_wrapper .next-link .next-text h4,
+    .search-content .search-content-wrap .cont-search-wrap .title a,
+    .vmagazine-archive-layout1 .vmagazine-container #primary article .archive-wrapper h2.entry-title,
+    .vmagazine-archive-layout2.right-sidebar .vmagazine-container #primary main.site-main article .archive-post .post-title-wrap .entry-title, .vmagazine-archive-layout2.left-sidebar .vmagazine-container #primary main.site-main article .archive-post .post-title-wrap .entry-title
+    {
+        color: #494f56;
+    }
+    .vmagazine-post-col.block_layout_1 .single-post .content-wrapper p,
+    .vmagazine-featured-slider.featured-slider-wrapper .featured-posts li.f-slide .slider-caption .post-content,
+    .block-post-wrapper.list .single-post .post-content-wrapper .post-content p,
+    .vmagazine-mul-cat-tabbed .block-content-wrapper .top-post-wrapper .single-post .post-caption-wrapper p,
+    .vmagazine-cat-slider.block-post-wrapper.block_layout_1 .content-wrapper-featured-slider .lSSlideWrapper li.single-post .post-caption p,
+    .vmagazine-timeline-post .timeline-post-wrapper .single-post .post-date .blog-date-inner span.posted-month, .vmagazine-timeline-post .timeline-post-wrapper .single-post .post-date .blog-date-inner span.posted-year,
+    .element-has-desc .vmagazine-grid-list.grid-two .single-post .post-content p,
+    .vmagazine-mul-cat.layout-one .block-cat-content .left-post-wrapper .post-caption-wrapper p,
+    .vmagazine-container #primary .entry-content p,.ap-dropcaps.ap-square,.entry-content h3,.entry-content h2,.entry-content h1,.entry-content h4,.entry-content h5,.entry-content h6,.entry-content,
+    .vmagazine-container #primary .vmagazine-related-wrapper .single-post .post-contents,
+    .vmagazine-archive-layout4 .vmagazine-container #primary main.site-main article .archive-post .entry-content p,
+    .apss-share-text,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_text .textwidget p, .top-footer-wrap .vmagazine-container .widget.widget_text .textwidget p,.vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li cite,.widget_calendar,.vmagazine-container .vmagazine-sidebar .widget.widget_calendar .calendar_wrap table#wp-calendar caption, .top-footer-wrap .vmagazine-container .widget.widget_calendar .calendar_wrap table#wp-calendar caption,
+    input[type='text'], input[type='email'], input[type='url'], input[type='password'], input[type='search'],
+    .vmagazine-container .vmagazine-sidebar .widget.widget_categories select, .vmagazine-container .vmagazine-sidebar .widget.widget_archive select,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_text .textwidget form select,
+    .vmagazine-container #primary .comment-respond .comment-form p.logged-in-as,
+    .vmagazine-container #primary.post-single-layout2 .single_post_pagination_wrapper .prev-link .prev-text h2, .vmagazine-container #primary.post-single-layout2 .single_post_pagination_wrapper .next-link .next-text h2,
+    .navigation.pagination .nav-links a.page-numbers,
+     .widget .tagcloud a,.widget.widget_categories ul li a, .vmagazine-container .vmagazine-sidebar .widget.widget_archive ul li a,.widget_calendar a,.vmagazine-container .vmagazine-sidebar .widget.widget_nav_menu ul li a, .vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li a, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_entries ul li a, .vmagazine-container .vmagazine-sidebar .widget.widget_meta ul li a, .vmagazine-container .vmagazine-sidebar .widget.widget_pages ul li a, .top-footer-wrap .vmagazine-container .widget_pages ul li a, .top-footer-wrap .vmagazine-container .widget.widget_meta ul li a, .top-footer-wrap .vmagazine-container .widget.widget_pages ul li a, .top-footer-wrap .vmagazine-container .widget.widget_recent_comments ul li a, .top-footer-wrap .vmagazine-container .widget.widget_recent_entries ul li a, .top-footer-wrap .vmagazine-container .widget.widget_rss ul li a, .top-footer-wrap .vmagazine-container .widget.widget_archive ul li a,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post .entry-content a.vmagazine-archive-more:after,
+    .vmagazine-archive-layout1 .vmagazine-container #primary article .archive-wrapper .entry-content p,
+    .vmagazine-container #primary .post-review-wrapper .review-inner-wrap .summary-wrapper .summary-details span.summary-comments
+    {
+        color: #494f56;
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_search form.search-form input.search-field::placeholder,
+    .vmagazine-container #primary .comment-respond .comment-form textarea::placeholder
+    {
+       color: #494f56;
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_search form.search-form input.search-field::-webkit-input-placeholder,
+    .vmagazine-container #primary .comment-respond .comment-form textarea::-webkit-input-placeholder
+    {
+       color: #494f56;
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_search form.search-form input.search-field::-ms-input-placeholder,
+    .vmagazine-container #primary .comment-respond .comment-form textarea::-ms-input-placeholder
+    {
+       color: #494f56;
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_search form.search-form input.search-field::-moz-placeholder,
+    .vmagazine-container #primary .comment-respond .comment-form textarea::-moz-placeholder
+    {
+       color: #494f56;
+    }
+    .vmagazine-container .vmagazine-sidebar .widget.widget_archive ul li, .widget.widget_categories ul li,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_nav_menu ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_rss ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_entries ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_recent_comments ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_meta ul li, .vmagazine-container .vmagazine-sidebar .widget.widget_pages ul li,
+    .vmagazine-container .vmagazine-sidebar .widget.widget_text .textwidget form select,.widget .tagcloud a,
+    .navigation .nav-links a,.vmagazine-container #primary .vmagazine-related-wrapper .single-post,
+    .vmagazine-container #primary .comment-respond .comment-form,.ap-dropcaps.ap-square,
+    .vmagazine-grid-list.grid-two .single-post,.vmagazine-mul-cat.block-post-wrapper.layout-two .block-content-wrapper .right-posts-wrapper .single-post,
+    .vmagazine-mul-cat-tabbed .block-content-wrapper .btm-posts-wrapper .second-col-wrapper,.vmagazine-mul-cat-tabbed .block-content-wrapper .btm-posts-wrapper .single-post,.vmagazine-post-col.block_layout_1 .single-post .content-wrapper .small-font,.vmagazine-rec-posts.recent-post-widget .recent-posts-content,.vmagazine-featured-slider.featured-slider-wrapper .featured-posts li.f-slide,.block-post-wrapper.list .single-post,.block-post-wrapper.grid .posts-wrap .single-post,.widget_vmagazine_categories_tabbed .vmagazine-tabbed-wrapper .single-post,.vmagazine-timeline-post .timeline-post-wrapper .single-post .post-caption .captions-wrapper,.vmagazine-mul-cat.layout-one .block-cat-content .right-posts-wrapper .single-post,
+    .vmagazine-archive-layout2 .vmagazine-container main.site-main article .archive-post,
+    .navigation.pagination .nav-links a.page-numbers,.navigation.pagination .nav-links .page-numbers.current
+    {
+        border-color: #494f56;
+    }
+    .vmagazine-container #primary .comment-respond .comment-form textarea
+    {
+       border: 1px solid #494f56; 
+    }
+    .vmagazine-timeline-post .timeline-post-wrapper .single-post:before{
+        background: #494f56;
+    }
+    .vmagazine-timeline-post .timeline-post-wrapper .single-post .post-caption .captions-wrapper:before{
+        border-color: transparent #494f56 transparent transparent;
+    }
+    .vmagazine-breadcrumb a,.vmagazine-breadcrumb-wrapper .vmagazine-bread-home li:after,
+    .breadcrumb-title h1
+    {
+        color: #858585;
+    }
+    .template-five .widget-title span, .template-five .block-title span,
+    .template-five .widget-title:before, .template-five .block-title:before,
+    .template-four .widget-title span, .template-four .block-title span, .template-four .vmagazine-container #primary .vmagazine-related-wrapper h4.related-title span.title-bg, .template-four .comment-respond h4.comment-reply-title span, .template-four .vmagazine-container #primary .post-review-wrapper h4.section-title span,
+    .template-four .vmagazine-mul-cat-tabbed .block-header h4.block-title:before, .template-four .vmagazine-mul-cat.layout-one .block-header h4.block-title:before, .template-four .vmagazine-block-post-slider .block-header h4.block-title:before, .template-four .vmagazine-slider-tab-carousel .block-post-wrapper h4.block-title:before, .template-four .slider-tab-wrapper .block-post-wrapper.block_layout_1 .block-header h4.block-title:before, .template-four .vmagazine-mul-cat.block-post-wrapper.layout-two .block-title::before,
+    .template-three .widget-title span, .template-three .block-title span,.template-three .widget-title:before, .template-three .block-title:before
+    {
+        background: #494f56; 
+    }
+    .template-four .widget-title span:after, .template-four .block-title span:after, .template-four .vmagazine-container #primary .vmagazine-related-wrapper h4.related-title span.title-bg:after, .template-four .comment-respond h4.comment-reply-title span:after, .template-four .vmagazine-container #primary .post-review-wrapper h4.section-title span:after
+    {
+            border-color: #494f56 transparent transparent transparent;
+    }
+    .template-four .vmagazine-mul-cat-tabbed .block-header .multiple-child-cat-tabs .vmagazine-tabbed-links li.active a:before, .template-four .vmagazine-mul-cat.layout-one .block-header .child-cat-tabs .vmagazine-tab-links li.active a:before, .template-four .vmagazine-block-post-slider .block-header .multiple-child-cat-tabs-post-slider .vmagazine-tabbed-post-slider li.active a:before, .template-four .vmagazine-slider-tab-carousel .slider-cat-tabs-carousel .slider-tab-links-carousel li.active a:before, .template-four .slider-tab-wrapper .block-post-wrapper.block_layout_1 .block-header .slider-cat-tabs ul.slider-tab-links li.active a:before, .template-four .vmagazine-mul-cat.block-post-wrapper.layout-two .block-header .child-cat-tabs .vmagazine-tab-links li.active a:before
+    {
+        border-color: transparent transparent #494f56 transparent;
+    }
+    .template-three .widget-title span:after, .template-three .block-title span:after
+    {
+       border-color: transparent transparent transparent #494f56; 
+    }
+.tags-links, .byline { clip: rect(1px, 1px, 1px, 1px); height: 1px; position: absolute; overflow: hidden; width: 1px; }
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+</style>
+<link rel='stylesheet' id='vmagazine-google-fonts-css' href='//fonts-api.wp.com/css?family=Open+Sans%3A400%2C600%2C700%2C400italic%2C300%7CPoppins%3A300%2C400%2C500%2C600%2C700%7CMontserrat%3A300%2C300i%2C400%2C800%2C800i%7CLato%3A300%2C400%2C700%2C900&#038;ver=6.4.2' media='all' />
+<link rel='stylesheet' id='vmagazine-typhography-font-css' href='//fonts-api.wp.com/css?family=Lato%3A400%2C700%2C700italic%7CArial%3A400&#038;ver=6.4.2' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<script type="text/javascript" src="https://santivachronicle.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type='text/javascript' src='https://santivachronicle.com/wp-includes/js/jquery/jquery-migrate.min.js?m=1686289764'></script>
+<script type="text/javascript" src="https://santivachronicle.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4" id="moment-js"></script>
+<script type="text/javascript" id="moment-js-after">
+/* <![CDATA[ */
+moment.updateLocale( 'en_US', {"months":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthsShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"weekdaysShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"F j, Y g:i a","LLLL":null}} );
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://santivachronicle.com/_jb_static/??-eJyNj0ESgjAMRW/jyhJwgbpgPAu0oQZK2mla0dvbhc4wutDlT95L5q9Bac8JOUFw2RILaNeL0EholCNJxBbKAJPADdn4CKZPGHu2GEjP+JWrSfZrUMTaZYMCk4Apd952WQXvHiM5VxiMqVqIfzgRLRa0Tz6qmDnRgn9Ym08b+rOuzSUOGC0MmZyBq/ezALHB+8u6LF1zrJtD3Z7O7U4PXfME0550zw=='></script>
+<script type="text/javascript" src="https://santivachronicle.com/wp-content/plugins/gutenberg/build/i18n/index.min.js?ver=f5a63315d8d2f363ce59" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://santivachronicle.com/_jb_static/??-eJx9jksOwjAMRG/DitbNgt8CcZY0SYMr24nihApOT9ghIbGckd6b2fLgktQgFTK1iKLgyKrigsEPhFpRIvQiVIVVoVRHnWBOMjLKuOp++1XE1uMcSoS5IXng5BsFBeScSmWbh5zouSDRH8mDbbQvlPDZy1YwydcRvXeTSz7osJROdsmNr+Y0mfPlYKbjzs1X8wZ8IlOn'></script>
+<script type="text/javascript" id="give-stripe-js-js-extra">
+/* <![CDATA[ */
+var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["JPY","KRW","CLP","ISK","BIF","DJF","GNF","KHR","KPW","LAK","LKR","MGA","MZN","VUV"],"sitename":"Santiva Chronicle","checkoutBtnTitle":"Donate","publishable_key":"pk_live_518FVQEAspmM2sbcbVmz4VoBP35yzjsa2aZidbfJUZUbZPVsfh4x1h0HjZKXcd4fbEgAjkVO5DxlZ57c1env1nvX700FWHA5rHj","checkout_image":"","checkout_address":"on","checkout_processing_text":"Donation Processing...","give_version":"2.33.2","cc_fields_format":"single","card_number_placeholder_text":"Card Number","card_cvc_placeholder_text":"CVC","donate_button_text":"Donate Now","element_font_styles":{"cssSrc":false},"element_base_styles":{"color":"#32325D","fontWeight":500,"fontSize":"16px","fontSmoothing":"antialiased","::placeholder":{"color":"#222222"},":-webkit-autofill":{"color":"#e39f48"}},"element_complete_styles":{},"element_empty_styles":{},"element_invalid_styles":{},"float_labels":"","base_country":"US","preferred_locale":"en"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.stripe.com/v3/?ver=2.33.2" id="give-stripe-js-js"></script>
+<script type='text/javascript' src='https://santivachronicle.com/wp-content/plugins/give/assets/dist/js/give-stripe.js?m=1695148321'></script>
+<script type="text/javascript" id="give-js-extra">
+/* <![CDATA[ */
+var give_global_vars = {"ajaxurl":"https:\/\/santivachronicle.com\/wp-admin\/admin-ajax.php","checkout_nonce":"fafe9c0158","currency":"USD","currency_sign":"$","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","textForOverlayScreen":"<h3>Processing...<\/h3><p>This will only take a second!<\/p>","number_decimals":"2","is_test_mode":"","give_version":"2.33.2","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_last":"Please enter your last name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/santivachronicle.com\/wp-admin\/admin-ajax.php","ajaxNonce":"e9344d4e92","loading":"Loading","select_option":"Please select an option","default_gateway":"stripe","permalinks":"1","number_decimals":2},"cookie_hash":"934a7217a2a5231feaef32f4cebc3193","session_nonce_cookie_name":"wp-give_session_reset_nonce_934a7217a2a5231feaef32f4cebc3193","session_cookie_name":"wp-give_session_934a7217a2a5231feaef32f4cebc3193","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"https:\/\/santivachronicle.com\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://santivachronicle.com/wp-content/plugins/give/assets/dist/js/give.js?ver=1c38f856714bc980" id="give-js"></script>
+<script type='text/javascript' src='https://santivachronicle.com/_jb_static/??wp-includes/js/imagesloaded.min.js,wp-content/plugins/classified-listing/assets/vendor/swiper/swiper-bundle.min.js?m=1701206896&#038;cb=1'></script>
+<link rel="https://api.w.org/" href="https://santivachronicle.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://santivachronicle.com/xmlrpc.php?rsd" />
+
+<!-- HFCM by 99 Robots - Snippet # 1: Google AdSense Connection Code -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2047000160898951"
+     crossorigin="anonymous"></script>
+<!-- /end HFCM by 99 Robots -->
+<meta name="generator" content="Give v2.33.2" />
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://santivachronicle.com"><link rel="alternate" href="https://santivachronicle.com/wp-json/tribe/events/v1/" />	<style>img#wpstats{display:none}</style>
+		<meta name="description" content="Santiva Chronicle is daily online news for Sanibel &amp; Captiva Islands." />
+		<style type="text/css">
+					.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+				</style>
+		<!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2020/02/cropped-site-icon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2020/02/cropped-site-icon.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2020/02/cropped-site-icon.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2020/02/cropped-site-icon.png?fit=270%2C270&#038;ssl=1" />
+<style type="text/css" id="wp-custom-css">@media screen and (max-width: 1366px){
+header#masthead {
+    display: block;
+}
+header.header-layout1 nav.main-navigation .nav-wrapper {
+    display: none;
+}
+header.header-layout1 .vmagazine-nav-wrapper {
+    display: none;
+}
+header.header-layout1 .vmagazine-top-header, header.header-layout3 .vmagazine-top-header, header.header-layout4 .vmagazine-top-header {
+    display: none;
+}
+.site-branding {
+    display: none;
+}
+body.elements-paddings-hidden .archive .vmagazine-breadcrumb-wrapper .vmagazine-bread-home, body.elements-paddings-hidden .vmagazine-breadcrumb-wrapper .vmagazine-bread-home {
+    padding: 0px 10px 0px;
+}
+}</style><!-- Jetpack Google Analytics -->
+			<script type='text/javascript'>
+				var _gaq = _gaq || [];
+				_gaq.push(['_setAccount', 'UA-46483429-1']);
+_gaq.push(['_trackEvent', '404', document.location.href, document.referrer]);
+_gaq.push(['_trackPageview']);
+				(function() {
+					var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					ga.src = ('https:' === document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+			<!-- End Jetpack Google Analytics -->
+</head>
+
+<body class="error404 wp-custom-logo rtcl-no-js tribe-no-js vmagazineprotg hover-effect-1 elements-paddings-hidden hfeed fullwidth_layout template-five tags-hidden author-hidden">
+
+
+
+	            <a class="skip-link screen-reader-text" href="#site-navigation">Skip to navigation</a>
+            <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+            
+    <div class="vmagazine-mobile-search-wrapper">
+        <div class="mob-search-form">
+                         <div class="img-overlay"></div>
+           
+            <div class="mob-srch-wrap">
+                <div class="nav-close">
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="mob-search-wrapp">
+                    
+<form method="get" class="search-form" action="https://santivachronicle.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" autocomplete="off" class="search-field" placeholder="Search ..." value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+
+</form>
+
+                    <div class="search-content"></div>
+                    <div class="block-loader" style="display:none;">
+                        <div class="sampleContainer">
+                            <div class="loader">
+                                <span class="dot dot_1"></span>
+                                <span class="dot dot_2"></span>
+                                <span class="dot dot_3"></span>
+                                <span class="dot dot_4"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="vmagazine-mobile-navigation-wrapper">
+ 
+    <div class="mobile-navigation">
+                    <div class="img-overlay"></div>
+        
+        <div class="vmag-opt-wrap">
+            <div class="nav-close">
+                <span></span>
+                <span></span>
+            </div>
+
+            <div class="icon-wrapper">
+                	    <ul class="social">
+	    			        <li>
+		        	<a href="https://www.facebook.com/santivachronicle" target="_blank">
+		        		<i class="fa fa-facebook"></i>
+		        	</a>
+		        </li>
+	        		        <li>
+		        	<a href="https://www.instagram.com/santivachronicle/" target="_blank">
+		        		<i class="fa fa-instagram"></i>
+		        	</a>
+		        </li>
+	        		        <li>
+		        	<a href="https://santivachronicle.com/newsletter-signups/" target="_blank">
+		        		<i class="fa fa-envelope"></i>
+		        	</a>
+		        </li>
+	        		</ul>									
+	                </div>
+            <div class="site-branding">                 
+                            <a href="https://santivachronicle.com/">
+                <img src="https://santivachronicle.com/wp-content/uploads/2022/08/SantivaChronicle.com-white-transparent-1.png" alt="">
+            </a>
+                        <div class="site-title-wrapper">
+                                            <p class="site-title"><a href="https://santivachronicle.com/" rel="home">Santiva Chronicle</a></p>
+                                            <p class="site-description">The Sanibel &amp; Captiva Daily News</p>
+                                    </div>
+            </div><!-- .site-branding -->
+            	<div class="vmagazine-nav-wrapper">
+		<div class="vmagazine-container">			
+			<nav class="main-navigation clearfix" >
+				<div class="nav-wrapper">
+					
+		                    <div class="index-icon">
+            <a href="https://santivachronicle.com/"><i class="fa fa-home"></i></a>
+        </div>
+    					<div class="menu-mmnu-container"><ul id="primary-menu" class="menu vmagazine_mega_menu"><li id="menu-item-1118" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1118 no-mega-menu"><a href="https://santivachronicle.com/news-category/sanibel-news/">Sanibel News</a>
+<ul class="sub-menu">
+	<li id="menu-item-1119" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1119 no-mega-menu"><a href="https://santivachronicle.com/news-category/sanibel-police-reports/">Sanibel Police Reports</a></li>
+	<li id="menu-item-6346" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-6346 no-mega-menu"><a href="https://santivachronicle.com/news-category/covid-19/">COVID-19</a></li>
+	<li id="menu-item-10865" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-10865 no-mega-menu"><a href="https://santivachronicle.com/news-category/election-2021/">Election 2021</a>
+	<ul class="sub-menu">
+		<li id="menu-item-10874" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-10874 no-mega-menu"><a href="https://santivachronicle.com/news-category/election-2021-op-ed/">Election 2021 Op-Ed</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6698" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-6698 no-mega-menu"><a href="https://santivachronicle.com/news-category/a-silent-sanibel/">A Silent Sanibel</a></li>
+</ul>
+</li>
+<li id="menu-item-1115" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1115 no-mega-menu"><a href="https://santivachronicle.com/news-category/captiva-news/">Captiva News</a></li>
+<li id="menu-item-1114" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1114 no-mega-menu"><a href="https://santivachronicle.com/news-category/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-2572" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-2572 no-mega-menu"><a href="https://santivachronicle.com/news-category/op-ed/">Op-Ed</a></li>
+	<li id="menu-item-2191" class="menu-item menu-item-type-custom menu-item-object-custom page_item page-item-2191 no-mega-menu"><a href="https://santivachronicle.com/events/">Community Calendar</a></li>
+	<li id="menu-item-2571" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-2571 no-mega-menu"><a href="https://santivachronicle.com/news-category/religion/">Religion</a></li>
+	<li id="menu-item-2705" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-2705 no-mega-menu"><a href="https://santivachronicle.com/news-category/obituaries/">Obituaries</a></li>
+</ul>
+</li>
+<li id="menu-item-1122" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1122 no-mega-menu"><a href="https://santivachronicle.com/news-category/outdoor/">Outdoor</a>
+<ul class="sub-menu">
+	<li id="menu-item-1258" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1258 no-mega-menu"><a href="https://santivachronicle.com/news-category/environment/">Environmental News</a></li>
+	<li id="menu-item-1117" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1117 no-mega-menu"><a href="https://santivachronicle.com/news-category/sweet-shots/">Sweet Shots by Kyle Sweet</a></li>
+</ul>
+</li>
+<li id="menu-item-1121" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1121 no-mega-menu"><a href="https://santivachronicle.com/news-category/arts-culture/">Arts-Culture</a>
+<ul class="sub-menu">
+	<li id="menu-item-1234" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1234 no-mega-menu"><a href="https://santivachronicle.com/news-category/reviews/">Reviews</a></li>
+	<li id="menu-item-4362" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-4362 no-mega-menu"><a href="https://santivachronicle.com/news-category/lifestyle/">Lifestyle</a></li>
+</ul>
+</li>
+<li id="menu-item-1120" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1120 no-mega-menu"><a href="https://santivachronicle.com/news-category/education/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-8063" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-8063 no-mega-menu"><a href="https://santivachronicle.com/news-category/crow-caws/">CROW CAW (Case A Week)</a></li>
+</ul>
+</li>
+<li id="menu-item-1123" class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1123 no-mega-menu"><a href="https://santivachronicle.com/news-category/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-17805" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-17805 no-mega-menu"><a href="https://santivachronicle.com/news-category/financial-news/">Financial News</a></li>
+	<li id="menu-item-1116" class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1116 no-mega-menu"><a href="https://santivachronicle.com/news-category/real-estate/">Real Estate</a></li>
+	<li id="menu-item-17999" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-17999 no-mega-menu"><a href="https://santivachronicle.com/listings/">Business Listings</a></li>
+</ul>
+</li>
+<li id="menu-item-1374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page_item page-item-1374 no-mega-menu"><a href="https://santivachronicle.com/contact/">Contact</a>
+<ul class="sub-menu">
+	<li id="menu-item-17808" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-17808 no-mega-menu"><a href="https://santivachronicle.com/contact/">Contact Us</a></li>
+	<li id="menu-item-1440" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-1440 no-mega-menu"><a href="https://santivachronicle.com/the-press-club/">Support Local Journalism</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-363 no-mega-menu"><a href="https://santivachronicle.com/sc-staff/">SC Staff</a></li>
+</ul>
+</li>
+</ul></div>				</div><!-- .nav-wrapper -->
+			</nav><!-- #site-navigation -->
+
+			
+		</div><!-- .vmagazine-container -->	
+	</div>
+	    
+        </div>
+    </div>
+</div>
+	 <div class="vmagazine-main-wrapper">
+		 
+		     <div class="vmagazine-mob-outer">
+        <div class="vmagazine-mobile-nav-wrapp">
+            <div class="mob-search-icon">
+                <span>
+                    <i class="fa fa-search" aria-hidden="true"></i>
+                </span>
+             </div>
+             <div class="vmagazine-logo">
+                            <a href="https://santivachronicle.com/">
+                <img src="https://santivachronicle.com/wp-content/uploads/2022/08/SantivaChronicle.com-white-transparent-1.png" alt="">
+            </a>
+                     </div>
+             <div class="nav-toggle">
+                <div class="toggle-wrap">
+                 <span></span>
+                </div>
+             </div>
+        </div>
+    </div>
+
+		 <div class="vmagazine-header-handle">
+		 		
+<header id="masthead" class="site-header header-layout1 logo-shown">
+
+	<div class="vmagazine-top-header menu-half">
+		<div class="vmagazine-container">
+			
+			<div class="top-men-wrap">
+				
+				<div class="top-menu">
+					<div class="top-men-wrapp"><ul id="top-menu" class="menu vmagazine_mega_menu"><li id="menu-item-1373" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-1373 no-mega-menu"><a href="https://santivachronicle.com/contact/">Contact Us</a></li>
+<li id="menu-item-1423" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-1423 no-mega-menu"><a href="https://santivachronicle.com/sc-staff/">SC Staff</a></li>
+</ul></div>				</div>
+				
+				
+			</div>
+						<div class="top-right">
+									<div class="top-left">
+							    <ul class="social">
+	    			        <li>
+		        	<a href="https://www.facebook.com/santivachronicle" target="_blank">
+		        		<i class="fa fa-facebook"></i>
+		        	</a>
+		        </li>
+	        		        <li>
+		        	<a href="https://www.instagram.com/santivachronicle/" target="_blank">
+		        		<i class="fa fa-instagram"></i>
+		        	</a>
+		        </li>
+	        		        <li>
+		        	<a href="https://santivachronicle.com/newsletter-signups/" target="_blank">
+		        		<i class="fa fa-envelope"></i>
+		        	</a>
+		        </li>
+	        		</ul>									
+	    					</div>
+													<div class="vmagazine-search-form-primary">
+<form method="get" class="search-form" action="https://santivachronicle.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" autocomplete="off" class="search-field" placeholder="Search ..." value="" name="s">
+	</label>
+	<input type="submit" class="search-submit" value="Search">
+
+</form>
+
+</div>
+					<div class="search-content"></div>
+					<div class="block-loader" style="display:none;">
+	            		<div class="sampleContainer">
+						    <div class="loader">
+						        <span class="dot dot_1"></span>
+						        <span class="dot dot_2"></span>
+						        <span class="dot dot_3"></span>
+						        <span class="dot dot_4"></span>
+						    </div>
+						</div>
+	        		</div>
+							</div>	
+				
+		</div>
+	</div><!-- .vmagazine-top-header -->
+	
+
+	<div class="logo-ad-wrapper">
+		<div class="vmagazine-container">
+			            <div class="site-branding">                 
+                <a href="https://santivachronicle.com/" class="custom-logo-link" rel="home"><img width="625" height="188" src="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2023/10/daily-masthead-7.png?fit=625%2C188&amp;ssl=1" class="custom-logo" alt="Santiva Chronicle" decoding="async" srcset="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2023/10/daily-masthead-7.png?w=625&amp;ssl=1 625w, https://i0.wp.com/santivachronicle.com/wp-content/uploads/2023/10/daily-masthead-7.png?resize=300%2C90&amp;ssl=1 300w" sizes="(max-width: 625px) 100vw, 625px" title="" data-attachment-id="30938" data-permalink="https://santivachronicle.com/daily-masthead-7/" data-orig-file="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2023/10/daily-masthead-7.png?fit=625%2C188&amp;ssl=1" data-orig-size="625,188" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="daily masthead (7)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2023/10/daily-masthead-7.png?fit=300%2C90&amp;ssl=1" data-large-file="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2023/10/daily-masthead-7.png?fit=625%2C188&amp;ssl=1" /></a>                <div class="site-title-wrapper">
+                                            <p class="site-title"><a href="https://santivachronicle.com/" rel="home">Santiva Chronicle</a></p>
+                                            <p class="site-description">The Sanibel &amp; Captiva Daily News</p>
+                                    </div>
+            </div>
+        						        	<div class="header-ad-wrapper">
+		        		<div id="metaslider_widget-14" class="widget widget_metaslider_widget"><div id="metaslider-id-2530" style="max-width: 400px; margin: 0 auto;" class="ml-slider-3-37-0 metaslider metaslider-flex metaslider-2530 ml-slider ms-theme-default nav-hidden" role="region" aria-roledescription="Slideshow" aria-label="Slideshow">
+    <div id="metaslider_container_2530">
+        <div id="metaslider_2530">
+            <ul aria-live="polite" class="slides">
+                <li style="display: block; width: 100%;" class="slide-6581 ms-image" aria-roledescription="slide" aria-label="slide-6581"><a href="https://santivachronicle.com/the-press-club/" target="_blank"><img width="750" height="225" src="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2022/08/daily-island-news-header-8.png?fit=750%2C225&amp;ssl=1" class="slider-2530 slide-6581" alt="" rel="" title="" decoding="async" srcset="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2022/08/daily-island-news-header-8.png?w=750&amp;ssl=1 750w, https://i0.wp.com/santivachronicle.com/wp-content/uploads/2022/08/daily-island-news-header-8.png?resize=300%2C90&amp;ssl=1 300w" sizes="(max-width: 750px) 100vw, 750px" data-attachment-id="21736" data-permalink="https://santivachronicle.com/daily-island-news-header-8/" data-orig-file="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2022/08/daily-island-news-header-8.png?fit=750%2C225&amp;ssl=1" data-orig-size="750,225" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="daily island news header (8)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2022/08/daily-island-news-header-8.png?fit=300%2C90&amp;ssl=1" data-large-file="https://i0.wp.com/santivachronicle.com/wp-content/uploads/2022/08/daily-island-news-header-8.png?fit=640%2C192&amp;ssl=1" /></a></li>
+            </ul>
+        </div>
+        
+    </div>
+</div></div>		            </div><!-- .header-ad-wrapper -->
+		            		</div><!-- .vmagazine-container -->
+	</div><!-- .logo-ad-wrapper -->
+    	<div class="vmagazine-nav-wrapper">
+		<div class="vmagazine-container">			
+			<nav id="site-navigation" class="main-navigation clearfix" >
+				<div class="nav-wrapper">
+					
+		                    <div class="index-icon">
+            <a href="https://santivachronicle.com/"><i class="fa fa-home"></i></a>
+        </div>
+    					<div class="menu-mmnu-container"><ul id="menu-primary" class="menu vmagazine_mega_menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1118 no-mega-menu"><a href="https://santivachronicle.com/news-category/sanibel-news/">Sanibel News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1119 no-mega-menu"><a href="https://santivachronicle.com/news-category/sanibel-police-reports/">Sanibel Police Reports</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-6346 no-mega-menu"><a href="https://santivachronicle.com/news-category/covid-19/">COVID-19</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-10865 no-mega-menu"><a href="https://santivachronicle.com/news-category/election-2021/">Election 2021</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-10874 no-mega-menu"><a href="https://santivachronicle.com/news-category/election-2021-op-ed/">Election 2021 Op-Ed</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-6698 no-mega-menu"><a href="https://santivachronicle.com/news-category/a-silent-sanibel/">A Silent Sanibel</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1115 no-mega-menu"><a href="https://santivachronicle.com/news-category/captiva-news/">Captiva News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1114 no-mega-menu"><a href="https://santivachronicle.com/news-category/community/">Community</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-2572 no-mega-menu"><a href="https://santivachronicle.com/news-category/op-ed/">Op-Ed</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom page_item page-item-2191 no-mega-menu"><a href="https://santivachronicle.com/events/">Community Calendar</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-2571 no-mega-menu"><a href="https://santivachronicle.com/news-category/religion/">Religion</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-2705 no-mega-menu"><a href="https://santivachronicle.com/news-category/obituaries/">Obituaries</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1122 no-mega-menu"><a href="https://santivachronicle.com/news-category/outdoor/">Outdoor</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1258 no-mega-menu"><a href="https://santivachronicle.com/news-category/environment/">Environmental News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1117 no-mega-menu"><a href="https://santivachronicle.com/news-category/sweet-shots/">Sweet Shots by Kyle Sweet</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1121 no-mega-menu"><a href="https://santivachronicle.com/news-category/arts-culture/">Arts-Culture</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1234 no-mega-menu"><a href="https://santivachronicle.com/news-category/reviews/">Reviews</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-4362 no-mega-menu"><a href="https://santivachronicle.com/news-category/lifestyle/">Lifestyle</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1120 no-mega-menu"><a href="https://santivachronicle.com/news-category/education/">Education</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-8063 no-mega-menu"><a href="https://santivachronicle.com/news-category/crow-caws/">CROW CAW (Case A Week)</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category menu-item-has-children page_item page-item-1123 no-mega-menu"><a href="https://santivachronicle.com/news-category/business/">Business</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-17805 no-mega-menu"><a href="https://santivachronicle.com/news-category/financial-news/">Financial News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-news-category page_item page-item-1116 no-mega-menu"><a href="https://santivachronicle.com/news-category/real-estate/">Real Estate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-17999 no-mega-menu"><a href="https://santivachronicle.com/listings/">Business Listings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children page_item page-item-1374 no-mega-menu"><a href="https://santivachronicle.com/contact/">Contact</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-17808 no-mega-menu"><a href="https://santivachronicle.com/contact/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-1440 no-mega-menu"><a href="https://santivachronicle.com/the-press-club/">Support Local Journalism</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-363 no-mega-menu"><a href="https://santivachronicle.com/sc-staff/">SC Staff</a></li>
+</ul>
+</li>
+</ul></div>				</div><!-- .nav-wrapper -->
+			</nav><!-- #site-navigation -->
+
+			
+		</div><!-- .vmagazine-container -->	
+	</div>
+	   
+    </header><!-- #masthead -->
+		</div>
+		
+		<div id="content" class="site-content">
+			
+				<div class="vmagazine-breadcrumb-wrapper ">
+				
+	<div class="vmagazine-bread-home">
+			<div class="vmagazine-bread-wrapp vmagazine-container">
+				
+					<div class="breadcrumb-title">
+											
+
+													<h1 class="page-title"> 404 Not Found </h1>
+											</div>
+					<div class="vmagazine-breadcrumb"><nav role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs"><ul class="trail-items"><li class="trail-item trail-begin"><a href="https://santivachronicle.com" rel="home"><span>Home</span></a></li><li class="trail-item trail-end current"><span>404 Not Found</span></li></ul></nav></div>			</div>
+		</div>
+
+			</div>	
+		
+	<div class="vmagazine-container">
+				
+		<main id="main" class="site-main" role="main">
+
+			<div class="error-404 not-found">
+				<div class="vmagazine-404">
+					<span>4</span>
+					<span class="zero">0</span>
+					<span>4</span>
+				</div>
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location.</p>
+				</div><!-- .page-content -->
+			</div><!-- .error-404 -->
+			
+
+		</main><!-- #main -->
+		
+			</div><!-- .vmagazine-container -->
+
+</div><!-- #content -->
+
+			
+		<footer id="colophon" class="site-footer footer-three">
+
+				<div class="buttom-footer footer_one">
+			<div class="footer-btm-wrap">
+			<div class="vmagazine-container">
+				<div class="vmagazine-btm-ftr">
+					<div class="footer-credit">
+	            						<div class="site-info">
+											SANTIVA CHRONICLE MEDIA, LLC ©2023	
+									</div><!-- .site-info -->				
+			            	</div>
+	            			            	<div class="footer-nav">
+		            	<nav class="footer-navigation">
+			        		<div class="menu-footer-menu-container"><ul id="footer-menu" class="menu vmagazine_mega_menu"><li id="menu-item-22060" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-22060 no-mega-menu"><a href="https://santivachronicle.com/contact/">Contact Us</a></li>
+<li id="menu-item-22061" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-22061 no-mega-menu"><a href="https://santivachronicle.com/newsletter-signups/">Weekly Email Subscriptions</a></li>
+<li id="menu-item-22062" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-22062 no-mega-menu"><a href="https://santivachronicle.com/the-press-club/">Support Local Journalism</a></li>
+<li id="menu-item-22064" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-22064 no-mega-menu"><a href="https://santivachronicle.com/sc-staff/">SC Staff</a></li>
+</ul></div>			        		</nav>
+		        		</div>
+		        	        		</div>
+            </div>
+		</div>
+</div>
+		
+			
+		</footer><!-- #colophon -->
+		
+	
+<a href="#" class="scrollup">
+	<i class="fa fa-angle-up" aria-hidden="true"></i>
+</a>
+</div><!-- .vmagazine-main-wrapper -->
+
+<!--  -->
+<style>
+			.sd-social-icon .sd-content ul li a.sd-button>span {
+				margin-left: 0;
+			}
+		</style><script defer id="bilmur" data-provider="wordpress.com" data-service="atomic"  src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202351"></script>
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script>		<script type="text/javascript">
+			var c = document.body.className;
+			c = c.replace(/rtcl-no-js/, 'rtcl-js');
+			document.body.className = c;
+		</script>
+		<link rel='stylesheet' id='all-css-a11b145aaf9cb440a98d90608062929c' href='https://santivachronicle.com/_jb_static/??-eJwrL9BNzs8rSc0r0S/IKU3PzCvWz83RLc7JTEkt0k8sLk4tKdaH8Ir103JSK6AyCKZecnGxTjkRpuSmliRCRQpKk3Iyk0E67XNtDc0sTQ1NLEwMDNWSk2wNAQhoNcY=' type='text/css' media='all' property='stylesheet' />
+<script type='text/javascript' src='https://santivachronicle.com/_jb_static/??-eJyFjrEOwjAMRP+GidQtQ4EB8S1NYiJXiRPimNK/pwMSiAXphrvTO+mWYlzmhtygRA3EAi5OInQj9CaSNOIAW4FN4IHscwWbc5NWp/JxnVX2EbtE3M2yX4ohdlE9Csyb7op1BSVwuf6HErJ+Qb//gm7RYg1glaIHn5OpOPkViD0+38trugzHfjj04+k87py9DC/Efld8'></script>
+<script type="text/javascript" src="https://santivachronicle.com/wp-content/plugins/gutenberg/build/a11y/index.min.js?ver=e877cd603c6fb8d5a4ad" id="wp-a11y-js"></script>
+<script type="text/javascript" id="jquery-ui-autocomplete-js-extra">
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type="text/javascript" id="rtcl-public-js-extra">
+/* <![CDATA[ */
+var rtcl = {"plugin_url":"https:\/\/santivachronicle.com\/wp-content\/plugins\/classified-listing","decimal_point":".","i18n_required_rating_text":"Please select a rating","i18n_decimal_error":"Please enter in decimal (.) format without thousand separators.","i18n_mon_decimal_error":"Please enter in monetary decimal (.) format without thousand separators and currency symbols.","is_rtl":"","is_admin":"","ajaxurl":"https:\/\/santivachronicle.com\/wp-admin\/admin-ajax.php","confirm_text":"Are you sure?","re_send_confirm_text":"Are you sure you want to re-send verification link?","__rtcl_wpnonce":"b55833266d","rtcl_listing_base":"","rtcl_category":"","rtcl_category_base":"listing-category","category_text":"Category","go_back":"Go back","location_text":"Location","rtcl_location":"","rtcl_location_base":"listing-location","user_login_alert_message":"Sorry, you need to login first.","upload_limit_alert_message":"Sorry, you have only %d images pending.","delete_label":"Delete Permanently","proceed_to_payment_btn_label":"Proceed to payment","finish_submission_btn_label":"Finish submission","phone_number_placeholder":"XXX","popup_search_widget_auto_form_submission":"1","loading":"Loading ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/santivachronicle.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="give-donation-summary-script-frontend-js-extra">
+/* <![CDATA[ */
+var GiveDonationSummaryData = {"currencyPrecisionLookup":{"USD":2,"EUR":2,"GBP":2,"AUD":2,"BRL":2,"CAD":2,"CZK":2,"DKK":2,"HKD":2,"HUF":2,"ILS":2,"JPY":0,"MYR":2,"MXN":2,"MAD":2,"NZD":2,"NOK":2,"PHP":2,"PLN":2,"SGD":2,"KRW":0,"ZAR":2,"SEK":2,"CHF":2,"TWD":2,"THB":2,"INR":2,"TRY":2,"IRR":2,"RUB":2,"AED":2,"AMD":2,"ANG":2,"ARS":2,"AWG":2,"BAM":2,"BDT":2,"BHD":3,"BMD":2,"BND":2,"BOB":2,"BSD":2,"BWP":2,"BZD":2,"CLP":0,"CNY":2,"COP":2,"CRC":2,"CUC":2,"CUP":2,"DOP":2,"EGP":2,"GIP":2,"GTQ":2,"HNL":2,"HRK":2,"IDR":2,"ISK":0,"JMD":2,"JOD":2,"KES":2,"KWD":2,"KYD":2,"MKD":2,"NPR":2,"OMR":3,"PEN":2,"PKR":2,"RON":2,"SAR":2,"SZL":2,"TOP":2,"TZS":2,"UAH":2,"UYU":2,"VEF":2,"XCD":2,"AFN":2,"ALL":2,"AOA":2,"AZN":2,"BBD":2,"BGN":2,"BIF":0,"XBT":8,"BTN":1,"BYR":2,"BYN":2,"CDF":2,"CVE":2,"DJF":0,"DZD":2,"ERN":2,"ETB":2,"FJD":2,"FKP":2,"GEL":2,"GGP":2,"GHS":2,"GMD":2,"GNF":0,"GYD":2,"HTG":2,"IMP":2,"IQD":2,"IRT":2,"JEP":2,"KGS":2,"KHR":0,"KMF":2,"KPW":0,"KZT":2,"LAK":0,"LBP":2,"LKR":0,"LRD":2,"LSL":2,"LYD":3,"MDL":2,"MGA":0,"MMK":2,"MNT":2,"MOP":2,"MRO":2,"MUR":2,"MVR":1,"MWK":2,"MZN":0,"NAD":2,"NGN":2,"NIO":2,"PAB":2,"PGK":2,"PRB":2,"PYG":2,"QAR":2,"RSD":2,"RWF":2,"SBD":2,"SCR":2,"SDG":2,"SHP":2,"SLL":2,"SOS":2,"SRD":2,"SSP":2,"STD":2,"SYP":2,"TJS":2,"TMT":2,"TND":3,"TTD":2,"UGX":2,"UZS":2,"VND":1,"VUV":0,"WST":2,"XAF":2,"XOF":2,"XPF":2,"YER":2,"ZMW":2},"recurringLabelLookup":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" id="vmagazine-custom-script-js-extra">
+/* <![CDATA[ */
+var vmagazine_ajax_script = {"mode":"enable","ajax_search":"show","ajaxurl":"https:\/\/santivachronicle.com\/wp-admin\/admin-ajax.php","fileUrl":"https:\/\/santivachronicle.com\/wp-content\/themes\/vmagazine","lazy":"enable","controls":"1","rtl":"false","preloader":"hide","stickyHeader":"hide"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://santivachronicle.com/_jb_static/??-eJyVU1tu2zAQvE2/smbcuPBX0I9eIEAOUFDkSl6br5BLKfLpu1YiJzCS2gIESRxyZmcfHBJQMK5aLGovz0vFPKpKSleOJvrkkHHlKaz25W5IYGJgDKySqx2FoozTpVBLaMFRYQqdEgB5UstsHKTaODL/kdgjJ20O8/dvj8HGPBnwmpnMvAPkdYdgbFBWYqnz8jtvstaGoY3Zw1ad8yxDf3JHweLrQuoVWkc9zvlPFvdvGNgYNFMMUKr3Oo8XfN6hF/VeEtJHCmcNR02W08rp4wguavveoNUJ+KKk13T8n1qkqs8mR+canWe5S/yb9EqEgWwnitDUYB2e8hPtWaYl7smWBcaEH3RP3VSc2znlQEnmLRykQaYWaOmyI1crSt2OiyOL+fP/7RaGOCwMmTIyj0+7yPHjqq0+obcHpzZrj6ATLfQg+6RB7qk5jFAk49MQfAUu1JXqyQ2e3su6f8bATCMozN/+cb29X/962Py83/wwzeP6H7Zrxvs='></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdW_rcUAAAAADxGLXeHBTvtyE1o1S_5dEAklSON&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdW_rcUAAAAADxGLXeHBTvtyE1o1S_5dEAklSON","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://santivachronicle.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?m=1701534225'></script>
+<script defer type="text/javascript" src="https://stats.wp.com/e-202351.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'147205321',post:'0',tz:'-5',srv:'santivachronicle.com',hp:'atomic',ac:'2',amp:'0',j:'1:13.0-a.7'} ]);
+_stq.push([ "clickTrackerInit", "147205321", "0" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://santivachronicle.com/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.37.0" id="metaslider-flex-slider-js"></script>
+<script type="text/javascript" id="metaslider-flex-slider-js-after">
+/* <![CDATA[ */
+var metaslider_2530 = function($) {$('#metaslider_2530').addClass('flexslider');
+            $('#metaslider_2530').flexslider({ 
+                slideshowSpeed:5400,
+                animation:"fade",
+                controlNav:false,
+                directionNav:false,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                keyboard:false,
+                animationSpeed:600,
+                prevText:"Previous",
+                nextText:"Next",
+                smoothHeight:false,
+                fadeFirstSlide:true,
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_2530');
+        };
+        var timer_metaslider_2530 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_2530, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_2530, 1) : metaslider_2530(window.jQuery);
+        };
+        timer_metaslider_2530();
+/* ]]> */
+</script>
+
+</body>
+</html>

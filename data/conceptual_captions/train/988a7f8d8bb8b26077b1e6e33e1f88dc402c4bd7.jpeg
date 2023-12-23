@@ -1,0 +1,172 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Ffion Atkinson Web Design & Development">
+    <title>Page Not Found | Alison Grant Architect</title>
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/static/aga/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/static/aga/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/static/aga/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/aga/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/aga/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/aga/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/aga/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/aga/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/aga/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/static/aga/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/aga/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/static/aga/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/aga/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/static/aga/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/static/aga/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link href="https://fonts.googleapis.com/css?family=Gothic+A1:400,700|Istok+Web:400,400i,700" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="/static/aga/slick/slick.css"/>
+    <link rel="stylesheet" type="text/css" href="/static/aga/slick/slick-theme.css"/>
+
+    <link href="/static/aga/styles.css" rel="stylesheet">
+</head>
+<body>
+    <div id="content">
+        <header>
+            <div class="logo-container">
+                <a href="/" class="logo">
+                    <img src="/static/aga/images/Alison%20Grant%20architect%20logo.jpg">
+                </a>
+            </div>
+
+            <div class="toggleMenu"><img src="/static/aga/images/menu.png"></div>
+
+            <nav id="menucontent">
+                <div class="navItem cl-effect-3">
+                    <a href="/about" class="">about</a>
+                </div>
+                <div class="navItem cl-effect-3">
+                    <a href="/services" class="">services</a>
+                </div>
+                <div class="navItem cl-effect-3">
+                    <a href="/need-more-space" class="">need more space?</a>
+                </div>
+                <div class="navItem cl-effect-3">
+                    <a href="/testimonials" class="">testimonials</a>
+                </div>
+                <div class="navItem cl-effect-3">
+                    <a href="/gallery" class="">gallery</a>
+                </div>
+                <div class="navItem cl-effect-3 last">
+                    <a href="/contact" class="">contact</a>
+                </div>
+                <div class="clear"></div>
+            </nav>
+            <div class="clear"></div>
+        </header>
+
+        <div class="page">
+            <h3>Page Not Found</h3>
+            <p>There is nothing here, please double check the URL and try again, or use the navigation menu above.</p>
+        </div>
+
+        <footer>
+            <div class="column oneQuarter companyDetails">
+                <h5>Alison Grant Architects Ltd</h5>
+                <p>
+                    5 Northfield <br />
+                    Heptonstall <br />
+                    Hebden Bridge <br />
+                    West Yorkshire <br />HX7 7NW
+                </p>
+                <p>
+                     Company registration No. 4282376
+                 </p>
+            </div>
+
+            <div class="column threeQuarters right last">
+                <div class="social">
+                    <a href="https://www.facebook.com/alisongrantarchitect" target="_blank"><img src="/static/aga/images/fb.png" alt="Facebook Icon"></a>
+                    <a href="http://uk.linkedin.com/pub/alison-grant/24/501/5aa" target="_blank" class="last"><img src="/static/aga/images/in.png" alt="LinkedIn Icon"></a>
+                </div>
+
+                <div class="logos">
+                    <a href="http://www.architects-register.org.uk/architect/058680C" target="_blank"><img src="/static/aga/images/arb-logo-bl.png" alt="Architects Register"></a>
+                    <a href="http://www.greenregister.org.uk/" target="_blank"><img src="/static/aga/images/green-register.png" alt="Green Register"></a>
+                    <a href="https://www.labc.co.uk/labc-building-excellence-awards" target="_blank" class="last"><img src="/static/aga/images/labc_award_winner.png" alt="LABC Award Winner"></a>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </footer>
+    </div>
+    
+    <script>
+    $(function() {
+        var windowWidth = $(window).width();
+        var menucontent = $('#menucontent');
+
+        if (windowWidth < 800) {
+            if(! menucontent.hasClass('visuallyhidden')) {
+                    menucontent.addClass('visuallyhidden');
+            }
+            else {
+               if(menucontent.hasClass('visuallyhidden')) {
+                    menucontent.removeClass('visuallyhidden');
+                }
+            }
+        }
+
+        $(window).bind("resize",function(e){
+            var newWidth = $(window).width();
+
+            if (newWidth != windowWidth){
+                if (newWidth < 800) {
+                    if(! menucontent.hasClass('visuallyhidden')) {
+                        menucontent.addClass('visuallyhidden');
+                    }
+                }
+                else {
+                   if(menucontent.hasClass('visuallyhidden')) {
+                        menucontent.removeClass('visuallyhidden');
+                    }
+                }
+                windowWidth = $(window).width();
+            }
+        });
+    });
+
+    $(function() {
+        $('.toggleMenu').click(function(){
+            $('#menucontent').toggleClass('visuallyhidden');
+        });
+    });
+    </script>
+
+    <script>
+        $(window).on('load', function() {
+            $('img').addClass(function() {
+                if (this.height === this.width) {
+                    return 'square';
+                } else if (this.height > this.width) {
+                    return 'portrait';
+                } else {
+                    return 'landscape';
+                }
+            });
+        });
+    </script>
+
+    <script type="text/javascript" src="/static/aga/slick/slick.min.js"></script>
+
+    
+    
+
+</body>
+</html>

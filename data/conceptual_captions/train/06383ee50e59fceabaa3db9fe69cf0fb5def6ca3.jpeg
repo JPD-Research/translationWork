@@ -1,0 +1,417 @@
+
+<!DOCTYPE html>
+
+<html lang="en-CA">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+				
+			<meta name="isrefnum" content="3-94">
+	
+	<link rel="alternate" href="https://www.compassion.com" hreflang="en-us" />
+	<link rel="alternate" href="https://www.compassionuk.org" hreflang="en-gb" />
+	<link rel="alternate" href="https://www.compassion.com.au" hreflang="en-au" />
+	<link rel="alternate" href="https://www.compassion.ca" hreflang="en-ca" />
+	<link rel="alternate" href="https://www.compassion.ie" hreflang="en-ie" />
+	<link rel="alternate" href="https://www.compassion.com" hreflang="x-default" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+
+	<link rel="icon" type="image/x-icon" href="https://www.compassion.ca/wp-content/themes/ca/images/favicon.ico" />
+	<link rel="apple-touch-icon" type="image/png" href="https://www.compassion.ca/wp-content/themes/ca/images/apple-touch-icon.png" />
+	<link rel="preload" as="font" type="font/woff2" href="https://www.compassion.ca/wp-content/themes/ca/styling/global/google-fonts.css" crossorigin />
+
+	<title>Page not found - Compassion Canada</title>
+		<link rel="pingback" href="https://www.compassion.ca/xmlrpc.php" />
+
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v18.7 (Yoast SEO v20.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page not found - Compassion Canada</title>
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - Compassion Canada" />
+	<meta property="og:site_name" content="Compassion Canada" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.compassion.ca/#website","url":"https://www.compassion.ca/","name":"Compassion Canada","description":"Releasing Children from Poverty in Jesus&#039; Name","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.compassion.ca/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-CA"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//compcan-res.cloudinary.com' />
+<link rel='preconnect' href='https://compcan-res.cloudinary.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.compassion.ca\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='fontawesome-css-css' href='https://www.compassion.ca/wp-content/themes/ca/css/__legacy/fonts/font-awesome/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='monaco-css-css' href='https://www.compassion.ca/wp-content/themes/ca/style.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.compassion.ca/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='my_account_country_content_item_block_frontend_style-css' href='https://www.compassion.ca/wp-content/plugins/cc-my-account/lib/blocks/country-content-item/style.css?ver=9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.compassion.ca/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='ca-global-css' href='https://www.compassion.ca/wp-content/themes/ca/css/__legacy/ugly.css?ver=1.14' type='text/css' media='screen' />
+<script type='text/javascript' src='https://www.compassion.ca/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/themes/ca/js/form-tools-min.js?ver=1.0' id='monaco-form-tools-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/plugins/cc_lib/lib/../js/hotjar.js?ver=6.2.2' id='js_hotjar_triggers-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/plugins/cc_lib/js/vendor/moment.min.js?ver=6.2.2' id='ccapi_js_vendor_moment-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/plugins/cc_lib/js/check-sponsorship-reservation.js?ver=1.0' id='ccapi_js_check_child_reservation-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/themes/ca/js/share-popup.js?ver=6.2.2' id='share-popup-js'></script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/themes/ca/bootstrap/js/bootstrap.min.js?ver=6.2.2' id='twitter-bootstrap-script-js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.compassion.ca/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.compassion.ca/wp-includes/wlwmanifest.xml" />
+    <!-- Hotjar Tracking Code for compassion.ca -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1372403,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+		<style type="text/css" id="wp-custom-css">
+			/* Hungercalling Page */
+footer div#tdwIcplyYk div#tdwIcplyYk_inpost_container div#tdwIcplyYk_inpost input::placeholder {
+    color: #415462 !important;
+}		</style>
+		</head>
+<body class="error404  article">
+	
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4VN2J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W4VN2J');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Optimize -->
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-P8CNLJ9"></script>
+<!-- END Google Optimize -->
+
+		
+<div id="notification-sponsorship-reservation" class="hidden alert alert-warning alert-push-top p-fixed">
+    <div class="inner">
+		<span>Your session will time out at <strong data-object="expiry-time">[00:00]</strong>. If you would like to sponsor <strong data-object="child-names">[Child Name]</strong>, please complete your transaction as soon as possible.</span>
+		<span class="hidden">Unfortunately your session timed out at <strong data-object="expiry-time">[00:00]</strong> and since that time <strong data-object="sponsored-child-names">[Child Name]</strong> was sponsored by another person. Please visit the <a href="/sponsor-a-child">Sponsor a Child</a> page to find another child.</span>
+	</div>
+    <a class="close" data-object="close">
+        <span class="screen-reader">Close</span>
+        <svg class="icon" width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g transform="translate(-373.000000, -2290.000000)" fill="#1A1718">
+                    <g transform="translate(373.000000, 2290.000000)">
+                        <path d="M33.414,3.414 L30.586,0.586 L17.151,14.021 L3.716,0.586 L0.888,3.414 L14.323,16.849 L0.888,30.284 L3.716,33.112 L17.151,19.677 L30.586,33.112 L33.414,30.284 L19.979,16.849 L33.414,3.414" class="icon-fill"></path>
+                    </g>
+                </g>
+            </g>
+        </svg>
+    </a>
+</div>
+    <header id="header" role="banner" class="">
+        <div class="inner">
+                            <a class="logo" href="https://www.compassion.ca/" title="Compassion Canada" rel="home"><img src="https://www.compassion.ca/wp-content/themes/ca/images/logos/png/logo-blue.png" srcset="https://www.compassion.ca/wp-content/themes/ca/images/logos/png/logo-blue.png,
+                https://www.compassion.ca/wp-content/themes/ca/images/logos/png/logo-blue@2x.png 2x,
+                https://www.compassion.ca/wp-content/themes/ca/images/logos/png/logo-blue@3x.png 3x" alt="logo" /></a>
+                        <nav class="primary">
+                    <a class="close">
+                        <span class="screen-reader">Close</span>
+                        <svg class="icon" width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                                <g transform="translate(-373.000000, -2290.000000)" fill="#1A1718">
+                                    <g transform="translate(373.000000, 2290.000000)">
+                                        <path d="M33.414,3.414 L30.586,0.586 L17.151,14.021 L3.716,0.586 L0.888,3.414 L14.323,16.849 L0.888,30.284 L3.716,33.112 L17.151,19.677 L30.586,33.112 L33.414,30.284 L19.979,16.849 L33.414,3.414" class="icon-fill"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                    <div class="menu-primary-container"><ul id="menu-primary" class="menu"><li id="menu-item-6407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6407"><a href="https://www.compassion.ca/sponsor-a-child/">Sponsor a child</a></li>
+<li id="menu-item-6405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6405"><a href="https://www.compassion.ca/make-a-donation/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-6581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6581"><a href="https://www.compassion.ca/make-a-donation/">Make a donation</a></li>
+	<li id="menu-item-21890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21890"><a href="https://www.compassion.ca/gifts-for-your-child/">Give to your child</a></li>
+	<li id="menu-item-13708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13708"><a href="/shop/csp/">Help moms and babies</a></li>
+	<li id="menu-item-13706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13706"><a href="https://www.compassion.ca/planned-giving/">Leaving a legacy</a></li>
+	<li id="menu-item-15558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15558"><a href="https://www.compassion.ca/christmas-gift-fund/">Christmas gift fund</a></li>
+	<li id="menu-item-15759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15759"><a href="https://www.compassion.ca/shop/">Gifts of Compassion</a></li>
+</ul>
+</li>
+<li id="menu-item-11266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11266"><a href="https://www.compassion.ca/write/">Write</a></li>
+<li id="menu-item-9414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9414"><a href="https://www.compassion.ca/get-involved/">Get involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-9412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9412"><a href="https://www.compassion.ca/volunteer/">Volunteer with Compassion</a></li>
+	<li id="menu-item-29686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29686"><a href="https://www.compassion.ca/fundraise/">Fundraise with Compassion</a></li>
+	<li id="menu-item-16310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16310"><a href="https://www.compassion.ca/visit/">Visit your Compassion child</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16288"><a href="https://www.compassion.ca/visit/why/">Why travel with Compassion</a></li>
+		<li id="menu-item-36064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36064"><a href="https://www.compassion.ca/virtual-connections/">Virtual Connections</a></li>
+		<li id="menu-item-16287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16287"><a href="https://www.compassion.ca/visit/group-trips/">Group trips</a></li>
+		<li id="menu-item-16286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16286"><a href="https://www.compassion.ca/visit/custom-visits/">Visits</a></li>
+	</ul>
+</li>
+	<li id="menu-item-16320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16320"><a href="https://www.compassion.ca/ambassadors/">Ambassadors</a></li>
+	<li id="menu-item-16319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16319"><a href="http://sharingcompassion.ca">Sharing Compassion</a></li>
+	<li id="menu-item-26157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26157"><a href="https://www.compassion.ca/business-partnership/">Business partnership</a></li>
+	<li id="menu-item-14108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14108"><a href="https://www.compassion.ca/partner-in-prayer/">Partner in prayer</a></li>
+	<li id="menu-item-6406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6406"><a href="https://www.compassion.ca/resources/">Resources</a></li>
+	<li id="menu-item-36538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36538"><a href="https://www.compassion.ca/church/">Churches</a>
+	<ul class="sub-menu">
+		<li id="menu-item-36536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36536"><a href="https://www.compassion.ca/church/">Church partnership</a></li>
+		<li id="menu-item-36537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36537"><a href="https://www.compassion.ca/church-resources/">Church resources</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-6400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6400"><a href="https://www.compassion.ca/about/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-6412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6412"><a href="https://www.compassion.ca/about/">About Compassion</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6408"><a href="https://www.compassion.ca/about/statement-of-faith/">Statement of faith</a></li>
+		<li id="menu-item-16530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16530"><a href="https://www.compassion.ca/about/our-history/">History</a></li>
+		<li id="menu-item-6409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6409"><a href="https://www.compassion.ca/about/gospel-and-poverty/">Jesus and poverty</a></li>
+		<li id="menu-item-16529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16529"><a href="https://www.compassion.ca/about/why-the-church-matters/">Why the Church matters</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7555"><a href="https://www.compassion.ca/holistic-child-development/">How does </br> Compassion work?</a></li>
+	<li id="menu-item-6402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6402"><a href="https://www.compassion.ca/finances/">Financial integrity</a></li>
+	<li id="menu-item-25672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25672"><a href="https://www.compassion.ca/annual-report/">Impact Report</a></li>
+	<li id="menu-item-6404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6404"><a href="https://www.compassion.ca/leadership/">Leadership</a></li>
+	<li id="menu-item-6414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6414"><a href="https://www.compassion.ca/employment-opportunities/">Work at Compassion</a></li>
+	<li id="menu-item-6579" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-6579"><a href="https://www.compassion.ca/blog/">Blog</a></li>
+</ul>
+</li>
+<li id="menu-item-6401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6401"><a href="https://www.compassion.ca/contact/">Contact</a></li>
+</ul></div>                <div class="nav-group">
+                    <a class="nav-control btn" rel="nofollow"><span class="fa fa-bars"></span> Menu</a>
+                                           <a href="https://my.compassion.ca" target="_blank" class="my-compassion btn" rel="nofollow">My Compassion</a>
+                                        <a href="#" class="search fa fa-search" rel="nofollow"><span class="screen-reader">Search</span></a>
+                    <a href="/basket/" class="cart icon-basket" rel="nofollow">
+						<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+						    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+						        <g fill="#FFFFFF" fill-rule="nonzero">
+						            <path d="M8,0 C5.794,0 4,1.794 4,4 L4,5 L1.00691302,4.99000751 C0.010916186,4.93378188 -0.0325670555,5.67384172 0.0481451239,6.00659606 L2,15 C2.13839722,15.7160339 2.45812988,15.9980621 3.01,16 L13.01,16 C13.563,16 13.9266591,15.5820324 14.0520241,15.0216358 L15.9960666,5.99534471 C16.1098549,5.63061816 15.8698756,4.94099755 15.0155768,5 L12,5 L12,4 C12,1.794 10.206,0 8,0 Z M6,4 C6,2.897 6.897,2 8,2 C9.103,2 10,2.897 10,4 L10,5 L6,5 L6,4 Z"></path>
+						        </g>
+						    </g>
+						</svg>
+						<span class="screen-reader">Basket</span><span data-element="cart-item-count" class="count">0</span>
+					</a>
+                </div>
+            </nav>
+            
+            <div class="clearfix"></div>
+        </div>
+        <div class="search-widget">
+            <form role="search" method="get" id="searchform" action="https://www.compassion.ca">
+	<div class="searchbox-frame">
+		<input class="searchbox" type="text" value="" title="search" placeholder="Search..." name="s" id="s">
+        <button class="icon-search" onclick="document.forms['searchform'].submit()">Go</button>
+	</div>
+</form>        </div>
+    </header>
+
+    <div class="main-content">
+		<div class="inner">
+
+			<div id="article-head">
+				<div class="article-head-inner">
+					<h1 class="page-title">404. Page is not available.</h1>
+					<div class="subtitle">Sorry, it seems the page you're looking for doesn't exist.</div>
+					<div class="meta-block">
+											</div>
+					<div class="share-meta-block">
+											</div>
+				</div>
+			</div>
+
+			<div id="article-content">
+				<div class="content" role="main">
+					<div class="inner">
+						<p>This could mean one of two things:</p>
+						<ul>
+							<li>The link that brought you here is old and out-of-date, either because the page moved or because it doesn't exist anymore. (Sorry about that!)</li>
+							<li>There may have been a typo in the URL.</li>
+						</ul>
+						<p>Please use the search tool to find what you're looking for, or navigate our site using the menu above.</p>
+						<p>	<form class="" action="https://www.compassion.ca" method="get">
+				<div class="input-append">
+			<input class="span2" id="NO_ID" name="s" size="16" type="text"><button class="btn " type="button">Search</button>
+		</div>
+	</form>
+	</p>
+						<p>If you still  can't find what you're looking for, or just need an extra hand, please email our office at <a href="info@compassion.ca">info@compassion.ca</a> or call our office using the contact information at the bottom of the page.</p>
+					</div>
+				<div class="clear">&nbsp;</div>
+				</div><!-- #content -->
+			</div>
+			<div class="clear"></div>
+		</div><!-- inner -->
+		
+
+        </div><!-- .main-content -->
+
+		<footer id="footer">
+			<div class="content">
+                <nav class="secondary">
+                    <div class="menu-secondary-container"><ul id="grid" data-columns><li id="menu-item-6432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6432"><a href="https://www.compassion.ca/sponsor-a-child/">Sponsor a Child</a></li>
+<li id="menu-item-6424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6424"><a href="https://www.compassion.ca/make-a-donation/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-13710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13710"><a href="https://www.compassion.ca/make-a-donation/">Make a donation</a></li>
+	<li id="menu-item-21889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21889"><a href="https://www.compassion.ca/gifts-for-your-child/">Give to your child</a></li>
+	<li id="menu-item-13709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13709"><a href="https://www.compassion.ca/shop/csp">Help moms and babies</a></li>
+	<li id="menu-item-7222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7222"><a href="https://www.compassion.ca/planned-giving/">Leaving a legacy</a></li>
+	<li id="menu-item-15760" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15760"><a href="https://www.compassion.ca/shop/">Gifts of Compassion</a></li>
+</ul>
+</li>
+<li id="menu-item-9416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9416"><a href="https://www.compassion.ca/get-involved/">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-9415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9415"><a href="https://www.compassion.ca/volunteer/">Volunteer with Compassion</a></li>
+	<li id="menu-item-16308" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16308"><a href="https://www.compassion.ca/visit/">Visit your Compassion child</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16305"><a href="https://www.compassion.ca/visit/why/">Why travel with Compassion</a></li>
+		<li id="menu-item-36059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36059"><a href="https://www.compassion.ca/virtual-connections/">Virtual Connections</a></li>
+		<li id="menu-item-16304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16304"><a href="https://www.compassion.ca/visit/group-trips/">Group trips</a></li>
+		<li id="menu-item-16303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16303"><a href="https://www.compassion.ca/visit/custom-visits/">Visits</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6431"><a href="https://www.compassion.ca/christmas-gift-fund/">Christmas gift fund</a></li>
+	<li id="menu-item-6416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6416"><a href="https://www.compassion.ca/ambassadors/">Ambassadors</a></li>
+	<li id="menu-item-9418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9418"><a href="/prayer">Partner in prayer</a></li>
+	<li id="menu-item-6427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6427"><a href="https://www.compassion.ca/resources/">Resources</a></li>
+	<li id="menu-item-25254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25254"><a href="https://www.compassion.ca/business-partnership/">Business partnership</a></li>
+	<li id="menu-item-36352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36352"><a href="https://www.compassion.ca/church-resources/">Church Partnerships</a></li>
+</ul>
+</li>
+<li id="menu-item-6415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6415"><a href="https://www.compassion.ca/about/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-6430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6430"><a href="https://www.compassion.ca/about/">About Compassion</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6433"><a href="https://www.compassion.ca/about/statement-of-faith/">Statement of faith</a></li>
+		<li id="menu-item-6421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6421"><a href="https://www.compassion.ca/about/our-history/">History</a></li>
+		<li id="menu-item-6434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6434"><a href="https://www.compassion.ca/about/gospel-and-poverty/">Jesus and poverty</a></li>
+		<li id="menu-item-6438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6438"><a href="https://www.compassion.ca/about/why-the-church-matters/">Why the Church matters</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7554"><a href="https://www.compassion.ca/holistic-child-development/">How does </br> Compassion work?</a></li>
+	<li id="menu-item-6418" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6418"><a href="https://www.compassion.ca/finances/">Financial integrity &#038; Annual Report</a></li>
+	<li id="menu-item-6423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6423"><a href="https://www.compassion.ca/leadership/">Leadership</a></li>
+	<li id="menu-item-6439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6439"><a href="https://www.compassion.ca/employment-opportunities/">Work at Compassion</a></li>
+</ul>
+</li>
+<li id="menu-item-6443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6443"><a href="https://my.compassion.ca">My Sponsorship</a>
+<ul class="sub-menu">
+	<li id="menu-item-6442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6442"><a href="https://my.compassion.ca">My Compassion</a></li>
+	<li id="menu-item-6435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6435"><a href="https://www.compassion.ca/update-your-information/">Update your information</a></li>
+	<li id="menu-item-6440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6440"><a href="https://www.compassion.ca/write/">Write to your sponsored child</a></li>
+	<li id="menu-item-6428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6428"><a href="https://www.compassion.ca/gifts-for-your-child/">Send a gift</a></li>
+</ul>
+</li>
+<li id="menu-item-6582" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-6582"><a href="https://www.compassion.ca/blog/">Blog</a></li>
+</ul></div>				</nav>
+
+                <article class="span3">
+                    <a class="title-link" href="/contact">Contact Us</a>
+                    <ul class="contact-card">
+                        <li><span class="fa fa-map-marker"><span class="screen-reader">Location:</span></span> <a href="https://goo.gl/maps/Oal7W" target="_blank">Compassion Canada,</br>PO BOX 5591 STN B, </br> London, ON </br> N6A 5G8</a></li>
+                        <li><span class="fa fa-phone"><span class="screen-reader">Phone Number:</span></span> 519-668-0224 <span>1-800-563-5437</span></li>
+                        <li>
+                            <span class="fa fa-envelope"><span class="screen-reader">Email:</span></span> <a href="mailto:info@compassion.ca">info@compassion.ca</a> <br />
+                        </li>
+                    </ul>
+
+                    <div class="social-icons">
+                        <a href="https://facebook.com/compassionCA" class="fa fa-facebook" target="_blank"><span class="screen-reader">facebook</span></a>
+                        <a href="https://www.instagram.com/compassionca/" class="fa fa-instagram" target="_blank"><span class="screen-reader">Instagram</span></a>
+                        <a href="https://twitter.com/compassionCA" class="fa fa-twitter" target="_blank"><span class="screen-reader">twitter</span></a>
+                        <a href="https://www.youtube.com/user/CompassionCAD" class="fa fa-youtube" target="_blank"><span class="screen-reader">youtube</span></a>
+                    </div>
+
+                    <nav class="tertiary"> <div class="menu-tertiary-container"><ul id="menu-tertiary" class="menu"><li id="menu-item-11059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11059"><a href="https://compassion.ca/faq">FAQs</a></li>
+<li id="menu-item-6450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6450"><a href="https://www.compassion.ca/be-informed/terms/">Terms</a></li>
+<li id="menu-item-6449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6449"><a rel="privacy-policy" href="https://www.compassion.ca/be-informed/privacy/">Privacy</a></li>
+<li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="https://www.compassion.ca/be-informed/child-protection-policy/">Child protection policy</a></li>
+<li id="menu-item-6445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6445"><a href="https://www.compassion.ca/be-informed/accessibility-statement/">Customer Service Accessibility Statement</a></li>
+</ul></div></nav>
+
+					<div class="dropdown dir-up">
+						Not a Canadian supporter?
+						<ul>
+							<li><a href="https://www.compassion.com.au/" target="_blank">Australia</a></li>
+							<li><a href="https://www.compassion-de.org/" target="_blank">Deutschland</a></li>
+							<li><a href="https://www.selfrance.org/" target="_blank">France</a></li>
+							<li><a href="https://www.compassion.ie/" target="_blank">Ireland</a></li>
+							<li><a href="https://www.compassion.it/" target="_blank">Italy</a></li>
+							<li><a href="https://www.compassion.nl/" target="_blank">Netherlands</a></li>
+							<li><a href="https://www.tearfund.org.nz/" target="_blank">New Zealand</a></li>
+							<li><a href="https://www.compassion.no/" target="_blank">Norway</a></li>
+							<li><a href="https://www.compassion.or.kr/" target="_blank">South Korea</a></li>
+							<li><a href="https://www.compassion.es/" target="_blank">Spain</a></li>
+							<li><a href="https://www.compassion.se/" target="_blank">Sweden</a></li>
+							<li><a href="https://www.compassion.ch/" target="_blank">Switzerland</a></li>
+							<li><a href="https://www.compassionuk.org/" target="_blank">United Kingdom</a></li>
+							<li><a href="https://www.compassion.com/" target="_blank">United States</a></li>
+						</ul>
+					</div>
+                </article>
+                <div id="footer-trailer">
+                    <ul>
+                        <li>
+                            <a href="http://giveconfidently.ca/certified-member/compassion-canada/?ref=sa&al=C" target="_blank">
+                                <img loading="lazy" src="https://webcdn-compassion-ca.s3.amazonaws.com/_2/svg/CCCC-seal-white.svg" alt="Canadian Council of Christian Charities Seal" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://sealserver.trustwave.com/cert.php?customerId=x4izAYufDVRIpWY5am9FGViTOTLVM8&size=105x54&style=invert" target="_blank">
+                                <img loading="lazy" src="https://www.compassion.ca/wp-content/themes/ca/images/footer-a-trustwave.png" alt="Trustwave Eccomerce Seal" />
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+				<div class="copyright">
+					&copy; 2002 - 2023 Compassion Canada. All rights reserved. Compassion is a registered trademark of Compassion International Inc. All charitable donations to Compassion Canada are tax receiptable in Canada. Registered Charity No. 11887 1516 RR0001
+				</div>
+
+			</div>
+        </footer>
+
+        <script src="https://www.compassion.ca/wp-content/themes/ca/js/default-plugins-min.js"></script>
+        <script src="https://www.compassion.ca/wp-content/themes/ca/js/compassion-min.js?v=1.3"></script>
+		<script src="https://www.compassion.ca/wp-content/themes/ca/js/browser-detection-min.js"></script>
+		<script src="https://www.compassion.ca/wp-content/themes/ca/js/cookie-check-min.js"></script>
+        <script src="https://www.compassion.ca/wp-content/themes/ca/js/aoda-compliance-min.js?v=1.7"></script>
+    
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=2.2.58.2' id='mo-google-webfont-js'></script>
+<script type='text/javascript' id='mailoptin-js-extra'>
+/* <![CDATA[ */
+var mailoptin_globals = {"public_js":"https:\/\/www.compassion.ca\/wp-content\/plugins\/mailoptin\/src\/core\/src\/assets\/js\/src","public_sound":"https:\/\/www.compassion.ca\/wp-content\/plugins\/mailoptin\/src\/core\/src\/assets\/sound\/","mailoptin_ajaxurl":"\/wp-content\/uploads\/2017\/01\/educated.jpg?mailoptin-ajax=%%endpoint%%","is_customize_preview":"false","disable_impression_tracking":"false","sidebar":"0","js_required_title":"Title is required.","is_new_returning_visitors_cookies":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.compassion.ca/wp-content/plugins/mailoptin/src/core/src/assets/js/mailoptin.min.js?ver=2.2.58.2' id='mailoptin-js'></script>
+
+</body>
+</html>

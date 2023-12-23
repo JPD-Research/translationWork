@@ -1,0 +1,1508 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<head><meta charset="UTF-8"><script src="/cdn-cgi/apps/head/THpCeelhAdRivViWgTmX5EbB98s.js"></script><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.v="1.2.4",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",t=>{this.persisted=t.persisted}),window.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(t){if(document.hidden){t._triggerListener();return}this.triggerEvents.forEach(e=>window.addEventListener(e,t.userEventHandler,{passive:!0})),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(t){t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))})}_waitForPendingClicks(){return new Promise(t=>{this._isClickPending?this._pendingClickFinished=t:t()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(t,e,r){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(r,event.target.getAttribute(e)),event.target.removeAttribute(e))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let r=e.getAttribute("data-rocket-src");if(r&&0!==r.indexOf("data:")){0===r.indexOf("//")&&(r=location.protocol+r);try{let i=new URL(r).origin;i!==location.origin&&t.push({src:i,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(n){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this._batchInjectResourceHints(t,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._pendingWebpackRequests(this),await this._triggerWindowLoad()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _transformScript(t){if(await this._littleBreath(),!0===t.noModule&&"noModule"in HTMLScriptElement.prototype){t.setAttribute("data-rocket-status","skipped");return}return new Promise(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor?e=>{let r=document.createElement("script");[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),r.setAttribute(e,t.nodeValue))}),t.text&&(r.text=t.text),r.hasAttribute("src")?(r.addEventListener("load",e),r.addEventListener("error",e)):(r.text=t.text,e());try{t.parentNode.replaceChild(r,t)}catch(i){e()}}:e=>{function r(){t.setAttribute("data-rocket-status","failed"),e()}try{let i=t.getAttribute("data-rocket-type"),n=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",function r(){t.setAttribute("data-rocket-status","executed"),e()}),t.addEventListener("error",r),n?(t.removeAttribute("data-rocket-src"),t.src=n):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}catch(s){r()}})}async _loadScriptsFromList(t){let e=t.shift();return e&&e.isConnected?(await this._transformScript(e),this._loadScriptsFromList(t)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(t,e){var r=document.createDocumentFragment();t.forEach(t=>{let i=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(i){let n=document.createElement("link");n.href=i,n.rel=e,"preconnect"!==e&&(n.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),r.appendChild(n),this.trash.push(n)}}),document.head.appendChild(r)}_delayEventListeners(){let t={};function e(e,r){!function e(r){!t[r]&&(t[r]={originalFunctions:{add:r.addEventListener,remove:r.removeEventListener},eventsToRewrite:[]},r.addEventListener=function(){arguments[0]=i(arguments[0]),t[r].originalFunctions.add.apply(r,arguments)},r.removeEventListener=function(){arguments[0]=i(arguments[0]),t[r].originalFunctions.remove.apply(r,arguments)});function i(e){return t[r].eventsToRewrite.indexOf(e)>=0?"rocket-"+e:e}}(e),t[e].eventsToRewrite.push(r)}function r(t,e){let r=t[e];Object.defineProperty(t,e,{get:()=>r||function(){},set(i){t["rocket"+e]=r=i}})}e(document,"DOMContentLoaded"),e(window,"DOMContentLoaded"),e(window,"load"),e(window,"pageshow"),e(document,"readystatechange"),r(document,"onreadystatechange"),r(window,"onload"),r(window,"onpageshow")}_delayJQueryReady(t){let e;function r(t){return t.split(" ").map(t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t).join(" ")}function i(i){if(i&&i.fn&&!t.allJQueries.includes(i)){i.fn.ready=i.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(i):document.addEventListener("rocket-DOMContentLoaded",()=>e.bind(document)(i)),i([])};let n=i.fn.on;i.fn.on=i.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=r(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{let e=arguments[0][t];delete arguments[0][t],arguments[0][r(t)]=e})),n.apply(this,arguments),this},t.allJQueries.push(i)}e=i}i(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){i(t)}})}async _pendingWebpackRequests(t){let e=document.querySelector("script[data-webpack]");async function r(){return new Promise(t=>{e.addEventListener("load",t),e.addEventListener("error",t)})}e&&(await r(),await t._requestAnimFrame(),await t._pendingWebpackRequests(t))}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this._littleBreath();let t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){let t=new Map;document.write=document.writeln=function(e){let r=document.currentScript;r||console.error("WPRocket unable to document.write this: "+e);let i=document.createRange(),n=r.parentElement,s=t.get(r);void 0===s&&(s=r.nextSibling,t.set(r,s));let a=document.createDocumentFragment();i.setStart(a,0),a.appendChild(i.createContextualFragment(e)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}_emptyTrash(){this.trash.forEach(t=>t.remove())}static run(){let t=new RocketLazyLoadScripts;t._addUserInteractionListener(t)}}RocketLazyLoadScripts.run();</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Your Next Shoes - Celebrity Fashion and Entertainment News</title><link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=swap" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=swap" media="print" onload="this.media='all'" /><noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Merriweather%3A300%2C300italic%2Cregular%2Citalic%2C700%2C700italic%2C900%2C900italic&#038;display=swap" /></noscript>
+<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large" />
+<link rel="canonical" href="https://www.yournextshoes.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Your Next Shoes - Celebrity Fashion and Entertainment News" />
+<meta property="og:url" content="https://www.yournextshoes.com/" />
+<meta property="og:site_name" content="Your Next Shoes" />
+<meta property="og:updated_time" content="2023-10-29T00:19:55+00:00" />
+<meta property="og:image" content="https://www.yournextshoes.com/wp-content/uploads/2023/09/Your-Next-Shoes.png" />
+<meta property="og:image:secure_url" content="https://www.yournextshoes.com/wp-content/uploads/2023/09/Your-Next-Shoes.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Your Next Shoes &#8211; Celebrity Fashion and Entertainment News" />
+<meta property="og:image:type" content="image/png" />
+<meta property="article:published_time" content="2023-10-15T07:10+00:00" />
+<meta property="article:modified_time" content="2023-10-29T00:19:55+00:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Your Next Shoes - Celebrity Fashion and Entertainment News" />
+<meta name="twitter:site" content="@yournextshoes" />
+<meta name="twitter:creator" content="@yournextshoes" />
+<meta name="twitter:image" content="https://www.yournextshoes.com/wp-content/uploads/2023/09/Your-Next-Shoes.png" />
+<meta name="twitter:label1" content="Written by" />
+<meta name="twitter:data1" content="Karis" />
+<meta name="twitter:label2" content="Time to read" />
+<meta name="twitter:data2" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["NewsMediaOrganization","Organization"],"@id":"https://www.yournextshoes.com/#organization","name":"Your Next Shoes","url":"https://www.yournextshoes.com","sameAs":["https://www.facebook.com/yournextshoes","https://twitter.com/yournextshoes"],"logo":{"@type":"ImageObject","@id":"https://www.yournextshoes.com/#logo","url":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-02-WEB.jpg","contentUrl":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-02-WEB.jpg","caption":"Your Next Shoes","inLanguage":"en-US","width":"1182","height":"1182"}},{"@type":"WebSite","@id":"https://www.yournextshoes.com/#website","url":"https://www.yournextshoes.com","name":"Your Next Shoes","publisher":{"@id":"https://www.yournextshoes.com/#organization"},"inLanguage":"en-US","potentialAction":{"@type":"SearchAction","target":"https://www.yournextshoes.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-03-WEB.jpg","url":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-03-WEB.jpg","width":"1182","height":"1182","inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.yournextshoes.com/#webpage","url":"https://www.yournextshoes.com/","name":"Your Next Shoes - Celebrity Fashion and Entertainment News","datePublished":"2023-10-15T07:10:40+00:00","dateModified":"2023-10-29T00:19:55+00:00","about":{"@id":"https://www.yournextshoes.com/#organization"},"isPartOf":{"@id":"https://www.yournextshoes.com/#website"},"primaryImageOfPage":{"@id":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-03-WEB.jpg"},"inLanguage":"en-US"},{"@type":"Person","@id":"https://www.yournextshoes.com/author/karis/","name":"Karis","url":"https://www.yournextshoes.com/author/karis/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/71d6f16e0df85bd17de76680a95176df?s=96&amp;d=identicon&amp;r=g","url":"https://secure.gravatar.com/avatar/71d6f16e0df85bd17de76680a95176df?s=96&amp;d=identicon&amp;r=g","caption":"Karis","inLanguage":"en-US"},"worksFor":{"@id":"https://www.yournextshoes.com/#organization"}},{"@type":"Article","headline":"Your Next Shoes - Celebrity Fashion and Entertainment News","datePublished":"2023-10-15T07:10:40+00:00","dateModified":"2023-10-29T00:19:55+00:00","author":{"@id":"https://www.yournextshoes.com/author/karis/","name":"Karis"},"publisher":{"@id":"https://www.yournextshoes.com/#organization"},"name":"Your Next Shoes - Celebrity Fashion and Entertainment News","@id":"https://www.yournextshoes.com/#richSnippet","isPartOf":{"@id":"https://www.yournextshoes.com/#webpage"},"image":{"@id":"https://www.yournextshoes.com/wp-content/uploads/2022/09/Final-logo-black-03-WEB.jpg"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://www.yournextshoes.com/#webpage"}}]}</script>
+<meta name="google-site-verification" content="hZASgz6jp-4j58DJix9srrKDS1LE_onG8oaedRwfk44" />
+
+<link rel="dns-prefetch" href="//scripts.mediavine.com" />
+<link href="https://fonts.gstatic.com" crossorigin rel="preconnect" />
+<link href="https://fonts.googleapis.com" crossorigin rel="preconnect" />
+<link rel="alternate" type="application/rss+xml" title="Your Next Shoes &raquo; Feed" href="https://www.yournextshoes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Your Next Shoes &raquo; Comments Feed" href="https://www.yournextshoes.com/comments/feed/" />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.yournextshoes.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2" media="all" />
+<style id="rank-math-toc-block-style-inline-css">
+.wp-block-rank-math-toc-block nav ol{counter-reset:item}.wp-block-rank-math-toc-block nav ol li{display:block}.wp-block-rank-math-toc-block nav ol li:before{content:counters(item, ".") " ";counter-increment:item}
+
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--contrast: var(--contrast);--wp--preset--color--contrast-2: var(--contrast-2);--wp--preset--color--contrast-3: var(--contrast-3);--wp--preset--color--base: var(--base);--wp--preset--color--base-2: var(--base-2);--wp--preset--color--base-3: var(--base-3);--wp--preset--color--accent: var(--accent);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="generate-widget-areas-css" href="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/css/components/widget-areas.min.css?ver=3.3.1" media="all" />
+<link rel="stylesheet" id="generate-style-css" href="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/css/main.min.css?ver=3.3.1" media="all" />
+<style id="generate-style-inline-css">
+@media (max-width:768px){}
+body{background-color:var(--base-2);color:var(--contrast);}a{color:var(--accent);}a{text-decoration:underline;}.entry-title a, .site-branding a, a.button, .wp-block-button__link, .main-navigation a{text-decoration:none;}a:hover, a:focus, a:active{color:#a30e2e;}.wp-block-group__inner-container{max-width:1200px;margin-left:auto;margin-right:auto;}.site-header .header-image{width:200px;}.generate-back-to-top{font-size:20px;border-radius:3px;position:fixed;bottom:30px;right:30px;line-height:40px;width:40px;text-align:center;z-index:10;transition:opacity 300ms ease-in-out;opacity:0.1;transform:translateY(1000px);}.generate-back-to-top__show{opacity:1;transform:translateY(0);}:root{--contrast:#222222;--contrast-2:#575760;--contrast-3:#b2b2be;--base:#f0f0f0;--base-2:#f7f8f9;--base-3:#ffffff;--accent:#8a0b26;}:root .has-contrast-color{color:var(--contrast);}:root .has-contrast-background-color{background-color:var(--contrast);}:root .has-contrast-2-color{color:var(--contrast-2);}:root .has-contrast-2-background-color{background-color:var(--contrast-2);}:root .has-contrast-3-color{color:var(--contrast-3);}:root .has-contrast-3-background-color{background-color:var(--contrast-3);}:root .has-base-color{color:var(--base);}:root .has-base-background-color{background-color:var(--base);}:root .has-base-2-color{color:var(--base-2);}:root .has-base-2-background-color{background-color:var(--base-2);}:root .has-base-3-color{color:var(--base-3);}:root .has-base-3-background-color{background-color:var(--base-3);}:root .has-accent-color{color:var(--accent);}:root .has-accent-background-color{background-color:var(--accent);}.main-navigation a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{font-family:Merriweather, serif;text-transform:uppercase;font-size:14px;line-height:1.7;}body, button, input, select, textarea{font-family:Merriweather, serif;font-size:16px;}body{line-height:1.7;}p{margin-bottom:10px;}.top-bar{background-color:#636363;color:#ffffff;}.top-bar a{color:var(--accent);}.top-bar a:hover{color:#b31034;}.site-header{background-color:var(--base-3);}.site-header a{color:#8a0b26;}.site-header a:hover{color:#a30d2d;}.main-title a,.main-title a:hover{color:var(--contrast);}.site-description{color:var(--contrast-2);}.mobile-menu-control-wrapper .menu-toggle,.mobile-menu-control-wrapper .menu-toggle:hover,.mobile-menu-control-wrapper .menu-toggle:focus,.has-inline-mobile-toggle #site-navigation.toggled{background-color:rgba(0, 0, 0, 0.02);}.main-navigation,.main-navigation ul ul{background-color:var(--base-3);}.main-navigation .main-nav ul li a, .main-navigation .menu-toggle, .main-navigation .menu-bar-items{color:var(--contrast);}.main-navigation .main-nav ul li:not([class*="current-menu-"]):hover > a, .main-navigation .main-nav ul li:not([class*="current-menu-"]):focus > a, .main-navigation .main-nav ul li.sfHover:not([class*="current-menu-"]) > a, .main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{color:var(--accent);}button.menu-toggle:hover,button.menu-toggle:focus{color:var(--contrast);}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:var(--accent);}.navigation-search input[type="search"],.navigation-search input[type="search"]:active, .navigation-search input[type="search"]:focus, .main-navigation .main-nav ul li.search-item.active > a, .main-navigation .menu-bar-items .search-item.active > a{color:var(--accent);}.main-navigation ul ul{background-color:var(--base);}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:var(--base-3);}.inside-article a,.paging-navigation a,.comments-area a,.page-header a{color:#8a0b26;}.inside-article a:hover,.paging-navigation a:hover,.comments-area a:hover,.page-header a:hover{color:#b60b30;}.entry-title a{color:var(--contrast);}.entry-title a:hover{color:var(--contrast-2);}.entry-meta{color:var(--contrast-2);}.sidebar .widget{background-color:var(--base-3);}.footer-widgets{background-color:var(--base-3);}.site-info{color:#ffffff;background-color:#333333;}.site-info a{color:#ffffff;}.site-info a:hover{color:#dfdede;}.footer-bar .widget_nav_menu .current-menu-item a{color:#dfdede;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea,select{color:var(--contrast);background-color:var(--base-2);border-color:var(--base);}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus,select:focus{color:var(--contrast);background-color:var(--base-2);border-color:var(--contrast-3);}button,html input[type="button"],input[type="reset"],input[type="submit"],a.button,a.wp-block-button__link:not(.has-background){color:#ffffff;background-color:#55555e;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,a.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,a.button:focus,a.wp-block-button__link:not(.has-background):active,a.wp-block-button__link:not(.has-background):focus,a.wp-block-button__link:not(.has-background):hover{color:#ffffff;background-color:#3f4047;}a.generate-back-to-top{background-color:rgba( 0,0,0,0.4 );color:#ffffff;}a.generate-back-to-top:hover,a.generate-back-to-top:focus{background-color:rgba( 0,0,0,0.6 );color:#ffffff;}:root{--gp-search-modal-bg-color:var(--base-3);--gp-search-modal-text-color:var(--contrast);--gp-search-modal-overlay-bg-color:rgba(0,0,0,0.2);}@media (max-width: 768px){.main-navigation .menu-bar-item:hover > a, .main-navigation .menu-bar-item.sfHover > a{background:none;color:var(--contrast);}}.inside-top-bar{padding:0px;}.inside-header{padding:20px 0px 20px 0px;}.nav-below-header .main-navigation .inside-navigation.grid-container, .nav-above-header .main-navigation .inside-navigation.grid-container{padding:0px 10px 0px 10px;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:14px 20px 20px 20px;}.site-main .wp-block-group__inner-container{padding:14px 20px 20px 20px;}.separate-containers .paging-navigation{padding-top:20px;padding-bottom:20px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-20px;width:calc(100% + 40px);max-width:calc(100% + 40px);}.one-container.right-sidebar .site-main,.one-container.both-right .site-main{margin-right:20px;}.one-container.left-sidebar .site-main,.one-container.both-left .site-main{margin-left:20px;}.one-container.both-sidebars .site-main{margin:0px 20px 0px 20px;}.sidebar .widget, .page-header, .widget-area .main-navigation, .site-main > *{margin-bottom:0px;}.separate-containers .site-main{margin:0px;}.both-right .inside-left-sidebar,.both-left .inside-left-sidebar{margin-right:0px;}.both-right .inside-right-sidebar,.both-left .inside-right-sidebar{margin-left:0px;}.one-container.archive .post:not(:last-child):not(.is-loop-template-item), .one-container.blog .post:not(:last-child):not(.is-loop-template-item){padding-bottom:20px;}.separate-containers .featured-image{margin-top:0px;}.separate-containers .inside-right-sidebar, .separate-containers .inside-left-sidebar{margin-top:0px;margin-bottom:0px;}.main-navigation .main-nav ul li a,.menu-toggle,.main-navigation .menu-bar-item > a{padding-left:10px;padding-right:10px;}.main-navigation .main-nav ul ul li a{padding:10px;}.rtl .menu-item-has-children .dropdown-menu-toggle{padding-left:10px;}.menu-item-has-children .dropdown-menu-toggle{padding-right:10px;}.rtl .main-navigation .main-nav ul li.menu-item-has-children > a{padding-right:10px;}.widget-area .widget{padding:10px;}.footer-widgets-container{padding:40px 20px 40px 20px;}.inside-site-info{padding:20px 0px 20px 0px;}@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}.site-main .wp-block-group__inner-container{padding:30px;}.inside-top-bar{padding-right:30px;padding-left:30px;}.inside-header{padding-right:30px;padding-left:30px;}.widget-area .widget{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.footer-widgets-container{padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;}.inside-site-info{padding-right:30px;padding-left:30px;}.entry-content .alignwide, body:not(.no-sidebar) .entry-content .alignfull{margin-left:-30px;width:calc(100% + 60px);max-width:calc(100% + 60px);}.one-container .site-main .paging-navigation{margin-bottom:0px;}}/* End cached CSS */.is-right-sidebar{width:30%;}.is-left-sidebar{width:30%;}.site-content .content-area{width:100%;}@media (max-width: 768px){.main-navigation .menu-toggle,.sidebar-nav-mobile:not(#sticky-placeholder){display:block;}.main-navigation ul,.gen-sidebar-nav,.main-navigation:not(.slideout-navigation):not(.toggled) .main-nav > ul,.has-inline-mobile-toggle #site-navigation .inside-navigation > *:not(.navigation-search):not(.main-nav){display:none;}.nav-align-right .inside-navigation,.nav-align-center .inside-navigation{justify-content:space-between;}.has-inline-mobile-toggle .mobile-menu-control-wrapper{display:flex;flex-wrap:wrap;}.has-inline-mobile-toggle .inside-header{flex-direction:row;text-align:left;flex-wrap:wrap;}.has-inline-mobile-toggle .header-widget,.has-inline-mobile-toggle #site-navigation{flex-basis:100%;}.nav-float-left .has-inline-mobile-toggle #site-navigation{order:10;}}
+#content {max-width: 1200px;margin-left: auto;margin-right: auto;}
+.dynamic-author-image-rounded{border-radius:100%;}.dynamic-featured-image, .dynamic-author-image{vertical-align:middle;}.one-container.blog .dynamic-content-template:not(:last-child), .one-container.archive .dynamic-content-template:not(:last-child){padding-bottom:0px;}.dynamic-entry-excerpt > p:last-child{margin-bottom:0px;}
+</style>
+<link rel="stylesheet" id="generate-child-css" href="https://www.yournextshoes.com/wp-content/themes/generatepress_child/style.css?ver=1697353411" media="all" />
+<link data-minify="1" rel="stylesheet" id="tablepress-default-css" href="https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/css/build/default.css?ver=1699924450" media="all" />
+<link data-minify="1" rel="stylesheet" id="tablepress-datatables-buttons-css" href="https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.buttons.css?ver=1699924450" media="all" />
+<link data-minify="1" rel="stylesheet" id="tablepress-responsive-tables-css" href="https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/responsive-tables.css?ver=1699924450" media="all" />
+<link data-minify="1" rel="stylesheet" id="tablepress-datatables-columnfilterwidgets-css" href="https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/plugins/tablepress-premium/modules/css/build/datatables.columnfilterwidgets.css?ver=1699924450" media="all" />
+<link rel="stylesheet" id="generate-blog-columns-css" href="https://www.yournextshoes.com/wp-content/plugins/gp-premium/blog/functions/css/columns.min.css?ver=2.3.2" media="all" />
+<style id="rocket-lazyload-inline-css">
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:var(--wpr-bg-c2073cf5-65c5-4899-ba76-e9f775b177e3) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}.wp-embed-responsive .wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0}
+</style>
+<script async="async" data-noptimize="1" data-cfasync="false" src="https://scripts.mediavine.com/tags/your-next-shoes.js?ver=6.4.2" id="mv-script-wrapper-js"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress_child/js/1jquery.min.js?ver=6.4.2" id="myscripts-js" defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress_child/js/jquery-ias.min.js?ver=6.4.2" id="myscripts2-js" defer></script>
+<link rel="https://api.w.org/" href="https://www.yournextshoes.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.yournextshoes.com/wp-json/wp/v2/pages/404650" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.yournextshoes.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel="shortlink" href="https://www.yournextshoes.com/" />
+<link rel="alternate" type="application/json+oembed" href="https://www.yournextshoes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.yournextshoes.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.yournextshoes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.yournextshoes.com%2F&#038;format=xml" />
+<meta name="pinterest-rich-pin" content="false" /> <link rel="icon" href="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.yournextshoes.com/wp-content/uploads/2021/08/cropped-YNS-logo-270x270.png" />
+<style id="wp-custom-css">
+			YNS CUSTOM CSS
+/* Mediavine alterations */
+
+@media (max-width: 414px) {
+iframe[title="YouTube video player"] {
+width: 98%;
+margin: 0 auto;
+display:block;
+padding: 10px;
+box-sizing: border-box;
+ }
+}
+
+
+
+/* end Mediavine alterations */
+
+.archive.category .entry-title {
+    /*min-height: 60px;*/
+}
+
+.archive.category h1{
+	font-size:22px;
+	margin-bottom:14px;
+}
+
+@media (max-width: 968px){
+.archive.categorye h1 {
+    font-size: 24px;
+}
+}
+
+pre{
+	background:none;
+}
+.entry-content{
+	margin-top:20px !important;
+}
+.inside-article	h1, .taxonomy-description h1{
+		font-size:22px;
+	}
+.inside-article h2, .taxonomy-description h2{
+		font-size:20px;
+			margin-bottom:10px;
+	}
+.archive .inside-article h2{
+	margin-bottom:0;
+}
+.inside-article h3, .taxonomy-description h3{
+		font-size:18px;
+	}
+.inside-article h4, .taxonomy-description h4{
+		font-size:16px;
+	}
+.inside-article h5, .taxonomy-description h5{
+		font-size:16px;
+	}
+.inside-article img + em{
+	font-size: 13px;
+	line-height:1.2;
+	display:inline-block;
+	margin-top:4px;
+}
+@media(max-width:968px){
+	.inside-article	h1, .taxonomy-description h1{
+		font-size:24px;
+	}
+.inside-article h2, .taxonomy-description h2{
+		font-size:22px;
+			margin-bottom:10px;
+	}
+	
+.archive .inside-article h2{
+	margin-bottom:0;
+}
+	.inside-article h3, .taxonomy-description h3{
+		font-size:20px;
+			margin-bottom:10px;
+	}
+	.mf-wrap{
+		display:none;
+	}
+	.archive.category .inside-article
+	{
+		height:auto !important;
+	}
+}
+
+.inside-header{
+	padding:0;
+}
+.clear{
+	clear:both;
+}
+a{
+	text-decoration:none;
+}
+.site-header {
+    margin-bottom: 20px;
+}
+.home #primary{
+
+}
+.home #main{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.home #page{
+	background:transparent;
+}
+.home article{
+width: 31%;
+    margin: 10px 10px 40px 10px;
+	position: relative;
+	    border: 1px solid #e7e7e7;
+	background:white;
+	padding-bottom: 0 !important;
+	
+}
+.home .inside-article{
+	padding:20px 20px 0 20px !important;
+
+}
+.entry-summary p{display:none;}
+.entry-summary .read-more-container{display:block;
+	position:absolute;
+bottom: 0;
+}
+
+.home .entry-title{
+	font-size:20px;
+}
+
+a.button{background:#680f35;}
+a.button:hover{background:#851d49;}
+
+
+.inside-header.grid-container{
+	    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#mobile-menu-control-wrapper{
+	display:none;
+}
+.header-widget{
+	    flex-basis: initial  !important;
+    margin: 0;
+}
+@media(max-width:900px){
+	.home article {
+	 width: 46%;
+	}
+}
+@media(max-width:768px){
+.header-widget{
+		top: -10px;
+    position: relative;
+}
+	
+	.site-logo {
+    width: 500px;
+}
+}
+@media (max-width: 500px){
+.home article {
+    width: 100%;
+}
+}
+.post-image{
+	margin-bottom:0 !important; 
+}
+
+/****************************/
+					.simple-slideout-menu-panel {
+						background: #eeeeee;
+						max-width: 311px;
+						color: #868080 !important;
+					}
+
+					.simple-slideout-menu-panel.shadow {
+						-webkit-box-shadow: 0 0 15px 0 rgba(0,0,0,0.12);
+    					box-shadow: 0 0 15px 0 rgba(0,0,0,0.12);
+					}
+
+					.simple-slideout-menu-panel .simple-slideout-menu-close .dashicons:before {
+						width:30px;
+						height:30px;
+						font-size: 30px;
+					}
+
+					.simple-slideout-menu-panel .simple-slideout-menu-close {
+						color:#000000;
+					}
+
+					.simple-slideout-menu-panel .simple-slideout-menu-close:hover {
+						color:#bc0909;
+					}
+
+					a[data-trigger="simple-slideout"]:not(.simple-slideout-menu-close ) {
+						color:#000000 !important;
+						text-decoration:none;
+					}
+
+					a[data-trigger="simple-slideout"]:hover:not(.simple-slideout-menu-close ) {
+						color:#111111 !important;
+					}
+
+					a[data-trigger="simple-slideout"]:not(.simple-slideout-menu-close ) .dashicons:before {
+						width:24px;
+						height:24px;
+						font-size: 24px;
+					}
+
+					.simple-slideout-menu-panel  ul.slideout-menu  a {
+				    	color: #868080;
+				    	font-size: 18px;
+				    	text-decoration: none;
+				    	text-transform: uppercase;
+				    	font-weight: 400;
+					}
+
+					.simple-slideout-menu-panel  ul.slideout-menu a:hover {
+				    	color: #8a0b26;
+					}
+
+
+.simple-slideout-menu-panel ul.slideout-menu a {
+    font-weight: normal !important;
+    font-size: 18px !important;
+}
+
+.simple-slideout-menu-panel ul.slideout-menu a:hover {
+color:#8a0b26 !important;
+}
+.dashicons-menu:before {
+    content: "" !important;
+	width:16px !important;
+	height:16px !important;
+	display:block;
+background:var(--wpr-bg-55cba57a-d29b-42e0-a45e-a05815afb7fe) no-repeat;
+	background-size:contain;
+	margin-top:4px;
+}
+
+.active .dashicons-menu:before {
+
+background:var(--wpr-bg-6aaa5a45-8479-43d3-a19c-a06427523389) no-repeat;
+	background-size:contain;
+}
+
+.archive.category .entry{
+	    display: flex;
+    justify-content: space-evenly;
+	
+}
+
+.cat-item {
+	list-style:none;
+    padding: 15px 0;
+}
+
+.archive.category  .column strong {
+    display: block;
+    margin: 25px 0 10px 50px;
+}
+.archive.category .entry .column{
+	    width: 24.5%;
+    margin: 0;
+    margin-bottom: 1.5em;
+}
+@media(max-width:800px){
+
+	.archive.category .entry{
+		
+	}
+	
+	.archive.category .entry .column{
+	
+}
+}
+/*Ajax Load More*/
+.alm-item-content h3, .alm-item-content h2{
+	font-size:20px;
+}
+.alm-item-thumbnail {
+    float: left;
+    width: 30%;
+}
+.alm-item-content {
+    float: right;
+    max-width: 69%;
+}
+li.alm-item img {
+    max-width: 100% !important;
+    position: relative !important;
+    padding: 0;
+}
+li.alm-item {
+    padding: 0 10px !important;
+}
+@media(max-width:800px){
+	.alm-item-thumbnail{
+		float: none;
+		width: 98%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.alm-item-content{
+		float: none;
+		max-width: 98%;
+		margin-top: 10px;
+	}
+}
+
+/**Sidebar**/
+.widget-title {
+margin-bottom: 15px;
+    font-size: 16px;
+    text-align: center;
+		background:#eee;
+	height:20px;
+}
+.widget-area .widget {
+    padding: 20px 10px 0px 10px;
+}
+.widget-area .widget-title span {
+		background:#fff;
+	position:relative;
+	top:-2px;
+	padding:2px 4px;
+}
+
+#sb-search {
+    display: flex;
+    margin-top: 20px;
+}
+#sb-search #yns-gsearch {
+    height: 20px;
+	background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 5px #ddd inset;
+    padding: 16px;
+    padding: 1rem;
+    width: 100%;
+}
+#sb-search #yg-submit {
+    height: 34px;
+    padding: 0 20px;
+	background-color: #333;
+    border: none;
+    box-shadow: none;
+    cursor: pointer;
+    width: auto;
+}
+.side-subs-wrap{
+	    padding: 10px 0;
+    border-top: 1px solid #b2b2b2;
+    border-bottom: 1px solid #b2b2b2;
+    margin: 10px 0;
+}
+
+.side-subs-wrap #followus li{
+	margin-bottom:0;
+}
+.copyright-bar{
+width:100%;	
+}
+.footer-top{
+	display:flex;
+    justify-content: space-between;
+	font-size:12px;
+}
+.footer-top a:hover{
+	color:#cf2b4e;
+}
+.footer-top-left{
+	
+}
+.footer-top-right{
+	
+}
+.footer-bottom{
+		font-size:12px;
+	padding-top:20px;
+}
+
+@media(max-width:768px){
+	.footer-top {
+    flex-direction: column;
+	}
+	.footer-top-right {
+    margin-top: 5px;
+}
+}
+/**Single**/
+.affiliate-disclosure {
+    font-size: 12px;
+    line-height: 1.5;
+    margin: 10px auto;
+    letter-spacing: 0.6px;
+}
+#nav-post{
+	font-size:12px;
+    padding-bottom: 15px;
+
+}
+#next-post{
+	text-align:right;
+}
+h1.entry-title{
+color: #8a0b26;
+
+}
+.single .entry-meta {
+    font-size: 85%;
+    margin-top: 0.5em;
+    line-height: 1.5;
+    font-size: 11px;
+    color: #a69999 !important;
+}
+
+.postinfowrap {
+    display: flex;
+    font-size: 11px;
+    color: #1d1d1d;
+    padding: 10px 0 0 0;
+	line-height: 1.1;
+}
+.pinfo {
+    text-transform: uppercase;
+    padding: 0 10px;
+}
+.pinfofirst {
+    padding-left: 0;
+}
+
+#morecats {
+    margin: 10px 0;
+    font-size: 11px;
+    line-height: 1.6em;
+    font-weight: bold;
+    color: #1d1d1d;
+    font-family: arial;
+}
+
+.archive.category .inside-article{
+	display: flex;
+    flex-direction: column-reverse;
+    height: 250px;
+    justify-content: space-evenly;
+}
+.archive.category  .entry-title{
+	font-size:14px;
+
+}
+.archive.category  .entry-title a{
+	color: #8a0b26;
+
+}
+.archive.category article{
+	width:40%;
+	float:left;
+	margin:0 3%;
+	padding-bottom:10px !important;
+}
+.archive.category .inside-article .entry-header{
+	/*min-height:60px;*/
+}
+
+.archive.category .inside-article  .post-image{
+	margin:0;
+	width:100%;
+}
+
+@media(max-width:990px){
+	.archive.category article{
+	width:90%;
+		margin:0 auto;
+		float:none;
+		text-align:center;
+}
+}
+
+/*custom home*/
+#main-post-published{
+	    display: flex;
+    padding: 10px 10px;
+    background: #fef4f4;
+    margin-bottom: 20px;
+}
+.mp-thumb{
+width:50%;
+    display: flex;
+    align-items: center;
+}
+.mp-inner{
+	width:50%;
+
+	padding-left:20px;
+}
+.mp-title h1{
+	    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.home .alm-reveal{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.home .alm-item{
+width: 31%;
+width: 31%;
+    margin: 1.15% !important;
+    position: relative;
+    border: 1px solid #e7e7e7;
+    background: white !important;
+    padding: 0 !important;
+		    display: flex;
+    flex-direction: column;
+}
+.home .alm-item-thumbnail{
+	width:100%;
+max-width:100%;
+	float:none;
+}
+.home .alm-item-thumbnail img{
+	width:100%;
+max-width:100%;
+	float:none;
+}
+.home .alm-item-content{
+		width:100%;
+max-width:100%;
+	float:none;
+	padding:10px 20px;
+}
+.home .alm-cwrap{
+	display:none;
+}
+
+#mainfeatured{
+	width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.mf-item{width:19%;}
+.mf-item:hover{
+background: #f1f1f1;
+}
+.mf-thumb{}
+.mf-thumb img{}
+.mf-title{}
+.mf-title h2{font-size:16px;
+    padding: 6px 4px;
+}
+
+.mfh-inner{    font-weight: normal;
+    color: white;
+    font-size: 12px;
+    margin: 0 0 10px 0;
+}
+.mfh-inner span{
+    background: #8a0b26;
+    padding: 4px 10px;
+    display: inline-block;
+}
+
+.mf-wrap{
+padding:30px 20px;
+	box-sizing: border-box;
+}
+
+@media(max-width:968px){
+	
+	#mainfeatured {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+	.mf-item {
+    width: 32%;
+    flex: 0 0 32%;
+    margin: 0.5%;
+}
+	
+	
+	
+}
+
+@media(max-width:768px){
+	#mainfeatured {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+	.mp-title h1{
+	    font-size: 1.5rem;
+}
+	.mf-item {
+
+    width: 100%;
+    flex: 0 0 100%;
+    text-align: center;
+}
+	.home .alm-reveal {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+	.home .alm-item {
+    width: 96%;
+    margin: 0 auto !important;
+    margin-bottom: 20px !important;
+}
+	
+	#main-post-published {
+    padding-bottom: 20px;
+		    flex-direction: column;
+}
+	.mp-thumb {
+    width: 100%;
+}
+	.mp-inner {
+    width: 100%;
+    padding: 0;
+}
+}
+
+/*Author Page*/
+.author-info {
+    margin-bottom: 20px;
+    overflow: hidden;
+    border-radius: 10px;
+    background: #f7f7f7;
+    box-sizing: border-box;
+    display: flex;
+}
+.pp-wrap {
+    width: 30%;
+    background: #fff9f9;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.pp-wrap img {
+    max-width: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 1px 17px #dedede;
+    border: 5px solid white;
+}
+.author-about {
+width: 70%;
+}
+.author-about dl {
+    padding: 0;
+    margin: 0;
+}
+.author-about dt, .af-title {
+    font-size: 13px;
+    line-height: 1.5;
+}
+.author-info dd {
+margin: 0 auto;
+    padding: 20px;
+}
+.author-follow {
+	
+    margin-top: 10px;
+}
+ul.af-list {
+    list-style: none;
+	margin: 0;
+}
+li.af-item {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+li.af-item span.holder {
+    max-width: 30px;
+    height: 30px;
+    display: block;
+    background: var(--wpr-bg-7aba6fa4-59db-4a05-9421-8d8cd210ce4d) no-repeat;
+    border-radius: 50%;
+}
+.author-post-list h2 {
+    font-size: 13px !important;
+	margin-bottom: 10px;
+}
+.author-post-list ul {
+    list-style: none;
+	    margin: 0;
+}
+.author-post-list ul li {
+    line-height: 22px;
+    font-size: 14px;
+}
+
+.follow-linkedin {
+    background-position: -120px 0 !important;
+}
+
+@media(max-width:786px){
+
+	h1{
+		font-size:30px;
+	}
+		h2{
+		font-size:24px;
+	}
+			h3{
+		font-size:18px;
+	}
+				h4{
+		font-size:16px;
+	}
+					h5{
+		font-size:16px;
+	}
+/*.postinfowrap {
+    flex-direction: column;
+}
+	.ssep{
+		display:none;
+	}
+	.pinfo {
+    padding: 0 ;
+}*/
+}
+/*Slide Menu*/
+.simple-slideout-menu-panel>div {
+    height: auto !important;
+}
+.sm-top ul, .sm-bot ul{
+
+    margin: 0;
+    padding: 10px 0 0 10px;
+	
+}
+
+.sm-top ul li, .sm-bot ul li{
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+	line-height:2;
+	text-transform:uppercase;
+}
+
+.generate-back-to-top{
+	    z-index: 9999999999;
+}
+
+@media(max-width:1050px){
+	.inside-header.grid-container{
+		padding:0 20px;
+	}
+}
+
+
+.one-container .site-content {
+    margin-bottom: 20px;
+    box-shadow: 1px 9px 10px #ececec;
+}
+
+.home .site-content {
+	box-shadow:none;
+}
+.page .entry-content {
+    padding-top: 10px;
+    margin-top: 0 !important;
+}
+
+@media(max-width:768px){
+	.archive.category .entry {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+	.archive.category .entry .column {
+    flex: 0 0 50%;
+    width: 100%;
+}
+	.cat-item {
+    font-size: 14px;
+}
+}
+
+
+.author-follow .follow-twitter {
+    background-position: -29px 0 !important;
+}
+.author-follow .follow-pinterest {
+    background-position: -60px 0 !important;
+}
+.author-follow .follow-insta {
+    background-position: -88px 0 !important;
+}
+.author-follow .follow-linkedin {
+    background-position: -120px 0 !important;
+}
+
+@media(max-width:768px){
+	.author-info{    flex-direction: column;}
+	.pp-wrap, .author-about{width:100%;}
+
+.author-about{
+	padding:10px 0;
+}
+
+.author-follow .follow-linkedin {
+    background-position: -122px 0 !important;
+}
+	.author-follow .follow-insta {
+    background-position: -91px 0 !important;
+}
+}
+@media(max-width:1024px){
+	.entry-content p {
+    margin-bottom: 20px;
+		line-height:1.8;
+		font-size:18px;
+}
+}
+
+.widget ul li {
+    margin-bottom: 1em;
+}
+
+@media(max-width:768px){
+	.site-header {
+    margin-bottom: 0;
+}
+	.one-container .site-content {
+    padding-top: 2px;
+}
+}
+
+.home	li.alm-item img{
+	width:100%;
+    height: 200px;
+    object-fit: cover;
+	  object-position: top center;
+}
+	
+.entry-summary{
+	display:none;
+}
+.taxonomy-description{
+	margin-bottom:30px;
+}
+/* MV CSS */ @media only screen and (min-width: 769px) { body.right-sidebar #right-sidebar { min-width: 300px !important; } body.right-sidebar #primary { max-width: calc(100% - 300px) !important; } } @media only screen and (max-width: 359px) { .site-content { padding-left: 10px !important; padding-right: 10px !important; } }
+
+.ynss-wrap{
+	max-width: 540px;
+}
+
+.error404 .sidebar #block-4{
+	display:none;
+}
+
+
+.site-header {
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+}
+.one-container .container{
+	margin-top:80px;
+}
+
+@media(max-width:768px){
+.one-container .container{
+	margin-top: 40px;
+    padding-top: 20px;
+}
+	.site-header{
+		box-shadow: 0px 4px 8px #6b6b6b2b;
+	}
+}
+/*Simple Menu*/
+.simple-slideout-menu-panel{position:fixed;top:0;background:#eee;max-width:330px;width:90%;z-index:999999999;height:100vh;padding:40px 25px;overflow-y:auto;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;-ms-transition:all .2s ease-in-out;-o-transition:all .2s ease-in-out;transition:all .2s ease-in-out;-webkit-box-shadow:0 0 15px 0 rgba(0,0,0,.5);box-shadow:0 0 15px 0 rgba(0,0,0,.5)}.simple-slideout-menu-panel.left{left:-500px}.simple-slideout-menu-panel.right{right:-500px}.simple-slideout-menu-panel .simple-slideout-menu-close{position:absolute;top:15px;text-decoration:none;color:#000;margin:0;padding:0}.simple-slideout-menu-panel .simple-slideout-menu-close:hover{color:#bc0909}.simple-slideout-menu-panel .simple-slideout-menu-close .dashicons{font-size:30px;width:30px;height:30px;line-height:30px}.simple-slideout-menu-panel.left .simple-slideout-menu-close{right:20px}.simple-slideout-menu-panel.right .simple-slideout-menu-close{left:20px}.simple-slideout-menu-panel>div{width:100%;height:100%}.simple-slideout-menu-panel.open.left{left:0}.simple-slideout-menu-panel.open.right{right:0}a.active[data-trigger=simple-slideout] .dashicons-menu:before{content:"\f335"}.simple-slideout-menu-panel ul.slideout-menu{display:block;padding:0;padding-left:10px;padding-top:10px;margin:0}.simple-slideout-menu-panel ul.slideout-menu li{display:block;width:100%;margin:0;padding:0}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children{position:relative}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children>a:before{content:'+';position:absolute;right:0;top:0;font-size:1.2em}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children.open>a:before{content:'-'}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children button{background:0 0;padding:0;color:#000}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children button:hover{border:none}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children .sub-menu-toggle{position:absolute;right:0;top:0}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children .sub-menu-toggle .icon-minus{display:none}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children>ul.sub-menu{display:none;margin:0;padding-left:5px}.simple-slideout-menu-panel ul.slideout-menu li.menu-item-has-children.open>ul.sub-menu{display:block}.simple-slideout-menu-panel ul.slideout-menu li,.simple-slideout-menu-panel ul.slideout-menu{list:none;line-height:2em}.simple-slideout-menu-panel ul.slideout-menu li:marker{display:none}.simple-slideout-menu-panel ul.slideout-menu a{text-decoration:none;line-height:2em;display:block;text-transform:uppercase;color:#868080;font-weight:800;font-size:20px}.simple-slideout-menu-panel ul.slideout-menu a:hover{color:#000}
+
+
+/**header search**/
+.hsearch #sb-search {
+	margin: 5px auto 4px;
+}
+#hswrap{
+    margin: 0 auto;
+    width: 100%;
+    margin-top: 60px;
+    position: fixed;
+    background: #680f35;
+    z-index: 999999;
+}
+.hsearch{
+	margin: 0 auto;
+    max-width: 1180px;
+    color: white;
+}
+
+#toggle{
+	width: 17px;
+    height: 17px;
+
+ 
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#toggle.tloupe{
+		width: 17px;
+    height: 17px;
+	margin-right: 15px;
+		   margin-top: 2px;
+	    background: var(--wpr-bg-b188f43e-fec1-4075-ae34-66a5ce9e3639) no-repeat;
+	background-size:contain;
+}
+
+#toggle.tclose{
+
+  margin-top: 4px;
+	background: var(--wpr-bg-41fae991-a643-43c2-98f7-7dae5202bff7) no-repeat;
+		background-size:contain;
+
+}
+
+@media(max-width:768px){
+	#hswrap{
+		margin-top: 45px;
+	}
+	.hsearch #sb-search {
+	max-width:95%;
+}
+}
+
+.affiliate-disclosure a,
+.entry-content a
+{
+	font-weight:bold;
+	text-decoration:underline;
+}
+
+#af-submit-image-672746640.awbtn{
+	letter-spacing: 1px !important;
+    font-weight: normal !important;
+    text-transform: uppercase !important;
+}
+.awa {
+letter-spacing: 0.5px !important;
+}
+
+#morecats a{
+	text-decoration:underline;
+	font-size:12px;
+	font-weight:900;
+}
+.af-body input.text::placeholder{
+	color:black;
+	font-size:13px;
+	letter-spacing:1px;
+}
+#af-submit-image-672746640.awsubmit{
+	font-weight:700 !important;
+	text-decoration:underline !important;
+	background-color:#8a0b26 !important;
+}
+@media(max-width:768px){
+.single .inside-right-sidebar{
+	display:none;
+}
+}		</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><style id="wpr-lazyload-bg"></style><style id="wpr-lazyload-bg-exclusion"></style>
+<noscript>
+<style id="wpr-lazyload-bg-nostyle">:root{--wpr-bg-c2073cf5-65c5-4899-ba76-e9f775b177e3: url('https://www.yournextshoes.com/wp-content/plugins/wp-rocket/assets/img/youtube.png');}:root{--wpr-bg-55cba57a-d29b-42e0-a45e-a05815afb7fe: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/menu-icon.png');}:root{--wpr-bg-6aaa5a45-8479-43d3-a19c-a06427523389: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}:root{--wpr-bg-7aba6fa4-59db-4a05-9421-8d8cd210ce4d: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/yns-followus-au30.jpg');}:root{--wpr-bg-b188f43e-fec1-4075-ae34-66a5ce9e3639: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/loupe.png');}:root{--wpr-bg-41fae991-a643-43c2-98f7-7dae5202bff7: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/close-icon.png');}:root{--wpr-bg-ceebb923-8091-4c9f-9d59-91cf28c7787f: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader.gif');}:root{--wpr-bg-ced75b4d-38b7-4641-9c74-fbd71bfc14f2: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader-lg.gif');}:root{--wpr-bg-60f57798-6a12-4acd-9e4b-fc22a70807cc: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader-lg.gif');}:root{--wpr-bg-cafb1fdc-abdd-494e-8a8f-0336351ff62d: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/ajax-loader-lg.gif');}:root{--wpr-bg-99983cc2-23e8-44dc-9af6-5096048f70cb: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner.gif');}:root{--wpr-bg-b6bd19cc-c139-4d4c-b625-0a6ea73c4472: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-skype.gif');}:root{--wpr-bg-92e81b8f-8bb7-4093-ac27-6d652b0c7efe: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-ring.gif');}:root{--wpr-bg-ea765de6-c7cb-496a-b7a4-879dcbc2fc45: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/loader-fading-blocks.gif');}:root{--wpr-bg-d9e42224-9f93-4a06-bef8-6a1bc60d3f04: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/loader-fading-circles.gif');}:root{--wpr-bg-6cb35b4f-4a3e-46b3-8931-b44092b6e3f5: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-chasing-arrows.gif');}:root{--wpr-bg-c62cc61a-1a5a-4cf2-a786-f6ff43b5f41a: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-skype.gif');}:root{--wpr-bg-2fa57660-3f79-4d4f-804e-044846a288a0: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-ring.gif');}:root{--wpr-bg-1757613c-3066-417b-86f3-65e929113d37: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/loader-fading-blocks.gif');}:root{--wpr-bg-cdc53a31-f63e-4e55-9cf0-7181f05b46b3: url('https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/img/spinner-chasing-arrows.gif');}:root{--wpr-bg-5356a224-4a9f-4466-a5a3-5fc3c04c7b42: url('https://www.yournextshoes.com/wp-content/themes/generatepress_child/assets/yns-followus-au30.jpg');}</style>
+</noscript>
+<script type="application/javascript">const rocket_pairs = [{"selector":".rll-youtube-player .play","style":":root{--wpr-bg-c2073cf5-65c5-4899-ba76-e9f775b177e3: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/wp-rocket\/assets\/img\/youtube.png');}","hash":"c2073cf5-65c5-4899-ba76-e9f775b177e3"},{"selector":".dashicons-menu","style":":root{--wpr-bg-55cba57a-d29b-42e0-a45e-a05815afb7fe: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/menu-icon.png');}","hash":"55cba57a-d29b-42e0-a45e-a05815afb7fe"},{"selector":".active .dashicons-menu","style":":root{--wpr-bg-6aaa5a45-8479-43d3-a19c-a06427523389: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"6aaa5a45-8479-43d3-a19c-a06427523389"},{"selector":"li.af-item span.holder","style":":root{--wpr-bg-7aba6fa4-59db-4a05-9421-8d8cd210ce4d: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/yns-followus-au30.jpg');}","hash":"7aba6fa4-59db-4a05-9421-8d8cd210ce4d"},{"selector":"#toggle.tloupe","style":":root{--wpr-bg-b188f43e-fec1-4075-ae34-66a5ce9e3639: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/loupe.png');}","hash":"b188f43e-fec1-4075-ae34-66a5ce9e3639"},{"selector":"#toggle.tclose","style":":root{--wpr-bg-41fae991-a643-43c2-98f7-7dae5202bff7: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/close-icon.png');}","hash":"41fae991-a643-43c2-98f7-7dae5202bff7"},{"selector":".alm-btn-wrap .alm-load-more-btn.loading","style":":root{--wpr-bg-ceebb923-8091-4c9f-9d59-91cf28c7787f: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader.gif');}","hash":"ceebb923-8091-4c9f-9d59-91cf28c7787f"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.loading","style":":root{--wpr-bg-ced75b4d-38b7-4641-9c74-fbd71bfc14f2: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif');}","hash":"ced75b4d-38b7-4641-9c74-fbd71bfc14f2"},{"selector":".ajax-load-more-wrap.white .alm-load-more-btn.loading","style":":root{--wpr-bg-60f57798-6a12-4acd-9e4b-fc22a70807cc: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif');}","hash":"60f57798-6a12-4acd-9e4b-fc22a70807cc"},{"selector":".ajax-load-more-wrap.light-grey .alm-load-more-btn.loading","style":":root{--wpr-bg-cafb1fdc-abdd-494e-8a8f-0336351ff62d: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/ajax-loader-lg.gif');}","hash":"cafb1fdc-abdd-494e-8a8f-0336351ff62d"},{"selector":".ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn","style":":root{--wpr-bg-99983cc2-23e8-44dc-9af6-5096048f70cb: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner.gif');}","hash":"99983cc2-23e8-44dc-9af6-5096048f70cb"},{"selector":".ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn","style":":root{--wpr-bg-b6bd19cc-c139-4d4c-b625-0a6ea73c4472: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-skype.gif');}","hash":"b6bd19cc-c139-4d4c-b625-0a6ea73c4472"},{"selector":".ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn","style":":root{--wpr-bg-92e81b8f-8bb7-4093-ac27-6d652b0c7efe: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-ring.gif');}","hash":"92e81b8f-8bb7-4093-ac27-6d652b0c7efe"},{"selector":".ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn","style":":root{--wpr-bg-ea765de6-c7cb-496a-b7a4-879dcbc2fc45: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-blocks.gif');}","hash":"ea765de6-c7cb-496a-b7a4-879dcbc2fc45"},{"selector":".ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn","style":":root{--wpr-bg-d9e42224-9f93-4a06-bef8-6a1bc60d3f04: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-circles.gif');}","hash":"d9e42224-9f93-4a06-bef8-6a1bc60d3f04"},{"selector":".ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn","style":":root{--wpr-bg-6cb35b4f-4a3e-46b3-8931-b44092b6e3f5: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-chasing-arrows.gif');}","hash":"6cb35b4f-4a3e-46b3-8931-b44092b6e3f5"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading","style":":root{--wpr-bg-c62cc61a-1a5a-4cf2-a786-f6ff43b5f41a: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-skype.gif');}","hash":"c62cc61a-1a5a-4cf2-a786-f6ff43b5f41a"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading","style":":root{--wpr-bg-2fa57660-3f79-4d4f-804e-044846a288a0: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-ring.gif');}","hash":"2fa57660-3f79-4d4f-804e-044846a288a0"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading","style":":root{--wpr-bg-1757613c-3066-417b-86f3-65e929113d37: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/loader-fading-blocks.gif');}","hash":"1757613c-3066-417b-86f3-65e929113d37"},{"selector":".alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading","style":":root{--wpr-bg-cdc53a31-f63e-4e55-9cf0-7181f05b46b3: url('https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more\/build\/frontend\/img\/spinner-chasing-arrows.gif');}","hash":"cdc53a31-f63e-4e55-9cf0-7181f05b46b3"},{"selector":"#followus li span.holder","style":":root{--wpr-bg-5356a224-4a9f-4466-a5a3-5fc3c04c7b42: url('https:\/\/www.yournextshoes.com\/wp-content\/themes\/generatepress_child\/assets\/yns-followus-au30.jpg');}","hash":"5356a224-4a9f-4466-a5a3-5fc3c04c7b42"}]; const rocket_excluded_pairs = [];</script></head>
+<body class="home page-template page-template-home-template page-template-home-template-php page page-id-404650 wp-custom-logo wp-embed-responsive post-image-aligned-center sticky-menu-fade no-sidebar nav-float-right one-container header-aligned-left dropdown-hover contained-content" itemtype="https://schema.org/WebPage" itemscope>
+<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a> <div class="top-bar top-bar-align-right">
+<div class="inside-top-bar grid-container">
+<aside id="text-55" class="widget inner-padding widget_text"> <div class="textwidget"><script type="rocketlazyloadscript" data-rocket-src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&storeId=janhoo&adInstanceId=7dfa9519-378a-411f-a42c-4f02b3a4bf57" defer></script></div>
+</aside> </div>
+</div>
+<style>
+		#hswrap{
+			
+		}
+		.hidesearch{
+			display:none;
+		}
+		.showsearch{
+			display:block;
+		}
+		</style>
+<div id="hswrap" class="hidesearch">
+<div class="hsearch">
+<form action="https://www.yournextshoes.com/yns.php" method="post" id="sb-search">
+<input type="text" name="search" placeholder="Search..." id="yns-gsearch">
+<input type="submit" id="yg-submit">
+</form>
+</div>
+</div>
+<header class="site-header has-inline-mobile-toggle" id="masthead" aria-label="Site" itemtype="https://schema.org/WPHeader" itemscope>
+<div class="inside-header grid-container">
+<div class="site-logo">
+<a href="https://www.yournextshoes.com/" rel="home">
+<img class="header-image is-logo-image" alt="Your Next Shoes" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%2075'%3E%3C/svg%3E" width="500" height="75" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/10/your-next-shoes.png" /><noscript><img  class="header-image is-logo-image" alt="Your Next Shoes" src="https://www.yournextshoes.com/wp-content/uploads/2023/10/your-next-shoes.png" width="500" height="75" /></noscript>
+</a>
+</div> <nav class="main-navigation mobile-menu-control-wrapper" id="mobile-menu-control-wrapper" aria-label="Mobile Toggle">
+<div class="menu-bar-items"></div> <button data-nav="site-navigation" class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menu</span> </button>
+</nav>
+<nav class="main-navigation has-menu-bar-items sub-menu-right" id="site-navigation" aria-label="Primary" itemtype="https://schema.org/SiteNavigationElement" itemscope>
+<div class="inside-navigation grid-container">
+<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+<span class="gp-icon icon-menu-bars"><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M0 96c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24zm0 160c0-13.255 10.745-24 24-24h464c13.255 0 24 10.745 24 24s-10.745 24-24 24H24c-13.255 0-24-10.745-24-24z" /></svg><svg viewBox="0 0 512 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em"><path d="M71.029 71.029c9.373-9.372 24.569-9.372 33.942 0L256 222.059l151.029-151.03c9.373-9.372 24.569-9.372 33.942 0 9.372 9.373 9.372 24.569 0 33.942L289.941 256l151.03 151.029c9.372 9.373 9.372 24.569 0 33.942-9.373 9.372-24.569 9.372-33.942 0L256 289.941l-151.029 151.03c-9.373 9.372-24.569 9.372-33.942 0-9.372-9.373-9.372-24.569 0-33.942L222.059 256 71.029 104.971c-9.372-9.373-9.372-24.569 0-33.942z" /></svg></span><span class="screen-reader-text">Menu</span> </button>
+<div id="primary-menu" class="main-nav"><ul id="menu-top-menu" class=" menu sf-menu"><li id="menu-item-98684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98684"><a href="https://www.yournextshoes.com/brands/">Brands and Designers</a></li>
+<li id="menu-item-98688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98688"><a href="https://www.yournextshoes.com/entertainment-news/">Entertainment News</a></li>
+<li id="menu-item-98698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98698"><a href="https://www.yournextshoes.com/celebrities/">Celebrity Fashion</a></li>
+<li id="menu-item-98687" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98687"><a href="https://www.yournextshoes.com/shoes-buying-guide/">Style and Shopping Guides</a></li>
+</ul></div><div class="menu-bar-items"></div> </div>
+</nav>
+<div class="header-widget">
+<aside id="block-6" class="widget inner-padding widget_block"><div class="hiwrap" style="display:flex;">
+<div id="toggle" class="tloupe"></div>
+<nav role="navigation">
+<a href="#" aria-label="Mobile Menu" data-trigger="simple-slideout" class="simsm-shortcode-ui"><span class="dashicons dashicons-menu"></span></a>
+</nav>
+</div>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript">
+        var $hswrap = document.getElementById('hswrap');
+		var $toggle = document.getElementById('toggle');
+
+$toggle.addEventListener('click', function() {
+    var isOpen = $hswrap.classList.contains('showsearch');
+	 var isClose = $hswrap.classList.contains('hidesearch');
+	 
+	 var isToggler = $toggle.classList.contains('tloupe');
+	 var isToggled = toggle.classList.contains('tclose');
+	 
+	 
+	if( isOpen){
+		$hswrap.setAttribute('class', isOpen ? 'hidesearch' : 'showsearch');
+		$toggle.setAttribute('class', isToggler ? 'tclose' : 'tloupe');
+		
+	}else{
+		$hswrap.setAttribute('class', isClose ? 'showsearch' : 'hidesearch');
+		$toggle.setAttribute('class', isToggled ? 'tloupe' : 'tclose');
+	}
+
+	
+});
+    </script></aside> </div>
+</div>
+</header>
+<div class="site grid-container container hfeed" id="page">
+<div class="site-content" id="content">
+<div class="content-area" id="primary">
+<main class="site-main" id="main">
+<div id="main-post-published">
+<div class="mp-thumb">
+<a href="https://www.yournextshoes.com/sofia-carson-unicef-unca-global-advocate/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="UNICEF Ambassador Sofia Carson Receives UNCA Global Advocate of the Year Award in Black and White Valentino Paillette Chevron Gown" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Sofia-Carson-elegant-black-and-white-dress.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Sofia-Carson-elegant-black-and-white-dress.jpg" alt="UNICEF Ambassador Sofia Carson Receives UNCA Global Advocate of the Year Award in Black and White Valentino Paillette Chevron Gown"></noscript></a>
+</div>
+<div class="mp-inner">
+<div class="mp-title"><h1><a href="https://www.yournextshoes.com/sofia-carson-unicef-unca-global-advocate/">UNICEF Ambassador Sofia Carson Receives UNCA Global Advocate of the Year Award in Black and White Valentino Paillette Chevron Gown</a></h1>
+</div>
+<div class="mp-excerpt">
+Sofia Carson stands alongside the likes of Selena Gomez, Katy Perry, Sarah Jessica Parker, Rita Ora, Susan Sarandon, and Millie Bobby Brown, who support children’s rights as UNICEF Goodwill Ambassadors. In recognition of her work as a UNICEF ambassador, the... </div>
+</div>
+</div>
+<div class="mf-wrap">
+<div class="mf-htitle">
+<div class="mfh-inner"><span>SHOE SHOPPING GUIDE</span></div>
+</div>
+<div id="mainfeatured">
+<div class="mf-item">
+<div class="mf-thumb">
+<a href="https://www.yournextshoes.com/mytheresa-designer-shoes/"><img width="410" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20410%20220'%3E%3C/svg%3E" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/06/Mytheresa-discount-codes-featured.jpg"><noscript><img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2023/06/Mytheresa-discount-codes-featured.jpg"></noscript></a>
+</div>
+<div class="mf-title">
+<a href="https://www.yournextshoes.com/mytheresa-designer-shoes/"><h2>Get Mytheresa Promo Codes, Free Returns & Exchanges on Women’s Shoes</h2></a>
+</div>
+</div>
+<div class="mf-item">
+<div class="mf-thumb">
+<a href="https://www.yournextshoes.com/nordstrom/">
+<img width="410" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20410%20220'%3E%3C/svg%3E" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2021/08/Kenley-Sandal-Steve-Madden-Yellow-featured.jpg"><noscript><img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2021/08/Kenley-Sandal-Steve-Madden-Yellow-featured.jpg"></noscript>
+</a>
+</div>
+<div class="mf-title">
+<a href="https://www.yournextshoes.com/nordstrom/"><h2>Nordstrom’s 22 Best Women’s High Heels and Shoes</h2></a>
+</div>
+</div>
+<div class="mf-item">
+<div class="mf-thumb">
+<a href="https://www.yournextshoes.com/ssense-shipping-return-policy/">
+<img width="410" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20410%20220'%3E%3C/svg%3E" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2020/05/Ssense-fashion-magazine-featured.jpg"><noscript><img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2020/05/Ssense-fashion-magazine-featured.jpg"></noscript>
+</a>
+</div>
+<div class="mf-title">
+<a href="https://www.yournextshoes.com/ssense-shipping-return-policy/"><h2>SSENSE Shipping and Return Policies: Everything You Need to Know</h2></a>
+</div>
+</div>
+<div class="mf-item">
+<div class="mf-thumb">
+<a href="https://www.yournextshoes.com/farfetch-legit-luxury-fashion/">
+<img width="410" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20410%20220'%3E%3C/svg%3E" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/09/buying-at-Farfetch.jpg"><noscript><img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2023/09/buying-at-Farfetch.jpg"></noscript>
+</a>
+</div>
+<div class="mf-title">
+<a href="https://www.yournextshoes.com/farfetch-legit-luxury-fashion/"><h2>Is Farfetch Legit? The Ultimate Guide to Buying Luxury Fashion Online</h2></a>
+</div>
+</div>
+<div class="mf-item">
+<div class="mf-thumb">
+<a href="https://www.yournextshoes.com/luisaviaroma/">
+<img width="410" height="220" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20410%20220'%3E%3C/svg%3E" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/07/Luisaviaroma-Andrea-Panconesi.jpg"><noscript><img width="410" height="220" src="https://www.yournextshoes.com/wp-content/uploads/2023/07/Luisaviaroma-Andrea-Panconesi.jpg"></noscript>
+</a>
+</div>
+<div class="mf-title">
+<a href="https://www.yournextshoes.com/luisaviaroma/"><h2>Luisaviaroma: Shop the World’s Best Luxury Brands Online</h2></a>
+</div>
+</div>
+</div>
+</div>
+<style>
+	.latest-posts-wrap{
+		display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+	}
+	.lp-item{
+		width: 31%;
+    margin: 1.15% !important;
+    position: relative;
+    border: 1px solid #e7e7e7;
+    background: white !important;
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+	}
+	.lp-thumb{
+		
+	}
+	.lp-thumb img{
+		    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: top center;
+	}
+	.lp-inner{
+		
+		width: 100%;
+    max-width: 100%;
+    float: none;
+    padding: 10px 20px;
+	}
+	.lp-title h3, .lp-title h2{
+		margin-bottom: 20px;
+    line-height: 1.2em;
+    font-weight: 400;
+    text-transform: none;
+    font-size: 20px;
+	}
+	
+	@media (max-width: 768px){
+.latest-posts-wrap {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+	}
+	
+	@media (max-width: 768px){
+		.lp-item {
+			width: 96%;
+			margin: 0 auto !important;
+			margin-bottom: 20px !important;
+		}
+	}
+</style>
+<div class="latest-posts-wrap">
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/emily-ratajkowski-underboob-catsuit-maybelline/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Emily Ratajkowski Flashes Underboob in Hot Pink The Andamane Catsuit and Balenciaga Knife Slingbacks for Maybelline Ad" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Emily-Ratajkowski-underboob-pink-jumpsuit-The-Andamane.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Emily-Ratajkowski-underboob-pink-jumpsuit-The-Andamane.jpg" alt="Emily Ratajkowski Flashes Underboob in Hot Pink The Andamane Catsuit and Balenciaga Knife Slingbacks for Maybelline Ad"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/emily-ratajkowski-underboob-catsuit-maybelline/">Emily Ratajkowski Flashes Underboob in Hot Pink The Andamane Catsuit and Balenciaga Knife Slingbacks for Maybelline Ad</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/jessica-chastain-low-budget-memory-holiday-green-sweater/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Jessica Chastain Promotes Low-Budget Drama Memory in Green Holiday Sweater and St. John Trousers" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/red-haired-jessica-chastain-green-sweater-pants-black-heels.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/red-haired-jessica-chastain-green-sweater-pants-black-heels.jpg" alt="Jessica Chastain Promotes Low-Budget Drama Memory in Green Holiday Sweater and St. John Trousers"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/jessica-chastain-low-budget-memory-holiday-green-sweater/">Jessica Chastain Promotes Low-Budget Drama Memory in Green Holiday Sweater and St. John Trousers</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/olivia-wilde-gym-glam-adidas-gucci/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Olivia Wilde Makes Effortless Gym Glam in Blue Sweatshirt and Adidas X Gucci Gazelle Sneakers" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Olivia-Wilde-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Olivia-Wilde-featured.jpg" alt="Olivia Wilde Makes Effortless Gym Glam in Blue Sweatshirt and Adidas X Gucci Gazelle Sneakers"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/olivia-wilde-gym-glam-adidas-gucci/">Olivia Wilde Makes Effortless Gym Glam in Blue Sweatshirt and Adidas X Gucci Gazelle Sneakers</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/bella-hadid-khaki-trench-coat-prada/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Bella Hadid’s Chic Comeback: Street Style Return in Khaki Trench Coat and Vintage Prada Boots" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Bella-Hadid-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Bella-Hadid-featured.jpg" alt="Bella Hadid’s Chic Comeback: Street Style Return in Khaki Trench Coat and Vintage Prada Boots"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/bella-hadid-khaki-trench-coat-prada/">Bella Hadid’s Chic Comeback: Street Style Return in Khaki Trench Coat and Vintage Prada Boots</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/carey-mulligan-celine-sequin-maestro/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Carey Mulligan Shines in Custom Celine at Maestro LA Premiere: A Sequin Sensation!" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Carey-Mulligan-Maestro-premiere-press-tour-looks.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Carey-Mulligan-Maestro-premiere-press-tour-looks.jpg" alt="Carey Mulligan Shines in Custom Celine at Maestro LA Premiere: A Sequin Sensation!"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/carey-mulligan-celine-sequin-maestro/">Carey Mulligan Shines in Custom Celine at Maestro LA Premiere: A Sequin Sensation!</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/red-hair-emma-stone-poor-things/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Red-Haired Beauty Emma Stone Sizzles in Satin Slip Dress at Poor Things Premiere" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Emma-Stone-cleavage-plunging-slip-dress-heels-Poor-Things.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Emma-Stone-cleavage-plunging-slip-dress-heels-Poor-Things.jpg" alt="Red-Haired Beauty Emma Stone Sizzles in Satin Slip Dress at Poor Things Premiere"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/red-hair-emma-stone-poor-things/">Red-Haired Beauty Emma Stone Sizzles in Satin Slip Dress at Poor Things Premiere</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/emily-ratajkowski-winter-coat-game/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Emily Ratajkowski Slays Winter Coat Game: How to Dress Comfortably and Stylishly for Winter" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/stylish-ways-to-wear-winter-coat.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/stylish-ways-to-wear-winter-coat.jpg" alt="Emily Ratajkowski Slays Winter Coat Game: How to Dress Comfortably and Stylishly for Winter"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/emily-ratajkowski-winter-coat-game/">Emily Ratajkowski Slays Winter Coat Game: How to Dress Comfortably and Stylishly for Winter</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/leighton-meester-silvia-tcherassi-winter/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Leighton Meester Sizzles in Plunging Red Silvia Tcherassi Dress at Prime Video’s Winter Wonderland Holiday Party" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Robbie-Amell-and-Leighton-Meester-Christmas-movie-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Robbie-Amell-and-Leighton-Meester-Christmas-movie-featured.jpg" alt="Leighton Meester Sizzles in Plunging Red Silvia Tcherassi Dress at Prime Video’s Winter Wonderland Holiday Party"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/leighton-meester-silvia-tcherassi-winter/">Leighton Meester Sizzles in Plunging Red Silvia Tcherassi Dress at Prime Video’s Winter Wonderland Holiday Party</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/amal-clooney-vintage-versace-boys-boat/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Amal Clooney Shines Bright in Vintage Yellow Versace Dress to Support Husband George Clooney at The Boys in the Boat’s Los Angeles Premiere" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/George-Clooney-and-Amal-Clooney-The-Boys-in-the-Boat-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/George-Clooney-and-Amal-Clooney-The-Boys-in-the-Boat-featured.jpg" alt="Amal Clooney Shines Bright in Vintage Yellow Versace Dress to Support Husband George Clooney at The Boys in the Boat’s Los Angeles Premiere"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/amal-clooney-vintage-versace-boys-boat/">Amal Clooney Shines Bright in Vintage Yellow Versace Dress to Support Husband George Clooney at The Boys in the Boat’s Los Angeles Premiere</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/hailey-bieber-red-bicycle-shorts-coat/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Hailey Bieber Flaunts Toned Legs in Tiny Red Bicycle Shorts and Brown Coat During Lunch Date with Husband Justin Bieber" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Justin-Bieber-and-Hailey-Bieber-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Justin-Bieber-and-Hailey-Bieber-featured.jpg" alt="Hailey Bieber Flaunts Toned Legs in Tiny Red Bicycle Shorts and Brown Coat During Lunch Date with Husband Justin Bieber"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/hailey-bieber-red-bicycle-shorts-coat/">Hailey Bieber Flaunts Toned Legs in Tiny Red Bicycle Shorts and Brown Coat During Lunch Date with Husband Justin Bieber</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/taylor-swift-clio-peppiatt-blake-lively/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Taylor Swift Celebrates Star-Studded 34th Birthday in Twinkling Black Clio Peppiatt Mini Dress With Blake Lively" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Blake-Lively-and-Taylor-Swift-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Blake-Lively-and-Taylor-Swift-featured.jpg" alt="Taylor Swift Celebrates Star-Studded 34th Birthday in Twinkling Black Clio Peppiatt Mini Dress With Blake Lively"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/taylor-swift-clio-peppiatt-blake-lively/">Taylor Swift Celebrates Star-Studded 34th Birthday in Twinkling Black Clio Peppiatt Mini Dress With Blake Lively</a></h2></div>
+</div>
+</div>
+<div class="lp-item">
+<div class="lp-thumb">
+<a href="https://www.yournextshoes.com/nicky-hilton-daughters-max-mara-coat/"><img width="590" height="317" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20590%20317'%3E%3C/svg%3E" alt="Nicky Hilton Rothschild Makes Stylish NYC Outing in Tan Max Mara Coat and Leggings With Mini-Me Daughters" data-lazy-src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Nicky-Hilton-Rothschild-with-her-daughters-featured.jpg"><noscript><img width="590" height="317" src="https://www.yournextshoes.com/wp-content/uploads/2023/12/Nicky-Hilton-Rothschild-with-her-daughters-featured.jpg" alt="Nicky Hilton Rothschild Makes Stylish NYC Outing in Tan Max Mara Coat and Leggings With Mini-Me Daughters"></noscript></a>
+</div>
+<div class="lp-inner">
+<div class="lp-title"><h2><a href="https://www.yournextshoes.com/nicky-hilton-daughters-max-mara-coat/">Nicky Hilton Rothschild Makes Stylish NYC Outing in Tan Max Mara Coat and Leggings With Mini-Me Daughters</a></h2></div>
+</div>
+</div>
+</div>
+<style type="text/css">.alm-btn-wrap{display:block;margin:0 0 15px;padding:10px 0;position:relative;text-align:center}.alm-btn-wrap:after{clear:both;content:"";display:table;height:0}.alm-btn-wrap .alm-load-more-btn{appearance:none;background:#ed7070;border:none;border-radius:4px;box-shadow:0 1px 1px rgba(0,0,0,.04);color:#fff;cursor:pointer;display:inline-block;font-size:15px;font-weight:500;height:43px;line-height:1;margin:0;padding:0 20px;position:relative;text-align:center;text-decoration:none;transition:all .3s ease;user-select:none;width:auto}.alm-btn-wrap .alm-load-more-btn.loading,.alm-btn-wrap .alm-load-more-btn:hover{background-color:#e06161;box-shadow:0 1px 3px rgba(0,0,0,.09);color:#fff;text-decoration:none}.alm-btn-wrap .alm-load-more-btn:active{box-shadow:none;text-decoration:none}.alm-btn-wrap .alm-load-more-btn.loading{cursor:wait;outline:none;padding-left:44px}.alm-btn-wrap .alm-load-more-btn.done{background-color:#ed7070;box-shadow:none!important;cursor:default;opacity:.15;outline:none!important}.alm-btn-wrap .alm-load-more-btn.done:before,.alm-btn-wrap .alm-load-more-btn:before{background:none;width:0}.alm-btn-wrap .alm-load-more-btn.loading:before{background:#fff var(--wpr-bg-ceebb923-8091-4c9f-9d59-91cf28c7787f) no-repeat 50%;border-radius:3px;content:"";display:inline-block;height:31px;left:0;margin:6px;overflow:hidden;position:absolute;top:0;transition:width .5s ease-in-out;width:30px;z-index:0}.alm-btn-wrap .alm-elementor-link{display:block;font-size:13px;margin:0 0 15px}@media screen and (min-width:768px){.alm-btn-wrap .alm-elementor-link{left:0;margin:0;position:absolute;top:50%;transform:translateY(-50%)}}.ajax-load-more-wrap.white .alm-load-more-btn{background-color:#fff;border:1px solid #e0e0e0;color:#787878;outline:none;overflow:hidden;transition:none}.ajax-load-more-wrap.white .alm-load-more-btn.loading,.ajax-load-more-wrap.white .alm-load-more-btn:focus,.ajax-load-more-wrap.white .alm-load-more-btn:hover{background-color:#fff;border-color:#aaa;color:#333}.ajax-load-more-wrap.white .alm-load-more-btn.done{background-color:#fff;border-color:#ccc;color:#444}.ajax-load-more-wrap.white .alm-load-more-btn.loading{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)!important;box-shadow:none!important;color:hsla(0,0%,100%,0)!important;outline:none!important;padding-left:20px}.ajax-load-more-wrap.white .alm-load-more-btn.loading:before{background-color:rgba(0,0,0,0);background-image:var(--wpr-bg-60f57798-6a12-4acd-9e4b-fc22a70807cc);background-position:50%;background-size:25px 25px;height:100%;left:0;margin:0;top:0;width:100%}.ajax-load-more-wrap.light-grey .alm-load-more-btn{background-color:#efefef;border:1px solid #e0e0e0;color:#787878;outline:none;overflow:hidden;transition:all 75ms ease}.ajax-load-more-wrap.light-grey .alm-load-more-btn.done,.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading,.ajax-load-more-wrap.light-grey .alm-load-more-btn:focus,.ajax-load-more-wrap.light-grey .alm-load-more-btn:hover{background-color:#f1f1f1;border-color:#aaa;color:#222}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading{background-color:rgba(0,0,0,0);border-color:rgba(0,0,0,0)!important;box-shadow:none!important;color:hsla(0,0%,100%,0)!important;outline:none!important;padding-left:20px}.ajax-load-more-wrap.light-grey .alm-load-more-btn.loading:before{background-color:rgba(0,0,0,0);background-image:var(--wpr-bg-cafb1fdc-abdd-494e-8a8f-0336351ff62d);background-position:50%;background-size:25px 25px;height:100%;left:0;margin:0;top:0;width:100%}.ajax-load-more-wrap.blue .alm-load-more-btn{background-color:#1b91ca}.ajax-load-more-wrap.blue .alm-load-more-btn.done,.ajax-load-more-wrap.blue .alm-load-more-btn.loading,.ajax-load-more-wrap.blue .alm-load-more-btn:hover{background-color:#1b84b7}.ajax-load-more-wrap.green .alm-load-more-btn{background-color:#80ca7a}.ajax-load-more-wrap.green .alm-load-more-btn.done,.ajax-load-more-wrap.green .alm-load-more-btn.loading,.ajax-load-more-wrap.green .alm-load-more-btn:hover{background-color:#81c17b}.ajax-load-more-wrap.purple .alm-load-more-btn{background-color:#b97eca}.ajax-load-more-wrap.purple .alm-load-more-btn.done,.ajax-load-more-wrap.purple .alm-load-more-btn.loading,.ajax-load-more-wrap.purple .alm-load-more-btn:hover{background-color:#a477b1}.ajax-load-more-wrap.grey .alm-load-more-btn{background-color:#a09e9e}.ajax-load-more-wrap.grey .alm-load-more-btn.done,.ajax-load-more-wrap.grey .alm-load-more-btn.loading,.ajax-load-more-wrap.grey .alm-load-more-btn:hover{background-color:#888}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn{background-color:rgba(0,0,0,0)!important;background-image:var(--wpr-bg-99983cc2-23e8-44dc-9af6-5096048f70cb);background-position:50%;background-repeat:no-repeat;border:none!important;box-shadow:none!important;cursor:default!important;opacity:0;outline:none!important;overflow:hidden;text-indent:-9999px;transition:opacity .2s ease;width:100%}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:before{display:none!important}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:active,.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn:focus{outline:none}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.done{opacity:0}.ajax-load-more-wrap.infinite>.alm-btn-wrap .alm-load-more-btn.loading{opacity:1}.ajax-load-more-wrap.infinite.skype>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-b6bd19cc-c139-4d4c-b625-0a6ea73c4472)}.ajax-load-more-wrap.infinite.ring>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-92e81b8f-8bb7-4093-ac27-6d652b0c7efe)}.ajax-load-more-wrap.infinite.fading-blocks>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-ea765de6-c7cb-496a-b7a4-879dcbc2fc45)}.ajax-load-more-wrap.infinite.fading-circles>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-d9e42224-9f93-4a06-bef8-6a1bc60d3f04)}.ajax-load-more-wrap.infinite.chasing-arrows>.alm-btn-wrap .alm-load-more-btn{background-image:var(--wpr-bg-6cb35b4f-4a3e-46b3-8931-b44092b6e3f5)}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap{align-items:center;display:flex;margin:0;padding:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button{margin:0}.ajax-load-more-wrap.alm-horizontal .alm-btn-wrap button.done{display:none}.alm-btn-wrap--prev{clear:both;display:flex;justify-content:center;margin:0;padding:0;width:100%}.alm-btn-wrap--prev:after{clear:both;content:"";display:table;height:0}.alm-btn-wrap--prev a.alm-load-more-btn--prev{display:inline-block;font-size:14px;font-weight:500;line-height:1;margin:0 0 15px;padding:5px;position:relative;text-decoration:none}.alm-btn-wrap--prev a.alm-load-more-btn--prev:focus,.alm-btn-wrap--prev a.alm-load-more-btn--prev:hover{text-decoration:underline}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus{cursor:wait;text-decoration:none}.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:before,.alm-btn-wrap--prev a.alm-load-more-btn--prev.loading:focus:before{background:var(--wpr-bg-ced75b4d-38b7-4641-9c74-fbd71bfc14f2) no-repeat 0;background-size:16px 16px;content:"";display:block;height:16px;left:-18px;position:absolute;top:50%;transform:translateY(-50%);width:16px}.alm-btn-wrap--prev a.alm-load-more-btn--prev.skype.loading:before{background-image:var(--wpr-bg-c62cc61a-1a5a-4cf2-a786-f6ff43b5f41a)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.ring.loading:before{background-image:var(--wpr-bg-2fa57660-3f79-4d4f-804e-044846a288a0)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.fading-blocks.loading:before{background-image:var(--wpr-bg-1757613c-3066-417b-86f3-65e929113d37)}.alm-btn-wrap--prev a.alm-load-more-btn--prev.chasing-arrows.loading:before{background-image:var(--wpr-bg-cdc53a31-f63e-4e55-9cf0-7181f05b46b3)}.alm-btn-wrap--prev a.alm-load-more-btn--prev button:not([disabled]),.alm-btn-wrap--prev a.alm-load-more-btn--prev:not(.disabled){cursor:pointer}.alm-btn-wrap--prev a.alm-load-more-btn--prev.done{display:none!important}.alm-listing .alm-reveal{outline:none}.alm-listing .alm-reveal:after{clear:both;content:"";display:table;height:0}.alm-listing{margin:0;padding:0}.alm-listing .alm-paging-content>li,.alm-listing .alm-reveal>li,.alm-listing>li{position:relative}.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{background:none;list-style:none;margin:0 0 30px;padding:0 0 0 80px;position:relative}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 100px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 135px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item,.alm-listing .alm-reveal>li.alm-item,.alm-listing>li.alm-item{padding:0 0 0 160px}}.alm-listing .alm-paging-content>li.alm-item h3,.alm-listing .alm-reveal>li.alm-item h3,.alm-listing>li.alm-item h3{margin:0}.alm-listing .alm-paging-content>li.alm-item p,.alm-listing .alm-reveal>li.alm-item p,.alm-listing>li.alm-item p{margin:10px 0 0}.alm-listing .alm-paging-content>li.alm-item p.entry-meta,.alm-listing .alm-reveal>li.alm-item p.entry-meta,.alm-listing>li.alm-item p.entry-meta{opacity:.75}.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{border-radius:2px;left:0;max-width:65px;position:absolute;top:0}@media screen and (min-width:480px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:85px}}@media screen and (min-width:768px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:115px}}@media screen and (min-width:1024px){.alm-listing .alm-paging-content>li.alm-item img,.alm-listing .alm-reveal>li.alm-item img,.alm-listing>li.alm-item img{max-width:140px}}.alm-listing .alm-paging-content>li.no-img,.alm-listing .alm-reveal>li.no-img,.alm-listing>li.no-img{padding:0}.alm-listing.products li.product{padding-left:inherit}.alm-listing.products li.product img{border-radius:inherit;position:static}.alm-listing.stylefree .alm-paging-content>li,.alm-listing.stylefree .alm-reveal>li,.alm-listing.stylefree>li{margin:inherit;padding:inherit}.alm-listing.stylefree .alm-paging-content>li img,.alm-listing.stylefree .alm-reveal>li img,.alm-listing.stylefree>li img{border-radius:inherit;margin:inherit;padding:inherit;position:static}.alm-listing.rtl .alm-paging-content>li,.alm-listing.rtl .alm-reveal>li{padding:0 170px 0 0;text-align:right}.alm-listing.rtl .alm-paging-content>li img,.alm-listing.rtl .alm-reveal>li img{left:auto;right:0}.alm-listing.rtl.products li.product{padding-right:inherit}.alm-masonry{clear:both;display:block;overflow:hidden}.alm-placeholder{display:none;opacity:0;transition:opacity .2s ease}.ajax-load-more-wrap.alm-horizontal{display:flex;flex-wrap:nowrap;width:100%}.ajax-load-more-wrap.alm-horizontal .alm-listing,.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal{display:flex;flex-direction:row;flex-wrap:nowrap}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal>li.alm-item,.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item{background-color:#fff;border:1px solid #efefef;border-radius:4px;height:auto;margin:0 2px;padding:20px 20px 30px;text-align:center;width:300px}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal>li.alm-item img,.ajax-load-more-wrap.alm-horizontal .alm-listing>li.alm-item img{border-radius:4px;box-shadow:0 2px 10px rgba(0,0,0,.075);margin:0 auto 15px;max-width:125px;position:static}.ajax-load-more-wrap.alm-horizontal .alm-listing .alm-reveal:after{display:none}.alm-toc{display:flex;padding:10px 0;width:auto}.alm-toc button{background:#f7f7f7;border:1px solid #efefef;border-radius:4px;box-shadow:none;color:#454545;cursor:pointer;font-size:14px;font-weight:500;height:auto;line-height:1;margin:0 5px 0 0;outline:none;padding:7px 10px;transition:all .15s ease}.alm-toc button:focus,.alm-toc button:hover{border-color:#ccc;color:#222}.alm-toc button:hover{text-decoration:underline}.alm-toc button:focus{box-shadow:0 0 0 3px rgba(0,0,0,.05)}</style><div id="ajax-load-more" class="ajax-load-more-wrap infinite classic" data-id="5227229695" data-alm-id data-canonical-url="https://www.yournextshoes.com/" data-slug="home" data-post-id="0" data-localized="ajax_load_more_5227229695_vars" data-alm-object="ajax_load_more_5227229695"><ul aria-live="polite" aria-atomic="true" class="alm-listing alm-ajax alm-has-transition" data-container-type="ul" data-loading-style="infinite classic" data-repeater="default" data-post-type="post" data-order="DESC" data-orderby="date" data-offset="13" data-posts-per-page="12" data-button-label="Load More"></ul><div class="alm-btn-wrap" data-rel="ajax-load-more"><button class="alm-load-more-btn more " type="button">Load More</button></div></div>
+</main>
+</div>
+</main>
+</div>
+</div>
+<div class="site-footer">
+<footer class="site-info" aria-label="Site" itemtype="https://schema.org/WPFooter" itemscope>
+<div class="inside-site-info grid-container">
+<div class="copyright-bar">
+<div class="footer-top">
+<div class="footer-top-left">
+<a href="/brands/">Brands</a>•
+<a href="/celebrities/">Celebrities</a>•
+<a href="/styles/">Styles</a>•
+<a href="/subscribe/">Subscribe</a>•
+<a href="/shoes-buying-guide/">Shopping Guide</a>•
+<a href="/styles/shoe-accessories/">Shoes Accessories</a>
+</div>
+<div class="footer-top-right">
+<a href="https://www.yournextshoes.com/about/">About</a>•
+<a href="https://www.yournextshoes.com/contact-us/">Contact Us</a>•
+<a href="https://sales.mediavine.com/your-next-shoes " target="_blank">Advertise</a> •
+<a href="https://www.yournextshoes.com/privacy-policy/" rel="nofollow">Privacy Policy</a>
+</div>
+</div>
+<div class="footer-bottom">
+<div>
+© Copyright Your Next Shoes 2010 - 2023
+<div>
+</div> </div>
+</div>
+</footer>
+</div>
+<a title="Scroll back to top" aria-label="Scroll back to top" rel="nofollow" href="#" class="generate-back-to-top" data-scroll-speed="400" data-start-scroll="300">
+<span class="gp-icon icon-arrow-up"><svg viewBox="0 0 330 512" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M305.863 314.916c0 2.266-1.133 4.815-2.832 6.514l-14.157 14.163c-1.699 1.7-3.964 2.832-6.513 2.832-2.265 0-4.813-1.133-6.512-2.832L164.572 224.276 53.295 335.593c-1.699 1.7-4.247 2.832-6.512 2.832-2.265 0-4.814-1.133-6.513-2.832L26.113 321.43c-1.699-1.7-2.831-4.248-2.831-6.514s1.132-4.816 2.831-6.515L158.06 176.408c1.699-1.7 4.247-2.833 6.512-2.833 2.265 0 4.814 1.133 6.513 2.833L303.03 308.4c1.7 1.7 2.832 4.249 2.832 6.515z" fill-rule="nonzero" /></svg></span>
+</a><script type="rocketlazyloadscript" id="generate-a11y">!function(){"use strict";if("querySelector"in document&&"addEventListener"in window){var e=document.body;e.addEventListener("mousedown",function(){e.classList.add("using-mouse")}),e.addEventListener("keydown",function(){e.classList.remove("using-mouse")})}}();</script><script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.yournextshoes.com/wp-content/cache/min/1/js/awt_analytics.js?ver=1700527327" defer></script><script type="rocketlazyloadscript" data-rocket-type="text/javascript" id="ajax_load_more_5227229695_vars">var ajax_load_more_5227229695_vars = {"id":"5227229695","script":"ajax_load_more_5227229695_vars"}</script><script id="wpil-frontend-script-js-extra">
+var wpilFrontend = {"ajaxUrl":"\/wp-admin\/admin-ajax.php","postId":"404650","postType":"post","openInternalInNewTab":"1","openExternalInNewTab":"1","disableClicks":"0","openLinksWithJS":"0","trackAllElementClicks":"0","clicksI18n":{"imageNoText":"Image in link: No Text","imageText":"Image Title: ","noText":"No Anchor Text Found"}};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/plugins/link-whisper-premium/js/frontend.min.js?ver=1701480008" id="wpil-frontend-script-js" defer></script>
+<script id="rocket_lazyload_css-js-extra">
+var rocket_lazyload_css_data = {"threshold":"300"};
+</script>
+<script id="rocket_lazyload_css-js-after">
+!function o(n,c,a){function s(t,e){if(!c[t]){if(!n[t]){var r="function"==typeof require&&require;if(!e&&r)return r(t,!0);if(u)return u(t,!0);throw(r=new Error("Cannot find module '"+t+"'")).code="MODULE_NOT_FOUND",r}r=c[t]={exports:{}},n[t][0].call(r.exports,function(e){return s(n[t][1][e]||e)},r,r.exports,o,n,c,a)}return c[t].exports}for(var u="function"==typeof require&&require,e=0;e<a.length;e++)s(a[e]);return s}({1:[function(e,t,r){"use strict";!function(){const r="undefined"==typeof rocket_pairs?[]:rocket_pairs,e="undefined"==typeof rocket_excluded_pairs?[]:rocket_excluded_pairs;e.map(t=>{var e=t.selector;const r=document.querySelectorAll(e);r.forEach(e=>{e.setAttribute("data-rocket-lazy-bg-".concat(t.hash),"excluded")})});const o=document.querySelector("#wpr-lazyload-bg");var t=rocket_lazyload_css_data.threshold||300;const n=new IntersectionObserver(e=>{e.forEach(t=>{if(t.isIntersecting){const e=r.filter(e=>t.target.matches(e.selector));e.map(t=>{t&&(o.innerHTML+=t.style,t.elements.forEach(e=>{n.unobserve(e),e.setAttribute("data-rocket-lazy-bg-".concat(t.hash),"loaded")}))})}})},{rootMargin:t+"px"});function c(){0<(0<arguments.length&&void 0!==arguments[0]?arguments[0]:[]).length&&r.forEach(t=>{try{const e=document.querySelectorAll(t.selector);e.forEach(e=>{"loaded"!==e.getAttribute("data-rocket-lazy-bg-".concat(t.hash))&&"excluded"!==e.getAttribute("data-rocket-lazy-bg-".concat(t.hash))&&(n.observe(e),(t.elements||(t.elements=[])).push(e))})}catch(e){console.error(e)}})}c();const a=function(){const o=window.MutationObserver;return function(e,t){if(e&&1===e.nodeType){const r=new o(t);return r.observe(e,{attributes:!0,childList:!0,subtree:!0}),r}}}();t=document.querySelector("body"),a(t,c)}()},{}]},{},[1]);
+</script>
+<!--[if lte IE 11]>
+<script src="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/js/classList.min.js?ver=3.3.1" id="generate-classlist-js"></script>
+<![endif]-->
+<script id="generate-menu-js-extra">
+var generatepressMenu = {"toggleOpenedSubMenus":"1","openSubMenuLabel":"Open Sub-Menu","closeSubMenuLabel":"Close Sub-Menu"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/js/menu.min.js?ver=3.3.1" id="generate-menu-js" defer></script>
+<script id="generate-back-to-top-js-extra">
+var generatepressBackToTop = {"smooth":"1"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/themes/generatepress/assets/js/back-to-top.min.js?ver=3.3.1" id="generate-back-to-top-js" defer></script>
+<script id="ajax-load-more-js-extra">
+var alm_localize = {"pluginurl":"https:\/\/www.yournextshoes.com\/wp-content\/plugins\/ajax-load-more","version":"6.2.0.3","ajaxurl":"https:\/\/www.yournextshoes.com\/wp-admin\/admin-ajax.php","alm_nonce":"f5060a6e38","rest_api_url":"","rest_api":"https:\/\/www.yournextshoes.com\/wp-json\/","rest_nonce":"e28ff066e6","trailing_slash":"true","is_front_page":"true","speed":"200","results_text":"Viewing {post_count} of {total_posts} results.","no_results_text":"No results found.","alm_debug":"","a11y_focus":"1","site_title":"Your Next Shoes","site_tagline":"Celebrity & Designer Shoe Blog"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.yournextshoes.com/wp-content/plugins/ajax-load-more/build/frontend/ajax-load-more.min.js?ver=6.2.0.3" id="ajax-load-more-js" defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.yournextshoes.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script>function lazyLoadThumb(e,alt){var t='<img data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<button class="play" aria-label="play Youtube video"></button>';t=t.replace('alt=""','alt="'+alt+'"');return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id,a[t].dataset.alt),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>
+<div id="simple-slideout-menu-panel" class="simple-slideout-menu-panel right shadow">
+<a href="#" aria-label="Mobile Menu" class="simple-slideout-menu-close" data-trigger="simple-slideout"><span class="dashicons dashicons-menu"></span></a>
+<div class="sm-top"><ul id="menu-slider-menu-top" class="menu"><li id="menu-item-404667" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404667"><a href="https://www.yournextshoes.com/celebrities/">Celebrities</a></li>
+<li id="menu-item-404668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404668"><a href="https://www.yournextshoes.com/brands/">Brands</a></li>
+<li id="menu-item-406184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-406184"><a href="https://www.yournextshoes.com/entertainment-news/">Entertainment News</a></li>
+<li id="menu-item-405519" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405519"><a href="/styles/shoe-accessories/">Shoe Accessories</a></li>
+<li id="menu-item-404670" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404670"><a href="/shoes-buying-guide/">Shopping Guide</a></li>
+<li id="menu-item-404669" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-404669"><a href="https://www.yournextshoes.com/styles/">Styles</a></li>
+</ul></div>
+<aside id="block-5" class="widget inner-padding widget_block"><style>
+/******FOLLOWUS*********/
+#followus{list-style:none;}
+#followus li{width:30px;float:left;margin-right: 5px;}
+#followus li span.holder{    max-width: 30px;
+    height: 30px;
+    display: block;
+	background: var(--wpr-bg-5356a224-4a9f-4466-a5a3-5fc3c04c7b42) no-repeat;
+	}
+	
+	.follow-fb{}
+	.follow-twitter{background-position:-30px 0 !important;}
+	.follow-pinterest{background-position:-60px 0  !important;}
+	.follow-insta{background-position:-90px 0  !important;}
+/*****************/
+</style>
+<div class="side-subs-wrap">
+<ul id="followus" class="followus">
+<li><a href="https://www.facebook.com/yournextshoes/" title="Facebook"><span class="holder follow-fb"></span></a></li>
+<li><a href="https://twitter.com/yournextshoes" title="Twitter"><span class="holder follow-twitter"></span></a></li>
+<li><a href="https://www.pinterest.com/yournextshoes/" title="Pinterest"><span class="holder follow-pinterest"></span></a></li>
+<li><a href="https://www.instagram.com/yournextshoes/" title="Instagram"><span class="holder follow-insta"></span></a></li>
+</ul>
+<div style="clear:both;"></div>
+</div>
+<div style="clear:both;"></div>
+</aside>
+<div class="sm-bot"><ul id="menu-slide-menu-bottom" class="menu"><li id="menu-item-404671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404671"><a href="https://www.yournextshoes.com/about/">About Us</a></li>
+<li id="menu-item-404672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404672"><a href="https://www.yournextshoes.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-404673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404673"><a href="https://www.yournextshoes.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-404674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-404674"><a href="https://www.yournextshoes.com/subscribe/">Subscribe</a></li>
+</ul></div>
+</div>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.yournextshoes.com/wp-content/cache/min/1/wp-content/themes/generatepress_child/js/simple-slideout-menu.js?ver=1700527327" id="simple-slideout-menu_scripts-js" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-type="text/javascript" data-rocket-src="https://www.yournextshoes.com/wp-content/cache/min/1/js/3532X614468.skimlinks.js?ver=1700527327" defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.yournextshoes.com/wp-content/cache/min/1/infinite-scroll@3/dist/infinite-scroll.pkgd.js?ver=1700527327" defer></script>
+</body>
+</html>
