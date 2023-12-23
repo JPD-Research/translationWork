@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="flickr data 3/3">
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="updated to finish the definition of the model and caption generator - not yet trained">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-captioning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image-captioning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +136,7 @@
       <workItem from="1703018518842" duration="4004000" />
       <workItem from="1703085636096" duration="3189000" />
       <workItem from="1703089399031" duration="1026000" />
-      <workItem from="1703090684949" duration="41448000" />
+      <workItem from="1703090684949" duration="44124000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -377,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703292129924</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="updated to finish the definition of the model and caption generator - not yet trained">
+      <option name="closed" value="true" />
+      <created>1703294630853</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1703294630853</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +441,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="seq2seq work - data prep complete, data added to repo, beginning work on the encoder" />
     <MESSAGE value="seq2seq work - decoder and overall model, training and some simple tests" />
     <MESSAGE value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
     <MESSAGE value="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff" />
@@ -457,7 +465,8 @@
     <MESSAGE value="flickr data 1/3" />
     <MESSAGE value="flickr data 2/3" />
     <MESSAGE value="flickr data 3/3" />
-    <option name="LAST_COMMIT_MESSAGE" value="flickr data 3/3" />
+    <MESSAGE value="updated to finish the definition of the model and caption generator - not yet trained" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to finish the definition of the model and caption generator - not yet trained" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

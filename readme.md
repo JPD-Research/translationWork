@@ -44,9 +44,16 @@
     - added next steps to the bottom of the notebook
     - still do to - complete documentation of this notebook
     - small text edit to rnn notebook, placeholder for translator notebook
-  - translator work
-    - needed subwork tokenizer model completed as input
-      - needed to be explicit about encoding for the vocab to store/reload properly
-      - <**> completed the code for the subword tokenizer - saved model for translator usage
-      - standardized the path locations in all notebooks
-    - <**> completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete
+- translator work
+  - (21-Dec-23) needed subwork tokenizer model completed as input
+    - needed to be explicit about encoding for the vocab to store/reload properly
+    - <**> completed the code for the subword tokenizer - saved model for translator usage
+    - standardized the path locations in all notebooks
+  - <**> completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete
+    - (22-Dec-23) tested transformer - <**> checkin for attention plots are worthy of examination - issues with git for large variable data
+- image captioning work
+  - <**> checkin for imaging captioning notebook placeholder
+  - <**> checkin for yaml to build environment
+  - <**> checkins for conceptual captions and flickr data
+  - <**> checkin after final model is coded
+  - <**> checkin after final model is trained and running!
