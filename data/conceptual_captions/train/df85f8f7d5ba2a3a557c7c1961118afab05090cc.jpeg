@@ -1,0 +1,2662 @@
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    <link rel="profile" href="https://gmpg.org/xfn/11"><!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> -->
+        <meta name="facebook-domain-verification" content="mgd7yql0ybooedw1qiwvbt5c449860" />
+    <link rel="shortcut icon" type="https://www.27east.com/wp-content/themes/27East/images/jpg" href="https://www.27east.com/wp-content/themes/27East/images/favicon.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.27east.com/wp-content/themes/27East/css/calendar.css">
+    <!-- <link rel="stylesheet" type="text/css" href="https://www.27east.com/wp-content/themes/27East/css/font-style.css" /> -->
+    <link rel="stylesheet" type="text/css" href="https://www.27east.com/wp-content/themes/27East/css/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.27east.com/wp-content/themes/27East/css/slick/slick-theme.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.27east.com/wp-content/themes/27East/css/left_menu_style.css" />
+    <link rel="stylesheet" type="text/css" href="https://www.27east.com/wp-content/themes/27East/css/animate.css" />
+    <link rel="stylesheet" href="https://www.27east.com/wp-content/themes/27East/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://www.27east.com/wp-content/themes/27East/css/global.css" />
+    <link rel="stylesheet" href="https://www.27east.com/wp-content/themes/27East/css/awesome-bootstrap-checkbox.css">
+    <link rel="stylesheet" href="https://www.27east.com/wp-content/themes/27East/css/select.css">
+    <link href="https://www.27east.com/wp-content/themes/27East/css/pickmeup.css" rel="stylesheet">
+    <link href="https://www.27east.com/wp-content/themes/27East/css/subscription-style.css" rel="stylesheet">
+
+    <link href="https://www.27east.com/wp-content/themes/27East/style.css" rel="stylesheet">
+    <link href="https://www.27east.com/wp-content/themes/27East/style2.css" rel="stylesheet">
+    <link href="https://www.27east.com/wp-content/themes/27East/css/admin.css" rel="stylesheet">
+    <link href="https://www.27east.com/wp-content/themes/27East/css/mobile-menu.css" rel="stylesheet">
+    <link href="https://www.27east.com/wp-content/themes/27East/css/extra.css" rel="stylesheet">
+    <link href="https://www.27east.com/wp-content/themes/27East/css/demo.css" rel="stylesheet">
+
+    <!-- Old Google Analytics Code
+        <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-1809980-1', 'auto');ga('send', 'pageview');</script> 
+    -->
+     <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-9VDFJDJB6W"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-9VDFJDJB6W');
+        </script>
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+     fbq('init', '2417940391771098'); 
+    fbq('track', 'PageView');
+</script>
+<noscript>
+ <img height="1" width="1" 
+src="https://www.facebook.com/tr?id=2417940391771098&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+    <!-- Add IntroJs styles -->
+    <link href="https://www.27east.com/wp-content/themes/27East/css/introjs.css" rel="stylesheet">
+
+    <!-- <link href="https://www.27east.com/wp-content/themes/27East/css/bootstrap-responsive.min.css" rel="stylesheet"> -->
+
+            <!--
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.cookie/1.3.1/jquery.cookie.js"></script>
+    -->
+        <script src="https://cdn.broadstreetads.com/init-2.min.js"></script>
+        
+<!-- <script src="https://firebasestorage.googleapis.com/v0/b/fixit-1524025107944.appspot.com/o/client.js?alt=media&token=5b6b8885-dbe6-4be3-88dc-305200cbeb86"></script> -->
+
+    <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Page not found - 27 East</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:domain" content="27 East" />
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v12.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found - 27 East" />
+<meta property="og:site_name" content="27 East" />
+<meta property="og:image" content="https://image.27east.com/2020/01/img-dummy.jpg" />
+<meta property="og:image:secure_url" content="https://image.27east.com/2020/01/img-dummy.jpg" />
+<meta property="og:image:width" content="576" />
+<meta property="og:image:height" content="302" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found - 27 East" />
+<meta name="twitter:image" content="https://www.27east.com/wp-content/uploads/2020/01/img-dummy.jpg" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.27east.com/#website","url":"https://www.27east.com/","name":"27 East","potentialAction":{"@type":"SearchAction","target":"https://www.27east.com/?s={search_term_string}","query-input":"required name=search_term_string"}}]}</script>
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='sbi_styles-css' href='https://www.27east.com/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.27east.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='som_lost_password_style-css' href='https://www.27east.com/wp-content/plugins/frontend-reset-password/assets/css/password-lost.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-user-profile-avatar-frontend-css' href='https://www.27east.com/wp-content/plugins/wp-user-profile-avatar/assets/css/frontend.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css' href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css' href='https://www.27east.com/wp-content/themes/27East/genericons/genericons.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css' href='https://www.27east.com/wp-content/themes/27East/style.css?ver=6.4.1' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css' href='https://www.27east.com/wp-content/themes/27East/css/ie.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css' href='https://www.27east.com/wp-content/themes/27East/css/ie8.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css' href='https://www.27east.com/wp-content/themes/27East/css/ie7.css?ver=20160816' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='subscribe-forms-css-css' href='https://www.27east.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='click2tweet-css-css' href='https://www.27east.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/click-to-tweet.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-social-share-buttons-css' href='https://www.27east.com/wp-content/plugins/easy-social-share-buttons3/assets/css/easy-social-share-buttons.min.css?ver=6.4.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.27east.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.27east.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="snazzymaps-js-js-extra">
+/* <![CDATA[ */
+var SnazzyDataForSnazzyMaps = [];
+SnazzyDataForSnazzyMaps={"id":25,"name":"Blue water","description":"A simple map with blue water and roads\/landscape in grayscale. ","url":"https:\/\/snazzymaps.com\/style\/25\/blue-water","imageUrl":"https:\/\/snazzy-maps-cdn.azureedge.net\/assets\/25-blue-water.png?v=20170626083602","json":"[{\"featureType\":\"administrative\",\"elementType\":\"labels.text.fill\",\"stylers\":[{\"color\":\"#444444\"}]},{\"featureType\":\"landscape\",\"elementType\":\"all\",\"stylers\":[{\"color\":\"#f2f2f2\"}]},{\"featureType\":\"poi\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"road\",\"elementType\":\"all\",\"stylers\":[{\"saturation\":-100},{\"lightness\":45}]},{\"featureType\":\"road.highway\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"simplified\"}]},{\"featureType\":\"road.arterial\",\"elementType\":\"labels.icon\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"transit\",\"elementType\":\"all\",\"stylers\":[{\"visibility\":\"off\"}]},{\"featureType\":\"water\",\"elementType\":\"all\",\"stylers\":[{\"color\":\"#46bcec\"},{\"visibility\":\"on\"}]}]","views":370631,"favorites":1089,"createdBy":{"name":"Xavier","url":"https:\/\/www.xavierfoucrier.fr"},"createdOn":"2013-11-05T16:09:45.02","tags":["light","simple"],"colors":["blue","gray"]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.27east.com/wp-content/plugins/snazzy-maps/snazzymaps.js?ver=1.4.0" id="snazzymaps-js-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.27east.com/wp-content/themes/27East/js/html5.js?ver=3.7.3" id="twentysixteen-html5-js"></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://www.27east.com/wp-json/" /><meta name="generator" content="WordPress 6.4.1" />
+<style>
+.som-password-error-message,
+.som-password-sent-message {
+	background-color: #ffffff;
+	border-color: #ffffff;
+}
+</style>
+
+<script type="text/javascript">var essb_settings = {"ajax_url":"https:\/\/www.27east.com\/wp-admin\/admin-ajax.php","essb3_nonce":"5dfcb9e734","essb3_plugin_url":"https:\/\/www.27east.com\/wp-content\/plugins\/easy-social-share-buttons3","essb3_stats":false,"essb3_ga":false,"essb3_ga_ntg":false,"blog_url":"https:\/\/www.27east.com\/","post_id":""};</script>		<style type="text/css" id="wp-custom-css">
+			span.show_more_dates {
+    color: #89ae24;
+    cursor: pointer;
+    font-weight: bold;
+}
+.page-template-template-event-listing-php table a:hover {
+    color: #114b8e !important;
+    font-weight: bold;
+}
+.page-template-template-event-listing-php table img:hover {
+   border: 1px solid #114b8e !important;
+}
+
+.error_print_validate {
+    color: red;
+	margin-top:10px;
+}
+.yard-date label.red-label {
+    color: red;
+    font-weight: 800;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.col-12.form_wrap.choose_dates_sec4 {
+    margin-top: -10px !important;
+}
+.my_events .table th:nth-child(3) {
+    width: 16%;
+}
+label.custom-control-label b {
+    font-weight: bold;
+}
+label.custom-control-label i {
+    font-style: italic;
+}
+label.custom-control-label span b {
+    font-weight: bold;
+}
+b.eventfr_p {
+    font-size: 1.125rem;
+    padding: 5px 10px;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    color: #fff;
+    background-color: #4A90E2;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.zipcode .btn-secondary.dropdown-toggle {
+    color: #000;
+}
+.category-sub-text
+{
+	font-family: "Open Sans", sans-serif !important;
+}
+.choose-ad-option h6
+{
+	font-size:16px;
+}
+/*label.custom-control-label.f_styl {
+    margin-bottom: 24px;
+}*/
+span.price_s {
+    font-size: 13px;
+}
+.enhance-your-ad h6,.choose-your-zone h6 {
+    font-size: 16px !important;
+	text-transform: uppercase;
+}
+.page-template-template-classified-display-option span.float-right.msg-box-edit-text.cust {
+	clear: both;
+    float: none !important;font-size: 11px;
+}
+.page-template-template-classified-ad-summary .float-right.msg-box-edit-text.cust {
+    display: none !important;
+}
+img.ui-datepicker-trigger
+{
+	cursor: pointer !important;
+}
+li.parsley-custom-error-message {
+    color: red;
+}
+.radio_hidden {
+    display: none !important;
+}
+.barrrimg {
+    float: left;
+    margin: 4.5px 7px;
+}
+.menu-band ul
+{
+	padding-top: 4px;
+}
+.current-menu-item a
+{
+	    opacity: 1 !important;
+}
+.menu-login-menu-container,.menu-normal-menu-container {
+    padding: 5px;
+}
+
+form#lostpasswordform legend {
+    display: none;
+}
+p.som-password-sent-message.som-password-error-message
+{
+	color:red;
+}
+p.no-margin label {
+    display: none;
+}
+.create_date
+{
+    float: right !important;
+}
+p.mesage_for_forgot {
+    position: absolute;
+    top: 35%;
+    left: 35.5%;
+    color: #8cb225;
+}
+.re-added-img-item img
+{
+	width:100%;
+}		</style>
+		<style id="wpforms-css-vars-root">
+				:root {
+					--wpforms-field-border-radius: 3px;
+--wpforms-field-background-color: #ffffff;
+--wpforms-field-border-color: rgba( 0, 0, 0, 0.25 );
+--wpforms-field-text-color: rgba( 0, 0, 0, 0.7 );
+--wpforms-label-color: rgba( 0, 0, 0, 0.85 );
+--wpforms-label-sublabel-color: rgba( 0, 0, 0, 0.55 );
+--wpforms-label-error-color: #d63637;
+--wpforms-button-border-radius: 3px;
+--wpforms-button-background-color: #066aab;
+--wpforms-button-text-color: #ffffff;
+--wpforms-field-size-input-height: 43px;
+--wpforms-field-size-input-spacing: 15px;
+--wpforms-field-size-font-size: 16px;
+--wpforms-field-size-line-height: 19px;
+--wpforms-field-size-padding-h: 14px;
+--wpforms-field-size-checkbox-size: 16px;
+--wpforms-field-size-sublabel-spacing: 5px;
+--wpforms-field-size-icon-size: 1;
+--wpforms-label-size-font-size: 16px;
+--wpforms-label-size-line-height: 19px;
+--wpforms-label-size-sublabel-font-size: 14px;
+--wpforms-label-size-sublabel-line-height: 17px;
+--wpforms-button-size-font-size: 17px;
+--wpforms-button-size-height: 41px;
+--wpforms-button-size-padding-h: 15px;
+--wpforms-button-size-margin-top: 10px;
+
+				}
+			</style>
+    
+           
+
+</head>
+<style>
+	.week-slider .slick-prev {
+    left: 0px;
+    display: block !important;
+}
+	.week-slider .slick-next {
+    right: 0px;
+    display: block !important;
+}
+    .event_listing .columnist-slider .columnist-item {
+    margin: 10px;
+}
+    .featured-27-article .main-sub-item h6,.police-article h4{
+        margin-top: -3px;
+    }
+    #news-headlines h5 {
+    padding: 10px 15px !important;
+    margin: 0 0 1rem 0;
+}#news-headlines .col-md-3 {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+}
+#featured-27 .ad-after-banner.sp-ad.sag_ads {
+    margin: 15px 0 !important;
+}section#sp-sports h3.sp-head {
+    margin-top: 15px;
+}
+section#news-headlines .col-md-3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: end;
+}section#article-listing\ ggggggggg {
+    margin: 30px 0;
+}
+li.btn1 button {
+    cursor: pointer;
+}
+span.e_spn {
+    float: left;
+    margin-top: -3px;
+    margin-right: 3px;
+}#home-jobs .job-item p b{
+    font-family: 'Open Sans' !important;
+}
+.southamptomtext .img-fluid {
+    max-width: 100%;
+    height: auto;
+    margin-top: 2px;
+    float: right;
+    margin-left: 5px;
+}.ad.latest_ads_under {
+    margin-bottom: 25px;
+}
+    .container {
+        max-width: 1250px !important;
+    }
+    #featured-27.sp .spf-left{
+        border-right:0px !important;
+    }
+    ul.footer-links.col-md-3 {
+    padding: 0;
+}
+#home-magazine h2 {
+    margin-bottom: 40px;
+    color: #fff;
+    font-family: 'Open Sans' !important;
+    font-size: 30px;
+    line-height: 40px;
+}
+    .easthammm,.saggha {
+    margin-top: -5px;
+}.sp-head .sp-head-icon{display:block;}
+    #featured-27 .ad-after-banner{
+        margin:15px !important;
+    }
+    div#editorial-letters .sp-head {
+    margin-bottom: 25px;
+}
+    .border_gg {
+    border-bottom: 2px solid #000;
+    margin-bottom: 30px;
+}div#south_hmpton {
+    margin: 5px 0 !important;
+}div#south_hmpton .spf-cnt {
+    margin-top: 10px;
+}
+.ad.south_ad {
+    margin: 30px 0;text-align:center;
+}
+    .sp-featured-article .sfp-item{
+        border-bottom: 1px solid #e3e3e3 !important;
+    }
+    .sp-featured-article .sfp-item:last-child{
+        border-bottom: 0px solid #e3e3e3 !important;
+    }
+    #featured-27.sp .featured-27-slider .featured-27-item h2{
+        font-size:15px !important;
+    }
+    div#right-over {
+    margin-top: 60px;
+}
+    .loader1 {
+        height: 5px;
+        width: 100%;
+        position: absolute;
+        overflow: hidden;
+        background: #ddd;
+        left: 0;
+    }
+    .menu-band ul li{
+        margin-left: 8px;
+    }
+#split-south .sp-head-icon{display:block !important;}
+    .loader1:before {
+        display: block;
+        position: absolute;
+        content: "";
+        left: -200px;
+        width: 200px;
+        height: 5px;
+        background: #114B8E;
+        animation: loading 10s linear infinite;
+    }.featured-27-item.overlay.sports_div {
+    height: 384px;
+}#spotys .sfp-item h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18px;margin-top:-4px;
+}#spotys .sp-featured-article .sfp-item#spotys .sp-featured-article .sfp-item{
+    margin-bottom: 7px;
+}.magzin .spf-img-wrap, .magzin .spf-img {
+    min-height: 414px;
+}.magzin .sfp-item .spf-cnt h3{
+    position: absolute;
+    top: 70%;
+    color: white !important;
+    padding: 20px;
+    font-size: 20px !important;
+}
+.magzin .sfp-item{ 
+    -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: color 0 ease-in !important;
+  -ms-transition: none !important;
+  transition: none !important;
+}
+.magzin .sfp-item .spf-cnt h3{
+    font-size: 2.188rem !important;
+    line-height: 1;
+}
+.magzin .sfp-item:hover .spf-img{
+	transform:none !important;
+    -webkit-transform:none !important;
+}
+.magzin .sfp-item:hover{ 
+    -webkit-transition: none !important;
+  -moz-transition: none !important;
+  -o-transition: color 0 ease-in !important;
+  -ms-transition: none !important;
+  transition: none !important;
+}
+.magazine-slider .slick-next {
+    display: block !important;
+    right: -10px !important;
+}
+.magazine-slider .slick-prev {
+    display: block !important;
+    left: -10px !important;
+}
+section#news-headlines p a {
+    color: black;
+}
+
+section#news-headlines p {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 23px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+#news-headlines hr {
+    margin: 1rem 0;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+    height: 1px;
+}
+#columnist .columnist-slider {
+    margin: 0px 0 !important;
+}
+.magzin {
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
+}.magzin .sfp-item .spf-cnt {
+    min-height: auto !important;
+}
+.sports_div .featured-27-cnt h2 {
+    font-family: Merriweather;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 19px;
+    margin-bottom: .5rem;
+}
+.sports_div .featured-27-cnt p {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+}
+.sports_div .featured-27-cnt {
+    color: #fff;
+    bottom:0%;
+    padding: 0px 20px;
+    position: absolute;
+}.event_listing .slick-slide img {
+    width: 100% !important;
+}
+.event_listing .date{
+        background: #2980B9 !important;
+    color: #fff !important;
+    width: 53px !important;
+    height: 56px !important;
+    position: absolute !important;
+    top: 30px !important;
+    left: 30px !important;
+    text-align: center !important;
+    font-size: 12px !important; 
+    line-height: 18px !important;
+    padding-top: 6px !important;
+}
+.event_listing .columnist-slider .columnist-item{
+    border:0px !important;padding:0px !important;
+}
+.event_listing p{ margin-left:0; }
+.event_listing .columnist-slider .columnist-item h3{
+        font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    padding-top: 12px;
+    padding-right: 15px;margin:0px;
+}
+.event_listing .date span
+{
+font-size: 21px;}
+    .editorial-item {
+    border: 1px solid #D7D7D7 !important;
+    box-sizing: border-box !important;
+    border-radius: 8px !important;
+    padding: 15px 20px 10px 20px !important;
+    margin-bottom: 20px !important;
+}footer.bl_ack .footer-links li, footer.bl_ack .footer-links li a, footer.bl_ack .footer-links p,.footer-bottom div span, .footer-bottom div a {
+    color: #fff !important;
+}
+footer.bl_ack .footer-bottom,footer.bl_ack .footer-top{
+    border:0px !important;
+}
+.footer-bottom div a {
+    border-left: 1px solid #fff !important;
+}.footer-social-links.re a {
+    background: transparent;
+    background-color: transparent !important;
+    border: 1px solid white !important;
+    width: 30px !important;
+    height: 30px !important;
+}
+.col-6.col-md-4.div2 .footer-links {
+    float: right;
+}
+footer.bl_ack{
+    background-color: #292929;
+}
+.event_listing .columnist-item img{
+    width:100%;height:200px;
+}
+.home_communist .columnist-slider .columnist-item{ 
+border:0px;}
+.home_communist .columnist-slider .columnist-item h3{
+    margin-left:10px;margin-top:0px;text-align:left;
+}
+p.d_n{
+    margin-left:10px !important;
+}.columnist-item hr{
+    margin:10px 0 5px;
+}
+.archive_ttt .col-md-3 img {
+    width: 50px !important;
+    height: 50px;
+    vertical-align: middle;    display: block;
+    float: right;
+}
+section#columnist h4{
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 23px;text-align:left;
+}
+.img_dddf{
+        width: 45px;
+    height: 45px;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+}
+.magazine_article .sfp-item{
+    margin-bottom:20px !important;
+}
+#site-menu{
+    overflow-y: scroll !important;
+}
+#site-menu .each-set{
+    border-bottom:0px !important;
+}
+.dropdown-menu{
+    max-height:300px !important;
+}
+section#columnist .date .float_left img
+,section#columnist .date .float_right img
+{  width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 5px;}
+section#columnist p
+{
+        font-size: 14px;
+    font-weight: 400;text-align:left;
+    line-height: 23px;
+    margin-bottom: 8px;margin:0px;
+}
+
+section#columnist .date .float_left
+,section#columnist .date .float_right
+{
+        display: inline-block;
+    line-height: 16px;    margin-right: 20px;
+}
+section#columnist .date
+{ text-align:left;
+color: #7A7A7A;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 30px;}
+
+#columnist .slick-slide .rounded-circle{
+    width:57px;
+}
+#columnist p{
+    margin-left:10px;text-align:left;
+}
+
+.sp-featured-article .sfp-item .spf-cnt{
+        min-height: 110px;
+}
+    .col-sm-6.text-start.southamptomimg {
+    margin-top: -25px;padding-left:7px;
+}
+#editorial-letters .sp-head {
+    margin-bottom: 0;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+div#south_hmpton .sfp-item {
+    display: block !important;
+}
+.sp-featured-article .col-md-6 {
+    float: left;
+}
+.menu-band .dropdown-menu li:last-child {
+    border-bottom: 0 !important;
+}
+#news-headlines{
+        text-align: left;
+    padding: 10px;
+}
+.southamptomtext a {
+    color: #3B7302;float:right;text-transform: capitalize;
+    font-size: 15px;
+}.breaking_news {
+    box-shadow: 1px 0px 0px rgb(199 199 199 / 50%);
+    background: #EEEEEE;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.columnist-slider .slick-lft-arrow, .columnist-slider .slick-rgt-arrow {
+    width: 30px;
+    height: 30px;
+    background: #000;
+    border: 2px solid #fff;
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+    cursor: pointer;
+}.event_listing .columnist-slider .columnist-item p {
+    padding: 0px 10px !important;
+}
+#columnist .slick-arrow.slick-lft-arrow{
+    left:-20px;
+}
+#columnist .slick-arrow.slick-rgt-arrow{
+    right:-20px;
+}
+#columnist .slick-arrow.slick-lft-arrow img,span.slick-rgt-arrow.slick-arrow img{
+    padding:2px;
+}
+hr:last-child{
+    display:none !important;
+}
+.sfp-item p {
+    font-size: 14px;
+    line-height: 23px;
+    font-weight: 400;
+}
+section#columnist h4,section#columnist p{
+    color:black;
+}.slick-next, .slick-prev {
+    display: none !important;
+}
+.home_communist .columnist-slider .columnist-item{
+        border: 1px solid #DBDBDB;
+    border-radius: 9px;
+    padding: 20px 0px;
+    margin:10px;
+}
+section#columnist p a{
+color:#3B7302;
+}
+section#columnist h4, section#columnist p, section#columnist .date{
+    padding:0 20px;
+}
+.re_design .ad-after-banner {
+    margin: 13px 0 40px !important;
+}
+#south_hmpton .spf-img-wrap,#south_hmpton .spf-img{
+    width: 100%;
+    height: 228px;
+}.breaking-news label {
+    font-size: 16px;
+    padding: 5px 15px;
+    color: #fff;
+    text-transform: uppercase;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    float: left;
+    background: #AD2624;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    color: #fff;
+    border-radius: 5px;
+    float: left;
+    padding: 4px 6px;
+    margin-right: 8px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    -webkit-animation: break-blink 1.5s infinite;
+    animation: break-blink 1.5s infinite;
+}.breaking-news.clearfix .slick-track {
+    margin-top: 8px;
+}
+
+.breaking-news.clearfix {
+    background-image: none !important;
+    background: #eee;
+}
+#n_ftr{
+    background: #292929;
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+#n_ftr ul.list1 {
+    float: left;
+    margin-left: -30px;
+    margin-right: 30px;
+}
+#n_ftr ul li {
+    list-style-type: none;
+}
+
+#n_ftr .div2 p {
+    float: right;
+    padding-bottom: 35%;
+}
+
+#n_ftr p {
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 29px;
+    color: #fff;
+}
+
+#n_ftr .div2 {
+    width: 48%;
+    float: right;
+}
+#n_ftr ul li a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+
+
+
+.menu-band ul li ul li:first-child a{
+    padding-left: 0px;
+}
+
+.menu-band .dropdown-menu li
+ {
+ padding: 10px 0;width:100%;
+    border-bottom: 1px solid rgb(221 221 221 / 35%) !important;
+ }
+ .menu-band .dropdown-menu li a
+ {
+ text-decoration: none;
+    font-size: 14px;
+    color:#fff;
+    padding: 0px 0px;margin:0;
+ }
+ 
+ .menu-band .dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+ 
+ .menu-band .dropdown-menu
+ {
+    background: #114b8e !important;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0px solid rgba(0,0,0,.15);
+    border-radius: .25rem; }
+header .dropdown-toggle::after {
+    content: url(https://www.27east.com/wp-content/themes/27East/redesign/img/white_arrow.png);
+    background-repeat: no-repeat;
+    border: 0px;
+    position: relative;
+    top: -6px;
+}
+
+.ad-after-banner.sp-ads{
+    margin: 15px !important;
+    padding: 0px  !important;
+    border-bottom: 0px solid #cecece !important;
+    border-width: 1px 0 1px;
+}
+    @keyframes loading {
+        from {
+            left: 0px;
+            width: 0%;
+        }
+
+        to {
+            left: 0px;
+            width: 100%;
+        }
+    }
+
+
+.section1 {
+    padding: 25px 0px 0px 0px;
+}
+.section1 .img_div {
+    width: 66px;
+    float: left;
+    height: 75px;
+}
+.section1 .content_div h4 {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.section1 .breaking_news h4 {
+    background: #AD2624;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    color: #fff;
+    border-radius: 5px;
+    float: left;
+    padding: 4px 6px;
+    margin-right: 8px;
+    margin-bottom: 0px;
+}
+.section1 .breaking_news p {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+    margin: 0px;
+}
+.sp h1 {
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.section1 .breaking_news {
+    box-shadow: 1px 0px 0px rgb(199 199 199 / 50%);
+    background: #EEEEEE;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;  margin-top:20px;
+
+}
+.section1 .content_div p {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+}
+    .week-highlight {
+        background: red;
+    }
+
+    .fc-basic-view .fc-body .fc-row {
+        min-height: 1em;
+    }
+.menu-band ul li a {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 400 !important;
+}
+    .mycoraltalk .talk-slot-stream {
+        display: none;
+    }
+.header_top {
+    padding: 15px 0px 0px;
+    min-height: 220px;
+}
+.btn1 button {
+    background: #86AA23;
+    border: 1px solid #86AA23;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+    margin-left: 8px;
+    font-size: 13px;
+}.section1 .carousel-control-prev {
+    position: absolute;
+    right: -14px !important;
+    left:auto  !important;
+    left: auto;
+    cursor: pointer;
+}.section1 .carousel-control-next {
+    position: absolute;
+    right: -45px !important;
+    cursor: pointer;
+}
+    /* Search Style */
+
+    
+    
+    .spf-cnt {
+    margin-top: 0px;
+}
+#home-magazine_last_Sec1 .sp-featured-article.sp-right-article .sfp-item .spf-cnt h3 {
+    font-size: 20px;
+    font-family: 'Merriweather';
+    margin-bottom: 2px;
+    line-height: 23px;
+    font-weight: 700;
+}
+ul.footer-links li a {
+    font-family: 'Montserrat' !important;
+}
+ul.footer-links li {
+    padding-bottom: 5px;
+}
+
+@media (min-width:1280px) and (max-width:1980px)
+{
+    .col-md-8.sec_mag {
+    margin-top: -48px !important;
+}
+#columnist .slick-arrow{
+    top:50% !important;
+}.col-md-12.footr_logo {
+        margin-bottom: 10px;
+    padding: 0;
+}
+.rig_home_ar{
+    margin-top:50px;
+}
+.col-md-2.div1 {
+    padding: 0;
+    margin-top: 30px;
+}
+}
+@media (min-width:768px) and (max-width:1200px)
+{
+.col-md-2.div1 {
+    margin-top: 60px;
+}
+}
+
+
+
+@media (min-width:1024px) and (max-width:1199px)
+{
+    .menu-band ul li a{
+    font-size: 12px !important;
+    }
+}
+@media (min-width:1200px) and (max-width:1280px)
+{.menu-band ul li a{
+    font-size: 13px !important;
+}}
+@media (min-width:1289px) and (max-width:3280px)
+{.menu-band ul li a{
+font-size: 14px !important;}
+}  
+.sp .sp-featured-article.sp-right-article .sfp-item .spf-cnt h3{
+    font-size:15px !important;margin-top: -5px;
+} 
+.re_design .sp-featured-article.sp-right-article .sfp-item .spf-cnt h3{
+    font-size:15px !important;margin-top: -5px;
+} 
+#editorial-letters {
+    margin-top: 0 !important;
+    padding: 0px 0 20px 0 !important;
+    border: 0px solid #cecece !important;
+    border-width: 0px 0 0px !important;
+    border-top: 0 !important;
+}
+#editorial-letters .editorial-item{
+    margin:0 00px 30px 0px !important;
+}
+#sp-sports{
+        padding: 0px 0 20px !important;
+}
+@media (min-width:320px) and (max-width:767px)
+{
+    .magzin .sfp-item .spf-cnt h3{
+    font-size: 20px !important;
+    line-height: 1;
+}
+    #breaking-news span.slick-rgt-arrow.slick-arrow{
+        margin-top: 2px !important;
+    }
+    .menu-band ul li.menu-band-logo img{
+        height:30px !important;
+    }
+    div#arts-and-residence,.sp,.sp-featured-article {
+    margin-top: 20px;
+}
+    div#arts-and-residence {
+    margin-top: 20px;
+}
+    ul#adv, ul#get, ul#mg {
+    display: none;
+}#home-magazine_last_Sec #news-headlines{
+    margin-top: 30px;
+}span.slick-rgt-arrow.slick-arrow {
+    width: 19px !important;
+    margin-top: -2px !important;
+}
+p.brk_nws {
+    font-size: 10px !important;
+    float: left;
+}
+.section1 {
+    padding: 0;
+}
+.footer-social-links.re {
+    width: 65%;
+}
+ div#est{
+     opacity:0;
+ }
+ footer.footer-white .footer-bottom{
+     margin-top: -45px !important;
+ }
+    .col-md-12.footr_logo {
+    padding: 0 !important;
+}
+#columnist .slick-arrow.slick-rgt-arrow {
+    right: 0 !important;
+}
+#columnist .slick-arrow.slick-lft-arrow {
+    left: 0 !important;
+}
+.footer-bottom div a {
+    border-left: 0px solid #fff !important;
+}
+    footer.bl_ack{
+        padding:0 10px !important;
+    }
+    div#right-over {
+    margin-top: 0px !important;
+}
+    .sp-featured-article .sfp-item .spf-cnt{
+        min-height: auto !important;
+        margin-bottom:10px;
+}#sp-sports{
+    padding:0px 0 0px !important;
+}
+    #editorial-letters .editorial-item{
+    margin:0 00px 10px 0px !important;
+}
+    .ad.south_ad{
+        margin:10px 0 !important;
+    }
+    .border_gg{
+        border-bottom:0px !important;
+        margin-bottom:0px !important;
+    }
+    .menu-band{
+        padding-top:0px !important;
+    }
+    div#editorial-letters .sp-head{
+        margin-bottom:10px !important;
+    }
+    #editorial-letters{
+        padding:0px 0 7px 0 !important;
+    }
+    section#sp-sports .featured-27-head,#columnist .featured-27-head,#arts_liv h2.featured-27-head,.home-and-garden h2.featured-27-head,section#home-jobs h2.featured-27-head {
+    font-size: 30px;
+}#home-magazine h2{
+    margin-bottom:30px !important;
+}
+.featured-27-head img{
+    width:auto !important;margin-left:0px !important;
+}
+    #site-menu ul li:hover ul{
+        width:100% !important;
+    }
+    #columnist .columnist-slider{
+        margin:0px !important;
+    }
+    #columnist{
+        margin-top:25px !important;
+    }
+    .col-sm-6.text-start.southamptomimg{
+        margin-top:0px !important;
+    }
+    #news-headlines{
+        margin-bottom:0px !important;
+    }
+    .sp h1{
+        margin-bottom: 17px;
+    }
+.header_top a#main_link {
+    display: none;
+}
+.sports_div .featured-27-cnt{
+    bottom:0%;
+}
+#editorial-letters .sp-head{
+    margin:10px 0;
+}
+.featured-27-article{
+    margin:20px 0 !important;
+}
+div#arts_liv {
+    margin-top: 10px !important;
+}
+#home-jobs a.btn.green_btn.btn-primary {
+    padding: 9px !important;
+    width: 100%;
+    font-size: 15px;
+}
+h3.sp-head.letter-head{
+    margin-bottom:10px !important;
+    margin-top:0px !important;
+}
+.ad-after-banner.sp-ads{
+    margin:0px !important;padding:0px !important;
+}
+div#spotys {
+    margin-top: 25px;
+}
+
+.header_top .col-md-2.div1 img {
+    display: inline-block;
+    width: 32%;
+}
+.header_top{
+    min-height: 170px;
+}
+.header_top .col-md-2.div1 {
+    margin: 15px;
+}
+}   
+</style>
+
+<body>
+    <div id="top-loader"></div>
+    <div id="wptime-plugin-preloader"></div>
+        <section class="header_top">
+    <div class="container">
+        <div class="row flex-row-reverse">
+            <div class="col-md-10 div2">    
+                <div id="top-ad" align="center" style="margin:0">
+                    <script>broadstreet.watch({networkId: 5780})</script>                    <broadstreet-zone zone-id="69663"></broadstreet-zone>
+                </div>
+            </div>
+            <div class="col-md-2 div1" >    
+            
+              <a id="main_link" href="/" class="logo-active" data-step="1" data-intro="The 27east page is home to all the East End�s Arts & Entertainment, Real Estate and Lifestyle news, as well as the calendar, business guide, classified ads and real estate listings.">
+                                                <img src="https://www.27east.com/wp-content/themes/27East/redesign/img/header_img.png" class="img-fluid" alt="logo">
+                                            </a>
+
+                    <a id="southampton_link" class="" href="/southampton-press/"  data-step="2" data-intro="News, sports, editorials, police reports, obituaries and letters to the editor from both editions of The Southampton Press can be found on this page.">
+                                                <img src="https://www.27east.com/wp-content/themes/27East/images/southampton-press.svg" class="img-fluid" alt="logo">
+                                            </a>
+                    <a href="/east-hampton-press/" class="" id="east_link" data-step="3" data-intro="News, sports, editorials, police reports, obituaries and letters to the editor from The East Hampton Press can be found on this page.">
+                                                <img src="https://www.27east.com/wp-content/themes/27East/images/hampton-press.svg" class="img-fluid" alt="logo" style="float:left">
+                                            </a>
+                    <a href="/sag-harbor-express/" class="" id="east_link" data-step="4" data-intro="News, sports, editorials, police reports, obituaries and letters to the editor from The East Hampton Press can be found on this page.">
+                                                <img src="https://www.27east.com/wp-content/themes/27East/redesign/img/header_img_sag.png" class="img-fluid" alt="logo"  style="float:left;margin-top:-2px;">
+                                            </a>
+            </div></div></div></section>
+        <!-- SIDE MENU -->
+    <div id="site-menu">
+        <div class="site-menu-wrap">
+            <div class="user-details">
+            <img src="https://www.27east.com/wp-content/themes/27East/images/close.png" class="aaaaa" alt="user-image" style="float: right;
+    width: 8%; margin-top: 10px;">
+                <img src="https://www.27east.com/wp-content/themes/27East/images/dummy-member-black.png" class="img-fluid user-image" alt="user-image">
+                <h2>
+                    Welcome                </h2>
+                                    <a href="https://www.27east.com/s-signup"><u>Login</u></a>
+                            </div>
+            <div class="mob-menu-search d-block d-lg-none">
+                <form role="search" id="searchform" action="https://www.27east.com" method="get">
+                    <div class="input-group">
+                      <input type="text" class="form-control" placeholder="Search" name="s">
+                      <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="submit" id="button-addon2">Go</button>
+                      </div>
+                    </div>
+                </form>
+            </div>
+
+            <div class="accordion" id="accordionExample">
+                <div class="each-set">
+                        <div class="" id="headingOne">
+                            <h5 class="mb-0">
+                                <button class="btn btn-link " type="button" >
+                                   <a href="https://www.27east.com"> <img src="https://www.27east.com/wp-content/themes/27East/images/27-bk-logo.svg" class="img-fluid"></a>
+                                </button>
+                            </h5>
+                        </div>
+
+                        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div class="">
+                                <ul>
+                                                            <li class="nav-item">
+                                <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/southampton-press" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Southampton Press
+                                  </a>
+
+                                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                  <li><a class="" href="/southampton-press">Home</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-news/">News</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-police/">Police</a></li>
+                                    <li><a class="" href="/southampton-press/sports-southampton-press/">Sports</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-opinions/southampton-editorial/">Opinion</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-news/obituaries">Obituaries</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-news/southampton-community/">Community</a></li>
+                                    </ul>                                                                       
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/east-hampton-press" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    East Hampton Press
+                                  </a>
+
+                                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                  <li><a class="" href="/east-hampton-press">Home</a></li>
+                                                                        <li><a class="" href="/east-hampton-press/east-hampton-news/">News</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/police/">Police</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/sports/">Sports</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/east-hampton-opininons/easthampton-editorial/">Opinion</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/east-hampton-news/east-hampton-news-obituaries/">Obituaries</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/east-hampton-news/easthampton-community">Community</a></li>
+                                                                                
+                                  </ul>
+                                </div>
+                              
+                            </li>
+                            
+                            <li class="nav-item">
+                            <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/sag-harbor-express" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Sag Harbor Express
+                                  </a>
+
+                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" href="/sag-harbor-express">Home</a></li>
+                                    <li><a class="" href="/sag-harbor-express/sag-harbor-news">News</a></li>
+                                    <li><a class="" href="/sag-harbor-express/sag-harbor-police/">Police</a></li>
+                                    <li><a class="" href="/sag-harbor-express/sag-harbor-sports/">Sports</a></li>
+                                    <li><a class="" href="/sag-harbor-express/sag-harbor-opinion/sag-harbor-editorials/">Opinion</a></li>
+                                    <li><a class="" href="/sag-harbor-express/sag-harbor-news/sag-harbor-obituaries/">Obituaries</a></li>
+                                    <li><a class="" href="/sag-harbor-express/sag-harbor-community/">Community</a></li>
+                                    </ul>
+                                </div>
+                              
+                            </li>
+                            
+                                    <li class="nav-item">
+                            <div class="dropdown">
+                                  <a class=" dropdown-toggle" href="/home-garden/" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Residence
+                                  </a>
+
+                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" href="/home-garden">Residence</a></li>
+                                    <li><a class="" href="/real-estate-news">Real Estate News</a></li>
+                                    <!--<li><a class="" href="/#">Columns</a></li>-->
+                                </div>
+                              
+                            </li>
+                            
+                            <li class="nav-item">
+                                <div class="dropdown">
+                                      <a class=" dropdown-toggle"  href="/arts/" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Arts
+                                      </a>
+                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                        <li><a class=" " href="/arts/">Arts</a></li>
+                                        <li><a class=" " href="/food-drinks/">Food & Drink</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="nav-item"><a class="" href="/magazine">Express Magazine</a></li>
+                            <li class="nav-item"><a class="" href="/27speaks">27Speaks Podcast</a></li>
+                            <li class="nav-item"><a class="" href="/express-sessions">Express Sessions</a></li>
+                            <li class="nav-item"><a class="" target="_blank" href="https://www.wliw.org/radio/programs/behind-the-headlines/">Behind The Headlines</a></li>
+                            <li class="nav-item"><a class="" href="/classifieds">Classifieds    </a></li>
+                            <li class="nav-item"><a class="" href="/real-estate">Sales & Rentals</a></li>
+                            <li class="nav-item"><a class=""  href="/yardsale">Yard Sales</a></li>
+                            <li class="nav-item"><a class="" href="/events">Calendar of Events</a></li>
+                            <li class="nav-item"><a class="" href="/business">Business Directory</a></li>
+                            <li class="nav-item"><a class="" href="/digital-edition">E-Edition</a></li>
+                            <li class="nav-item"><a class="" href="/subscribe">Subscribe</a></li>
+                            <li class="nav-item"><a class="" href="/contact-us">Contact Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                       
+                </div>
+    
+            
+            </div>
+        </div>
+    </div>
+    
+    <!-- SIDE MENU -->
+
+    <div id="right-over">
+    
+        <header>
+         
+             <!-- below this line are the steps ( your can add these blocks to the footer.php file if needed)-->
+    
+                     
+            <div class="menu-band d-none d-lg-block" id="main_menu_bar">
+                <div class="container">
+                        <!-- 27east Menu starts -->
+                        <div id="home_menu" class="d-flex align-middle justify-content-between" style="display:flex;">
+                            <ul class="left-menu-ul">
+                                <li data-step="4" data-intro="Click the menu icon to open a complete list of all the content on all three websites: 27east, The Southampton Press and The East Hampton Press."><a class="left_menu"><img src="https://www.27east.com/wp-content/themes/27East/images/menu-bar.svg" class="img-fluid menu-bar" alt="menu bar"></a></li>
+                                <li><a class="navbar-brand" href="https://www.27east.com"><img src="https://www.27east.com/wp-content/themes/27East/redesign/img/logo_nav_new.svg" class="img1" width="75px"></a></li>                                                              
+                                <li class="nav-item">
+                                <div class="dropdown">
+                                  <a class=" dropdown-toggle"   href="/southampton-press" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Southampton Press
+                                  </a>
+
+
+                                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" href="/southampton-press/southampton-news/">News</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-police/">Police</a></li>
+                                    <li><a class="" href="/southampton-press/sports-southampton-press/">Sports</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-opinions/southampton-editorial/">Opinion</a></li>
+                                    <li><a class="" href="/southampton-press/southampton-news/obituaries/">Obituaries</a></li>
+                                    <li><a class="" 
+                                        href="/southampton-press/southampton-news/southampton-community/">Community</a></li>
+                                    </ul>                                                                       
+                                </div>
+                            </li>
+                            <li class="nav-item">
+                                <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/east-hampton-press/" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    East Hampton Press
+                                  </a>
+
+                                  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                                                        <li><a class="" href="/east-hampton-press/east-hampton-news/">News</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/police/">Police</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/sports/">Sports</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/east-hampton-opininons/easthampton-editorial/">Opinion</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/east-hampton-news/east-hampton-news-obituaries">Obituaries</a></li>
+                                                                                <li><a class="" href="/east-hampton-press/east-hampton-news/easthampton-community/">Community</a></li>
+                                                                                
+                                  </ul>
+                                </div>
+                              
+                            </li>
+                            
+                            <li class="nav-item">
+                            <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/sag-harbor-express" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Sag Harbor Express
+                                  </a>
+
+                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" 
+                                        href="/sag-harbor-express/sag-harbor-news//">News</a></li>
+                                    <li><a class="" 
+                                        href="/sag-harbor-express/sag-harbor-police/sag-harbor-police-news/">Police</a></li>
+                                    <li><a class=""
+                                     href="/sag-harbor-express/sag-harbor-express/sag-harbor-sports/">Sports</a></li>
+                                    <li><a class="" 
+                                        href="/sag-harbor-express/sag-harbor-opinion/sag-harbor-editorials/">Opinion</a></li>
+                                    <li><a class="" 
+                                        href="/sag-harbor-express/sag-harbor-news/sag-harbor-obituaries/">Obituaries</a></li>
+                                    <li><a class="" 
+                                        href="/sag-harbor-express/sag-harbor-community/">Community</a></li>
+                                    </ul>
+                                </div>
+                              
+                            </li>
+                            
+                                    <li class="nav-item">
+                            <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/home-garden/" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Residence
+                                  </a>
+
+                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" href="/home-garden">Residence</a></li>
+                                    <li><a class="" href="/real-estate-news">Real Estate News</a></li>
+                                   <!-- <li><a class="" href="#">Columns</a></li>
+                                    -->
+                                    </ul>
+                                </div>
+                              
+                            </li>
+                            
+                            <li class="nav-item">
+                            <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/arts/" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Arts 
+
+                                  </a>
+
+                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" href="/arts/">Arts & Living  </a></li>
+                                    <li><a class=""  href="/food-drinks/">Food & Drink</a></li>
+                                    </ul>
+                                </div>
+                              
+                            </li>     
+        <li class="nav-item">
+                            <div class="dropdown">
+                                  <a class=" dropdown-toggle"  href="/classifieds" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                                    Classifieds
+
+                                  </a>
+
+                                 <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                    <li><a class="" href="/classifieds">Classifieds</a></li>
+                                   <li><a class="" href="/real-estate">Sales/Rentals</a></li>
+                                    <li><a class="" href="/yardsale">Yard Sales</a></li>
+
+                                    </ul>
+                                </div>
+                              
+                            </li><!--<li><a class="" href="https://www.27east.com/remembering911/">Remembering 9/11</a></li>-->
+                            </ul>
+<ul class="account-search">                             <li><a href="#search"><span style="font-size: 14px; color: #8CC1FF;">&nbsp;Search</span><img src="https://www.27east.com/wp-content/themes/27East/redesign/img/search.png" class="img-fluid"></a></li>
+
+                                <li>
+                                                                <a href="https://www.27east.com/s-signup"><span style="font-size: 14px; color: #8CC1FF;">&nbsp;Login/Signup</span><img src="https://www.27east.com/wp-content/themes/27East/redesign/img/user.png" class="img-fluid"></a>
+                                                                </li>                            
+                            
+<li class="btn1"><button onclick="location.href='https://www.27east.com/subscribe';">Subscribe</button></li>
+</ul>
+                        </div>
+                        <!-- 27east Menu ends -->
+
+                   
+                </div>
+
+                 <div class="search-input" style="display:none;">
+                    <div class="search-inner">
+                        <form role="search" id="searchform" action="https://www.27east.com" method="get">
+                            <div class="input-group">
+                              <input type="text" class="form-control" placeholder="Type a keyword to search articles" autocomplete="off" name="s" type="search">
+                              <div class="input-group-append">
+                                <button class="btn btn-outline-secondary search-box-search-btn" type="submit"><img src="https://www.27east.com/wp-content/themes/27East/images/header-search-icon-blk.svg" class="img-fluid"></button>
+                                <button id="close-search-input" class="btn btn-outline-secondary" type="button"><img src="https://www.27east.com/wp-content/themes/27East/images/close-blk.svg" class="img-fluid" width="19px"></button>
+                              </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+           
+            <!-- Mobile Menu Band -->      
+            <div class="menu-band d-lg-none">
+                <div class="container">
+                    <ul>
+                        <li><a class="left_menu"><img src="https://www.27east.com/wp-content/themes/27East/images/menu-bar.svg" class="img-fluid menu-bar" alt="menu bar"></a></li>
+                        <!--<li class="menu-band-logo m-l-active" style="background-color: #0a090900"><a href="/"><img src="https://www.27east.com/wp-content/themes/27East/redesign/img/footer_logo.png" class="img-fluid" alt="logo"></a></li>-->
+
+                        <li class="menu-band-logo m-l-active" style="background-color: #0a090900"><a href="/"><img src="https://www.27east.com/wp-content/themes/27East/redesign/img/logo_nav_new.svg" class="img-fluid" alt="logo"></a></li>
+                        <li class="menu-band-logo d-md-block d-none" style="background-color: #0a090900"><a href="/southampton-press"><img src="https://www.27east.com/wp-content/themes/27East//images/southampton-press-wt.svg" class="img-fluid" alt="logo"></a></li>
+                        <li class="menu-band-logo mr-0 d-md-block d-none" style="background-color: #0a090900"><a href="/east-hampton-press/"><img src="https://www.27east.com/wp-content/themes/27East/images/hampton-press-wt.svg" class="img-fluid" alt="logo"></a></li>
+                        <li class="menu-band-logo mr-0 d-md-block d-none" style="background-color: #0a090900"><a href="/sag-harbor-express/"><img src="https://www.27east.com/wp-content/themes/27East/redesign/img/sag.png" class="img-fluid" alt="logo"></a></li>
+                               
+                        <!-- My Account Icon for Mobile -->
+                        <li class="d-block d-sm-none" style="margin-left: auto;">
+                                                   
+                           
+                                                            <a href="https://www.27east.com/s-signup" style="margin: 0;padding: 0;"><img src="https://www.27east.com/wp-content/themes/27East/images/user-icon.svg" width="15" class="img-fluid"></a>
+                                                           
+                           
+                        </li>
+                        <!-- My Account Icon for Mobile -->
+
+                        <!-- My Account for Ipad -->
+                        <li class="d-none d-md-block d-lg-none" style="margin-left: auto;">
+                                                        <a href="https://www.27east.com/s-signup"><img src="https://www.27east.com/wp-content/themes/27East/images/user-icon.svg" class="img-fluid"><span>&nbsp;Login/Signup</span></a>
+                                                    </li>  
+                        <!-- My Account for Ipad --> 
+                    </ul>
+                </div>
+            </div>
+            <!-- Mobile Menu Band -->
+        </header>
+
+
+		<div class="container">
+		<h1></h1> 
+	</div>
+<footer class="footer-white bl_ack">
+
+    <div class="container">
+        <div class="footer-top">
+            <div class="row">
+                <div class="col-md-12 footr_logo">
+                    <img src="https://www.27east.com/wp-content/themes/27East/redesign/img/logo_nav_new.svg" width="120px" class="img-fluid">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6 col-md-12 col-lg-8 div1">
+                    <div class="row">
+                        <ul class="footer-links col-md-3">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/east-hampton-press/">East Hampton Press</a></li>
+                            <li><a href="/southampton-press/">Southampton Press</a></li>
+                            <li><a href="/sag-harbor-express">Sag Harbor Express</a></li>
+                            <li><a href="/arts/">Arts &amp; Living</a></li>
+                            <li><a href="/home-garden">Real Estate</a></li>
+                            <li><a href="/events/">Events</a></li>
+                        </ul>
+                        <ul class="footer-links col-md-3" id="mg">
+                            <li><a href="/magazine/">Express Magazine</a></li>
+                            <li><a href="/classifieds/">Classifieds</a></li>
+                            <li><a href="/business/">Business Directory</a></li>
+                            <li><a href="/about/">About Us</a></li>
+                        </ul>
+                        <ul class="footer-links col-md-3" id="adv">
+                            <li><a href="/contact-us/">Contact / Advertise</a></li>
+                            <li><a href="/digital-edition/">Read E-Edition</a></li>
+                            <li><a href="/digital-archives/">Digital Archives</a></li>
+                        </ul>
+                        <ul class="footer-links col-md-3" id="get">
+                            <li><a href="/submit-a-news-tip/">Send us a news tip</a></li>
+                            <li><a href="http://eepurl.com/gUQeCf" target="_blank">Get breaking news updates</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-6 col-md-12 col-lg-4 div2 footerIpadAddress">
+                    <ul class="footer-links" id="exp">
+                        <li><b style="color: #fff;">The Express News Group</b></li>
+                        <li>135 Windmill Lane </li>
+                        <li>Southampton, NY 11968</li>
+                        <li><a href="tel:6312834100">Phone : 631-283-4100</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div id="est">
+                <span>27east.com © 1990-2023</span>
+                <a href="/terms-of-service/" class="footer-terms">Terms of Service</a>
+            </div>
+            <div class="footer-social-links re">
+                <a href="https://www.facebook.com/27east" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com/27east" target="_blank"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="mobile-overlay" style="position:fixed;top:0;bottom: 0;left: 0;right: 0;background-color: rgba(0,0,0,.7);display: none; overflow: hidden; z-index: 1100">
+</div>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script async src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script src="https://www.27east.com/wp-content/themes/27East/js/jquery.matchHeight.js"></script>
+<script src="https://www.27east.com/wp-content/themes/27East/js/main.js"></script>
+<script src="https://www.27east.com/wp-content/themes/27East/js/select.js"></script>
+<script src="https://www.27east.com/wp-content/themes/27East/js/jquery.marquee.js"></script>
+<script src="https://www.27east.com/wp-content/themes/27East/js/jquery.easing.js"></script>
+<script src="https://www.27east.com/wp-content/themes/27East/js/slick/slick.min.js"></script>
+
+<script type="text/javascript">
+    if ($(window).width() <= 768) {
+        $('#site-menu ul .outer-li').click(function(e) {
+            $('#site-menu ul .outer-li').find('.active').removeClass('active');
+            $(this).children('ul').addClass('active');
+        });
+    }
+</script>
+<!-- <script>
+    function startTour() {
+        var tour = introJs()
+        tour.setOption('tooltipPosition', 'auto');
+        tour.setOption('positionPrecedence', ['left', 'right', 'top', 'bottom']);
+        tour.start();
+    }
+
+    </script> -->
+
+<script src="https://www.27east.com/wp-content/themes/27East/js/parsley.min.js"></script>
+<script async type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js">
+</script>
+<script type="text/javascript">
+    $('.marquee').marquee({
+        allowCss3Support: true,
+        css3easing: 'linear',
+        delayBeforeStart: 1000,
+        direction: 'left',
+        duration: 14000,
+        gap: 20,
+        pauseOnHover: true,
+        startVisible: false
+    });
+</script>
+<script>
+    $('.featured-27-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 6000,
+        cssEase: 'ease-in-out',
+        touchThreshold: 100,
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        nextArrow: '<span class="slick-rgt-arrow"><img  src="https://www.27east.com/wp-content/themes/27East/images/slider-right-arrow.svg" class="img-fluid"  alt="img" /></span>',
+        prevArrow: '<span class="slick-lft-arrow"><img  style="margin-top: 4px;" src="https://www.27east.com/wp-content/themes/27East/images/slider-left-arrow.svg" class="img-fluid " alt="img" /></span>',
+        responsive: [{
+                breakpoint: 1025,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    infinite: true,
+                }
+            }, {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }, {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+
+<script>
+    $('select').extendSelect();
+</script>
+<script>
+    $('#home_link').click(function() {
+        window.location.href = '/27east';
+    })
+    $('#sh_link').click(function() {
+        window.location.href = '/southampton-press';
+    })
+    $('#eh_link').click(function() {
+        window.location.href = '/east-hampton-press';
+    })
+</script>
+
+    <script>
+        $('.featured-parties-slider').slick({
+            dots: false,
+            arrow: true,
+            infinite: true,
+            speed: 1500,
+            autoplay: true,
+            autoplaySpeed: 1200,
+            cssEase: 'ease-in-out',
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            responsive: [{
+                    breakpoint: 1024,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 1,
+                        infinite: true,
+                        dots: true
+                    }
+                },
+                {
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 2,
+                        slidesToScroll: 1,
+                        autoplay: false,
+                        autoplaySpeed: 3000
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        slidesToShow: 1,
+                        slidesToScroll: 1,
+                        autoplay: false,
+                        autoplaySpeed: 3000
+                    }
+                }
+
+            ]
+        });
+    </script>
+<!-- <script type="text/javascript">
+          $('.breaking-slider').slick({
+            speed: 15000,
+            autoplay: true,
+            autoplaySpeed: 0,
+            centerMode: false,
+            cssEase: 'linear',
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            variableWidth: true,
+            infinite: true,
+            initialSlide: 1,
+            arrows: false,
+            buttons: false,
+            pauseOnHover: true,
+            pauseOnFocus: true,
+            focusOnSelect: true,
+            accessibility: false,
+            nextArrow: '<span class="slick-rgt-arrow"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-right-arrow.svg" class="img-fluid"  alt="img" /></span>',
+            prevArrow: '<span class="slick-lft-arrow"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-left-arrow.svg" class="img-fluid " alt="img" /></span>',
+          });
+    </script> -->
+
+
+
+<script>
+    $('.browse-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+<script>
+    var week_slider_json = {
+        dots: false,
+        arrow: true,
+        infinite: false,
+        autoplay: false,
+        speed: 300,
+        slidesToShow: 7,
+        slidesToScroll: 7,
+        responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 7,
+                    slidesToScroll: 7,
+                    infinite: true,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 7,
+                    slidesToScroll: 7,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 7,
+                    slidesToScroll: 7,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    };
+    $('.week-slider').slick(week_slider_json);
+</script>
+<script>
+    $('.recent-article-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+
+        responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+<script>
+    $('.featured_business_slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    infinite: true,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+<script>
+    $('.browse-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        responsive: [{
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                }
+            }, {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }, {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+<script>
+    $('.mvr-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 4.3,
+        slidesToScroll: 1,
+        responsive: [{
+                breakpoint: 1025,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                }
+            }, {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }, {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+<script>
+    $('.featured-agent-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        nextArrow: '<span class="f-a-right"><img src="https://www.27east.com/wp-content/themes/27East/images/menu-arrow-right-bk.png" class="img-fluid"  alt="img" /></span>',
+
+        prevArrow: '<span class="f-a-left"><img src="https://www.27east.com/wp-content/themes/27East/images/menu-arrow-left.png" class="img-fluid " alt="img" /></span>',
+        responsive: [{
+                breakpoint: 1025,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    infinite: true,
+                }
+            }, {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }, {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 2,
+                    autoplay: false,
+                    autoplaySpeed: 3000
+                }
+            }
+
+        ]
+    });
+</script>
+<script>
+    $(function() {
+        $('#placeAdTab li:first-child a').tab('show')
+    })
+</script>
+<script>
+    $('body').on('click', '.enabled-day', function() {
+        // clickEventDate();
+        $('.enabled-day.active').removeClass('active');
+        $(this).addClass('active');
+        $('#svgLoader').show();
+        var source = 'events';
+        var currentDate = $(this).prop('id');
+        $.ajax({
+            url: "https://www.27east.com/wp-content/themes/27East/template-filter-home-new.php",
+            data: {
+                day: currentDate,
+                source: source
+            },
+            dataType: "html",
+            type: 'post',
+            success: function(filteredPosts) {
+                $('#event_list').show();
+                $('#event_list').html(filteredPosts);
+                $('#svgLoader').hide();
+            },
+            error: function(error) {
+                console.log(error)
+            }
+        })
+    })
+</script>
+<script>
+    function clickEventDate() {
+        $('.enabled-day').click(function() {
+            $('.enabled-day.active').removeClass('active');
+            $(this).addClass('active');
+            $('#svgLoader').show();
+            var source = 'events';
+            var currentDate = $(this).prop('id');
+            $.ajax({
+                url: "https://www.27east.com/wp-content/themes/27East/template-filter-home-new.php",
+                data: {
+                    day: currentDate,
+                    source: source
+                },
+                dataType: "html",
+                type: 'post',
+                success: function(filteredPosts) {
+                    $('#event_list').show();
+                    $('#event_list').html(filteredPosts);
+                    $('#svgLoader').hide();
+                },
+                error: function(error) {
+                    console.log(error)
+                }
+            })
+        });
+    }
+</script>
+<script>
+    $(document).ready(function() {
+
+        $("#popup27").click(function() {
+            $('#login-modal-2').modal('show');
+
+        });
+
+        $("#popup27-2").click(function() {
+            $('#login-modal-2').modal('show');
+
+        });
+
+
+
+        $('#category-list-close').hide();
+        $('#category-list-show').show();
+        var newWindowWidth = $(window).width();
+        if (newWindowWidth < 481) {
+            $(function() {
+                $('#catego_classif').hide();
+
+            });
+        }
+    });
+    $('#catego_classif_show').click(function() {
+        $('#catego_classif').toggle();
+        $('#category-list-show').toggle();
+        $('#category-list-close').toggle();
+    })
+</script>
+<script>
+    $('#southampton_link').click(function() {
+        localStorage.setItem('current', 'sou');
+    });
+</script>
+<script>
+    $('#main_link').click(function() {
+        localStorage.setItem('current', '27');
+    });
+</script>
+
+<script>
+    $('.magazine-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 5,
+        slidesToScroll: 1,
+        nextArrow: '<span class="slick-rgt-arrow" style="display:none"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-right-arrow.svg" class="img-fluid"  alt="img" /></span>',
+
+        prevArrow: '<span class="slick-lft-arrow" style="display:none"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-left-arrow.svg" class="img-fluid " alt="img" /></span>',
+        responsive: [{
+                breakpoint: 1025,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 990,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false
+                }
+            }
+
+        ]
+    });
+</script>
+
+<script>
+    $('.letter-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        nextArrow: '<span class="slick-rgt-arrow"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-right-arrow.svg" class="img-fluid"  alt="img" /></span>',
+
+        prevArrow: '<span class="slick-lft-arrow"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-left-arrow.svg" class="img-fluid " alt="img" /></span>',
+        responsive: [{
+                breakpoint: 1025,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 990,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    arrows: false,
+                    dots: true,
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false
+                }
+            }
+
+        ]
+    });
+</script>
+
+
+
+
+<!-- Subcription popup starts-->
+<div class="modal hide fade" id="myModal">
+    <div class="modal-header">
+        <a class="close" data-dismiss="modal">×</a>
+        <h3>Modal header</h3>
+    </div>
+    <div class="modal-body">
+        <p>One fine body…</p>
+    </div>
+    <div class="modal-footer">
+        <a href="#" class="btn">Close</a>
+        <a href="#" class="btn btn-primary">Save changes</a>
+    </div>
+</div>
+<!-- Subcription popup ends-->
+
+
+<!-- Modal -->
+<div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="login-modal-body">
+                <button type="button" id="myButtonl" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"><img src="https://www.27east.com/wp-content/themes/27East/images/round-close.svg" class="img-fluid"></span>
+                </button>
+                <p>We're happy you are enjoying our content. You've read 4 of your 7 free articles this month. Please log in or create an account to continue reading.</p>
+                <a href="#" class="s-btn" onclick=" return sign_up_link();">Login / Create Account</a>
+                <hr>
+                <a href="tel:631-283-4100" class="q-link">QUESTIONS? Call us at 631-283-4100.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="modal fade" id="login-modal-2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="login-modal-body">
+                <button type="button" id="myButtonl" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true"><img src="https://www.27east.com/wp-content/themes/27East/images/round-close.svg" class="img-fluid"></span>
+                </button>
+                <p>We're happy you are enjoying our content. Please subscribe to continue reading.</p>
+                <a href="#" class="s-btn" onclick="return subscribe_links();" style="float: left;margin-bottom: 25px;">Subscribe</a>
+                <a href="#" class="s-btn" onclick="return subscribe_links_sibscribers();">Already a Subscriber</a>
+                <hr>
+                <a href="tel:631-283-4100" class="q-link">QUESTIONS? Call us at 631-283-4100.</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function subscribe_links() {
+        var new_url = 'https://www.27east.com/subscribe';
+        window.location.href = new_url;
+    }
+
+    function subscribe_links_sibscribers() {
+        var al = $('#artic').val();
+        var new_url = 'https://www.27east.com/s-signup?red=article&rid=' + al;
+
+        window.location.href = new_url;
+    }
+</script>
+
+<script>
+    function sign_up_link() {
+        var al = $('#artic').val();
+
+        var new_url = 'https://www.27east.com/s-signup?red=article&rid=' + al;
+        window.location.href = new_url;
+    }
+</script>
+<script>
+    $(document).ready(function() {
+                    $('a[href="#search"]').on('click', function(event) {
+                $('.search-input').show("slide", {
+                    direction: "right"
+                });
+                $('#home_menu li, #sou_menu li, #east_menu li').not(":first-child,:nth-child(2)").fadeOut();
+            });
+            $('.search-input #close-search-input').on('click', function(event) {
+                $('.search-input').hide("slide", {
+                    direction: "right"
+                });
+                $('#home_menu li, #sou_menu li, #east_menu li').not(":first-child,:nth-child(2)").fadeIn();
+            });
+        
+        setTimeout(function() {
+            if ($('.talk_comment_count_box a').html() == '0 Comments') {
+                $('.talk_comment_count_box a').html('Add a comment')
+            }
+        }, 3000);
+
+    });
+
+
+    $('#right-over, #top-ad').click(function() {
+        if ($('.show-nav').length > 0) {
+            $('.left_menu:first').trigger('click');
+        }
+    });
+    //$('#main_link,#southampton_link,#east_link,.menu-band a').click(function(){ $('#top-loader').addClass('loader1'); });
+
+    $('#mostRead').click(function() {
+        var link = $(this);
+        $('.showmore').slideToggle('slow', function() {
+            if ($(this).is(':visible')) {
+                link.text('Show Less');
+                $('html, body').animate({
+                    scrollTop: $(".showmore").offset().top - 100
+                }, 1000);
+            } else {
+                link.text('Show More');
+                $('html, body').animate({
+                    scrollTop: $(".most-read").offset().top - 100
+                }, 1000);
+            }
+        });
+    });
+
+    $('.talk_comment_count_box').click(function() {
+        $('html, body').animate({
+            scrollTop: $("#commentContainer").offset().top - 100
+        }, 1000);
+    });
+
+    $('#sportsShowMore').click(function() {
+        var link = $(this);
+        var menu = $('.hideSports');
+        if (menu.is(':visible')) {
+            menu.hide();
+            link.text('Show More');
+        } else {
+            menu.show();
+            link.text('Show Less');
+        }
+    });
+</script>
+<script src='https://www.27east.com/wp-content/themes/27East/js/fullcalendar/moment.min.js'></script>
+<script src='https://www.27east.com/wp-content/themes/27East/js/fullcalendar/fullcalendar.min.js'></script>
+<script>
+    $(document).ready(function() {
+
+        /* var login_id='0';
+        alert(login_id);
+        if(login_id==0)
+        {
+        	alert('gfr');
+        $(".alm-btn-wrap").html("<button class='alm-load-more-btn more' rel='next'  onclick='return sign_up_link()'>Load More</button>");	
+        }	
+        */
+
+        // page is now ready, initialize the calendar...
+        $('#eventCalendar').fullCalendar({
+            //aspectRatio: 1,
+            //theme: true,
+            header: {
+                left: 'prev',
+                center: 'title',
+                right: 'next'
+            },
+            dayClick: function(date, jsEvent, view) {
+                alert(1)
+                // $('#eventCalendar').find('.week-highlight').removeClass("week-highlight");
+                // $(this).parent().addClass("week-highlight");
+                // console.log('click');
+                // var day = date.day(); // number 0-6 with Sunday as 0 and Saturday as 6
+            }
+        });
+
+        $('#eventCalendar .fc-day-top').click(function() {
+            $('#eventCalendar').find('.week-highlight').removeClass("week-highlight");
+            $(this).parent().addClass("week-highlight");
+        })
+    });
+</script>
+<script>
+    $('.realated-property-slider').slick({
+        dots: false,
+        arrow: true,
+        infinite: true,
+        speed: 1500,
+        autoplay: true,
+        autoplaySpeed: 1200,
+        cssEase: 'ease-in-out',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [{
+                breakpoint: 1025,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 990,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                }
+            },
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 2,
+                    slidesToScroll: 1,
+                    autoplay: false
+                }
+            },
+            {
+                breakpoint: 480,
+                settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    autoplay: false
+                }
+            }
+
+        ]
+    });
+</script>
+
+
+
+<script>
+    $('.re-single-img-slider').slick({
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        arrows: false,
+        fade: true,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        asNavFor: '.re-thumbnail-img-slider'
+    });
+    $('.re-thumbnail-img-slider').slick({
+        slidesToShow: 4,
+        slidesToScroll: 1,
+        asNavFor: '.re-single-img-slider',
+        dots: false,
+        focusOnSelect: true,
+        autoplay: true,
+        autoplaySpeed: 5000,
+        dots: false,
+        arrows: true,
+        nextArrow: '<span class="slick-rgt-arrow"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-right-arrow.svg" class="img-responsive"  alt="img" /></span>',
+
+        prevArrow: '<span class="slick-lft-arrow"><img src="https://www.27east.com/wp-content/themes/27East/images/slider-left-arrow.svg" class="img-responsive " alt="img" /></span>',
+        responsive: [
+
+            {
+                breakpoint: 600,
+                settings: {
+                    slidesToShow: 3,
+                    slidesToScroll: 1,
+                    arrows: true,
+                    autoplay: false
+
+                }
+            }
+        ]
+    });
+</script>
+
+<script type="text/javascript">
+    var isActive = false;
+
+    $('.float-filter-btn').on('click', function() {
+        if (isActive) {
+            $(this).removeClass('active');
+            $('#filter-band').removeClass('filter-open');
+        } else {
+            $(this).addClass('active');
+            $('#filter-band').addClass('filter-open');
+        }
+        isActive = !isActive;
+    });
+    $('.filter-btn button').on('click', function() {
+        if (isActive) {
+            $(this).removeClass('active');
+            $('#filter-band').removeClass('filter-open');
+        }
+        isActive = !isActive;
+    });
+</script>
+
+<script>
+    $('#more_dates').click(function() {
+        $(this).hide();
+        $('#future_dates').show();
+        $('#less_dates').show();
+    })
+</script>
+<script>
+    $('#less_dates').click(function() {
+        $(this).hide();
+        $('#future_dates').hide();
+        $('#more_dates').show();
+    })
+</script>
+<script>
+    jQuery('.aaaaa').click(function() {
+        if ($('.show-nav').length > 0) {
+            $('.left_menu:first').trigger('click');
+        }
+    })
+</script>
+<script>
+    var men_u = $('.dropdown-menu li a').hasClass('active');
+    if (men_u) {
+        $('.dropdown-menu li a.active').parent().parent().parent().find('a.dropdown-toggle').addClass('active');
+    }
+</script>
+<style>
+    .new_for_heading {
+        font-size: 1rem;
+        font-family: "Merriweather", serif;
+        line-height: 20px;
+    }
+
+    .featured_t {
+        position: absolute;
+        left: 0;
+        top: 0;
+        display: inline-block;
+        padding: 1px 10px;
+        text-transform: uppercase;
+        color: #fff;
+        background-color: #EC7620;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 1px;
+    }
+
+    ul#dates li:nth-child(-n+3) {
+        display: block;
+    }
+
+    ul#dates li {
+        display: none;
+    }
+</style>
+
+
+<!-- Custom Feeds for Instagram JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://www.27east.com/wp-admin/admin-ajax.php";
+
+</script>
+<script type="text/javascript" src="https://www.27east.com/wp-content/plugins/frontend-reset-password/assets/js/password-lost.js?ver=1.0.0" id="som_reset_password_script-js"></script>
+<script type="text/javascript" src="https://www.27east.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript">(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://www.27east.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/pinterest-pro.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://www.27east.com/wp-content/plugins/easy-social-share-buttons3/assets/modules/subscribe-forms.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();(function() { var po = document.createElement('script'); po.type = 'text/javascript'; po.async=true;; po.src = 'https://www.27east.com/wp-content/plugins/easy-social-share-buttons3/assets/js/essb-core.min.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s); })();</script><script type="text/javascript"></script>
+</body>
+
+</html>

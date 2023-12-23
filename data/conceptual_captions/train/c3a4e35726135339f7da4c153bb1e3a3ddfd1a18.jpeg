@@ -1,0 +1,2891 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.bethel.k12.or.us/xmlrpc.php">
+	<title>Page not found &#8211; Bethel School District</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="Bethel School District &raquo; Feed" href="https://www.bethel.k12.or.us/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bethel School District &raquo; Comments Feed" href="https://www.bethel.k12.or.us/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Bethel School District &raquo; iCal Feed" href="https://www.bethel.k12.or.us/events/?ical=1" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.bethel.k12.or.us\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='formidable-css' href='https://www.bethel.k12.or.us/wp-content/plugins/formidable/css/formidableforms.css?ver=12141428' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.bethel.k12.or.us/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='font-awesome-css' href='https://www.bethel.k12.or.us/wp-content/plugins/goodlayers-core/plugins/fontawesome/font-awesome.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elegant-font-css' href='https://www.bethel.k12.or.us/wp-content/plugins/goodlayers-core/plugins/elegant/elegant-font.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gdlr-core-plugin-css' href='https://www.bethel.k12.or.us/wp-content/plugins/goodlayers-core/plugins/style.css?ver=1698240554' type='text/css' media='all' />
+<link rel='stylesheet' id='gdlr-core-page-builder-css' href='https://www.bethel.k12.or.us/wp-content/plugins/goodlayers-core/include/css/page-builder.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.bethel.k12.or.us/wp-content/tablepress-combined.min.css?ver=26' type='text/css' media='all' />
+<link rel='stylesheet' id='kingster-style-core-css' href='https://www.bethel.k12.or.us/wp-content/themes/kingster/css/style-core.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kingster-custom-style-css' href='https://www.bethel.k12.or.us/wp-content/uploads/kingster-style-custom.css?1697031566&#038;ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-main-css' href='https://www.bethel.k12.or.us/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='msl-custom-css' href='https://www.bethel.k12.or.us/wp-content/uploads/master-slider/custom.css?ver=18.5' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.bethel.k12.or.us/wp-includes/css/dashicons.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kingster-learnpress-css' href='https://www.bethel.k12.or.us/wp-content/themes/kingster/learnpress/kingster-learnpress.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='kingster-learnpress-pb-css' href='https://www.bethel.k12.or.us/wp-content/themes/kingster/learnpress/kingster-learnpress-pb.css?ver=6.4.2' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/themes/kingster/js/html5.js?ver=6.4.2" id="kingster-html5js-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/themes/kingster/learnpress/kingster-learnpress.js?ver=6.4.2" id="kingster-learnpress-js"></script>
+<link rel="https://api.w.org/" href="https://www.bethel.k12.or.us/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.bethel.k12.or.us/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<script>var ms_grabbing_curosr = 'https://www.bethel.k12.or.us/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://www.bethel.k12.or.us/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.9.5 - Responsive Touch Image Slider | avt.li/msf" />
+<script type="text/javascript">document.documentElement.className += " js";</script>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.bethel.k12.or.us"><link rel="alternate" href="https://www.bethel.k12.or.us/wp-json/tribe/events/v1/" /><meta name="generator" content="Powered by Slider Revolution 6.6.16 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/favicon-32x32-2.png" sizes="32x32" />
+<link rel="icon" href="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/favicon-32x32-2.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/favicon-32x32-2.png" />
+<meta name="msapplication-TileImage" content="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/favicon-32x32-2.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.kingster-mobile-header {
+    z-index: 90;
+}
+
+/* Home Page */
+
+
+.page-id-8490 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Home Page */
+
+
+/*COVID */
+
+
+.page-id-30034 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END COVID */
+
+
+
+/*Family Resource Center */
+
+
+.page-id-29904 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Family Resource Center */
+
+
+
+/*BOA Nutrition */
+
+
+.page-id-30777 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END BOA Nutrition */
+
+
+
+
+
+
+/*Home Access Center */
+
+
+.page-id-31346 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END *Home Access Center */
+
+
+
+/* Bethel Online */
+
+
+.page-id-15795 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Home Page */
+
+
+
+/* Superintendent Search */
+
+
+.page-id-21814 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Superintendent Search */
+
+
+/* Title IX */
+
+
+.page-id-9205 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Superintendent Search */
+
+
+
+
+/* Educator Wellness */
+
+
+.page-id-23183 a:hover {
+    color: 	#FFFF00 !important;
+}
+
+/* END Educator Wellness */
+
+
+
+
+/* Parent Wellness */
+
+
+.page-id-23198 a:hover {
+    color: 	#FFFF00 !important;
+}
+
+/* END Parent Wellness */
+
+
+/* Superintendent */
+
+
+.page-id-6719 a:hover {
+    color: #00ad42 !important;
+}
+
+/* Superintendent */
+
+
+
+/* Safe Routes to School */
+
+
+.page-id-9544 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Safe Routes to School */
+
+
+/* Report a Concern */
+
+
+.page-id-9198 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Report a Concern */
+
+
+
+
+
+
+/* Navigating Homeless Main */
+
+.page-id-9893 a:hover {
+    color: #00ad42 !important;
+}
+
+
+/* END Navigating Homeless Main */
+
+
+
+/* Navigating Homeless Dispute */
+
+.page-id-11720 a:hover {
+    color: #00ad42 !important;
+}
+
+
+/* END Navigating Homeless Dispute */
+
+
+
+
+/* Navigating Homeless mv */
+
+.page-id-9773 a:hover {
+    color: #00ad42 !important;
+}
+
+
+/* END Navigating Homeless mv */
+
+
+
+/* Navigating Homeless cr */
+
+.page-id-9843 a:hover {
+    color: #00ad42 !important;
+}
+
+
+/* END Navigating Homeless cr */
+
+
+
+
+/* Navigating Homeless uy */
+
+.page-id-9753 a:hover {
+    color: #00ad42 !important;
+}
+
+
+/* END Navigating Homeless uy */
+
+
+
+
+/* Navigating Homeless transportation */
+
+.page-id-9761 a:hover {
+    color: #00ad42 !important;
+}
+
+
+/* END Navigating Homeless transportation */
+
+
+
+/* Enroll Want to Transfer English */
+
+
+.page-id-9287 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll Want to Transfer English */
+
+
+
+
+/* Enroll Want to Transfer Spanish */
+
+
+.page-id-9370 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll Want to Transfer spanish */
+
+
+
+
+/* Enroll New Want to Transfer English */
+
+
+.page-id-9377 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll New Want to Transfer English */
+
+
+
+
+
+/* Enroll New Want to Transfer Spanish */
+
+
+.page-id-9388 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll New Want to Transfer Spanish */
+
+
+/* Enroll  */
+
+
+.page-id-6444 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll  */
+
+
+/* Nutrition contacts */
+.page-id-6522 a:hover {
+    color: #00AD42 !important;
+}
+.page-id-9932 a {
+    color: #192f59;
+}
+
+
+/* END Nutrition contacts */
+
+
+
+
+/* Transportation */
+
+
+.page-id-26041 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Transportation */
+
+
+
+
+
+
+/* Equity */
+
+
+.page-id-10147 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Equity */
+
+
+
+/* Indigenous Curriculum */
+
+
+.page-id-21316 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Indigenous Curriculum */
+
+
+
+/* Maintenance */
+
+
+.page-id-6518 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Maintenance */
+
+
+
+
+/* Print Shop */
+
+
+.page-id-10358 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Print Shop */
+
+
+
+
+/* School Safety */
+
+.schoolsaftynumber  a:link {
+    color: black;
+}
+.schoolsaftynumber  a:hover {
+    color: #00AD42;
+}
+/* END School Safety */
+
+
+
+
+
+/* Special Services */
+
+
+.page-id-10429 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Special Services */
+
+
+
+
+
+/* Community Relations */
+
+
+.page-id-10448 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Community Relations */
+
+
+
+
+
+
+/*Technology */
+
+
+.page-id-6535 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Technology */
+
+
+
+
+/*Enroll New Students English */
+
+
+.page-id-9377 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll New Students English */
+
+
+
+
+/*Enroll New Students Spanish */
+
+
+.page-id-9388 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Enroll New Students Spanish */
+
+
+
+
+
+/*ITC LW */
+
+
+.page-id-10709 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END ITC LW */
+
+
+
+
+
+/* ITC Questionaire */
+
+.questionlink  a:link {
+    color: black;
+}
+.questionlink  a:hover {
+    color: #ffffff;
+}
+/* END ITC Questionaire */
+
+
+
+
+
+
+/* ITC USDA */
+
+.usdalink  a:link {
+    color: #000000;
+}
+.usdalink  a:hover {
+    color: #ffffff;
+}
+/* END ITC USDA */
+
+
+
+
+
+/* ITC Tuition */
+
+.tuition  a:link {
+    color: #ffffff;
+}
+.tuition  a:hover {
+    color: #00ad42;
+}
+/* END ITC Tuition */
+
+
+
+
+
+/* Substitutes */
+
+
+.page-id-11016 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Substitutes */
+
+
+
+
+
+/* Human Resources */
+
+
+.page-id-10832 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Human Resources */
+
+
+
+
+/* Absence Management */
+
+
+.page-id-11135 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Absence Management */
+
+
+
+
+
+/* Sick Time */
+
+
+.page-id-11156 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Sick Time */
+
+
+
+
+
+/* New Sub App */
+
+
+.page-id-11171 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END New Sub App */
+
+
+
+
+/* Returning Sub App */
+
+
+.page-id-11180 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Returning Sub App */
+
+
+
+
+
+/* Pathways to Education */
+
+
+.page-id-11192 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Pathways to Educationp */
+
+
+
+
+
+/* Alumni */
+
+
+.page-id-11238 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Alumni */
+
+
+
+
+
+/* Healthy and Safe Schools */
+
+
+.page-id-11261 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Healthy and Safe Schools */
+
+
+
+
+/* Willamette HS Facilities */
+
+
+.page-id-11284 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Willamette HS Facilities */
+
+
+
+
+/* Counselor Resources */
+
+
+.page-id-11376 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Counselor Resources */
+
+
+
+
+
+/* Licensed Eval */
+
+
+.page-id-11389 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Licensed Eval */
+
+
+
+/* CTE */
+
+
+.page-id-6705 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END CTE */
+
+
+
+/* ELD */
+
+
+.page-id-6709 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END ELD */
+
+
+
+
+
+/* ELPA Link ELD */
+
+.elpalink  a:link {
+    color: #000000;
+}
+.usdalink  a:hover {
+    color: #ffffff;
+}
+/* END ELPA Link ELD */
+
+
+
+
+
+/* On-Track for Success */
+
+
+.page-id-11666 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END On-Track for Success */
+
+
+
+
+/* Board Policies */
+
+
+.page-id-15135 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Board Policies */
+
+
+/* Business Services */
+.page-id-6508 a:hover {
+    color: #00AD42;
+}
+.page-id-9820 a {
+    color: #ffffff;
+}
+
+
+/* END Business Services */
+
+
+/* Financial Information */
+
+
+.page-id-6723 a:hover {
+    color: #00ad42 !important;
+}
+
+/* Financial Information */
+
+
+
+
+/* Vendors */
+
+
+.page-id-11415 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Vendors */
+
+
+
+
+	/* Cascade */
+	
+	.page-id-12372 .kingster-top-bar-background, .page-id-12393 .kingster-top-bar-background, .page-id-12404 .kingster-top-bar-background, .page-id-12406 .kingster-top-bar-background, .page-id-12408 .kingster-top-bar-background, .page-id-12418 .kingster-top-bar-background, .page-id-12422 .kingster-top-bar-background, .page-id-12425 .kingster-top-bar-background {
+		background-color: #228B22;
+	
+	}
+	
+	.page-id-12372 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12393 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12404 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12406 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12408 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12418 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12422 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12425 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #228B22; 
+	}
+	
+	.page-id-12372 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12393 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12404 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12406 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12408 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12418 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12422 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12425 .sf-menu > li > a {
+	    color: #228B22;
+	}
+	
+	.page-id-12372 .kingster-top-bar li > a, .page-id-12393 .kingster-top-bar li > a, .page-id-12404 .kingster-top-bar li > a, .page-id-12406 .kingster-top-bar li > a, .page-id-12408 .kingster-top-bar li > a, .page-id-12418 .kingster-top-bar li > a, .page-id-12422 .kingster-top-bar li > a, .page-id-12425 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12372 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12393 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12404 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12406 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12408 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12418 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12422 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12425 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #228B22;
+	}
+	
+	
+	.page-id-12372 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12393 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12404 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12406 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12408 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12418 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12422 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12425 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12372 .kingster-top-bar a:hover, .page-id-12393 .kingster-top-bar a:hover, .page-id-12404 .kingster-top-bar a:hover, .page-id-12406 .kingster-top-bar a:hover, .page-id-12408 .kingster-top-bar a:hover, .page-id-12418 .kingster-top-bar a:hover, .page-id-12422 .kingster-top-bar a:hover, .page-id-12425 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+.page-id-12372 .kingster-footer-back-to-top-button, .page-id-12393 .kingster-footer-back-to-top-button, .page-id-12404 .kingster-footer-back-to-top-button, .page-id-12406 .kingster-footer-back-to-top-button, .page-id-12408 .kingster-footer-back-to-top-button, .page-id-12418 .kingster-footer-back-to-top-button, .page-id-12422 .kingster-footer-back-to-top-button, .page-id-12425 .kingster-footer-back-to-top-button {
+    background-color: #228B22;
+}
+
+	
+	
+.page-id-12372 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12393 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12404 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12406 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12408 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12418 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12422 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12425 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12372 a:hover, .page-id-12393 a:hover, .page-id-12404 a:hover, .page-id-12406 a:hover, .page-id-12408 a:hover, .page-id-12418 a:hover, .page-id-12422 a:hover, .page-id-12425  a:hover {
+	    color: red !important;
+	}
+	
+ 
+/* END Cascade */
+
+
+/* Cascade Home Contact */
+
+
+.page-id-12372 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Cascade Home Contact */
+
+
+/* Cascade Welcome */
+
+
+.page-id-12393 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Cascade Welcome */
+
+
+/* Cascade School Information */
+
+
+.page-id-12404 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END School Information */
+
+
+
+/* Cascade Connect */
+
+
+.page-id-12408 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Cascade Connect */
+
+
+
+
+/* Clear Lake */
+	
+	.page-id-12303 .kingster-top-bar-background, .page-id-12308 .kingster-top-bar-background, .page-id-12311 .kingster-top-bar-background, .page-id-12320 .kingster-top-bar-background, .page-id-12322 .kingster-top-bar-background, .page-id-12313 .kingster-top-bar-background, .page-id-12315 .kingster-top-bar-background, .page-id-12317 .kingster-top-bar-background {
+		background-color: #192bc2;
+	
+	}
+	
+	.page-id-12303 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12308 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12311 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12320 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12322 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12313 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12315 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12317 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #192bc2; 
+	}
+	
+	.page-id-12303 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12308 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12311 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12320 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12322 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12313 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12315 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12317 .sf-menu > li > a {
+	    color: #192bc2;
+	}
+	
+	.page-id-12303 .kingster-top-bar li > a, .page-id-12308 .kingster-top-bar li > a, .page-id-12311 .kingster-top-bar li > a, .page-id-12320 .kingster-top-bar li > a, .page-id-12322 .kingster-top-bar li > a, .page-id-12313 .kingster-top-bar li > a, .page-id-12315 .kingster-top-bar li > a, .page-id-12317 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12303 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12308 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12311 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12320 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12322 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12313 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12315 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12317 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #192bc2;
+	}
+	
+	
+	.page-id-12303 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12308 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12311 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12320 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12322 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12313 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12315 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12317 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12303 .kingster-top-bar a:hover, .page-id-12308 .kingster-top-bar a:hover, .page-id-12311 .kingster-top-bar a:hover, .page-id-12320 .kingster-top-bar a:hover, .page-id-12322 .kingster-top-bar a:hover, .page-id-12313 .kingster-top-bar a:hover, .page-id-12315 .kingster-top-bar a:hover, .page-id-12317 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12303 .kingster-footer-back-to-top-button, .page-id-12308 .kingster-footer-back-to-top-button, .page-id-12311 .kingster-footer-back-to-top-button, .page-id-12320 .kingster-footer-back-to-top-button, .page-id-12322 .kingster-footer-back-to-top-button, .page-id-12313 .kingster-footer-back-to-top-button, .page-id-12315 .kingster-footer-back-to-top-button, .page-id-12317 .kingster-footer-back-to-top-button {
+	    background-color: #192bc2;
+	}
+	
+	
+	.page-id-12303 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-112308 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12311 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12320 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12322 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12313 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12315 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12317 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12303 a:hover, .page-id-12308 a:hover, .page-id-12311 a:hover, .page-id-12320 a:hover, .page-id-12322 a:hover, .page-id-12313 a:hover, .page-id-12315 a:hover, .page-id-12317 a:hover {
+	    color: red !important;
+	}
+
+ 
+/* END Clear Lake */
+
+
+/* Clear Lake Home Contact */
+
+
+.page-id-12303 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Clear Lake Home Contact */
+
+
+
+/* Clear Lake Welcome */
+
+
+.page-id-12308 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Clear Lake Welcome */
+
+
+/* Clear Lake School Information */
+
+
+.page-id-12311 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Clear Lake School Information */
+
+
+
+
+
+/* Clear Lake Connect */
+
+
+.page-id-12322 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Clear Lake Connect */
+
+
+
+	/* Danebo */
+	
+	.page-id-12450 .kingster-top-bar-background, .page-id-12464 .kingster-top-bar-background, .page-id-12466 .kingster-top-bar-background, .page-id-12498 .kingster-top-bar-background, .page-id-12468 .kingster-top-bar-background, .page-id-12470 .kingster-top-bar-background, .page-id-12488 .kingster-top-bar-background, .page-id-12496 .kingster-top-bar-background {
+		background-color: #4169e1;
+	
+	}
+	
+	.page-id-12450 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12464 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12466 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12468 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12470 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12488 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12496 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12498 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #4169e1; 
+	}
+	
+	.page-id-12450 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12464 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12466 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12468 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12470 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12498 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12488 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12496 .sf-menu > li > a {
+	    color: #4169e1;
+	}
+	
+	.page-id-12450 .kingster-top-bar li > a, .page-id-12464 .kingster-top-bar li > a, .page-id-12466 .kingster-top-bar li > a, .page-id-12468 .kingster-top-bar li > a, .page-id-12470 .kingster-top-bar li > a, .page-id-12488 .kingster-top-bar li > a, .page-id-12496 .kingster-top-bar li > a, .page-id-12498 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12450 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12464 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12466 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12468 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12470 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12488 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12496 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12498 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #4169e1;
+	}
+	
+	
+	.page-id-12450 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12464 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12466 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12468 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12470 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12488 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12496 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12498 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12450 .kingster-top-bar a:hover, .page-id-12464 .kingster-top-bar a:hover, .page-id-12466 .kingster-top-bar a:hover, .page-id-12468 .kingster-top-bar a:hover, .page-id-12470 .kingster-top-bar a:hover, .page-id-12488 .kingster-top-bar a:hover, .page-id-12496 .kingster-top-bar a:hover, .page-id-12498 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12450 .kingster-footer-back-to-top-button, .page-id-12464 .kingster-footer-back-to-top-button, .page-id-12466 .kingster-footer-back-to-top-button, .page-id-12468 .kingster-footer-back-to-top-button, .page-id-12470 .kingster-footer-back-to-top-button, .page-id-12488 .kingster-footer-back-to-top-button, .page-id-12496 .kingster-footer-back-to-top-button, .page-id-12498 .kingster-footer-back-to-top-button {
+	    background-color: #4169e1;
+	}
+	
+	
+	.page-id-12450 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12464 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12466 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12468 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12470 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12488 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12496 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12498 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12450 a:hover, .page-id-12464 a:hover, .page-id-12466 a:hover, .page-id-12468 a:hover, .page-id-12470 a:hover, .page-id-12488 a:hover, .page-id-12496 a:hover, .page-id-12498 a:hover {
+	    color: red !important;
+	}
+	
+ 
+/* END Danebo */
+
+
+/* Danebo Home Contact */
+
+
+.page-id-12450 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Danebo Home Contact */
+
+
+/* Danebo Welcome */
+
+
+.page-id-12464 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Danebo Welcome */
+
+
+/* Danebo School Information */
+
+
+.page-id-12466 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Danebo Home Contact */
+
+
+
+/* Danebo Connect */
+
+
+.page-id-12470 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Danebo Connect */
+
+
+
+
+
+	/* Fairfield */
+	
+	.page-id-12515 .kingster-top-bar-background, .page-id-12551 .kingster-top-bar-background, .page-id-12553 .kingster-top-bar-background, .page-id-12555 .kingster-top-bar-background, .page-id-12557 .kingster-top-bar-background, .page-id-12566 .kingster-top-bar-background, .page-id-12568 .kingster-top-bar-background {
+		background-color: #000080;
+	
+	}
+	
+	.page-id-12515 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12551 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12553 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12555 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12557 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12566 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12568 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #000080; 
+	}
+	
+	.page-id-12515 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12551 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12553 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12555 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12557 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12566 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12568 .sf-menu > li > a {
+	    color: #000080;
+	}
+	
+	.page-id-12515 .kingster-top-bar li > a, .page-id-12551 .kingster-top-bar li > a, .page-id-12553 .kingster-top-bar li > a, .page-id-12555 .kingster-top-bar li > a, .page-id-12557 .kingster-top-bar li > a, .page-id-12566 .kingster-top-bar li > a, .page-id-12568 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12515 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12551 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12553 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12555 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12557 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12566 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12568 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #000080;
+	}
+	
+	
+	.page-id-12515 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12551 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12553 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12555 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12557 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12566 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12568 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12515 .kingster-top-bar a:hover, .page-id-12551 .kingster-top-bar a:hover, .page-id-12553 .kingster-top-bar a:hover, .page-id-12555 .kingster-top-bar a:hover, .page-id-12557 .kingster-top-bar a:hover, .page-id-12566 .kingster-top-bar a:hover, .page-id-12568 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12515 .kingster-footer-back-to-top-button, .page-id-12551 .kingster-footer-back-to-top-button, .page-id-12553 .kingster-footer-back-to-top-button, .page-id-12555 .kingster-footer-back-to-top-button, .page-id-12557 .kingster-footer-back-to-top-button, .page-id-12566 .kingster-footer-back-to-top-button, .page-id-12568 .kingster-footer-back-to-top-button {
+	    background-color: #000080;
+	}
+	
+	
+	.page-id-12515 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12551 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12553 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12555 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12557 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12566 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12568 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12515 a:hover, .page-id-12551 a:hover, .page-id-12553 a:hover, .page-id-12555 a:hover, .page-id-12557 a:hover, .page-id-12566 a:hover, .page-id-12568  a:hover {
+	    color: red !important;
+	}
+	
+ 
+/* END Fairfield */
+
+
+/* Fairfield Home Contact */
+
+
+.page-id-12515 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Fairfield Home Contact */
+
+
+
+/* Fairfield Welcome */
+
+
+.page-id-12551 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Fairfield Welcome */
+
+
+
+/* Fairfield School Information */
+
+
+.page-id-12553 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END School Information */
+
+
+
+/* Fairfield Connect */
+
+
+.page-id-12557 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Fairfield Connect */
+
+
+
+
+	
+	/* Irving */
+	
+	.page-id-12605 .kingster-top-bar-background, .page-id-12624 .kingster-top-bar-background, .page-id-12626 .kingster-top-bar-background, .page-id-12628 .kingster-top-bar-background, .page-id-12630 .kingster-top-bar-background, .page-id-12192 .kingster-top-bar-background, .page-id-12651 .kingster-top-bar-background, .page-id-12656 .kingster-top-bar-background {
+		background-color: #c12a2a;
+	
+	}
+	
+	.page-id-12605 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12624 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12626 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12628 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12630 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12192 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12651 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12656 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #c12a2a; 
+	}
+	
+	.page-id-12605 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12624 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12626 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12628 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12630 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12192 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12651 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12656 .sf-menu > li > a {
+	    color: #c12a2a;
+	}
+	
+	.page-id-12605 .kingster-top-bar li > a, .page-id-12624 .kingster-top-bar li > a, .page-id-12626 .kingster-top-bar li > a, .page-id-12628 .kingster-top-bar li > a, .page-id-12630 .kingster-top-bar li > a, .page-id-12192 .kingster-top-bar li > a, .page-id-12651 .kingster-top-bar li > a, .page-id-12656 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12605 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12624 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12626 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12628 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12630 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12192 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12651 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12656 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #c12a2a;
+	}
+	
+	
+	.page-id-12605 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12624 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12626 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12628 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12630 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12192 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12651 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12656 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12605 .kingster-top-bar a:hover, .page-id-12624 .kingster-top-bar a:hover, .page-id-12626 .kingster-top-bar a:hover, .page-id-12628 .kingster-top-bar a:hover, .page-id-12630 .kingster-top-bar a:hover, .page-id-12192 .kingster-top-bar a:hover, .page-id-12651 .kingster-top-bar a:hover, .page-id-12656 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12605 .kingster-footer-back-to-top-button, .page-id-12624 .kingster-footer-back-to-top-button, .page-id-12626 .kingster-footer-back-to-top-button, .page-id-12628 .kingster-footer-back-to-top-button, .page-id-12630 .kingster-footer-back-to-top-button, .page-id-12192 .kingster-footer-back-to-top-button, .page-id-12651 .kingster-footer-back-to-top-button, .page-id-12656 .kingster-footer-back-to-top-button {
+	    background-color: #c12a2a;
+	}
+	
+	
+	.page-id-12605 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12624 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12626 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12628 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12630 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12192 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12651 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12656 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12605  a:hover, .page-id-12624 a:hover, .page-id-12626 a:hover, .page-id-12628 a:hover, .page-id-12630 a:hover, .page-id-12192 a:hover, .page-id-12651 a:hover, .page-id-12656  a:hover {
+	    color: red !important;
+	}
+	
+
+	
+/* END Irving */
+
+
+/* Irving Home Contact */
+
+
+.page-id-12605 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Irving Home Contact */
+
+
+/* Irving Welcome */
+
+
+.page-id-12624 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Irving Welcome */
+
+
+/* Irving School Information */
+
+
+.page-id-12311 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Irving School Information */
+
+
+
+/* Irving Connect */
+
+
+.page-id-12630 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Irving Connect */
+
+
+
+
+	/* Malabon */
+	
+	.page-id-12127 .kingster-top-bar-background, .page-id-12245 .kingster-top-bar-background, .page-id-12248 .kingster-top-bar-background, .page-id-12201 .kingster-top-bar-background, .page-id-12194 .kingster-top-bar-background, .page-id-12653 .kingster-top-bar-background, .page-id-12250 .kingster-top-bar-background, .page-id-12197 .kingster-top-bar-background {
+		background-color: #046bcc;
+	
+	}
+	
+	.page-id-12127 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12245 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12248 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12201 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12194 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12653 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12250 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12197 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #046bcc; 
+	}
+	
+	.page-id-12127 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12245 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12248 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12201 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12194 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12653 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12250 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12197 .sf-menu > li > a {
+	    color: #046bcc;
+	}
+	
+	.page-id-12127 .kingster-top-bar li > a, .page-id-12245 .kingster-top-bar li > a, .page-id-12248 .kingster-top-bar li > a, .page-id-12201 .kingster-top-bar li > a, .page-id-12194 .kingster-top-bar li > a, .page-id-12653 .kingster-top-bar li > a, .page-id-12250 .kingster-top-bar li > a, .page-id-12197  .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12127 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12245 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12248 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12201 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12194 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12653 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12250 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12197 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #046bcc;
+	}
+	
+	
+	.page-id-12127 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12245 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12248 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12201 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12194 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12653 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12250 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12197 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12127 .kingster-top-bar a:hover, .page-id-12245 .kingster-top-bar a:hover, .page-id-12248 .kingster-top-bar a:hover, .page-id-12201 .kingster-top-bar a:hover, .page-id-12194 .kingster-top-bar a:hover, .page-id-12653 .kingster-top-bar a:hover, .page-id-12250 .kingster-top-bar a:hover, .page-id-12197 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12127 .kingster-footer-back-to-top-button, .page-id-12245 .kingster-footer-back-to-top-button, .page-id-12248 .kingster-footer-back-to-top-button, .page-id-12201 .kingster-footer-back-to-top-button, .page-id-12194 .kingster-footer-back-to-top-button, .page-id-12653 .kingster-footer-back-to-top-button, .page-id-12250 .kingster-footer-back-to-top-button, .page-id-12197 .kingster-footer-back-to-top-button {
+	    background-color: #046bcc;
+	}
+	
+	
+	.page-id-12127 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12245 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12248 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12201 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12194 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12653 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12250 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12197 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12127  a:hover, .page-id-12245 a:hover, .page-id-12248 a:hover, .page-id-12201 a:hover, .page-id-12194 a:hover, .page-id-12653 a:hover, .page-id-12250 a:hover, .page-id-12197  a:hover {
+	    color: red !important;
+	}
+
+ 
+/* END Malabon */
+
+
+/* Malabon Home Contact */
+
+
+.page-id-12127 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Malabon Home Contact */
+
+
+/* Malabon Welcome */
+
+
+.page-id-12245 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Malabon Welcome */
+
+
+/* Malabon School Information */
+
+.page-id-12248 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Malabon School Information */
+
+
+
+
+/* Malabon Connect */
+
+
+.page-id-12194 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Malabon Connect */
+
+
+
+
+	/*Meadow View */
+	
+	.page-id-12681 .kingster-top-bar-background, .page-id-12707 .kingster-top-bar-background, .page-id-12709 .kingster-top-bar-background, .page-id-12711 .kingster-top-bar-background, .page-id-12715 .kingster-top-bar-background, .page-id-12724 .kingster-top-bar-background, .page-id-12726 .kingster-top-bar-background, .page-id-12728 .kingster-top-bar-background {
+		background-color: #0e56af;
+	
+	}
+	
+	.page-id-12681 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12707 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12709 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12711 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12715 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12724 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12726 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12728 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #0e56af; 
+	}
+	
+	.page-id-12681 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12707 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12709 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12711 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12715 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12724 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12726 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12728 .sf-menu > li > a {
+	    color: #0e56af;
+	}
+	
+	.page-id-12681 .kingster-top-bar li > a, .page-id-12707 .kingster-top-bar li > a, .page-id-12709 .kingster-top-bar li > a, .page-id-12711 .kingster-top-bar li > a, .page-id-12715 .kingster-top-bar li > a, .page-id-12724 .kingster-top-bar li > a, .page-id-12726 .kingster-top-bar li > a, .page-id-12728  .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12681 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12707 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12709 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12711 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12715 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12724 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12726 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12728 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #0e56af;
+	}
+	
+	
+	.page-id-12681 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12707 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12709 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12711 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12715 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12724 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12726 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12728 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12681 .kingster-top-bar a:hover, .page-id-12707 .kingster-top-bar a:hover, .page-id-12709 .kingster-top-bar a:hover, .page-id-12711 .kingster-top-bar a:hover, .page-id-12715 .kingster-top-bar a:hover, .page-id-12724 .kingster-top-bar a:hover, .page-id-12726 .kingster-top-bar a:hover, .page-id-12728 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12681 .kingster-footer-back-to-top-button, .page-id-12707 .kingster-footer-back-to-top-button, .page-id-12728 .kingster-footer-back-to-top-button, .page-id-12709 .kingster-footer-back-to-top-button, .page-id-12711 .kingster-footer-back-to-top-button, .page-id-12715 .kingster-footer-back-to-top-button, .page-id-12724 .kingster-footer-back-to-top-button, .page-id-12726 .kingster-footer-back-to-top-button {
+	    background-color:#0e56af;
+	}
+	
+	
+	.page-id-12681 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12707 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12709 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12711 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12715 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12724 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12726 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12728 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12681  a:hover, .page-id-12707 a:hover, .page-id-12709 a:hover, .page-id-12711 a:hover, .page-id-12715 a:hover, .page-id-12724 a:hover, .page-id-12726 a:hover, .page-id-12728  a:hover {
+	    color: red !important;
+	}
+
+ 
+/* END Meadow View */
+
+
+
+/* Meadow View Home */
+
+
+.page-id-12681 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Meadow View Home */
+
+
+
+/* Meadow View Welcome */
+
+
+.page-id-12707 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Meadow View Welcome */
+
+
+
+
+/* Meadow View School Information */
+
+
+.page-id-12709 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Meadow View School Information */
+
+
+
+
+/* Meadow View Connect */
+
+
+.page-id-12715 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Meadow View Connect */
+
+
+
+/* Meadow View Post */
+
+
+.page-id-13949 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END MEadow View Post */
+
+
+
+
+	/*Prairie Mountain */
+	
+	.page-id-7005 .kingster-top-bar-background, .page-id-7296 .kingster-top-bar-background, .page-id-11863 .kingster-top-bar-background, .page-id-11865 .kingster-top-bar-background, .page-id-7110 .kingster-top-bar-background, .page-id-11812 .kingster-top-bar-background, .page-id-11824 .kingster-top-bar-background, .page-id-11820 .kingster-top-bar-background {
+		background-color: #0e56af;
+	
+	}
+	
+	.page-id-7005 .kingster-navigation .kingster-navigation-slide-bar, .page-id-7296 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-11863 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-11865 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-7110 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-11812 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-11824 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-11820 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #0e56af; 
+	}
+	
+	.page-id-7005 .sf-menu > li > a, .sf-vertical > li > a, .page-id-7296 .sf-menu > li > a, .sf-vertical > li > a, .page-id-11863 .sf-menu > li > a, .sf-vertical > li > a, .page-id-11865 .sf-menu > li > a, .sf-vertical > li > a, .page-id-7110 .sf-menu > li > a, .sf-vertical > li > a, .page-id-11812 .sf-menu > li > a, .sf-vertical > li > a, .page-id-11824 .sf-menu > li > a, .sf-vertical > li > a, .page-id-11820 .sf-menu > li > a {
+	    color: #0e56af;
+	}
+	
+	.page-id-7005 .kingster-top-bar li > a, .page-id-7296 .kingster-top-bar li > a, .page-id-11863 .kingster-top-bar li > a, .page-id-11865 .kingster-top-bar li > a, .page-id-7110 .kingster-top-bar li > a, .page-id-11812 .kingster-top-bar li > a, .page-id-11824 .kingster-top-bar li > a, .page-id-11820  .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-7005 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-7296 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-11863 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-11865 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-7110 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-11812 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-11824 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-11820 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #0e56af;
+	}
+	
+	
+	.page-id-7005 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-7296 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-11863 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-11865 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-7110 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-11812 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-11824 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-11820 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-7005 .kingster-top-bar a:hover, .page-id-7296 .kingster-top-bar a:hover, .page-id-11863 .kingster-top-bar a:hover, .page-id-11865 .kingster-top-bar a:hover, .page-id-7110 .kingster-top-bar a:hover, .page-id-11812 .kingster-top-bar a:hover, .page-id-11824 .kingster-top-bar a:hover, .page-id-11820 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-7005 .kingster-footer-back-to-top-button, .page-id-7296 .kingster-footer-back-to-top-button, .page-id-11863 .kingster-footer-back-to-top-button, .page-id-11865 .kingster-footer-back-to-top-button, .page-id-7110 .kingster-footer-back-to-top-button, .page-id-11812 .kingster-footer-back-to-top-button, .page-id-11824 .kingster-footer-back-to-top-button, .page-id-11820 .kingster-footer-back-to-top-button {
+	    background-color:#0e56af;
+	}
+	
+	
+	.page-id-7005 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-7296 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-11863 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-11865 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-7110 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-11812 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-11824 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-11820 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-7005  a:hover, .page-id-7296 a:hover, .page-id-11863 a:hover, .page-id-11865 a:hover, .page-id-7110 a:hover, .page-id-11812 a:hover, .page-id-11824 a:hover, .page-id-11820   a:hover {
+	    color: red !important;
+	}
+
+ 
+/* END Prairie Mountain */
+
+
+/* PM Home Contact */
+
+
+.page-id-7005 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END PM Home Contact */
+
+
+/* PM Welcome */
+
+
+.page-id-7296 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END PM Welcome */
+
+
+
+/* PM School Information */
+
+
+.page-id-11863 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END School Informatio */
+
+
+
+
+/* PM Connect */
+
+
+.page-id-7110 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END PM Connect */
+
+
+
+
+	/*Shasta */
+	
+	.page-id-12761 .kingster-top-bar-background, .page-id-12785 .kingster-top-bar-background, .page-id-12783 .kingster-top-bar-background, .page-id-12788 .kingster-top-bar-background, .page-id-12790 .kingster-top-bar-background, .page-id-12796 .kingster-top-bar-background, .page-id-12798 .kingster-top-bar-background, .page-id-12800 .kingster-top-bar-background {
+		background-color: #3e5bbc;
+	
+	}
+	
+	.page-id-12761 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12785 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12783 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12788 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12790 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12796 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12798 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12800 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #3e5bbc; 
+	}
+	
+	.page-id-12761 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12785 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12783 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12788 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12790 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12796 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12798 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12800  .sf-menu > li > a {
+	    color: #3e5bbc;
+	}
+	
+	.page-id-12761 .kingster-top-bar li > a, .page-id-12785 .kingster-top-bar li > a, .page-id-12783 .kingster-top-bar li > a, .page-id-12788 .kingster-top-bar li > a, .page-id-12790 .kingster-top-bar li > a, .page-id-12796 .kingster-top-bar li > a, .page-id-12798 .kingster-top-bar li > a, .page-id-12800  .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12761 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12785 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12783 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12788 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12790 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12796 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12798 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12800 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #3e5bbc;
+	}
+	
+	
+	.page-id-12761 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12785 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12783 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12788 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12790 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12796 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12798 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12800 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12761 .kingster-top-bar a:hover, .page-id-12785 .kingster-top-bar a:hover, .page-id-12783 .kingster-top-bar a:hover, .page-id-12788 .kingster-top-bar a:hover, .page-id-12790 .kingster-top-bar a:hover, .page-id-12796 .kingster-top-bar a:hover, .page-id-12798 .kingster-top-bar a:hover, .page-id-12800 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12761 .kingster-footer-back-to-top-button, .page-id-12785 .kingster-footer-back-to-top-button, .page-id-12783 .kingster-footer-back-to-top-button, .page-id-12788 .kingster-footer-back-to-top-button, .page-id-12790 .kingster-footer-back-to-top-button, .page-id-12796 .kingster-footer-back-to-top-button, .page-id-12798 .kingster-footer-back-to-top-button, .page-id-12800 .kingster-footer-back-to-top-button {
+	    background-color:#3e5bbc;
+	}
+	
+	
+	.page-id-12761 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12785 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12783 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12788 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12790 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12796 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12798 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12800 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12761 a:hover, .page-id-12785 a:hover, .page-id-12783 a:hover, .page-id-12788 a:hover, .page-id-12790 a:hover, .page-id-12796 a:hover, .page-id-12798 a:hover, .page-id-12800   a:hover {
+	    color: red !important;
+	}
+
+ 
+/* END  Shasta */
+
+
+
+/* Shasta Home */
+
+
+.page-id-12761 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Shasta Home */
+
+
+
+/* Shasta Welcome */
+
+
+.page-id-12785 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Shasta Welcome */
+
+
+
+/* Shasta School Information */
+
+
+.page-id-12783 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END SSchool Information */
+
+
+
+/* Shasta Connect */
+
+
+.page-id-12790 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Shasta Connect */
+
+
+
+
+	/*Kalapuya */
+	
+	.page-id-12827 .kingster-top-bar-background, .page-id-12844 .kingster-top-bar-background, .page-id-12846 .kingster-top-bar-background, .page-id-12848 .kingster-top-bar-background, .page-id-12850 .kingster-top-bar-background, .page-id-12858 .kingster-top-bar-background, .page-id-12860 .kingster-top-bar-background {
+		background-color: #192bc2;
+	
+	}
+	
+	.page-id-12827 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12844 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12846 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12848 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12850 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12858 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12860 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #192bc2; 
+	}
+	
+	.page-id-12827 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12844 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12846 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12848 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12850 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12858 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12860 .sf-menu > li > a, .sf-vertical > li > a {
+	    color: #192bc2;
+	}
+	
+	.page-id-12827 .kingster-top-bar li > a, .page-id-12844 .kingster-top-bar li > a, .page-id-12846 .kingster-top-bar li > a, .page-id-12848 .kingster-top-bar li > a, .page-id-12850 .kingster-top-bar li > a, .page-id-12858 .kingster-top-bar li > a, .page-id-12860 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-12827 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12844 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12846 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12848 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12850 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12858 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12860 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #192bc2;
+	}
+	
+	
+	.page-id-12827 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12844 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12846 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12848 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12850 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12858 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12860 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-12827 .kingster-top-bar a:hover, .page-id-12844 .kingster-top-bar a:hover, .page-id-12846 .kingster-top-bar a:hover, .page-id-12848 .kingster-top-bar a:hover, .page-id-12850 .kingster-top-bar a:hover, .page-id-12858 .kingster-top-bar a:hover, .page-id-12860 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-12827 .kingster-footer-back-to-top-button, .page-id-12844 .kingster-footer-back-to-top-button, .page-id-12846 .kingster-footer-back-to-top-button, .page-id-12848 .kingster-footer-back-to-top-button, .page-id-12850 .kingster-footer-back-to-top-button, .page-id-12858 .kingster-footer-back-to-top-button, .page-id-12860  .kingster-footer-back-to-top-button {
+	    background-color:#192bc2;
+	}
+	
+	
+	.page-id-12827 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12844 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12846  .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12848  .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12850 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12858 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12860 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-12827 a:hover, .page-id-12844 a:hover, .page-id-12846 a:hover, .page-id-12848 a:hover, .page-id-12850 a:hover, .page-id-12858 a:hover, .page-id-12860 a:hover {
+	    color: red !important;
+	}
+
+ 
+/* END Kalapuya */
+
+
+/* Kalapuya Home Contact */
+
+
+.page-id-12827 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Kalapuya Home Contact */
+
+
+/* Kalapuya Welcome */
+
+
+.page-id-12844 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Kalapuya Welcome */
+
+
+/* Kalapuya School Information */
+
+
+.page-id-12846 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END School Information */
+
+
+
+/* Kalapuya Connect */
+
+
+.page-id-12850 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Kalapuya Connect */
+
+
+
+/* Willamette */
+
+	.page-id-5957 .kingster-top-bar-background, .page-id-12941 .kingster-top-bar-background, .page-id-12915 .kingster-top-bar-background, .page-id-13012 .kingster-top-bar-background, .page-id-12919 .kingster-top-bar-background, .page-id-12927 .kingster-top-bar-background, .page-id-13067 .kingster-top-bar-background, .page-id-12929 .kingster-top-bar-background, .page-id-12917 .kingster-top-bar-background, .page-id-11284
+.kingster-top-bar-background, .page-id-37792
+.kingster-top-bar-background {
+		background-color: #78091e;
+	
+	}
+
+	
+	.page-id-5957 .kingster-navigation .kingster-navigation-slide-bar, .page-id-12941 .kingster-navigation .kingster-navigation-slide-bar, 
+	.page-id-12915 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-13012 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12919 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12927 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-13067 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12929 .kingster-navigation .kingster-navigation-slide-bar,
+	.page-id-12917 .kingster-navigation .kingster-navigation-slide-bar,
+		.page-id-11284 .kingster-navigation .kingster-navigation-slide-bar {
+		border-color: #78091e; 
+
+	
+	.page-id-5957 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12941 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12915 .sf-menu > li > a, .sf-vertical > li > a, .page-id-13012 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12919 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12927 .sf-menu > li > a, .sf-vertical > li > a, .page-id-13067 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12929 .sf-menu > li > a, .sf-vertical > li > a, .page-id-12917 .sf-menu > li > a, .sf-vertical > li > a, .page-id-11284 .sf-menu > li > a, .sf-vertical > li > a {
+	    color: #78091e;
+	}
+	
+	.page-id-5957 .kingster-top-bar li > a, .page-id-12941 .kingster-top-bar li > a, .page-id-12915 .kingster-top-bar li > a, .page-id-13012 .kingster-top-bar li > a, .page-id-12919 .kingster-top-bar li > a, .page-id-12927 .kingster-top-bar li > a, .page-id-13067 .kingster-top-bar li > a, .page-id-12929 .kingster-top-bar li > a, .page-id-12917 .kingster-top-bar li > a,
+.page-id-37792 .kingster-top-bar li > a, .page-id-11284 .kingster-top-bar li > a {
+		color: #ffffff ;
+	}
+	
+	.page-id-5957 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12941 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12915 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-13012 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12919 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12927 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-13067 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12929 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-12917 .sf-menu > .kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li, .page-id-11284 .sf-menu >
+> .menu-item-language li, .page-id-37792 .sf-menu >.kingster-normal-menu li, .sf-vertical ul.sub-menu li, ul.sf-menu > .menu-item-language li {
+	    background-color: #78091e;
+	}
+	
+	
+	.page-id-5957 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12941 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12915 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-13012 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12919 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12927 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-13067 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12929 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-12917 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a, .page-id-11284 .sf-menu > li > .sub-menu a:hover, .sf-menu > li > .sub-menu .current-menu-item > a, .sf-menu > li > .sub-menu .current-menu-ancestor > a, .sf-menu > .kingster-mega-menu > .sf-mega a:hover, .sf-menu > .kingster-mega-menu > .sf-mega .current-menu-item > a, .sf-vertical > li > .sub-menu a:hover, .sf-vertical > li > .sub-menu .current-menu-item > a, .sf-vertical > li > .sub-menu .current-menu-ancestor > a {
+		font-weight: bold;
+		color: #000000;
+	}
+	
+	
+	.page-id-5957 .kingster-top-bar a:hover, .page-id-12941 .kingster-top-bar a:hover, .page-id-12915 .kingster-top-bar a:hover, .page-id-13012 .kingster-top-bar a:hover, .page-id-12919 .kingster-top-bar a:hover, .page-id-12927 .kingster-top-bar a:hover, .page-id-13067 .kingster-top-bar a:hover, .page-id-12929 .kingster-top-bar a:hover, .page-id-12917 .kingster-top-bar a:hover,
+.page-id-37792 .kingster-top-bar a:hover,
+.page-id-11284 .kingster-top-bar a:hover {
+	
+		color: #ffffff;
+	}
+	
+	
+	.page-id-5957 .kingster-footer-back-to-top-button, .page-id-12941 .kingster-footer-back-to-top-button, .page-id-12915 .kingster-footer-back-to-top-button, .page-id-13012 .kingster-footer-back-to-top-button, .page-id-12919 .kingster-footer-back-to-top-button, .page-id-12927 .kingster-footer-back-to-top-button, .page-id-13067 .kingster-footer-back-to-top-button, .page-id-12929 .kingster-footer-back-to-top-button, .page-id-12917 .kingster-footer-back-to-top-button, .page-id-11284 .kingster-footer-back-to-top-button {
+	    background-color: #78091e;
+	}
+	
+	
+	.page-id-5957 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12941 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12915 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-13012 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12919 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12927 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-13067 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12929 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-12917 .kingster-navigation .sf-menu > .kingster-normal-menu li > a, .page-id-11284 .kingster-navigation .sf-menu > .kingster-normal-menu li > a {
+		color:white;
+	}
+	
+	
+	.page-id-5957 a:hover, .page-id-12941 a:hover, .page-id-12915 a:hover, .page-id-13012 a:hover, .page-id-12919 a:hover, .page-id-12927 a:hover, .page-id-13067 a:hover, .page-id-12929 a:hover, .page-id-12917 a:hover, .page-id-11284 a:hover {
+	    color: red !important;
+}
+
+
+
+/* Willamette Home Contact */
+
+
+.page-id-5957 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Willamette Home Contact */
+
+
+
+/* Willamette Connect */
+
+
+.page-id-12919 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Willamette Connect */
+
+
+/* Willamette Clubs */
+
+
+.page-id-13046 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Willamette Clubs */
+
+
+/* BSD Schools */
+
+
+.page-id-6596 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END BSD Schools */
+
+
+/* Remove top menu from mobile */
+
+@media only screen and (max-width:767px){
+    ul#kingster-top-bar-menu {
+    display: none;
+}}
+
+
+/* END Remove top menu from mobile */
+
+
+
+/* ADA */
+
+
+.page-id-14373 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END ADA */
+
+
+/* Student Use Agreements */
+
+
+.page-id-9492 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Student Use Agreements */
+
+
+/* Business Services contact */
+
+
+.page-id-6508 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Business Services contact */
+
+
+
+/* Help Desk */
+
+
+.page-id-14911 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Help Desk */
+
+
+
+/* CMS Post */
+
+
+.page-id-14995 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END CMS Post */
+
+
+
+/* SMS Post */
+
+
+.page-id-15006 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END SMS Post */
+
+
+/* KHS Post */
+
+
+.page-id-15014 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END KHS Post */
+
+
+
+/* Change of Status Form */
+
+
+.page-id-15129 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Change of Status Form */
+
+
+/* HR Admin */
+
+
+.page-id-10999 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END HR Admin */
+
+
+/* TAG Contact */
+
+
+.page-id-11685 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END TAG Contact */
+
+
+
+/* Title 1 Contact */
+
+
+.page-id-8438 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Title 1 Contact */
+
+
+
+
+/* Curriculum & Intruction */
+
+
+.page-id-15165 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Curriculum & Intruction */
+
+
+
+
+/* CTE Contact */
+
+
+.page-id-6705 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END CTE Contact */
+
+
+/* Essential Skills Contacts */
+
+
+.page-id-11586 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Essential Skills Contacts */
+
+
+/* HR Admin Contact */
+
+
+.page-id-15147 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END HR Admin Contact */
+
+
+
+/* HR Class Contact */
+
+
+.page-id-15150 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END HR Class Contact */
+
+
+
+/* HR License Contact */
+
+
+.page-id-10984 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END HR License Contact */
+
+
+
+
+/* Technology */
+
+
+.page-id-10555 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Technology */
+
+
+
+/* ITC Contact */
+
+
+.page-id-10782 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END ITC Contact */
+
+
+
+/* Kindergarten */
+
+
+.page-id-11315 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Kindergarten */
+
+
+
+/* Transfers */
+
+
+.page-id-9425 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Transfers */
+
+
+
+
+/* Symbaloo */
+
+
+.page-id-15736 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Transfers */
+
+
+/* Classroom */
+
+
+.page-id-15693 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Classroom */
+
+
+
+/* Seesaw */
+
+
+.page-id-15716 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Seesaw */
+
+
+
+/* Zoom */
+
+
+.page-id-15720 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Zoom */
+
+
+
+/* Chromebook */
+
+
+.page-id-15742 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Chromebook */
+
+
+
+/* Gmail */
+
+
+.page-id-15762 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Gmail */
+
+
+
+/* CDL */
+
+
+.page-id-15639 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END CDL */
+
+
+.gdlr-core-sticky-banner {
+    display: none;
+}
+
+
+
+span.gdlr-core-blog-info.gdlr-core-blog-info-author {
+    display: none !important;
+}
+
+
+
+/* Mobile Screen */
+
+@media only screen and (min-width: 767px) {
+    .kingster-mobile-header-wrap {
+        display: none;
+    }
+}
+@media only screen and (max-width: 1260px) and (min-width: 767px) {
+    .kingster-header-wrap.kingster-header-style-plain, .kingster-header-wrap.kingster-header-style-bar, .kingster-navigation-bar-wrap, .kingster-header-background-transparent, .kingster-header-boxed-wrap, .kingster-header-side-nav, .kingster-header-transparent-substitute, .kingster-sticky-navigation{
+        display: block !important;
+    }
+}
+
+
+/* Mobile Screen END */
+
+
+
+
+
+/* Green Nav Bar on Mobile */
+
+.kingster-top-bar {
+    display: block;
+}
+@media only screen and (max-width:767px){
+    .kingster-top-bar{
+        display: none;
+    }
+}
+
+
+/* Green Nav Bar on Mobile END */
+
+
+/* Align personnel buttons */
+
+a.gdlr-core-personnel-list-button.gdlr-core-button {
+    position: absolute;
+    bottom: 0;
+    margin-bottom:0;
+}
+.gdlr-core-personnel-style-grid .gdlr-core-personnel-list-column {
+    position: relative;
+    padding-bottom: 80px;
+}
+
+
+
+/* Align personnel buttons END */
+
+
+
+/* Top Nav Bar Text Hover */
+.kingster-top-bar-menu.sf-menu > li.current-menu-item > a,
+.kingster-top-bar-menu.sf-menu > li > a:hover {
+    color: #FFFF00 !important;
+}
+
+
+/* Top Nav Bar Text Hover */
+
+
+
+/* Personnel List Center */
+
+.gdlr-core-personnel-list {
+    text-align: center;
+}
+
+	
+	
+	/* Personnel List Center */
+	
+	
+
+
+/*TAG Referral Forms */
+
+
+.page-id-12107 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END TAG Referral Forms */
+
+
+.archive .kingster-page-title-wrap {display: none;}
+
+
+/*ParentSquare */
+
+
+.page-id-33572 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END ParentSquare */
+
+
+
+/*ParentSquare FAQs */
+
+
+.page-id-33532 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END ParentSquare FAQs */
+
+
+
+
+/*New Register */
+
+
+.page-id-34826 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END New RegistRegister */
+
+
+/*New Nutrition */
+
+
+.page-id-37185 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END New Nutrition */
+
+
+
+/*Food Allergies */
+
+
+.page-id-37244 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Food Allergies */
+
+
+/*Meal Benefits */
+
+
+.page-id-37191 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Meal Benefits */
+
+
+/*Free Meals */
+
+
+.page-id-37248 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Free Meals */
+
+
+/*Paper Meals */
+
+
+.page-id-37254 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Paper Meals */
+
+
+/*Purchasing Meals */
+
+
+.page-id-37195 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Purchasing Meals */
+
+/*Non-discrimination statement */
+
+
+.page-id-37202 a:hover {
+    color: #00ad42 !important;
+}
+
+/* END Non-discrimination statement */
+
+
+			
+
+			</style>
+		<style id="sccss">span.gdlr-core-event-item-info.gdlr-core-skin-caption.gdlr-core-type-time {
+    display: none;
+}</style></head>
+
+<body class="error404 gdlr-core-body _masterslider _ms_version_3.9.5 tribe-no-js kingster-body kingster-body-front kingster-full  kingster-with-sticky-navigation  kingster-blockquote-style-1">
+<div class="kingster-mobile-header-wrap" ><div class="kingster-top-bar" ><div class="kingster-top-bar-background" ></div><div class="kingster-top-bar-container kingster-container " ><div class="kingster-top-bar-container-inner clearfix" ><div class="kingster-top-bar-left kingster-item-pdlr">◁  ◁  Haga clic aquí para la traducción.</div><div class="kingster-top-bar-right kingster-item-pdlr"><ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6950 kingster-normal-menu"><a href="http://bethel.k12.or.us/students/" class="sf-with-ul-pre">Students</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7428" data-size="60"><a href="https://dashboard.bsd.k12.or.us/#/">Dashy Curriculum Links</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7427" data-size="60"><a href="http://www.bethelhealth.center/">Bethel Health Center</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36554" data-size="60"><a href="https://www.bethel.k12.or.us/students__trashed/change-student-password/">Change Your Password</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7430" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/home-access-center/">Home Access Center</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33323" data-size="60"><a href="https://www.bethel.k12.or.us/departments/communications/inclement-weather-in-bethel/">Inclement Weather in Bethel</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12106" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/navigating-homelessness/">Navigating Homelessness</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18037" data-size="60"><a href="https://willamettehs.owschools.com/owsoo/login/auth">Odysseyware LogIn</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36419" data-size="60"><a href="https://www.bethel.k12.or.us/online-curriculum-help/">Online Curriculum Help</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33642" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/parentsquare/">ParentSquare</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9234" data-size="60"><a href="https://www.bethel.k12.or.us/report-a-concern/">Report a Concern</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9283" data-size="60"><a href="https://www.safeoregon.com/">SafeOregon Tip Line</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28144" data-size="60"><a href="https://www.bethel.k12.or.us/student-technology-agreements/">Student Technology Agreements</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14925" data-size="60"><a href="https://www.bethel.k12.or.us/departments/technology-services/student-and-family-help-desk/">Technology Help Desk</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15108 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bsdfamilies/">Families</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7387 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/schools/" class="sf-with-ul-pre">Schools</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12388" data-size="60"><a href="https://www.bethel.k12.or.us/schools/clear-lake-elementary/">Clear Lake Elementary</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12452" data-size="60"><a href="https://www.bethel.k12.or.us/schools/danebo-elementary-school/">Danebo Elementary School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12522" data-size="60"><a href="https://www.bethel.k12.or.us/schools/fairfield-elementary-school/">Fairfield Elementary School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639" data-size="60"><a href="https://www.bethel.k12.or.us/schools/irving-elementary-school/">Irving Elementary School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12159" data-size="60"><a href="https://www.bethel.k12.or.us/schools/malabon/">Malabon Elementary</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12701" data-size="60"><a href="https://www.bethel.k12.or.us/schools/meadow-view-k-8/">Meadow View K-8</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7394" data-size="60"><a href="https://www.bethel.k12.or.us/schools/prairie-mountain/">Prairie Mountain K-8</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12389" data-size="60"><a href="https://www.bethel.k12.or.us/schools/cascade-middle-school/">Cascade Middle School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12821" data-size="60"><a href="https://www.bethel.k12.or.us/schools/shasta-middle-school/">Shasta Middle School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12881" data-size="60"><a href="https://www.bethel.k12.or.us/schools/kalapuya-high-school/">Kalapuya High School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7399" data-size="60"><a href="https://www.bethel.k12.or.us/schools/willamettehighschool/">Willamette High School</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35512 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/about/school-board/">School Board</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35078 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bsdfamilies/register/">Register</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35727 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bethelbond/">Bethel Bond</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24010 kingster-normal-menu"><a href="https://bethelor.tedk12.com/hire/index.aspx">Join Our Team!</a></li>
+</ul><div class="kingster-top-bar-right-social" ><a href="https://www.facebook.com/BethelSchoolDistrict/" target="_blank" class="kingster-top-bar-social-icon" title="facebook" ><i class="fa fa-facebook" ></i></a><a href="https://twitter.com/Bethel_Schools" target="_blank" class="kingster-top-bar-social-icon" title="twitter" ><i class="fa fa-twitter" ></i></a></div><a class="kingster-top-bar-right-button" href="http://bethel.k12.or.us/staff-portal/" target="_blank"  >Staff</a></div></div></div></div><div class="kingster-mobile-header kingster-header-background kingster-style-slide kingster-sticky-mobile-navigation " id="kingster-mobile-header" ><div class="kingster-mobile-header-container kingster-container clearfix" ><div class="kingster-logo  kingster-item-pdlr"><div class="kingster-logo-inner"><a class="" href="https://www.bethel.k12.or.us/" ><img  src="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1.jpg" width="1478" height="481"  srcset="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-400x130.jpg 400w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-600x195.jpg 600w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-800x260.jpg 800w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1.jpg 1478w"  sizes="(max-width: 767px) 100vw, (max-width: 1150px) 100vw, 1150px"  alt="Bethel School District Logo" /></a></div></div><div class="kingster-mobile-menu-right" ><div class="kingster-main-menu-search" id="kingster-mobile-top-search" ><i class="fa fa-search" ></i></div><div class="kingster-top-search-wrap" >
+	<div class="kingster-top-search-close" ></div>
+
+	<div class="kingster-top-search-row" >
+		<div class="kingster-top-search-cell" >
+			<form role="search" method="get" class="search-form" action="https://www.bethel.k12.or.us/">
+	<input type="text" class="search-field kingster-title-font" placeholder="Search..." value="" name="s">
+	<div class="kingster-top-search-submit"><i class="fa fa-search" ></i></div>
+	<input type="submit" class="search-submit" value="Search">
+	<div class="kingster-top-search-close"><i class="icon_close" ></i></div>
+	<input type="hidden" name="ref" value="course"/><input type="hidden" name="post_type" value="lp_course"/>	
+</form>
+		</div>
+	</div>
+
+</div>
+<div class="kingster-overlay-menu kingster-mobile-menu" id="kingster-mobile-menu" ><a class="kingster-overlay-menu-icon kingster-mobile-menu-button kingster-mobile-button-hamburger-with-border" href="#" ><i class="fa fa-bars" ></i></a><div class="kingster-overlay-menu-content kingster-navigation-font" ><div class="kingster-overlay-menu-close" ></div><div class="kingster-overlay-menu-row" ><div class="kingster-overlay-menu-cell" ><ul id="menu-mobile-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15292"><a href="https://www.bethel.k12.or.us/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15294"><a href="https://www.bethel.k12.or.us/superintendent/">Superintendent</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15295"><a href="https://www.bethel.k12.or.us/district-leadership/">District Administrators</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36462"><a href="https://www.bethel.k12.or.us/about/school-board/">School Board</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15298"><a href="https://www.bethel.k12.or.us/departments/business-services/financial-information/">Financial Information</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15299"><a href="https://www.bethel.k12.or.us/about/public-reporting/">Public Reporting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15300"><a href="https://www.bethel.k12.or.us/about/title-ix/">Title IX</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15302"><a href="https://www.bethel.k12.or.us/american-with-disabilities-act-compliance/">Americans with Disabilities Act Compliance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15296"><a href="https://www.bethel.k12.or.us/district-boundaries/">District Boundaries</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15301"><a href="https://www.bethel.k12.or.us/staff-directory/">Staff Directory</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39104"><a href="https://www.bethel.k12.or.us/bethelbond/">Bethel Bond</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14131"><a href="https://www.bethel.k12.or.us/calendars/">Calendars</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14135"><a href="http://bethel.k12.or.us/community/">Community</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41893"><a href="https://www.bethel.k12.or.us/homepage__trashed-2/district-contact/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14132"><a href="https://www.bethel.k12.or.us/departments/">Departments</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15293"><a href="https://www.bethel.k12.or.us/bsdfamilies/">Families</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39082"><a href="https://www.bethel.k12.or.us/bsdfamilies/home-access-center/">Home Access Center</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39081"><a href="https://bethelor.tedk12.com/hire/index.aspx">Join Our Team!</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33654"><a href="https://www.bethel.k12.or.us/bsdfamilies/parentsquare/">ParentSquare</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36463"><a href="https://www.bethel.k12.or.us/bsdfamilies/register/">Register</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14137"><a href="https://www.bethel.k12.or.us/schools/">Schools</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40175"><a href="https://www.bethel.k12.or.us/staff-portal/">Staff Portal</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41903"><a href="https://www.bethel.k12.or.us/students/">Students</a></li>
+</ul></div></div></div></div></div></div></div></div><div class="kingster-body-outer-wrapper ">
+		<div class="kingster-body-wrapper clearfix  kingster-with-frame">
+	<div class="kingster-top-bar" ><div class="kingster-top-bar-background" ></div><div class="kingster-top-bar-container kingster-container " ><div class="kingster-top-bar-container-inner clearfix" ><div class="kingster-top-bar-left kingster-item-pdlr">◁  ◁  Haga clic aquí para la traducción.</div><div class="kingster-top-bar-right kingster-item-pdlr"><ul id="kingster-top-bar-menu" class="sf-menu kingster-top-bar-menu kingster-top-bar-right-menu"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6950 kingster-normal-menu"><a href="http://bethel.k12.or.us/students/" class="sf-with-ul-pre">Students</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7428" data-size="60"><a href="https://dashboard.bsd.k12.or.us/#/">Dashy Curriculum Links</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7427" data-size="60"><a href="http://www.bethelhealth.center/">Bethel Health Center</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36554" data-size="60"><a href="https://www.bethel.k12.or.us/students__trashed/change-student-password/">Change Your Password</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7430" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/home-access-center/">Home Access Center</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33323" data-size="60"><a href="https://www.bethel.k12.or.us/departments/communications/inclement-weather-in-bethel/">Inclement Weather in Bethel</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12106" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/navigating-homelessness/">Navigating Homelessness</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18037" data-size="60"><a href="https://willamettehs.owschools.com/owsoo/login/auth">Odysseyware LogIn</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36419" data-size="60"><a href="https://www.bethel.k12.or.us/online-curriculum-help/">Online Curriculum Help</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33642" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/parentsquare/">ParentSquare</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9234" data-size="60"><a href="https://www.bethel.k12.or.us/report-a-concern/">Report a Concern</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9283" data-size="60"><a href="https://www.safeoregon.com/">SafeOregon Tip Line</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28144" data-size="60"><a href="https://www.bethel.k12.or.us/student-technology-agreements/">Student Technology Agreements</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14925" data-size="60"><a href="https://www.bethel.k12.or.us/departments/technology-services/student-and-family-help-desk/">Technology Help Desk</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15108 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bsdfamilies/">Families</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7387 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/schools/" class="sf-with-ul-pre">Schools</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12388" data-size="60"><a href="https://www.bethel.k12.or.us/schools/clear-lake-elementary/">Clear Lake Elementary</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12452" data-size="60"><a href="https://www.bethel.k12.or.us/schools/danebo-elementary-school/">Danebo Elementary School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12522" data-size="60"><a href="https://www.bethel.k12.or.us/schools/fairfield-elementary-school/">Fairfield Elementary School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639" data-size="60"><a href="https://www.bethel.k12.or.us/schools/irving-elementary-school/">Irving Elementary School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12159" data-size="60"><a href="https://www.bethel.k12.or.us/schools/malabon/">Malabon Elementary</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12701" data-size="60"><a href="https://www.bethel.k12.or.us/schools/meadow-view-k-8/">Meadow View K-8</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7394" data-size="60"><a href="https://www.bethel.k12.or.us/schools/prairie-mountain/">Prairie Mountain K-8</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12389" data-size="60"><a href="https://www.bethel.k12.or.us/schools/cascade-middle-school/">Cascade Middle School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12821" data-size="60"><a href="https://www.bethel.k12.or.us/schools/shasta-middle-school/">Shasta Middle School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12881" data-size="60"><a href="https://www.bethel.k12.or.us/schools/kalapuya-high-school/">Kalapuya High School</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7399" data-size="60"><a href="https://www.bethel.k12.or.us/schools/willamettehighschool/">Willamette High School</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35512 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/about/school-board/">School Board</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35078 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bsdfamilies/register/">Register</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35727 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bethelbond/">Bethel Bond</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24010 kingster-normal-menu"><a href="https://bethelor.tedk12.com/hire/index.aspx">Join Our Team!</a></li>
+</ul><div class="kingster-top-bar-right-social" ><a href="https://www.facebook.com/BethelSchoolDistrict/" target="_blank" class="kingster-top-bar-social-icon" title="facebook" ><i class="fa fa-facebook" ></i></a><a href="https://twitter.com/Bethel_Schools" target="_blank" class="kingster-top-bar-social-icon" title="twitter" ><i class="fa fa-twitter" ></i></a></div><a class="kingster-top-bar-right-button" href="http://bethel.k12.or.us/staff-portal/" target="_blank"  >Staff</a></div></div></div></div>	
+<header class="kingster-header-wrap kingster-header-style-plain  kingster-style-menu-right kingster-sticky-navigation kingster-style-fixed clearfix" data-navigation-offset="75px"  >
+	<div class="kingster-header-background" ></div>
+	<div class="kingster-header-container  kingster-container">
+			
+		<div class="kingster-header-container-inner clearfix">
+			<div class="kingster-logo  kingster-item-pdlr"><div class="kingster-logo-inner"><a class="kingster-fixed-nav-logo" href="https://www.bethel.k12.or.us/" ><img  src="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1.jpg" width="1478" height="481"  srcset="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-400x130.jpg 400w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-600x195.jpg 600w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-800x260.jpg 800w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1.jpg 1478w"  sizes="(max-width: 767px) 100vw, (max-width: 1150px) 100vw, 1150px"  alt="Bethel School District Logo" /></a><a class=" kingster-orig-logo" href="https://www.bethel.k12.or.us/" ><img  src="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1.jpg" width="1478" height="481"  srcset="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-400x130.jpg 400w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-600x195.jpg 600w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1-800x260.jpg 800w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalColor-1.jpg 1478w"  sizes="(max-width: 767px) 100vw, (max-width: 1150px) 100vw, 1150px"  alt="Bethel School District Logo" /></a></div></div>			<div class="kingster-navigation kingster-item-pdlr clearfix kingster-navigation-submenu-indicator " >
+			<div class="kingster-main-menu" id="kingster-main-menu" ><ul id="menu-main-navigation" class="sf-menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8544 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/about/" class="sf-with-ul-pre">About</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42422" data-size="60"><a href="https://www.bethel.k12.or.us/about/the-bethel-blueprint/">The Bethel Blueprint</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38533" data-size="60"><a href="https://docs.google.com/presentation/d/e/2PACX-1vQqVEaCnOn5c1Wkf2TITyhk4dvNV2QuYvRlyHOJfKZ36rPmQCC2ktaciK39_Fw_-tppn9TP6ZqBb5J_/pub?start=false&#038;loop=false&#038;delayms=60000">Bethel at a Glance</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39369" data-size="60"><a href="https://docs.google.com/presentation/d/e/2PACX-1vTPwHgVCQ1ypSJbQReK8h7F02x3CGBsdn9krfNgO2sZtT_y43KUoxg865EEXESa1OOnkTdZ3gWkZkI3/pub?start=false&#038;loop=false&#038;delayms=30000">Bethel de un Vistazo</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6750" data-size="60"><a href="https://www.bethel.k12.or.us/superintendent/">Superintendent</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6746" data-size="60"><a href="https://www.bethel.k12.or.us/district-leadership/">District Administrators</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35513" data-size="60"><a href="https://www.bethel.k12.or.us/about/school-board/">School Board</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6748" data-size="60"><a href="https://www.bethel.k12.or.us/departments/business-services/financial-information/">Financial Information</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8762" data-size="60"><a href="https://www.bethel.k12.or.us/about/public-reporting/">Public Reporting</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11716" data-size="60"><a href="https://www.bethel.k12.or.us/about/title-ix/">Title IX</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14382" data-size="60"><a href="https://www.bethel.k12.or.us/american-with-disabilities-act-compliance/">ADA Compliance</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6745" data-size="60"><a href="https://www.bethel.k12.or.us/district-boundaries/">District Boundaries</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6766" data-size="60"><a href="https://kismet.bsd.k12.or.us/for-the-public/">Staff Directory</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30578" data-size="60"><a href="https://www.bethel.k12.or.us/about/staff-spirit-award/">Staff Spirit Award</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9954 kingster-mega-menu"><a href="https://www.bethel.k12.or.us/departments/" class="sf-with-ul-pre">Departments</a><div class="sf-mega sf-mega-full" style="" >
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16522" data-size="15"><a href="https://www.bethel.k12.or.us/departments/family-services/" class="sf-with-ul-pre">Family Services</a>
+	<ul class="sub-menu">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10152"><a href="https://www.bethel.k12.or.us/departments/equity/"><i class="fa fa-balance-scale" ></i>Equity, Access &#038; Inclusion</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27576"><a href="https://www.bethel.k12.or.us/bsdfamilies/family-resource-center/"><i class="fa fa-child" ></i>Family Resource Center</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41787"><a href="https://www.bethel.k12.or.us/departments/health-services/"><i class="fa fa-heartbeat" ></i>Health Services</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12086"><a href="https://www.bethel.k12.or.us/bsdfamilies/navigating-homelessness/"><i class="fa fa-bed" ></i>Navigating Homelessness</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38064"><a href="https://www.bethel.k12.or.us/departments/nutrition-services/"><i class="fa fa-cutlery" ></i>Nutrition Services</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10434"><a href="https://www.bethel.k12.or.us/departments/student-services/"><i class="fa fa-shield" ></i>Student Services</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9950"><a href="http://bethel.k12.or.us/families/transportation/"><i class="fa fa-bus" ></i>Transportation</a></li>
+	</ul>
+</li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15170" data-size="15"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/" class="sf-with-ul-pre">Teaching and Learning</a>
+	<ul class="sub-menu">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6708"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/cte/"><i class="fa fa-keyboard-o" ></i>Career and Technical Education</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6711"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/english-language-development/"><i class="fa fa-language" ></i>English Language Development (ELD)</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36783"><a href="https://www.bethel.k12.or.us/departments/equity/"><i class="fa fa-balance-scale" ></i>Equity, Access &#038; Inclusion</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40868"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/essential-skills/"><i class="fa fa-pencil" ></i>Essential Skills</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37898"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/literacy-coaches/"><i class="fa fa-book" ></i>Literacy Coaches</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39431"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/savvas-myview-resources/"><i class="fa fa-book" ></i>Savvas MyView Resources</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40867"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/state-testing-opt-out/"><i class="fa fa-list" ></i>State Testing Opt-Out</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11694"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/talented-and-gifted/"><i class="fa fa-gears" ></i>Talented and Gifted</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8442"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/title-1-services/"><i class="fa fa-file" ></i>Title 1 Services</a></li>
+	</ul>
+</li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10850" data-size="15"><a href="https://www.bethel.k12.or.us/district-services/" class="sf-with-ul-pre">District Services</a>
+	<ul class="sub-menu">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6691"><a href="https://www.bethel.k12.or.us/departments/business-services/"><i class="fa fa-calculator" ></i>Business Services</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34790"><a href="https://www.bethel.k12.or.us/departments/communications/"><i class="fa fa-comments" ></i>Community Relations</a></li>
+		<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15901"><a href="http://bethel.k12.or.us/departments/human-resources/"><i class="fa fa-users" ></i>Human Resources</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41201"><a href="https://www.bethel.k12.or.us/departments/technology-services/"><i class="fa fa-desktop" ></i>Technology Services</a></li>
+	</ul>
+</li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6698" data-size="15"><a href="https://www.bethel.k12.or.us/departments/facilities/" class="sf-with-ul-pre">Facilities</a>
+	<ul class="sub-menu">
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6631"><a href="https://www.bethel.k12.or.us/departments/maintenance/"><i class="fa fa-wrench" ></i>Maintenance</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10365"><a href="https://www.bethel.k12.or.us/departments/print-shop/"><i class="fa fa-print" ></i>Print Shop</a></li>
+		<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17253"><a href="https://www.bethel.k12.or.us/community/willamette-hs-facilities/"><i class="fa fa-calendar" ></i>Willamette HS Facilities</a></li>
+	</ul>
+</li>
+</ul>
+</div></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-11237 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/community/" class="sf-with-ul-pre">Community</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41238" data-size="60"><a href="https://www.bethel.k12.or.us/community/alumni/">Alumni</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30519" data-size="60"><a href="https://www.bethel.k12.or.us/bethelbond/">Bethel Bond</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11301" data-size="15"><a href="https://betheleducationfoundation.org/bef/">Bethel Education Foundation</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41869" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/family-resource-center/">Bethel Family Resource Center</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11302" data-size="15"><a href="http://www.bethelhealth.center/">Bethel Health Center</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11303" data-size="15"><a href="https://sites.google.com/bethel.k12.or.us/partnershipgrants">EWEB Partnership Grants</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11298" data-size="15"><a href="https://www.bethel.k12.or.us/community/healthy-and-safe-schools-plan/">Healthy and Safe Schools Plan</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11304" data-size="15"><a href="https://www.lesd.k12.or.us/">Lane ESD</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36852" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/ms_mentors/">Middle School Mentor Program</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35595" data-size="60"><a href="https://www.bethel.k12.or.us/bsdfamilies/suicide-prevention/">Suicide Prevention</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11306" data-size="15"><a href="https://sites.google.com/bethel.k12.or.us/thebethelfarm">The Bethel Farm</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25566" data-size="60"><a href="https://kismet.bsd.k12.or.us/for-the-public/?tab=volunteer-portal">Volunteer!</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17252" data-size="60"><a href="https://www.bethel.k12.or.us/community/willamette-hs-facilities/">Willamette HS Facilities</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30574 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/district-contact/">Contact Us</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13737 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/calendars/">Calendars</a></li>
+</ul><div class="kingster-navigation-slide-bar" id="kingster-navigation-slide-bar" ></div></div><div class="kingster-main-menu-right-wrap clearfix " ><div class="kingster-main-menu-search" id="kingster-top-search" ><i class="icon_search" ></i></div><div class="kingster-top-search-wrap" >
+	<div class="kingster-top-search-close" ></div>
+
+	<div class="kingster-top-search-row" >
+		<div class="kingster-top-search-cell" >
+			<form role="search" method="get" class="search-form" action="https://www.bethel.k12.or.us/">
+	<input type="text" class="search-field kingster-title-font" placeholder="Search..." value="" name="s">
+	<div class="kingster-top-search-submit"><i class="fa fa-search" ></i></div>
+	<input type="submit" class="search-submit" value="Search">
+	<div class="kingster-top-search-close"><i class="icon_close" ></i></div>
+	<input type="hidden" name="ref" value="course"/><input type="hidden" name="post_type" value="lp_course"/>	
+</form>
+		</div>
+	</div>
+
+</div>
+<div class="kingster-overlay-menu kingster-main-menu-right" id="kingster-right-menu" ><a class="kingster-overlay-menu-icon kingster-right-menu-button kingster-top-menu-button kingster-mobile-button-hamburger-with-border" href="#" ><i class="fa fa-bars" ></i></a><div class="kingster-overlay-menu-content kingster-navigation-font" ><div class="kingster-overlay-menu-close" ></div><div class="kingster-overlay-menu-row" ><div class="kingster-overlay-menu-cell" ><ul id="menu-top-bar-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6950"><a href="http://bethel.k12.or.us/students/">Students</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7428"><a href="https://dashboard.bsd.k12.or.us/#/">Dashy Curriculum Links</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7427"><a href="http://www.bethelhealth.center/">Bethel Health Center</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36554"><a href="https://www.bethel.k12.or.us/students__trashed/change-student-password/">Change Your Password</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7430"><a href="https://www.bethel.k12.or.us/bsdfamilies/home-access-center/">Home Access Center</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33323"><a href="https://www.bethel.k12.or.us/departments/communications/inclement-weather-in-bethel/">Inclement Weather in Bethel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12106"><a href="https://www.bethel.k12.or.us/bsdfamilies/navigating-homelessness/">Navigating Homelessness</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18037"><a href="https://willamettehs.owschools.com/owsoo/login/auth">Odysseyware LogIn</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36419"><a href="https://www.bethel.k12.or.us/online-curriculum-help/">Online Curriculum Help</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33642"><a href="https://www.bethel.k12.or.us/bsdfamilies/parentsquare/">ParentSquare</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9234"><a href="https://www.bethel.k12.or.us/report-a-concern/">Report a Concern</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9283"><a href="https://www.safeoregon.com/">SafeOregon Tip Line</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28144"><a href="https://www.bethel.k12.or.us/student-technology-agreements/">Student Technology Agreements</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14925"><a href="https://www.bethel.k12.or.us/departments/technology-services/student-and-family-help-desk/">Technology Help Desk</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15108"><a href="https://www.bethel.k12.or.us/bsdfamilies/">Families</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7387"><a href="https://www.bethel.k12.or.us/schools/">Schools</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12388"><a href="https://www.bethel.k12.or.us/schools/clear-lake-elementary/">Clear Lake Elementary</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12452"><a href="https://www.bethel.k12.or.us/schools/danebo-elementary-school/">Danebo Elementary School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12522"><a href="https://www.bethel.k12.or.us/schools/fairfield-elementary-school/">Fairfield Elementary School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639"><a href="https://www.bethel.k12.or.us/schools/irving-elementary-school/">Irving Elementary School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12159"><a href="https://www.bethel.k12.or.us/schools/malabon/">Malabon Elementary</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12701"><a href="https://www.bethel.k12.or.us/schools/meadow-view-k-8/">Meadow View K-8</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7394"><a href="https://www.bethel.k12.or.us/schools/prairie-mountain/">Prairie Mountain K-8</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12389"><a href="https://www.bethel.k12.or.us/schools/cascade-middle-school/">Cascade Middle School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12821"><a href="https://www.bethel.k12.or.us/schools/shasta-middle-school/">Shasta Middle School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12881"><a href="https://www.bethel.k12.or.us/schools/kalapuya-high-school/">Kalapuya High School</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7399"><a href="https://www.bethel.k12.or.us/schools/willamettehighschool/">Willamette High School</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35512"><a href="https://www.bethel.k12.or.us/about/school-board/">School Board</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35078"><a href="https://www.bethel.k12.or.us/bsdfamilies/register/">Register</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35727"><a href="https://www.bethel.k12.or.us/bethelbond/">Bethel Bond</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24010"><a href="https://bethelor.tedk12.com/hire/index.aspx">Join Our Team!</a></li>
+</ul></div></div></div></div></div>			</div><!-- kingster-navigation -->
+
+		</div><!-- kingster-header-inner -->
+	</div><!-- kingster-header-container -->
+</header><!-- header -->	<div class="kingster-page-wrapper" id="kingster-page-wrapper" ><div class="kingster-not-found-wrap" id="kingster-full-no-header-wrap" ><div class="kingster-not-found-background" ></div><div class="kingster-not-found-container kingster-container"><div class="kingster-header-transparent-substitute" ></div><div class="kingster-not-found-content kingster-item-pdlr"><h1 class="kingster-not-found-head" >404</h1><h3 class="kingster-not-found-title kingster-content-font" >Page Not Found</h3><div class="kingster-not-found-caption" >Sorry, we couldn&#039;t find the page you&#039;re looking for.</div><form role="search" method="get" class="search-form" action="https://www.bethel.k12.or.us/"><input type="text" class="search-field kingster-title-font" placeholder="Type Keywords..." value="" name="s"><div class="kingster-top-search-submit"><i class="fa fa-search" ></i></div><input type="submit" class="search-submit" value="Search"></form><div class="kingster-not-found-back-to-home" ><a href="https://www.bethel.k12.or.us/" >Or Back To Homepage</a></div></div></div></div></div><footer class="" ><div class="kingster-footer-wrapper " ><div class="kingster-footer-container kingster-container clearfix" ><div class="kingster-footer-column kingster-item-pdlr kingster-column-15" ><div id="media_image-2" class="widget widget_media_image kingster-widget"><img width="200" height="65" src="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalWhite-300x98.png" class="image wp-image-42337  attachment-200x65 size-200x65" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalWhite-300x98.png 300w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalWhite-1024x333.png 1024w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalWhite-768x250.png 768w, https://www.bethel.k12.or.us/wp-content/uploads/2023/05/BethelLogo_HorizontalWhite.png 1478w" sizes="(max-width: 200px) 100vw, 200px" /></div><div id="text-37" class="widget widget_text kingster-widget">			<div class="textwidget"><p>4640 Barger Drive<br />
+Eugene, Oregon 97402</p>
+<p><strong>Phone</strong>: <a href="tel: +15416893280">541-689-3280</a><br />
+<strong>Fax</strong>: <a href="tel:+5416890719">541-689-0719</a></p>
+<p><a href="https://www.safeoregon.com/report-a-tip/">SafeOregon Tip Line</a></p>
+<p><a href="https://www.bethel.k12.or.us/about/title-ix/">Title IX Non-Discrimination Policy</a></p>
+<p><a href="https://www.bethel.k12.or.us/american-with-disabilities-act-compliance/">ADA Compliance</a></p>
+</div>
+		</div></div><div class="kingster-footer-column kingster-item-pdlr kingster-column-15" ><div id="gdlr-core-custom-menu-widget-2" class="widget widget_gdlr-core-custom-menu-widget kingster-widget"><h3 class="kingster-widget-title">Family Services</h3><span class="clear"></span><div class="menu-family-services-container"><ul id="menu-family-services" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11781 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/equity/">Equity, Access &#038; Inclusion</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27702 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bsdfamilies/family-resource-center/">Family Resource Center</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41786 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/health-services/">Health Services</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12089 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/bsdfamilies/navigating-homelessness/">Navigating Homelessness</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39016 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/nutrition-services/">Nutrition Services</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11805 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/student-services/">Student Services</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27703 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/transportation/">Transportation</a></li>
+</ul></div></div></div><div class="kingster-footer-column kingster-item-pdlr kingster-column-15" ><div id="gdlr-core-custom-menu-widget-3" class="widget widget_gdlr-core-custom-menu-widget kingster-widget"><h3 class="kingster-widget-title">Teaching &#038; Learning</h3><span class="clear"></span><div class="menu-teaching-learning-container"><ul id="menu-teaching-learning" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain"><li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44122 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/state-testing-opt-out/">State Testing Annual Notices/Opt-Out Forms</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11649 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/cte/">Career and Technical Education (CTE)</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11653 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/english-language-development/">English Language Development (ELD)</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36763 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/equity/">Equity, Access &#038; Inclusion</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11589 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/essential-skills/">Essential Skills</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37897 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/literacy-coaches/">Literacy Coaches</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39429 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/savvas-myview-resources/">Savvas MyView Resources</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11687 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/talented-and-gifted/">Talented and Gifted (TAG)</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11651 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/curriculum-and-instruction/title-1-services/">Title 1 Services</a></li>
+</ul></div></div></div><div class="kingster-footer-column kingster-item-pdlr kingster-column-15" ><div id="gdlr-core-custom-menu-widget-18" class="widget widget_gdlr-core-custom-menu-widget kingster-widget"><h3 class="kingster-widget-title">District Services</h3><span class="clear"></span><div class="menu-district-services-container"><ul id="menu-district-services" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11784 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/business-services/">Business Services</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34789 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/communications/">Community Relations</a></li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11787 kingster-normal-menu"><a href="http://web.bethel.k12.or.us/departments/human-resources/">Human Resources</a></li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41785 kingster-normal-menu"><a href="https://www.bethel.k12.or.us/departments/technology-services/">Technology Services</a></li>
+</ul></div></div></div></div></div><div class="kingster-copyright-wrapper" ><div class="kingster-copyright-container kingster-container clearfix"><div class="kingster-copyright-left kingster-item-pdlr">Copyright All Rights Reserved Bethel School District 
+
+</div></div></div></footer></div></div><a href="#kingster-top-anchor" class="kingster-footer-back-to-top-button" id="kingster-footer-back-to-top-button"><i class="fa fa-angle-up" ></i></a>
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<div class="gtranslate_wrapper" id="gt-wrapper-38315482"></div>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script>jQuery( document ).ready(function() {
+ var max_height = 0;
+jQuery(".gdlr-core-personnel-list-column").height('auto');
+jQuery(".gdlr-core-personnel-list-column").each(function(){  if( max_height < jQuery(this).height()){ max_height = jQuery(this).height();  }
+});
+jQuery(".gdlr-core-personnel-list-column").height(max_height);
+});
+
+</script><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel='stylesheet' id='rs-plugin-settings-css' href='https://www.bethel.k12.or.us/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.16' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/plugins/goodlayers-core/plugins/script.js?ver=1698240554" id="gdlr-core-plugin-js"></script>
+<script type="text/javascript" id="gdlr-core-page-builder-js-extra">
+/* <![CDATA[ */
+var gdlr_core_pbf = {"admin":"","video":{"width":"640","height":"360"},"ajax_url":"https:\/\/www.bethel.k12.or.us\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/plugins/goodlayers-core/include/js/page-builder.js?ver=1.3.9" id="gdlr-core-page-builder-js"></script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/plugins/o365/js/jquery.simplemodal.js?ver=1" id="script0-js"></script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.16" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.16" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2" id="jquery-effects-core-js"></script>
+<script type="text/javascript" id="kingster-script-core-js-extra">
+/* <![CDATA[ */
+var kingster_script_core = {"home_url":"https:\/\/www.bethel.k12.or.us\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.bethel.k12.or.us/wp-content/themes/kingster/js/script-core.js?ver=1.0.0" id="kingster-script-core-js"></script>
+<script type="text/javascript" id="gt_widget_script_38315482-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || {};window.gtranslateSettings['38315482'] = {"default_language":"en","languages":["en","es","af","sq","am","ar","hy","az","eu","be","bn","bs","bg","ca","ceb","ny","zh-CN","zh-TW","co","hr","cs","da","nl","eo","et","tl","fi","fr","fy","gl","ka","de","el","gu","ht","ha","haw","iw","hi","hmn","hu","is","ig","id","ga","it","ja","jw","kn","kk","km","ko","ku","ky","lo","la","lv","lt","lb","mk","mg","ms","ml","mt","mi","mr","mn","my","ne","no","ps","fa","pl","pt","pa","ro","ru","sm","gd","sr","st","sn","sd","si","sk","sl","so","su","sw","sv","tg","ta","te","th","tr","uk","ur","uz","vi","cy","xh","yi","yo","zu"],"url_structure":"none","detect_browser_language":1,"flag_style":"3d","flag_size":16,"wrapper_selector":"#gt-wrapper-38315482","alt_flags":{"en":"usa","es":"mexico"},"switcher_open_direction":"top","switcher_horizontal_position":"left","switcher_vertical_position":"top","switcher_text_color":"#666","switcher_arrow_color":"#666","switcher_border_color":"#ccc","switcher_background_color":"#fff","switcher_background_shadow_color":"#efefef","switcher_background_hover_color":"#fff","dropdown_text_color":"#000","dropdown_hover_color":"#fff","dropdown_background_color":"#eee","flags_location":"\/wp-content\/plugins\/gtranslate\/flags\/"};
+/* ]]> */
+</script><script src="https://www.bethel.k12.or.us/wp-content/plugins/gtranslate/js/dwf.js?ver=6.4.2" data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/b-mail/files/2014/04/KHSUtahTrip.jpg" data-gt-orig-domain="www.bethel.k12.or.us" data-gt-widget-id="38315482" defer></script>
+</body>
+</html>

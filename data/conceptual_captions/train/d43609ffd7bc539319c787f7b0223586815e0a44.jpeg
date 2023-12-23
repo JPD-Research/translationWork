@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>	
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">	
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">	
+	<meta name="language" content="en" />	
+	<meta name="author" content="EducationalAppStore Ltd" />
+	<meta name="copyright" content="2023 - EducationalAppStore Ltd" />
+	<meta name="robots" content="noindex,nofollow" />  
+   <script src="/cdn-cgi/apps/head/fvHk42Jfq2qlyDWV73y3iV1AhXU.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/js/main.js"></script>
+<title>Page Not Found | Educational App Store</title>
+   <meta itemprop="name" content="Page Not Found | Educational App Store">
+			<meta name="description" content="We cant find the page you are looking for. Please return to our homepage or to help you find what you are looking for, you could use our search box below" />
+		
+		<meta itemprop="logo" content="https://www.educationalappstore.com/images/eas-logo-new-xs.png" />
+	 	 <link rel="stylesheet" type="text/css" href="/css/easd.css" />		
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.css"> 
+		
+
+</head>
+
+<body>
+
+
+	
+	 
+	<div class="container">	
+ 
+<div class="hidden-xs navbar " role="navigation">  
+
+      <a href="https://www.educationalappstore.com" class="navbar-brand" style="padding-left: 0px;">
+      <img width="400" height="70" alt="Educational App Store" title="Educational App Store" src="/images/educational-app-store-logo.png" class="img-responsive">
+     </a>	
+  	 
+	 <div class="hidden-sm col-md-6 pull-right" style="margin-top:25px;">		 
+		 
+<form id="search-form" action='/app/filter' method='GET'>
+<div class="input-group">
+   <input id='keyword-inputtt' type="text" name="keyword" class="form-control" value="" placeholder='Search over 3000 apps'>
+   <span class="input-group-btn">
+   <button id='search-submittt' class="btn btn-default" type="submit">
+   <span>Search</span></button>
+   </span>
+</div>
+</form>
+<style>
+#search-submittt {height: 45px;background: #0071bc;
+    color: #fff; font-size: 16px; }
+#keyword-inputtt { height: 45px;
+    padding: 12px 24px;font-size:16px;}
+#search-form { margin-bottom:15px;}
+#search-form #search-submittt:hover {
+    background: #428bca;
+    color: #fff;
+}
+</style>	
+         	
+				 
+	 </div> 
+	 </div> 
+	</div>	
+</div>
+<div class='clear'></div>
+		
+<div id="navigation-1">
+<div class="container">
+<header>
+	<div class="navbar mega-wide navbar-default navbarm">
+	<div class="visible-xs navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				</button>			
+								<a class="navbar-brand" href="/" title="Educational App Store">		
+								
+				<img class="visible-xs img-responsive" alt="Educational App Store" title="Educational App Store" src="/images/eas-logo-mn.png">
+				</a>						
+			</div>
+			
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">					
+										 <li><a href="/">Home <span class="sr-only">(current)</span></a></li>
+					<li><a class="hidden-sm" href="/about-us">About Us </a></li>	
+										
+					<li class="dropdown transition"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-home icon-white"></i> English <b class="caret"></b></a>
+				<ul class="dropdown-menu">
+					<li class="two-column">
+						<ul> 
+							<li><a title='English Apps' href="/app/category/english-literacy-apps">English Apps</a></li>
+						<li><a title='Alphabet and ABC Apps' href='/app/category/alphabet-and-abc-apps'>Alphabet Apps</a></li>	
+						<li><a title='Grammar' href='/best-apps/best-grammar-apps'>Grammar Apps</a></li> 
+						<li><a title='Handwriting' href='/app/category/handwriting-apps'>Handwriting Apps</a></li> 
+						<li><a title='Letter Tracing Apps' href='/best-apps/5-best-letter-tracing-apps-for-kids'>Letter Tracing Apps</a></li> 
+						<li><a title='Phonics' href='/best-apps/phonics-apps-for-kids'>Phonics Apps</a></li> 						
+						<li><a title='Punctuation' href='/best-apps/our-5-best-apps-for-practising-punctuation'>Punctuation Apps</a></li> 
+						<li><a title='Reading Apps for Kids' href='/app/category/reading-apps-ipad-android'>Reading Apps</a></li>
+						<li><a title='Sight Words Apps' href='/best-apps/5-best-sight-words-apps-to-help-your-children'>Sight Words Apps</a></li> 
+						<li><a title='Spelling Apps' href='/app/category/spelling-apps'>Spelling Apps</a></li> 
+						<li><a title='Vocabulary' href='/best-apps/best-vocabulary-apps-for-kids'>Vocabulary Apps</a></li>
+						</ul>
+					</li>
+				</ul>	
+			</li>
+			
+			<li class="dropdown transition"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-home icon-white"></i> Maths <b class="caret"></b></a>
+				<ul class="dropdown-menu">
+					<li class="two-column">
+						<ul> 
+						<li><a title='Maths Apps' href="/app/category/math-apps">Maths Apps</a></li>
+						<li><a title='Addition Apps' href="/app/category/addition-and-subtraction-apps">Addition & Subtraction Apps</a></li>
+						<li><a title='Algebra Apps' href="/app/category/algebra-apps-for-kids">Algebra Apps</a></li>
+						<li><a title='Multiplication Apps' href="/app/category/multiplication-apps">Multiplication Apps</a></li>	
+						<li><a title='Division Apps' href="/app/category/division-apps">Division Apps</a></li>
+						<li><a title='Numbers and Counting Apps' href="/best-apps/5-best-numbers-and-counting-apps-for-kids">Numbers and Counting Apps</a></li>
+						<li><a title='Number Sense' href="/best-apps/5-best-apps-for-number-sense">Number Sense Apps</a></li>
+						<li><a title='Fractions Apps' href="/app/category/top-fractions-apps">Fractions Apps</a></li>
+						<li><a title='Shapes Apps' href="/app/category/learn-shapes">Shapes</a></li>						
+						<li><a title='Place Value Apps' href="/best-apps/best-apps-that-teach-place-value">Place Value Apps</a></li>
+						<li><a title='Times Tables Apps' href="/best-apps/best-times-tables-apps-for-5-to-11-year-olds">Times Tables Apps</a></li>
+						<li><a title='Time Practice Apps' href="/best-apps/5-best-apps-for-telling-time-practice-for-kids">Time Practice Apps</a></li>
+						</ul>
+					</li>
+				</ul>	
+			</li>
+			
+			<li class="dropdown transition"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-home icon-white"></i> Science <b class="caret"></b></a>
+				<ul class="dropdown-menu">
+					<li class="two-column">
+						<ul> 
+						<li><a title='Science Apps' href="/app/category/science-apps">Science Apps</a></li>	
+						<li><a title='Astronomy Apps' href="/app/category/astronomy-apps">Astronomy Apps</a></li>
+						<li><a title='Anatomy Apps' href="/app/category/anatomy-apps">Anatomy Apps</a></li>
+						<li><a title='Biology Apps' href="/app/category/biology-apps">Biology Apps</a></li>	
+						<li><a title='Chemistry Apps' href="/app/category/chemistry-apps">Chemistry Apps</a></li>							
+						<li><a title='Physics Apps' href="/app/category/physics-apps">Physics Apps</a></li>
+						</ul>
+					</li>
+				</ul>	
+			</li>
+			
+			
+			<li class="dropdown mega-menu-4 transition"><a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Categories <b class="caret"></b></a>
+					<ul class="dropdown-menu"> 							
+							<li class="two-column">
+								<ul>
+									<li class="nav-title">Categories</li>									
+									<li><a title='Apps for Parents' href='/app/category/apps-for-parents'>Apps for Parents</a></li>
+									<li><a title='Apps for Teachers' href='/app/category/apps-for-teachers'>Apps for Teachers</a></li>									
+									<li><a title='Apps for Students' href='/best-apps/5-most-helpful-apps-for-students'>Apps for Students</a></li>
+									<li><a title='Assessment Apps' href="/app/category/assessment-apps">Assessment Apps</a></li>
+									<li><a title='Art Apps' href="/app/category/art-apps">Art Apps</a></li>
+									<li><a title='Augmented Reality Apps' href="/app-lists/best-augmented-reality-apps">Augmented Reality Apps</a></li>
+									<li><a title='Apps for College Students' href='/app/category/apps-for-student-tools'>Apps for College Students</a></li>
+									<li><a title='Books Apps' href="/app/category/book-apps-for-kids-and-students" >Book Apps</a></li>
+									<li><a title='Brain Training Apps' href="/app/category/brain-training-apps">Brain Training Apps</a></li>
+									<li><a title='Computer Science Apps' href="/app/category/computer-science-apps">Computer Science Apps</a></li>
+									<li><a title='Coloring Apps' href="/app/category/coloring-apps">Coloring Apps</a></li>
+									<li><a title='EAL Apps' href="/app/category/eal-apps">EAL Apps</a></li>
+									<li><a title='Finance Apps' href="/app/category/finance-apps">Finance Apps</a></li>									
+									<li><a title='Geography Apps' href="/app/category/geography-apps">Geography Apps</a></li>
+									<li><a title='Health and Fitness Apps' href="/app/category/health-and-fitness-apps">Health &amp; Fitness Apps</a></li>
+									<li><a title='History Apps' href="/app/category/history-apps">History Apps</a></li>
+									<li><a title='Interactive Story Apps' href="/app/category/interactive-stories">Interactive Story Apps</a></li>	
+									<li><a title='Literature Apps' href="/app/category/literature-apps">Literature Apps</a></li>
+								</ul>
+							</li>
+									
+							<li class="two-column">
+								<ul>
+									<li class="nav-title">Categories</li>										
+									<li><a title='Medical Apps' href="/app/category/medical-apps">Medical Apps</a></li><li><a title='Music Apps' href="/app/category/music-apps">Music Apps</a></li>
+									<li><a title='Photo and Video Apps' href="/app/category/photo-video-apps">Photo and Video  Apps</a></li>
+									<li><a title='Productivity Apps' href="/app/category/productivity-apps">Productivity Apps</a></li>
+									<li><a title='Reference Apps' href="/app/category/reference-apps">Reference Apps</a></li> 
+									<li><a title='Social Studies Apps' href="/app/category/social-studies-apps">Social Studies Apps</a></li>
+									<li><a title='Weather Apps' href="/app/category/weather-apps">Weather Apps</a></li>
+									<li class="nav-title">Special Education</li>
+									<li><a title='Special Education Apps' href="/app/category/special-education-apps">Special Education Apps</a></li>
+									<li><a title='Autism Apps' href="/best-apps/best-autism-apps-ipad-android">Autism Apps</a></li>
+									<li><a title='Dyslexia Apps' href="/best-apps/5-best-apps-for-kids-with-dyslexia">Dyslexia Apps</a></li>
+									<li class="nav-title">Languages</li>									
+									<li><a title='Language Learning Apps' href="/app-lists/language-learning-apps">Language Learning Apps</a></li>
+									<li><a title='Spanish Learning Apps' href='/best-apps/best-apps-for-learning-spanish'>Spanish Learning Apps</a> </li>
+									<li><a title='French Learning Apps' href='/app-lists/best-apps-for-learning-french'>French Learning Apps</a>	</li>	
+									<li class="nav-title">Ages</li>
+									<li><a title='Best Toddler Apps' href='/app-lists/best-toddler-apps'>Toddler Apps</a></li>			
+									<li><a title='Best Preschool Apps' href='/app-lists/best-preschool-apps'>Preschool Apps</a></li>			
+									<li><a title='Kindergarten Apps' href='/app-by-age/kindergarten-apps'>Kindergarten Apps</a></li>										
+									</ul>
+							</li>	
+							
+						</ul>
+					</li> 	
+					
+					
+					
+					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Games<b class="caret"></b></a>
+						<ul class="dropdown-menu transition">								
+							<li><a title='Games and Apps for Children' href="/app/category/games-and-apps-kids-all-ages">Games and Apps for Children</a></li>
+							<li><a title='Adventure Games for Kids' href="/best-apps/best-kids-adventure-games-for-ipad-android">Adventure Games for Kids</a></li>
+							<li><a title='Brain Training Apps' href="/best-apps/5-brain-training-apps-to-test-your-mind">Brain Training Apps</a></li>							
+							<li><a title='Puzzle Apps' href="/best-apps/5-best-jigsaw-puzzle-apps-for-kids">Puzzle Apps</a></li>
+							<li><a title='Racing Games for Kids' href="/best-apps/10-best-racing-games-for-kids">Racing Games for Kids</a></li>
+							<li><a title='Trivia Games for Kids' href="/best-apps/best-kids-trivia-games-apps">Trivia Games for Kids</a></li>
+							<li><a title='Word Game Apps' href="/best-apps/word-game-apps">Word Game Apps</a></li>
+							<li class="nav-title">Popular Characters</li>
+							<li><a title='Disney Games for Kids' href="/best-apps/5-educational-disney-apps-for-kids">Disney Games for Kids</a></li>							
+							<li><a title='Lego Games' href="/best-apps/best-lego-apps-for-kids-of-all-ages">Lego Games</a></li>
+							<li><a title='Minecraft Games for Kids' href="/best-apps/best-minecraft-apps-for-kids">Minecraft Games for Kids</a></li>
+							<li><a title='Toca Boca Games' href="/best-apps/best-apps-by-toca-boca">Toca Boca Games</a></li>
+							<li class="nav-title">Specials</li>
+							<li><a title='iPad Games for Kids' href="/app-lists/best-educational-ipad-games-kids">iPad Games for Kids</a></li>							
+							<li><a title='Free Game Apps for Kids' href="/app-lists/best-free-games-for-kids">Free Game Apps for Kids</a></li>							
+						</ul>
+					</li>						
+				
+									
+				</ul>	
+			</div>	
+		</div>
+	</header>	
+</div>	
+</div>
+
+<style>	
+.navbarm { margin-bottom:0px;}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+@media (min-width: 767px) {
+.navbar-default {
+    background-color: #333;
+	 border-color: #333;
+}
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #43B4E6;
+    background: #FFFFFF;
+}
+
+@media (max-width: 767px) {
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #fff;
+}}
+
+@media only screen and (max-width: 767px) and (min-width: 150px){
+.navbar-toggle {
+    margin: 25px 10px 4px 0;
+    padding: 10px;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: #43B4E6;
+}
+
+.navbar-collapse .nav > li > li > a, .navbar-collapse .dropdown-menu li a {
+   color:#fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color:  #43B4E6;
+    background: #FFF;
+}
+}
+
+.navbar .nav > li > a {
+    color: #fff;
+}
+
+.dropdown-menu .active > a, .dropdown-menu li > a, .dropdown-submenu > a {
+    color: #43b4e6;
+    padding: 0 0 5px;
+}
+
+.dropdown-menu .active > a, .dropdown-menu .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu li > p a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a {
+    color: #F79322;
+	
+}
+
+.dropdown-menu .active > a, .dropdown-menu li > a, .dropdown-submenu > a {
+    color: #43b4e6;
+    padding: 0 0 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #43B4E6;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #43B4E6;
+}
+
+.navbar-brand {
+    height: auto;
+}
+
+.dropdown-menu ul { padding-left:0px;}
+</style>
+
+<div class='container'>
+	<div id='content' style="margin-top:10px;">
+		
+
+<div class="row errorbg" style="margin-left:0px;margin-right:0px;">
+<div class="col-lg-12">
+  <h1 style="text-align:center" >Page Not Found</h1>
+  <p style="text-align:center;margin-bottom:40px;font-size:20px">We can't find the page you're looking for. Please return to our <a style="text-decoration:underline;" href="https://www.educationalappstore.com/">homepage</a> or to help you find what you're looking for, you could use our search box below</p>
+  
+</div>
+
+<div class="col-lg-12 col-md-12 col-sm-12 padding-gutter">
+<section role="search" data-ss360="true"> 
+	<input style="margin-bottom:10px;" type="search" id="searchBox" placeholder="Search using keyword or app name…">
+	<button id="searchButton"></button>
+</section>
+</div>
+
+
+ <!-- <img  class="img-responsive" alt="Page Not Found" src="/images/error-404-nobg.png"> -->
+
+</div>
+
+<style>
+.errorbg {
+    background-color: #FFF;   
+}
+
+.errorbg img {
+    margin:0 auto;  
+	padding-top:30px;
+}
+
+
+.errorbg h11{
+   color: #FFF;
+   margin-top:30px;
+
+}
+</style>
+
+<script type="text/javascript">
+   /* Create a configuration object */
+   var ss360Config = {
+      /* Your site id */
+      siteId: 'www.educationalappstore.com',
+      /* A CSS selector that points to your search  box */
+      searchBox: {selector: '#searchBox'}
+   };
+</script>
+<script src="https://cdn.sitesearch360.com/v13/sitesearch360-v13.min.js" async></script>	</div>
+</div> 
+
+<footer>
+	<div id="footer-white" class=''>
+		<div class='container'><div class='container'>
+			<div class='row' style="text-align: left;">
+			<div class='col-xs-6 col-sm-4 col-md-4 col-lg-4 footer-info'>  
+				<div class="footer-header">Educational App Store</div>
+				<ul style='list-style-type:none;' class='footer-apps'>
+				<li> <a title='About Us' href='/about-us'>About Us</a>  </li>
+                <li> <a title='How we rate and review apps' href='/how-we-rate-apps'>How we rate and review apps</a></li>
+				<li> <a title='In the News' href='/in-the-news'>In the News</a>  </li>				
+				<li> <a title='Privacy Policy' href='/terms/privacy-policy'>Privacy Policy</a></li>
+				 </ul>	
+			
+			</div>
+			<div class='col-xs-6 col-sm-4 col-md-4 col-lg-4 footer-info'>
+			<div class="footer-header">Communities</div>
+			<ul style='list-style-type:none;' class='footer-apps'>
+				<li> <a title='Parent App Library' href='/parent-app-library'>Parents</a> </li>	
+				<li> <a title='Teacher App Library' href='/teacher-app-library'>Teachers</a>  </li>			
+				<li> <a title='Submit your app' href='/developer'>Submit your app</a>  </li>	 
+				</ul>			
+			  </div>
+			<div class='hidden-xs col-sm-4 col-md-4 col-lg-4 footer-info'>		
+				<div class="footer-header">Contact Us</div>
+				<p>				
+					Send us a message at:<br />
+					<a href='mailto:webteam@educationalappstore.com'>webteam@educationalappstore.com</a>
+				</p>
+				<div class='footer-info'>
+				<div class="footer-header" style="margin-bottom:10px;">Follow Educational App Store</div>
+				<a target='_blank' href='http://www.facebook.com/EducationalAppStore'><img alt="Visit Educational App Store's Facebook" style="width:43px;float:left;padding-right: 10px;" src="/images/facebook-logo-32x.png"/></a>
+			   <a target='_blank' href='http://twitter.com/eduappstore'> <img alt="Visit Educational App Store's Twitter" style="width:60px;float:left;padding-right: 10px;" src="/images/twitter-logo-32x.png"/></a>
+			   <a target='_blank' href='https://www.instagram.com/educationalappstore/'> <img alt="Visit Educational App Store's Instagram" style="width:43px;float:left;padding-right: 10px;" src="/images/instagram-logo-32x.png"/></a>
+   
+			</div>
+			</div>
+			</div>
+		</div> 
+		</div> 
+		<div class='clear'></div>
+			<div class='container' style="margin-top:10px;">
+			<div class='row'>
+			<div class='col-sm-12 col-md-12 col-lg-12 footer-info'>			 
+			<div class='footer-link float-left' > 
+				EducationalAppStore.com is an independent app marketplace and its services are not affiliated with Google Inc, Apple Inc, Amazon or Microsoft Corporation. All other company and product names are trademarks or registered trademarks of their respective companies. Copyright &copy; 2023 by EducationalAppStore Ltd - All Rights Reserved.		</div>
+			</div> </div><div class='clear'></div>              
+	</div> </div>
+</footer>
+
+<style>
+.footer-apps { padding:0px;margin-top: 10px; }
+.footer-apps li { margin:0px; padding-top: 5px;
+padding-bottom: 5px; font-size:17px; }
+.footer-apps li a:hover { text-decoration:none; }
+.footer-apps li:hover { color:#F79322; }
+#footer-white .footer-apps li a:hover {
+    color: #F79322;
+}
+#footer-white {
+margin-top: 15px;
+height: auto;
+background: #FFF;
+border-top: 3px solid #43B4E6;
+border-right:none;
+} 
+.footer-link, .footer-info {  color:  #5B5B58; } 
+#footer-white .footer-info a, .footermenu a { color:  #5B5B58; }
+.footer-info .footer-header { font-size: 120%;
+    padding-top: 10px;
+    color: #333;
+    line-height: 30px;
+    margin: 0; }
+.footer-info h4 {
+    font-size: 120%;
+        padding-top: 10px;
+    color: #43B4E6;
+}
+
+.footer-info h2 {
+    font-size: 120%;
+        padding-top: 10px;
+    color: #43B4E6;  line-height: 30px;
+    margin: 0;
+}
+
+.footer-info h4, h4 {
+      margin: 0;
+}
+</style>    
+<script type="text/javascript" src="/assets/bc14cd8f/jquery.js"></script>
+<script type="text/javascript" src="/assets/bc14cd8f/jui/js/jquery-ui.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,1270 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        <title>Glenn Martin Photography - Not Found</title>
+        <link rel="dns-prefetch preconnect" href="https://cdn11.bigcommerce.com/s-zwk8iqnz0r" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com/" crossorigin><link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com/" crossorigin>
+        <meta name="description" content="Canberra and Australia landscape photo wall art prints. Fine art framed or ready to frame 90 day satisfaction guarantee. Photography workshops available"><meta name='platform' content='bigcommerce.stencil' />
+        
+         
+
+        <link href="https://cdn11.bigcommerce.com/s-zwk8iqnz0r/product_images/favicon.jpg?t=1612925064" rel="shortcut icon">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script>
+            document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+        </script>
+
+        <script>
+    function browserSupportsAllFeatures() {
+        return window.Promise
+            && window.fetch
+            && window.URL
+            && window.URLSearchParams
+            && window.WeakMap
+            // object-fit support
+            && ('objectFit' in document.documentElement.style);
+    }
+
+    function loadScript(src) {
+        var js = document.createElement('script');
+        js.src = src;
+        js.onerror = function () {
+            console.error('Failed to load polyfill script ' + src);
+        };
+        document.head.appendChild(js);
+    }
+
+    if (!browserSupportsAllFeatures()) {
+        loadScript('https://cdn11.bigcommerce.com/s-zwk8iqnz0r/stencil/96530330-4a44-0139-ad14-0242ac11000f/e/233d44a0-82d7-013c-6395-32a811db6355/dist/theme-bundle.polyfills.js');
+    }
+</script>
+
+        <script>
+            window.lazySizesConfig = window.lazySizesConfig || {};
+            window.lazySizesConfig.loadMode = 1;
+        </script>
+        <script async src="https://cdn11.bigcommerce.com/s-zwk8iqnz0r/stencil/96530330-4a44-0139-ad14-0242ac11000f/e/233d44a0-82d7-013c-6395-32a811db6355/dist/theme-bundle.head_async.js"></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+
+        <script>
+            WebFont.load({
+                custom: {
+                    families: ['Karla', 'Roboto', 'Source Sans Pro']
+                },
+                classes: false
+            });
+        </script>
+
+        <link href="https://fonts.googleapis.com/css?family=Karla:400%7CMontserrat:400,700,500&display=swap" rel="stylesheet">
+        <link data-stencil-stylesheet href="https://cdn11.bigcommerce.com/s-zwk8iqnz0r/stencil/96530330-4a44-0139-ad14-0242ac11000f/e/233d44a0-82d7-013c-6395-32a811db6355/css/theme-7f9dad20-4a9d-013b-76bc-6aa999904ffd.css" rel="stylesheet">
+
+        <!-- Start Tracking Code for analytics_facebook -->
+
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('set', 'autoConfig', 'false', '697806574170405');
+fbq('dataProcessingOptions', ['LDU'], 0, 0);
+fbq('init', '697806574170405');
+fbq('set', 'agent', 'plbigcommerce1.2', '697806574170405');
+
+function trackEvents() {
+    var pathName = window.location.pathname;
+
+    fbq('track', 'PageView', {}, "");
+
+    // Search events start -- only fire if the shopper lands on the /search.php page
+    if (pathName.indexOf('/search.php') === 0 && getUrlParameter('search_query')) {
+        fbq('track', 'Search', {
+            content_type: 'product_group',
+            content_ids: [],
+            search_string: getUrlParameter('search_query')
+        });
+    }
+    // Search events end
+
+    // Wishlist events start -- only fire if the shopper attempts to add an item to their wishlist
+    if (pathName.indexOf('/wishlist.php') === 0 && getUrlParameter('added_product_id')) {
+        fbq('track', 'AddToWishlist', {
+            content_type: 'product_group',
+            content_ids: []
+        });
+    }
+    // Wishlist events end
+
+    // Lead events start -- only fire if the shopper subscribes to newsletter
+    if (pathName.indexOf('/subscribe.php') === 0 && getUrlParameter('result') === 'success') {
+        fbq('track', 'Lead', {});
+    }
+    // Lead events end
+
+    // Registration events start -- only fire if the shopper registers an account
+    if (pathName.indexOf('/login.php') === 0 && getUrlParameter('action') === 'account_created') {
+        fbq('track', 'CompleteRegistration', {}, "");
+    }
+    // Registration events end
+
+    // Checkout events start -- only fire if the shopper lands on a /checkout* page
+    if (pathName === '/checkout.php' || /^\/(embedded-)?checkout$/.test(pathName)) {
+        
+
+        if (getUrlParameter('action') === 'process_payment') {
+            fbq('track', 'AddPaymentInfo');
+        } else {
+            fbq('track', 'InitiateCheckout');
+        }
+    }
+    // Checkout events end
+
+    function getUrlParameter(name) {
+        var cleanName = name.replace(/[\[]/, '\[').replace(/[\]]/, '\]');
+        var regex = new RegExp('[\?&]' + cleanName + '=([^&#]*)');
+        var results = regex.exec(window.location.search);
+        return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+    }
+}
+
+if (window.addEventListener) {
+    window.addEventListener("load", trackEvents, false)
+}
+</script>
+<noscript><img height="1" width="1" style="display:none" alt="null" src="https://www.facebook.com/tr?id=697806574170405&ev=PageView&noscript=1&a=plbigcommerce1.2&eid="/></noscript>
+
+<!-- End Tracking Code for analytics_facebook -->
+
+<!-- Start Tracking Code for analytics_googleanalytics -->
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-348974-9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-348974-9');
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics -->
+
+<!-- Start Tracking Code for analytics_googleanalytics4 -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script data-cfasync="false" async src="https://www.googletagmanager.com/gtag/js?id=G-77GYVRQ5QM"></script>
+<script data-cfasync="false" src="/app/assets/js/google_analytics4.js"></script>
+<script data-cfasync="false">
+  function initGA4() {
+    if (typeof subscribeOnBodlEvents === 'function') {
+      subscribeOnBodlEvents('G-77GYVRQ5QM', 'dMjk3Nj');
+
+      return true;
+    }
+
+    return false;
+  }
+
+  var eventName = document.readyState === 'complete' ? 'consentScriptsLoaded' : 'DOMContentLoaded';
+  window.addEventListener(eventName, initGA4, false);
+</script>
+
+<!-- End Tracking Code for analytics_googleanalytics4 -->
+
+<!-- Start Tracking Code for analytics_siteverification -->
+
+<meta name="google-site-verification" content="S4vkVsTr5XJvQhawxFS8sfgE6Z-QIguexyDTE8g8QHE" />
+
+<!-- End Tracking Code for analytics_siteverification -->
+
+
+<script type="text/javascript" src="https://checkout-sdk.bigcommerce.com/v1/loader.js" defer></script>
+<script type="text/javascript">
+(function () {
+    var xmlHttp = new XMLHttpRequest();
+
+    xmlHttp.open('POST', 'https://bes.gcp.data.bigcommerce.com/nobot');
+    xmlHttp.setRequestHeader('Content-Type', 'application/json');
+    xmlHttp.send('{"store_id":"1001587942","timezone_offset":"11","timestamp":"2023-12-22T20:05:31.39591200Z","visit_id":"6ecc6873-84f5-4d91-9f96-ca2be7e6ef80","channel_id":1}');
+})();
+</script>
+<script type="text/javascript">
+var BCData = {"csrf_token":"ae4cad0fc0e5760b8516a3e28f1a529a3fca81fe87633847146a5b5d30804883"};
+</script>
+
+ <script data-cfasync="false" src="https://microapps.bigcommerce.com/bodl-events/index.js"></script>
+ <script data-cfasync="false">
+   window.bodl = JSON.parse(atob("eyJzZXNzaW9uIjp7ImlkIjoiN2U1NTA5ODktZDdhMC00ZTQwLWIzMjUtODVmZjFhZWVlZDk0IiwiZmlyc3RfdG91Y2hfdGltZXN0YW1wIjoiMjAyMy0xMi0yMlQyMDowNTozMSIsImZpcnN0X3RvdWNoX3JlZmVycmFsX3VybCI6IiIsImZpcnN0X3RvdWNoX3JlcXVlc3RfdXJsIjoiaHR0cHM6Ly93d3cuZ2xlbm5tYXJ0aW4ucGhvdG9ncmFwaHkvd3AtY29udGVudC91cGxvYWRzLzIwMTYvMTIvY2FuYmVycmEtc3Vuc2V0LWRlY2VtYmVyLTIwMTYtNDAweDQwMC5qcGcifSwic2hvcHBlciI6eyJ2aXNpdG9yX2lkIjoiIiwiY3VzdG9tZXJfaWQiOm51bGwsImVtYWlsIjpudWxsLCJmaXJzdF9uYW1lIjpudWxsLCJsYXN0X25hbWUiOm51bGx9LCJkYXRhX2NvbnNlbnQiOnsiZnVuY3Rpb25hbCI6dHJ1ZSwiYW5hbHl0aWNzIjp0cnVlLCJhZHZlcnRpc2luZyI6dHJ1ZX0sImV2ZW50cyI6W119"));
+ </script>
+ 
+    </head>
+    <body>
+        <svg data-src="https://cdn11.bigcommerce.com/s-zwk8iqnz0r/stencil/96530330-4a44-0139-ad14-0242ac11000f/e/233d44a0-82d7-013c-6395-32a811db6355/img/icon-sprite.svg" class="icons-svg-sprite"></svg>
+
+        <a href="#main-content" class="skip-to-main-link">Skip to main content</a>
+<header class="header" role="banner">
+    <a href="#" class="mobileMenu-toggle" data-mobile-menu-toggle="menu">
+        <span class="mobileMenu-toggleIcon">Toggle menu</span>
+    </a>
+    <nav class="navUser">
+    
+    <ul class="navUser-section navUser-section--alt">
+        <li class="navUser-item">
+            <a class="navUser-action navUser-item--compare"
+               href="/compare"
+               data-compare-nav
+               aria-label="Compare"
+            >
+                Compare <span class="countPill countPill--positive countPill--alt"></span>
+            </a>
+        </li>
+            <li class="navUser-item navUser-item--social">
+                    <ul class="socialLinks socialLinks--alt">
+            <li class="socialLinks-item">
+                <a class="icon icon--facebook" href="https://www.facebook.com/GlennMartinPhotographer" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-facebook" /></svg>
+                </a>
+            </li>
+            <li class="socialLinks-item">
+                <a class="icon icon--instagram" href="https://www.instagram.com/glenn_photographer/" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-instagram" /></svg>
+                </a>
+            </li>
+            <li class="socialLinks-item">
+                <a class="icon icon--youtube" href="https://www.youtube.com/channel/UCG6hGFnCfWLhPTUjoc9Jo6Q" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-youtube" /></svg>
+                </a>
+            </li>
+    </ul>
+            </li>
+            <li class="navUser-item navUser-item--divider">|</li>
+        <li class="navUser-item">
+            <button class="navUser-action navUser-action--quickSearch"
+               type="button"
+               id="quick-search-expand"
+               data-search="quickSearch"
+               aria-controls="quickSearch"
+               aria-label="Search"
+            >
+                Search
+            </button>
+        </li>
+            <li class="navUser-item">
+                <a class="navUser-action"
+                   href="/giftcertificates.php"
+                   aria-label="Gift Certificates"
+                >
+                    Gift Certificates
+                </a>
+            </li>
+        <li class="navUser-item navUser-item--account">
+                <a class="navUser-action"
+                   href="/login.php"
+                   aria-label="Sign in"
+                >
+                    Sign in
+                </a>
+                    <span class="navUser-or">or</span>
+                    <a class="navUser-action"
+                       href="/login.php?action=create_account"
+                       aria-label="Register"
+                    >
+                        Register
+                    </a>
+        </li>
+        <li class="navUser-item navUser-item--cart">
+            <a class="navUser-action"
+               data-cart-preview
+               data-dropdown="cart-preview-dropdown"
+               data-options="align:right"
+               href="/cart.php"
+               aria-label="Cart with 0 items"
+            >
+                <span class="navUser-item-cartLabel">Cart</span>
+                <span class="countPill cart-quantity"></span>
+            </a>
+
+            <div class="dropdown-menu" id="cart-preview-dropdown" data-dropdown-content aria-hidden="true"></div>
+        </li>
+    </ul>
+    <div class="dropdown dropdown--quickSearch" id="quickSearch" aria-hidden="true" data-prevent-quick-search-close>
+        <div class="container">
+    <form class="form" onsubmit="return false" data-url="/search.php" data-quick-search-form>
+        <fieldset class="form-fieldset">
+            <div class="form-field">
+                <label class="is-srOnly" for="nav-quick-search">Search</label>
+                <input class="form-input"
+                       data-search-quick
+                       name="nav-quick-search"
+                       id="nav-quick-search"
+                       data-error-message="Search field cannot be empty."
+                       placeholder="Search the store"
+                       autocomplete="off"
+                >
+            </div>
+        </fieldset>
+    </form>
+    <section class="quickSearchResults" data-bind="html: results"></section>
+    <p role="status"
+       aria-live="polite"
+       class="aria-description--hidden"
+       data-search-aria-message-predefined-text="product results for"
+    ></p>
+</div>
+    </div>
+</nav>
+
+        <div class="header-logo header-logo--center">
+            <a href="https://glennmartin.photography/" class="header-logo__link">
+        <span class="header-logo-text">Glenn Martin Photography</span>
+</a>
+        </div>
+    <div class="navPages-container" id="menu" data-menu>
+        <nav class="navPages">
+    <div class="navPages-quickSearch">
+        <div class="container">
+    <form class="form" onsubmit="return false" data-url="/search.php" data-quick-search-form>
+        <fieldset class="form-fieldset">
+            <div class="form-field">
+                <label class="is-srOnly" for="nav-menu-quick-search">Search</label>
+                <input class="form-input"
+                       data-search-quick
+                       name="nav-menu-quick-search"
+                       id="nav-menu-quick-search"
+                       data-error-message="Search field cannot be empty."
+                       placeholder="Search the store"
+                       autocomplete="off"
+                >
+            </div>
+        </fieldset>
+    </form>
+    <section class="quickSearchResults" data-bind="html: results"></section>
+    <p role="status"
+       aria-live="polite"
+       class="aria-description--hidden"
+       data-search-aria-message-predefined-text="product results for"
+    ></p>
+</div>
+    </div>
+    <ul class="navPages-list">
+            <li class="navPages-item">
+                <a class="navPages-action"
+   href="https://www.glennmartin.photography/canberra-photography-course-workshop/"
+   aria-label="Photography Courses"
+>
+    Photography Courses
+</a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action has-subMenu"
+   href="https://www.glennmartin.photography/photography-wall-art-canberra/"
+   data-collapsible="navPages-26"
+>
+    Wall Art
+    <i class="icon navPages-action-moreIcon" aria-hidden="true">
+        <svg><use xlink:href="#icon-chevron-down" /></svg>
+    </i>
+</a>
+<div class="navPage-subMenu" id="navPages-26" aria-hidden="true" tabindex="-1">
+    <ul class="navPage-subMenu-list">
+        <li class="navPage-subMenu-item">
+            <a class="navPage-subMenu-action navPages-action"
+               href="https://www.glennmartin.photography/photography-wall-art-canberra/"
+               aria-label="All Wall Art"
+            >
+                All Wall Art
+            </a>
+        </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/aerial/"
+                       aria-label="Aerial"
+                    >
+                        Aerial
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/astrophotography/"
+                       aria-label="Astrophotography"
+                    >
+                        Astrophotography
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/fine-art/"
+                       aria-label="Fine Art"
+                    >
+                        Fine Art
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/lightning/"
+                       aria-label="Lightning"
+                    >
+                        Lightning
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/limited-edition/"
+                       aria-label="Limited Edition"
+                    >
+                        Limited Edition
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/new-south-wales/"
+                       aria-label="New South Wales"
+                    >
+                        New South Wales
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/panorama/"
+                       aria-label="Panorama"
+                    >
+                        Panorama
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/wall-art/south-australia/"
+                       aria-label="South Australia"
+                    >
+                        South Australia
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/black-and-white/"
+                       aria-label="Black and white"
+                    >
+                        Black and white
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/canberra/"
+                       aria-label="Canberra"
+                    >
+                        Canberra
+                    </a>
+            </li>
+            <li class="navPage-subMenu-item">
+                    <a class="navPage-subMenu-action navPages-action"
+                       href="https://www.glennmartin.photography/tasmania/"
+                       aria-label="Tasmania"
+                    >
+                        Tasmania
+                    </a>
+            </li>
+    </ul>
+</div>
+            </li>
+                 <li class="navPages-item navPages-item-page">
+                     <a class="navPages-action"
+                        href="https://glennmartin.photography/photography-tips-canberra/"
+                        aria-label="Photography Tips"
+                     >
+                         Photography Tips
+                     </a>
+                 </li>
+                 <li class="navPages-item navPages-item-page">
+                     <a class="navPages-action"
+                        href="https://glennmartin.photography/about-glenn-martin-canberra/"
+                        aria-label="About Glenn"
+                     >
+                         About Glenn
+                     </a>
+                 </li>
+                 <li class="navPages-item navPages-item-page">
+                     <a class="navPages-action"
+                        href="https://glennmartin.photography/contact/"
+                        aria-label="Contact"
+                     >
+                         Contact
+                     </a>
+                 </li>
+    </ul>
+    <ul class="navPages-list navPages-list--user">
+            <li class="navPages-item">
+                <a class="navPages-action"
+                   href="/giftcertificates.php"
+                   aria-label="Gift Certificates"
+                >
+                    Gift Certificates
+                </a>
+            </li>
+            <li class="navPages-item">
+                <a class="navPages-action"
+                   href="/login.php"
+                   aria-label="Sign in"
+                >
+                    Sign in
+                </a>
+                    or
+                    <a class="navPages-action"
+                       href="/login.php?action=create_account"
+                       aria-label="Register"
+                    >
+                        Register
+                    </a>
+            </li>
+            <li class="navPages-item">
+                    <ul class="socialLinks socialLinks--alt">
+            <li class="socialLinks-item">
+                <a class="icon icon--facebook" href="https://www.facebook.com/GlennMartinPhotographer" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-facebook" /></svg>
+                </a>
+            </li>
+            <li class="socialLinks-item">
+                <a class="icon icon--instagram" href="https://www.instagram.com/glenn_photographer/" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-instagram" /></svg>
+                </a>
+            </li>
+            <li class="socialLinks-item">
+                <a class="icon icon--youtube" href="https://www.youtube.com/channel/UCG6hGFnCfWLhPTUjoc9Jo6Q" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-youtube" /></svg>
+                </a>
+            </li>
+    </ul>
+            </li>
+    </ul>
+</nav>
+    </div>
+</header>
+<div data-content-region="header_bottom--global"><div data-layout-id="54a4dabf-149d-41ff-8106-5e499155259f"><div data-sub-layout-container="9183a97c-c23d-402b-99f6-237763a48afd" data-layout-name="Layout">
+  <style data-container-styling="9183a97c-c23d-402b-99f6-237763a48afd">
+    [data-sub-layout-container="9183a97c-c23d-402b-99f6-237763a48afd"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="9183a97c-c23d-402b-99f6-237763a48afd"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="a1bdc3e4-d152-4369-9009-072bf2a6b246">
+    <style data-column-styling="a1bdc3e4-d152-4369-9009-072bf2a6b246">
+      [data-sub-layout="a1bdc3e4-d152-4369-9009-072bf2a6b246"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 16.666666666666664%;
+        max-width: 16.666666666666664%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="a1bdc3e4-d152-4369-9009-072bf2a6b246"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="a1bdc3e4-d152-4369-9009-072bf2a6b246"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c" data-placement-id="c5a8f9d9-22fe-4bed-b754-9c9dc8495aa5" data-placement-status="ACTIVE"><style>
+    .sd-simple-text-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c {
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+
+    }
+
+    .sd-simple-text-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c * {
+      margin: 0;
+      padding: 0;
+
+        color: #333333;
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 24px;
+        min-height: 24px;
+
+    }
+
+    .sd-simple-text-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c {
+        text-align: center;
+    }
+
+    #sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c {
+      min-width: 14px;
+      line-height: 1.5;
+      display: inline-block;
+    }
+
+    #sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c[data-edit-mode="true"]:hover,
+    #sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c[data-edit-mode="true"]:active,
+    #sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c[data-edit-mode="true"]:focus {
+      outline: 1px dashed #3C64F4;
+    }
+
+    #sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c strong,
+    #sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c strong * {
+      font-weight: bold;
+    }
+</style>
+
+<div class="sd-simple-text-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c ">
+  <div id="sd-simple-text-editable-9a0c7fc2-eab8-4f16-8778-2b9b48ddc87c" data-edit-mode>
+    
+  </div>
+</div>
+
+</div>
+  </div>
+  <div data-sub-layout="7494ad2d-7bbe-469e-acb0-0e46ef54c5f5">
+    <style data-column-styling="7494ad2d-7bbe-469e-acb0-0e46ef54c5f5">
+      [data-sub-layout="7494ad2d-7bbe-469e-acb0-0e46ef54c5f5"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 66.66666666666666%;
+        max-width: 66.66666666666666%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="7494ad2d-7bbe-469e-acb0-0e46ef54c5f5"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="7494ad2d-7bbe-469e-acb0-0e46ef54c5f5"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="51a13cc3-51f5-4916-b4dc-e942c4cdddaa" data-placement-id="890c4280-ad2f-4cec-8ab7-3d2579acebe4" data-placement-status="ACTIVE"><style>
+    .sd-simple-text-51a13cc3-51f5-4916-b4dc-e942c4cdddaa {
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+
+    }
+
+    .sd-simple-text-51a13cc3-51f5-4916-b4dc-e942c4cdddaa * {
+      margin: 0;
+      padding: 0;
+
+        color: #333333;
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 24px;
+        min-height: 24px;
+
+    }
+
+    .sd-simple-text-51a13cc3-51f5-4916-b4dc-e942c4cdddaa {
+        text-align: center;
+    }
+
+    #sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa {
+      min-width: 14px;
+      line-height: 1.5;
+      display: inline-block;
+    }
+
+    #sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa[data-edit-mode="true"]:hover,
+    #sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa[data-edit-mode="true"]:active,
+    #sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa[data-edit-mode="true"]:focus {
+      outline: 1px dashed #3C64F4;
+    }
+
+    #sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa strong,
+    #sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa strong * {
+      font-weight: bold;
+    }
+</style>
+
+<div class="sd-simple-text-51a13cc3-51f5-4916-b4dc-e942c4cdddaa ">
+  <div id="sd-simple-text-editable-51a13cc3-51f5-4916-b4dc-e942c4cdddaa" data-edit-mode>
+    Beautiful photography wall art from Canberra, Australia
+  </div>
+</div>
+
+</div><div data-widget-id="6eb9eefb-468e-4c03-b8ba-8b742789971e" data-placement-id="206f05b4-813b-4130-822b-cdac0655e09d" data-placement-status="ACTIVE"><style>
+    .sd-simple-text-6eb9eefb-468e-4c03-b8ba-8b742789971e {
+      padding-top: 0px;
+      padding-right: 0px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+
+      margin-top: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+      margin-left: 0px;
+
+    }
+
+    .sd-simple-text-6eb9eefb-468e-4c03-b8ba-8b742789971e * {
+      margin: 0;
+      padding: 0;
+
+        color: rgba(209,67,67,1);
+        font-family: inherit;
+        font-weight: 500;
+        font-size: 24px;
+        min-height: 24px;
+
+    }
+
+    .sd-simple-text-6eb9eefb-468e-4c03-b8ba-8b742789971e {
+        text-align: center;
+    }
+
+    #sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e {
+      min-width: 14px;
+      line-height: 1.5;
+      display: inline-block;
+    }
+
+    #sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e[data-edit-mode="true"]:hover,
+    #sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e[data-edit-mode="true"]:active,
+    #sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e[data-edit-mode="true"]:focus {
+      outline: 1px dashed #3C64F4;
+    }
+
+    #sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e strong,
+    #sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e strong * {
+      font-weight: bold;
+    }
+</style>
+
+<div class="sd-simple-text-6eb9eefb-468e-4c03-b8ba-8b742789971e ">
+  <div id="sd-simple-text-editable-6eb9eefb-468e-4c03-b8ba-8b742789971e" data-edit-mode>
+    <p>&#xA0;</p>
+<p>Hi! Did you see something at the <strong>Handmade Canberra Market</strong> but you can&apos;t find it on my site? Just use the <strong>Contact</strong> form in the menu to drop me a line with the description of the image and we can have a chat :)</p>
+  </div>
+</div>
+
+</div>
+  </div>
+  <div data-sub-layout="6c5557a0-4dd2-4aa2-b262-7c8446b15b18">
+    <style data-column-styling="6c5557a0-4dd2-4aa2-b262-7c8446b15b18">
+      [data-sub-layout="6c5557a0-4dd2-4aa2-b262-7c8446b15b18"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 16.666666666666664%;
+        max-width: 16.666666666666664%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="6c5557a0-4dd2-4aa2-b262-7c8446b15b18"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="6c5557a0-4dd2-4aa2-b262-7c8446b15b18"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="a4ed5634-58a2-402c-9b38-86420c185767" data-placement-id="b0b502f4-691d-4652-97db-0dc8cf35abf2" data-placement-status="ACTIVE"><style>
+    #sd-image-a4ed5634-58a2-402c-9b38-86420c185767 {
+        display: flex;
+        align-items: center;
+        background: url('https://cdn11.bigcommerce.com/s-zwk8iqnz0r/product_images/uploaded_images/glenn-martin-photography-black.png') no-repeat;
+        opacity: calc(100 / 100);
+
+
+            background-size: contain;
+
+            height: 60px;
+
+        background-position:
+                center
+                center
+;
+
+
+        padding-top: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+
+    #sd-image-a4ed5634-58a2-402c-9b38-86420c185767 * {
+        margin: 0px;
+    }
+
+    #sd-image-a4ed5634-58a2-402c-9b38-86420c185767 img {
+        width: auto;
+        opacity: 0;
+
+            height: 100%;
+    }
+
+    @media only screen and (max-width: 700px) {
+        #sd-image-a4ed5634-58a2-402c-9b38-86420c185767 { }
+    }
+</style>
+
+<div>
+    <div id="sd-image-a4ed5634-58a2-402c-9b38-86420c185767" data-edit-mode>
+        <img src="https://cdn11.bigcommerce.com/s-zwk8iqnz0r/product_images/uploaded_images/glenn-martin-photography-black.png" alt="Glenn Martin Photography Canberra">
+    </div>
+    
+</div>
+
+<script type="text/javascript">
+
+    function handleClick(imageLink) {
+        var trimmedLink = imageLink.trim();
+        if (!trimmedLink) { return; }
+
+        var selector = "sd-image-a4ed5634-58a2-402c-9b38-86420c185767";
+        var element = document.getElementById(selector);
+        var editMode = element.dataset.editMode || false;
+
+        if (editMode !== 'true') {
+            var urlParts = trimmedLink.split('/');
+            var protocol = urlParts[0];
+            var isUnformatted = protocol !== '' &&
+                protocol.indexOf('http') === -1 &&
+                trimmedLink.indexOf('.') !== -1;
+
+            // check if absolute link and is not properly formatted
+            if (isUnformatted) {
+                urlParts.unshift('/');
+            }
+
+            var newUrl = urlParts.join('/');
+            window.open(newUrl, '_top');
+        }
+    }
+</script>
+</div>
+  </div>
+</div>
+<div data-sub-layout-container="b8854683-03c6-4d4c-8c8b-30d4f0a065ce" data-layout-name="Layout">
+  <style data-container-styling="b8854683-03c6-4d4c-8c8b-30d4f0a065ce">
+    [data-sub-layout-container="b8854683-03c6-4d4c-8c8b-30d4f0a065ce"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="b8854683-03c6-4d4c-8c8b-30d4f0a065ce"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="105c8c54-d2ee-4f68-b44e-cb649c3da54a">
+    <style data-column-styling="105c8c54-d2ee-4f68-b44e-cb649c3da54a">
+      [data-sub-layout="105c8c54-d2ee-4f68-b44e-cb649c3da54a"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 100%;
+        max-width: 100%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="105c8c54-d2ee-4f68-b44e-cb649c3da54a"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="105c8c54-d2ee-4f68-b44e-cb649c3da54a"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+    <div data-widget-id="f1341c44-4095-4a85-8183-639b4c7482fd" data-placement-id="10b8ac0e-fa1f-4084-9530-86948486c428" data-placement-status="ACTIVE"><style>
+  .sd-divider-wrapper-f1341c44-4095-4a85-8183-639b4c7482fd {
+    display: flex;
+    height: 20px;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+  }
+
+  .sd-divider-f1341c44-4095-4a85-8183-639b4c7482fd {
+    height: 0;
+    border-top: 1px;
+    border-color: rgba(180, 186, 209, 1);
+    border-style: solid;
+    width: 100%;
+    margin: 0;
+  }
+</style>
+
+<div class="sd-divider-wrapper-f1341c44-4095-4a85-8183-639b4c7482fd">
+  <hr class="sd-divider-f1341c44-4095-4a85-8183-639b4c7482fd">
+</div>
+</div>
+  </div>
+</div>
+<div data-sub-layout-container="da52d616-b8f1-4d31-ac90-1f766e5e8691" data-layout-name="Layout">
+  <style data-container-styling="da52d616-b8f1-4d31-ac90-1f766e5e8691">
+    [data-sub-layout-container="da52d616-b8f1-4d31-ac90-1f766e5e8691"] {
+      box-sizing: border-box;
+      display: flex;
+      flex-wrap: wrap;
+      z-index: 0;
+      position: relative;
+    }
+    [data-sub-layout-container="da52d616-b8f1-4d31-ac90-1f766e5e8691"]:after {
+      background-position: center center;
+      background-size: cover;
+      z-index: auto content: "";
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+    }
+  </style>
+  <div data-sub-layout="45502139-25cd-4611-846f-88380bce72ca">
+    <style data-column-styling="45502139-25cd-4611-846f-88380bce72ca">
+      [data-sub-layout="45502139-25cd-4611-846f-88380bce72ca"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 50%;
+        max-width: 50%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="45502139-25cd-4611-846f-88380bce72ca"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="45502139-25cd-4611-846f-88380bce72ca"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </div>
+  <div data-sub-layout="f1dc31c3-971c-4dd1-b04f-89264ce18420">
+    <style data-column-styling="f1dc31c3-971c-4dd1-b04f-89264ce18420">
+      [data-sub-layout="f1dc31c3-971c-4dd1-b04f-89264ce18420"] {
+        display: flex;
+        flex-direction: column;
+        box-sizing: border-box;
+        flex-basis: 50%;
+        max-width: 50%;
+        z-index: 0;
+        justify-content: center;
+        padding-right: 10.5px;
+        padding-left: 10.5px;
+        position: relative;
+      }
+      [data-sub-layout="f1dc31c3-971c-4dd1-b04f-89264ce18420"]:after {
+        background-position: center center;
+        background-size: cover;
+        z-index: auto content: "";
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+      }
+      @media only screen and (max-width: 700px) {
+        [data-sub-layout="f1dc31c3-971c-4dd1-b04f-89264ce18420"] {
+          flex-basis: 100%;
+          max-width: 100%;
+        }
+      }
+    </style>
+  </div>
+</div></div></div>
+<div data-content-region="header_bottom"></div>
+        <main class="body" id='main-content' role='main' data-currency-code="AUD">
+     
+    <div class="container">
+        
+<nav aria-label="Breadcrumb">
+    <ol class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">
+                <li class="breadcrumb " itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <a class="breadcrumb-label"
+                       itemprop="item"
+                       href="https://glennmartin.photography/"
+                       
+                    >
+                        <span itemprop="name">Home</span>
+                    </a>
+                    <meta itemprop="position" content="1" />
+                </li>
+                <li class="breadcrumb is-active" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+                    <a class="breadcrumb-label"
+                       itemprop="item"
+                       href="https://www.glennmartin.photography/wp-content/uploads/2016/12/canberra-sunset-december-2016-400x400.jpg"
+                       aria-current="page"
+                    >
+                        <span itemprop="name">Error</span>
+                    </a>
+                    <meta itemprop="position" content="2" />
+                </li>
+    </ol>
+</nav>
+
+<main class="page">
+    <section class="page-content page-content--centered">
+        <h1 class="page-heading">404 Error - Page not found</h1>
+        <p class="u-textAlignCenter">
+            Oops :_( So I updated my website and some products weren&#x27;t recreated.  If you were after something in particular please use the Contact form to send me a message about what you were looking for because I&#x27;m sure I still have it
+        </p>
+
+        <form class="form"  action="/search.php">
+    <fieldset class="form-fieldset">
+        <div class="form-field">
+            <label class="form-label is-srOnly" for="search_query_adv">Search Keyword:</label>
+            <div class="form-prefixPostfix wrap">
+                <input class="form-input" id="search_query_adv" name="search_query_adv" value="">
+                <input class="button button--primary form-prefixPostfix-button--postfix" type="submit" value="Search">
+            </div>
+        </div>
+    </fieldset>
+</form>
+    </section>
+</main>
+
+
+    </div>
+    <div id="modal" class="modal" data-reveal data-prevent-quick-search-close>
+    <button class="modal-close"
+        type="button"
+        title="Close"
+        
+>
+    <span class="aria-description--hidden">Close</span>
+    <span aria-hidden="true">&#215;</span>
+</button>
+    <div class="modal-content"></div>
+    <div class="loadingOverlay"></div>
+</div>
+    <div id="alert-modal" class="modal modal--alert modal--small" data-reveal data-prevent-quick-search-close>
+    <div class="swal2-icon swal2-error swal2-icon-show"><span class="swal2-x-mark"><span class="swal2-x-mark-line-left"></span><span class="swal2-x-mark-line-right"></span></span></div>
+
+    <div class="modal-content"></div>
+
+    <div class="button-container"><button type="button" class="confirm button" data-reveal-close>OK</button></div>
+</div>
+</main>
+        <footer class="footer" role="contentinfo">
+    <h2 class="footer-title-sr-only">Footer Start</h2>
+    <div class="container">
+            <article class="footer-info-col
+                footer-info-col--social
+                footer-info-col--right"
+                data-section-type="footer-webPages">
+                    <h3 class="footer-info-heading">Connect With Us</h3>
+                        <ul class="socialLinks socialLinks--alt">
+            <li class="socialLinks-item">
+                <a class="icon icon--facebook" href="https://www.facebook.com/GlennMartinPhotographer" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-facebook" /></svg>
+                </a>
+            </li>
+            <li class="socialLinks-item">
+                <a class="icon icon--instagram" href="https://www.instagram.com/glenn_photographer/" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-instagram" /></svg>
+                </a>
+            </li>
+            <li class="socialLinks-item">
+                <a class="icon icon--youtube" href="https://www.youtube.com/channel/UCG6hGFnCfWLhPTUjoc9Jo6Q" target="_blank" rel="noopener">
+                    <svg><use xlink:href="#icon-youtube" /></svg>
+                </a>
+            </li>
+    </ul>
+            </article>
+        <section class="footer-info">
+            <article class="footer-info-col footer-info-col--small" data-section-type="footer-webPages">
+                <h3 class="footer-info-heading">Navigate</h3>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://glennmartin.photography/photography-tips-canberra/">Photography Tips</a>
+                        </li>
+                        <li>
+                            <a href="https://glennmartin.photography/about-glenn-martin-canberra/">About Glenn</a>
+                        </li>
+                        <li>
+                            <a href="https://glennmartin.photography/contact/">Contact</a>
+                        </li>
+                    <li>
+                        <a href="/sitemap.php">Sitemap</a>
+                    </li>
+                    <li>
+                        <a href="/privacy">Privacy</a>
+                    </li>
+                </ul>
+            </article>
+
+            <article class="footer-info-col footer-info-col--small" data-section-type="footer-categories">
+                <h3 class="footer-info-heading">Categories</h3>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://www.glennmartin.photography/canberra-photography-course-workshop/">Photography Courses</a>
+                        </li>
+                        <li>
+                            <a href="https://www.glennmartin.photography/photography-wall-art-canberra/">Wall Art</a>
+                        </li>
+                </ul>
+            </article>
+
+            <article class="footer-info-col footer-info-col--small" data-section-type="footer-brands">
+                <h3 class="footer-info-heading">Popular Brands</h3>
+                <ul class="footer-info-list">
+                        <li>
+                            <a href="https://glennmartin.photography/glenn-martin-photography/">Glenn Martin Photography</a>
+                        </li>
+                    <li><a href="https://glennmartin.photography/brands/">View All</a></li>
+                </ul>
+            </article>
+
+            <article class="footer-info-col footer-info-col--small" data-section-type="storeInfo">
+                <h3 class="footer-info-heading">Info</h3>
+                <address>Parcel Locker 10034 73692<br>
+19 Jardine St<br>
+Kingston ACT 2604</address>
+                    <strong>Call me on 0421 797-365</strong>
+            </article>
+
+            <article class="footer-info-col" data-section-type="newsletterSubscription">
+                    <h3 class="footer-info-heading">Subscribe to our newsletter</h3>
+<p>Get the latest updates on new products and upcoming sales</p>
+
+<form class="form" action="/subscribe.php" method="post">
+    <fieldset class="form-fieldset">
+        <input type="hidden" name="action" value="subscribe">
+        <input type="hidden" name="nl_first_name" value="bc">
+        <input type="hidden" name="check" value="1">
+        <div class="form-field">
+            <label class="form-label is-srOnly" for="nl_email">Email Address</label>
+            <div class="form-prefixPostfix wrap">
+                <input class="form-input"
+                       id="nl_email"
+                       name="nl_email"
+                       type="email"
+                       value=""
+                       placeholder="Your email address"
+                       aria-describedby="alertBox-message-text"
+                >
+                <input class="button button--primary form-prefixPostfix-button--postfix"
+                       type="submit"
+                       value="Subscribe"
+                >
+            </div>
+        </div>
+    </fieldset>
+</form>
+                            </article>
+        </section>
+            <div class="footer-copyright">
+                <p class="powered-by">Powered by <a href="https://www.bigcommerce.com?utm_source=merchant&amp;utm_medium=poweredbyBC" rel="nofollow">BigCommerce</a></p>
+            </div>
+            <div class="footer-copyright">
+                <p class="powered-by">&copy; 2023 Glenn Martin Photography </p>
+            </div>
+    </div>
+</footer>
+
+        <script>window.__webpack_public_path__ = "https://cdn11.bigcommerce.com/s-zwk8iqnz0r/stencil/96530330-4a44-0139-ad14-0242ac11000f/e/233d44a0-82d7-013c-6395-32a811db6355/dist/";</script>
+        <script src="https://cdn11.bigcommerce.com/s-zwk8iqnz0r/stencil/96530330-4a44-0139-ad14-0242ac11000f/e/233d44a0-82d7-013c-6395-32a811db6355/dist/theme-bundle.main.js"></script>
+        <script>
+            window.stencilBootstrap("404", "{\"zoomSize\":\"1280x1280\",\"productSize\":\"500x659\",\"showAdminBar\":true,\"genericError\":\"Oops! Something went wrong.\",\"maintenanceModeSettings\":[],\"adminBarLanguage\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"admin.maintenance_header\\\":\\\"en\\\",\\\"admin.maintenance_tooltip\\\":\\\"en\\\",\\\"admin.maintenance_showstore_link\\\":\\\"en\\\",\\\"admin.prelaunch_header\\\":\\\"en\\\",\\\"admin.page_builder_link\\\":\\\"en\\\"},\\\"translations\\\":{\\\"admin.maintenance_header\\\":\\\"Your store is down for maintenance.\\\",\\\"admin.maintenance_tooltip\\\":\\\"Only administrators can view the store at the moment. Visit your control panel settings page to disable maintenance mode.\\\",\\\"admin.maintenance_showstore_link\\\":\\\"Click here to see what your visitors will see.\\\",\\\"admin.prelaunch_header\\\":\\\"Your storefront is private. Share your site with preview code:\\\",\\\"admin.page_builder_link\\\":\\\"Design this page in Page Builder\\\"}}\",\"urls\":{\"home\":\"https://glennmartin.photography/\",\"account\":{\"index\":\"/account.php\",\"orders\":{\"all\":\"/account.php?action=order_status\",\"completed\":\"/account.php?action=view_orders\",\"save_new_return\":\"/account.php?action=save_new_return\"},\"update_action\":\"/account.php?action=update_account\",\"returns\":\"/account.php?action=view_returns\",\"addresses\":\"/account.php?action=address_book\",\"inbox\":\"/account.php?action=inbox\",\"send_message\":\"/account.php?action=send_message\",\"add_address\":\"/account.php?action=add_shipping_address\",\"wishlists\":{\"all\":\"/wishlist.php\",\"add\":\"/wishlist.php?action=addwishlist\",\"edit\":\"/wishlist.php?action=editwishlist\",\"delete\":\"/wishlist.php?action=deletewishlist\"},\"details\":\"/account.php?action=account_details\",\"recent_items\":\"/account.php?action=recent_items\"},\"brands\":\"https://glennmartin.photography/brands/\",\"gift_certificate\":{\"purchase\":\"/giftcertificates.php\",\"redeem\":\"/giftcertificates.php?action=redeem\",\"balance\":\"/giftcertificates.php?action=balance\"},\"auth\":{\"login\":\"/login.php\",\"check_login\":\"/login.php?action=check_login\",\"create_account\":\"/login.php?action=create_account\",\"save_new_account\":\"/login.php?action=save_new_account\",\"forgot_password\":\"/login.php?action=reset_password\",\"send_password_email\":\"/login.php?action=send_password_email\",\"save_new_password\":\"/login.php?action=save_new_password\",\"logout\":\"/login.php?action=logout\"},\"product\":{\"post_review\":\"/postreview.php\"},\"cart\":\"/cart.php\",\"checkout\":{\"single_address\":\"/checkout\",\"multiple_address\":\"/checkout.php?action=multiple\"},\"rss\":{\"products\":[]},\"contact_us_submit\":\"/pages.php?action=sendContactForm\",\"search\":\"/search.php\",\"compare\":\"/compare\",\"sitemap\":\"/sitemap.php\",\"subscribe\":{\"action\":\"/subscribe.php\"}},\"secureBaseUrl\":\"https://glennmartin.photography\",\"cartId\":null,\"channelId\":1,\"template\":\"pages/errors/404\",\"validationDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_messages.valid_email\\\":\\\"en\\\",\\\"validation_messages.password\\\":\\\"en\\\",\\\"validation_messages.password_match\\\":\\\"en\\\",\\\"validation_messages.invalid_password\\\":\\\"en\\\",\\\"validation_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_messages.price_invalid_value\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_messages.field_not_blank\\\":\\\" field cannot be blank.\\\",\\\"validation_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\"}}\",\"validationFallbackDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{\\\"validation_fallback_messages.valid_email\\\":\\\"en\\\",\\\"validation_fallback_messages.password\\\":\\\"en\\\",\\\"validation_fallback_messages.password_match\\\":\\\"en\\\",\\\"validation_fallback_messages.invalid_password\\\":\\\"en\\\",\\\"validation_fallback_messages.field_not_blank\\\":\\\"en\\\",\\\"validation_fallback_messages.certificate_amount\\\":\\\"en\\\",\\\"validation_fallback_messages.certificate_amount_range\\\":\\\"en\\\",\\\"validation_fallback_messages.price_min_evaluation\\\":\\\"en\\\",\\\"validation_fallback_messages.price_max_evaluation\\\":\\\"en\\\",\\\"validation_fallback_messages.price_min_not_entered\\\":\\\"en\\\",\\\"validation_fallback_messages.price_max_not_entered\\\":\\\"en\\\",\\\"validation_fallback_messages.price_invalid_value\\\":\\\"en\\\"},\\\"translations\\\":{\\\"validation_fallback_messages.valid_email\\\":\\\"You must enter a valid email.\\\",\\\"validation_fallback_messages.password\\\":\\\"You must enter a password.\\\",\\\"validation_fallback_messages.password_match\\\":\\\"Your passwords do not match.\\\",\\\"validation_fallback_messages.invalid_password\\\":\\\"Passwords must be at least 7 characters and contain both alphabetic and numeric characters.\\\",\\\"validation_fallback_messages.field_not_blank\\\":\\\" field cannot be blank.\\\",\\\"validation_fallback_messages.certificate_amount\\\":\\\"You must enter a gift certificate amount.\\\",\\\"validation_fallback_messages.certificate_amount_range\\\":\\\"You must enter a certificate amount between [MIN] and [MAX]\\\",\\\"validation_fallback_messages.price_min_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_fallback_messages.price_max_evaluation\\\":\\\"Min. price must be less than max. price.\\\",\\\"validation_fallback_messages.price_min_not_entered\\\":\\\"Min. price is required.\\\",\\\"validation_fallback_messages.price_max_not_entered\\\":\\\"Max. price is required.\\\",\\\"validation_fallback_messages.price_invalid_value\\\":\\\"Input must be greater than 0.\\\"}}\",\"validationDefaultDictionaryJSON\":\"{\\\"locale\\\":\\\"en\\\",\\\"locales\\\":{},\\\"translations\\\":{}}\"}").load();
+        </script>
+
+        <script type="text/javascript" src="https://cdn11.bigcommerce.com/shared/js/csrf-protection-header-95f3d9ac8c049e3ed132c83a168cf1d6a8ed0237.js"></script>
+<script src='https://chimpstatic.com/mcjs-connected/js/users/2a6e911945a31f929ea1747d6/0b14c30ea73023a77a6f0584f.js' defer></script>
+    </body>
+</html>

@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<link rel="shortcut icon" href="https://www.giftacrossindia.com/images/gai.ico" />
+<meta content="" name="description" />
+<!-- for-mobile-apps -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!--//for-mobile-apps -->
+<!--Custom Theme files -->
+<link href="https://www.giftacrossindia.com/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+<link href="https://www.giftacrossindia.com/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!--//Custom Theme files -->
+<!--js-->
+<script src="https://www.giftacrossindia.com/js/jquery-1.11.1.min.js"></script>
+<script src="https://www.giftacrossindia.com/js/modernizr.custom.js"></script>
+<!--//js-->
+<!--cart-->
+<!--web-fonts-->
+<link href='//fonts.googleapis.com/css?family=Glegoo:400,700' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+<!--web-fonts-->
+<!--animation-effect-->
+<!--//animation-effect-->
+<!--start-smooth-scrolling-->
+<script type="text/javascript" src="https://www.giftacrossindia.com/js/move-top.js"></script>
+<script type="text/javascript" src="https://www.giftacrossindia.com/js/easing.js"></script>
+<link href="https://www.giftacrossindia.com/css/font-awesome.css" rel="stylesheet"/>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+                       $(".scroll").click(function(event){
+                                          event.preventDefault();
+                                          $('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+                                          });
+                       });
+</script>
+<!--//end-smooth-scrolling-->
+<link type="text/css" rel="stylesheet" href="https://www.giftacrossindia.comcss/style.css" /><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script><style>
+.float{
+position:fixed;
+width:60px;
+height:60px;
+bottom:40px;
+right:40px;
+    background-color:#25d366;
+color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:30px;
+    box-shadow: 2px 2px 3px #999;
+    z-index:100;
+}
+
+.my-float{
+    margin-top:16px;
+}
+</style>
+<a href="https://api.whatsapp.com/send?phone=917977351941&text=I am looking out for a gift." class="float" target="_blank">
+
+<i class="fa fa-whatsapp my-float"></i>
+</a>
+
+<meta name="google-site-verification" content="W9zEO6B8KtFlPbGWTqG1WtuO2AyM2kk9oY9veQL-0ac" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-26225010-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-26225010-1');
+</script>
+
+             
+</head>
+<body>
+
+
+<div class="vspace40">
+<div class="container marketing">
+<div class="row">
+<div class="span8">
+
+Page not found on this server!
+
+</div>
+
+<div class="span4">
+
+
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="col-sm-12 new">
+<hr />
+<div class="col-sm-2"></div>
+<div class="col-sm-3"><span style="float:left;padding:10px;"><i style="font-size:6rem" class="fa fa-shield"></i></span><span style="float:left;padding:10px;"><b style="font-size:1.8rem;">100% Secure Payments</b><br />All major cards accepted</span><span class="clearfix"> </span></div>
+<div class="col-sm-3"><span style="float:left;padding:10px;"><i style="font-size:6rem" class="fa fa-users"></i></span><span style="float:left;padding:10px;"><b style="font-size:2rem;">1,000,000 </b><br />Customers across the world</span><span class="clearfix"> </span></div>
+<div class="col-sm-3"><span style="float:left;padding:10px;"><i style="font-size:6rem" class="fa fa-truck"></i></span><span style="float:left;padding:10px;"><b style="font-size:2rem;">550+ </b><br />Cities Happily delivering</span><span class="clearfix"> </span></div>
+<div class="col-sm-1"></div>
+<div class="clearfix"> </div>
+</div>
+<div class="clearfix"> </div>
+<!--footer-->
+<div class="footer">
+<div class="container">
+<div class="footer-info">
+<div class="col-md-4 footer-grids">
+<h4 class="footer-logo"><a href="https://www.giftacrossindia.com">Gift Across <b>India</b> <span class="tag">Everything for Gifting world </span> </a></h4>
+<p><a href="https://www.giftacrossindia.com/about-us">About Us</a></p>
+<p><a href="https://www.giftacrossindia.com/contacts">Contact Us</a></p>
+<p><a href="https://www.giftacrossindia.com/blog">Blog</a></p>
+<p><a href="https://www.giftacrossindia.com/faq">FAQ</a></p>
+<p><a href="https://www.giftacrossindia.com/customer-support">Customer Support</a></p>
+<p><a href="https://www.giftacrossindia.com/terms-and-conditions">Terms and Conditions</a></p>
+<p><a href="https://www.giftacrossindia.com/privacy-policy">Privacy Policy</a></p>
+<p><a href="https://www.giftacrossindia.com/ship-and-delivery-policy">Ship and Delivery Policy</a></p>
+<p><a href="https://www.giftacrossindia.com/cancel-and-return-policy">Cancel and Return Policy</a></p>
+<p><a href="https://www.giftacrossindia.com/refund-policy">Refund Policy</a></p>
+<p>
+<b>CONNECT WITH US</b>
+<ul>
+<li><a rel="nofollow" href="https://www.facebook.com/Gift-Across-India-1517403241842238/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+<li><a rel="nofollow" href="https://in.pinterest.com/giftacrossindia/" class="pin"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+<li><a rel ="nofollow" href="https://www.linkedin.com/in/gift-across-india-3138bb117/" class="in"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+<li><a rel="nofollow" href="https://twitter.com/@giftacrossindia" class="in"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+</ul>
+
+</p>
+</div>
+<div class="col-md-2 footer-grids wow fadeInUp animated" data-wow-delay=".7s">
+<h4>Festival</h4>
+<p><a href="https://www.giftacrossindia.com/rakhi">Rakhi Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/diwali">Diwali Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/bhai-dooj">Bhaidooj Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/holi-gifts/220">Holi Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/makar-sankranti/306">Makar Sankranti Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/karwa-chauth/222">Karwa Chauth Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/ganesh-chaturthi/296">Ganesh Chaturthi Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/dhanteras/442">Dhanteras Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/dusshera/443">Dusshera Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/lohri-gifts/295">Lohri Gifts</a></p>
+</div>
+<div class="col-md-2 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
+<h4>City</h4>
+<p><a href="https://www.giftacrossindia.com/gifts/city/ahmedabad">Gifts to Ahmedabad</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/bangalore">Gifts to Bangalore</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/mumbai">Gifts to Mumbai</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/kolkata">Gifts to Kolkata</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/chennai">Gifts to Chennai</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/delhi">Gifts to Delhi</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/gurgaon">Gifts to Gurgaon</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/hyderabad">Gifts to Hyderabad</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/pune">Gifts to Pune</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/city/noida">Gifts to Noida</a></p>
+
+</div>
+<div class="col-md-2 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
+<h4>Popular</h4>
+<p><a href="https://www.giftacrossindia.com/gifts/birthday">Birthday Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/anniversary">Anniversary Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/flowers">Fresh Flowers</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/cakes">Cakes</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/gifts-for-her/8">Gifts For Her</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/gifts-for-him/9">Gifts For Him</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/personalized">Personalized Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/chocolates">Chocolate Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/wedding">Wedding Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/sweets">Sweets</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/retirement-gifts/309">Retirement Gifts</a></p>
+</div>
+<div class="col-md-2 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
+<h4>Occasion</h4>
+<p><a href="https://www.giftacrossindia.com/gifts/christmas">Christmas Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/new-year">New Year Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/fathers-day">Fathers Day Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/mothers-day">Mothers Day Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/valentines-day">Valentine's Day Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/womens-day/290">Womens Day Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/childrens-day/294">Childrens Day Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/engagement-gifts/310">Engagement Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/house-warming-gifts/307">House Warming  Gifts</a></p>
+<p><a href="https://www.giftacrossindia.com/gifts/sorry-gifts/368">Sorry Gifts</a></p>
+
+</div>
+<div class="clearfix"></div>
+
+<div class="col-md-12 footer-grids wow fadeInUp animated" data-wow-delay=".9s">
+<h6>Popular Searches At Giftacrossindia.com</h6>
+<p style="line-height:2rem;">
+<a href="https://www.giftacrossindia.com/gifts/birthday-photo-frames/264">Birthday Photo Frames</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-father/44">Birthday Father</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-teen-boy/52">Birthday Teen Boy</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts/3">Birthday Gifts</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gender-wise/26">Birthday Gender Wise</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-crush/36">Birthday Crush</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-hampers/28">Birthday Hampers</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-mother/43">Birthday Mother</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts-for-wife/33">Birthday Gifts For Wife</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-family/25">Birthday Family</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-best-sellers/29">Birthday Best Sellers</a> , <a href="https://www.giftacrossindia.com/gifts/romantic-birthday-hampers/40">Romantic Birthday Hampers</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-men/50">Birthday Men</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-zodiac-mugs/61">Birthday Zodiac Mugs</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-home-decor/64">Birthday Home Decor</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-elderly-women/53">Birthday Elderly Women</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-boy/56">Birthday Boy</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-same-day-delivery/65">Birthday Same Day Delivery</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-special-ones/24">Birthday Special Ones</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-perfumes/67">Birthday Perfumes</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-sister/45">Birthday Sister</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts-for-husband/34">Birthday Gifts For Husband</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-daughter/47">Birthday Daughter</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-women/49">Birthday Women</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-son/48">Birthday Son</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-teen-girl/51">Birthday Teen Girl</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-chocolates/63">Birthday Chocolates</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-elderly-men/54">Birthday Elderly Men</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-cards/38">Birthday Cards</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-cakes/262">Birthday Cakes</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-midnight-delivery/66">Birthday Midnight Delivery</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-girl/55">Birthday Girl</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts-for-girlfriend/31">Birthday Gifts For Girlfriend</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-trending-gifts/30">Birthday Trending Gifts</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts-test/1127">Birthday Gifts Test</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-brother/46">Birthday Brother</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts-for-boyfriend/32">Birthday Gifts For Boyfriend</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-gifts-for-friend/35">Birthday Gifts For Friend</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-toddlers/57">Birthday Toddlers</a> , <a href="https://www.giftacrossindia.com/gifts/birthday-personalized-gifts/60">Birthday Personalized Gifts</a></p>
+
+</div>
+<div class="clearfix"></div>
+
+
+</div>
+</div>
+</div>
+<!--//footer-->
+
+<script>
+function submitSearch(){
+    if(document.getElementById('Search').value == ''){
+        return false;
+    }
+    var url = "https://www.giftacrossindia.com/gifts/";
+    var q = document.getElementById('Search').value;
+    q = q.trim();
+    q = q.replace(/[^a-zA-Z0-9 ]/g, ' ')
+    q = q.replace(/\s/g,"-");
+    q = q.replace(/\-+/g,"-");
+    url = url+q;
+    window.location = url;
+    return false;
+}
+
+(function blink() {
+ $('.blink_me').fadeOut(500).fadeIn(500, blink);
+ })();
+
+</script>
+</body>
+</html>

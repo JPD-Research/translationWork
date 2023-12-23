@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Access error</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function() {
+
+            let hostname = window.location.hostname;
+            let pathname = window.location.pathname;
+            // ------------------------ config ------------------------
+
+            const code = "404";
+            const service = "ng";
+
+            // ------------------------ /config ------------------------
+
+            const infoline = code + ': '+ new Date(Date.now()).toLocaleString("de-DE") + ', ' + service + ', ' + 'client: <span id="myip">n/a</span>' + '<br />' + window.location;
+            let pathsegments = pathname.split('/');
+
+            const errorshortmessages = {"400": "Bad request", "401": "Unautorized", "403": "Forbidden", "404": "Not found", "500": "Internal Server Error", "502": "Bad Gateway", "503": "Service unavailable", "504": "Gateway timeout"};
+            let errorshortmessage = code + " Error";
+            Object.entries(errorshortmessages).forEach(([key, val]) => {
+                if(key === code) errorshortmessage = code + " " + val;
+            });
+            document.title = errorshortmessage;
+
+            // Translations
+            const translations = {
+                'default' :{
+                    'default': {
+                        'langs': {
+                            'default': {
+                                'welcome': code,
+                                'text': 'This page is not available.',
+                                'linklogin': '',
+                                'linkregister': ''
+                            }
+                        }
+                    }
+                },
+                '401': {
+                    'default': { // including www
+                        'langs': {
+                            'default': {
+                                'welcome': 'login',
+                                'text': 'You have to log in to access this area.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': 'I am new here and would like to <a href="https://id.evonik.com/sspr/public/newuser">register</a>.'
+                            },
+                            'de': {
+                                'welcome': 'login',
+                                'text': 'Sie müssen sich anmelden, um auf diesen Bereich zuzugreifen.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': 'Ich bin neu hier und möchte mich <a href="https://id.evonik.com/sspr/public/newuser">registrieren</a>.'
+                            }
+                        }
+                    },
+                    'eocm': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'no auth',
+                                'text': 'You have no access this ressource.',
+                                'linklogin': '',
+                                'linkregister': ''
+                            },
+                            'de': {
+                                'welcome': "no auth",
+                                'text': 'Sie haben keinen Zugriff auf diese Ressource.',
+                                'linklogin': '',
+                                'linkregister': '',
+                            }
+                        }
+                    },
+                    'ntran': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'login',
+                                'text': 'You have to log in to access this area.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': ''
+                            },
+                            'de': {
+                                'welcome': 'login',
+                                'text': 'Sie müssen sich anmelden, um auf diesen Bereich zuzugreifen.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': ''
+                            }
+                        }
+                    },
+                    'romho': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'fromhome',
+                                'text': 'Access for Evonik employees only.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': 'I am new here and need <a href="https://corporate.evonik.com/en/at-home-and-thereby-166285.html">instructions</a>.'
+                            },
+                            'de': {
+                                'welcome': "fromhome",
+                                'text': 'Zugang nur für Evonik-Mitarbeiter.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': 'Ich bin neu hier und brauche <a href="https://corporate.evonik.com/de/zuhause-und-dabei-166284.html">Unterstützung</a>.',
+                            }
+                        }
+                    },
+                    'onferenc': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'login',
+                                'text': 'You have to log in to access a conference.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': ''
+                            },
+                            'de': {
+                                'welcome': "login",
+                                'text': 'Sie müssen sich einloggen, um an der Konferenz teilzunehmen.',
+                                'linklogin': '<a class="button" href="/securelogin/login?ReturnTo=<returnto>">Login</a>',
+                                'linkregister': '',
+                            }
+                        }
+                    }
+                },
+                '403': {
+                    'default': { // including www
+                        'langs': {
+                            'default': {
+                                'welcome': 'sorry',
+                                'text': 'Your permissions are not sufficient to access this area.',
+                                'linklogin': '<a class="button" href = "/en/clearance-request?message=Please grant me access to the protected areas of <host>>">Request clearance</a>',
+                                'linkregister': ''
+                            },
+                            'de': {
+                                'welcome': 'sorry',
+                                'text': 'Ihre Berechtigungen reichen nicht, um auf diesen Bereich zuzugreifen.',
+                                'linklogin': '<a class="button" href = "/de/clearance-request?message=Bitte gewähren Sie mir Zugriff auf die geschützten Bereiche von <host>">Freigabe beantragen</a>',
+                                'linkregister': ''
+                            }
+                        }
+                    },
+                    'eocm': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'forbidden',
+                                'text': 'You have no access to this ressource.',
+                                'linklogin': '',
+                                'linkregister': ''
+                            },
+                            'de': {
+                                'welcome': "forbidden",
+                                'text': 'Sie haben keinen Zugriff auf diese Ressource.',
+                                'linklogin': '',
+                                'linkregister': '',
+                            }
+                        }
+                    },
+                    'ntran': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'sorry',
+                                'text': 'You don\'t have access to this area.',
+                                'linklogin': '',
+                                'linkregister': ''
+                            },
+                            'de': {
+                                'welcome': 'sorry',
+                                'text': 'Sie haben keinen Zugriff auf diesen Bereich.',
+                                'linklogin': '',
+                                'linkregister': ''
+                            }
+                        }
+                    },
+                    'romho': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'fromhome',
+                                'text': 'Access for Evonik employees only.',
+                                'linklogin': '',
+                                'linkregister': 'I am new here and need <a href="https://corporate.evonik.com/en/at-home-and-thereby-166285.html">instructions</a>.'
+                            },
+                            'de': {
+                                'welcome': "fromhome",
+                                'text': 'Zugang nur für Evonik-Mitarbeiter.',
+                                'linklogin': '',
+                                'linkregister': 'Ich bin neu hier und brauche <a href="https://corporate.evonik.com/de/zuhause-und-dabei-166284.html">Unterstützung</a>.',
+                            }
+                        }
+                    },
+                    'onferenc': {
+                        'langs': {
+                            'default': {
+                                'welcome': 'no access',
+                                'text': 'You are not registered for this conference.',
+                                'linklogin': '',
+                                'linkregister': 'Please contact the Evonik event management.'
+                            },
+                            'de': {
+                                'welcome': "no access",
+                                'text': 'Sie sind nicht als Teilnehmer dieser Konferenz registriert.',
+                                'linklogin': '',
+                                'linkregister': 'Bitte wenden Sie sich an das Evonik Event Management.',
+                            }
+                        }
+                    }
+                }
+            };
+
+            let codeinfo = translations.default;
+            Object.entries(translations).forEach(([key, val]) => {
+                if(key === code) codeinfo = val;
+            });
+            let realm = codeinfo.default;
+            Object.entries(codeinfo).forEach(([key, val]) => {
+                if(hostname.indexOf(key) > -1) realm = val;
+            });
+            let lang = realm.langs.default;
+            if (pathsegments.length > 2){ // intranet-hosts
+                Object.entries(realm.langs).forEach(([key, val]) => {
+                    if(key === pathsegments[2]) lang = val;
+                });
+            }
+            if (pathsegments.length > 1){
+                Object.entries(realm.langs).forEach(([key, val]) => {
+                    if(key === pathsegments[1]) lang = val;
+                });
+            }
+
+            const welcome = lang.welcome;
+            const text = lang.text;
+            const linklogin = lang.linklogin.replace('<returnto>', encodeURIComponent(document.location.href)).replace('<host>', hostname);
+            const linkregister = lang.linkregister;
+
+            const canvas = document.getElementById("scene");
+
+            // ------------------------ output ------------------------
+
+            document.getElementById('text').innerHTML = text;
+            document.getElementById('linklogin').innerHTML = linklogin;
+            document.getElementById('linkregister').innerHTML = linkregister;
+            document.getElementById('infoline').innerHTML = infoline;
+            fetch('/myip').then(response => {return response.json()}).then(jsonResponse => {document.getElementById('myip').innerHTML = jsonResponse.myip})
+
+            // ------------------------ Animation ------------------------
+
+            var ctx = canvas.getContext("2d"),
+                particles = [],
+                amount = 0,
+                mouse = { x: 0, y: 0 },
+                radius = 1;
+
+            var colors = ["#ae5ca0", "#991d85", "#991d85", "#801870", "#6f1260"];
+
+            var ww = (canvas.width = window.innerWidth);
+            var wh = (canvas.height = window.innerHeight);
+
+            function Particle(x, y) {
+                this.x = Math.random() * ww;
+                this.y = Math.random() * wh;
+                this.dest = {
+                    x: x,
+                    y: y
+                };
+                this.r = Math.random() * (2.5 * ww / 1000) + (ww / 1000);
+                this.vx = (Math.random() - 0.5) * 20;
+                this.vy = (Math.random() - 0.5) * 20;
+                this.accX = 0;
+                this.accY = 0;
+                this.friction = Math.random() * 0.05 + 0.93;
+
+                this.color = colors[Math.floor(Math.random() * 6)];
+            }
+
+            Particle.prototype.render = function () {
+                this.accX = (this.dest.x - this.x) / 1000;
+                this.accY = (this.dest.y - this.y) / 1000;
+                this.vx += this.accX;
+                this.vy += this.accY;
+                this.vx *= this.friction;
+                this.vy *= this.friction;
+
+                this.x += this.vx;
+                this.y += this.vy;
+
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, this.r, Math.PI * 2, false);
+                ctx.fill();
+
+                var a = this.x - mouse.x;
+                var b = this.y - mouse.y;
+
+                var distance = Math.sqrt(a * a + b * b);
+                if (distance < radius * 70) {
+                    this.accX = (this.x - mouse.x) / 100;
+                    this.accY = (this.y - mouse.y) / 100;
+                    this.vx += this.accX;
+                    this.vy += this.accY;
+                }
+            };
+
+            function onMouseMove(e) {
+                mouse.x = e.clientX;
+                mouse.y = e.clientY;
+            }
+
+            function onTouchMove(e) {
+                if (e.touches.length > 0) {
+                    mouse.x = e.touches[0].clientX;
+                    mouse.y = e.touches[0].clientY;
+                }
+            }
+
+            function onTouchEnd(e) {
+                mouse.x = -9999;
+                mouse.y = -9999;
+            }
+
+            function initScene() {
+                ww = canvas.width = window.innerWidth;
+                wh = canvas.height = window.innerHeight;
+
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+                ctx.font = "bold " + ww / 5 + "px EvonikProkyon,'Trebuchet MS'";
+                ctx.textAlign = "center";
+                ctx.fillText(welcome, ww / 2, wh / 2);
+
+                var data = ctx.getImageData(0, 0, ww, wh).data;
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                ctx.globalCompositeOperation = "screen";
+
+                particles = [];
+                for (var i = 0; i < ww; i += Math.round(ww / 150)) {
+                    for (var j = 0; j < wh; j += Math.round(ww / 150)) {
+                        if (data[(i + j * ww) * 4 + 3] > 150) {
+                            particles.push(new Particle(i, j));
+                        }
+                    }
+                }
+                amount = particles.length;
+            }
+
+            function onMouseClick() {
+                radius++;
+                if (radius === 5) {
+                    radius = 0;
+                }
+            }
+
+            function render(a) {
+                requestAnimationFrame(render);
+                ctx.clearRect(0, 0, canvas.width, canvas.height);
+                for (var i = 0; i < amount; i++) {
+                    particles[i].render();
+                }
+            }
+
+            window.addEventListener("resize", initScene);
+            window.addEventListener("mousemove", onMouseMove);
+            window.addEventListener("touchmove", onTouchMove);
+            window.addEventListener("click", onMouseClick);
+            window.addEventListener("touchend", onTouchEnd);
+            initScene();
+            requestAnimationFrame(render);
+
+        });
+    </script>
+
+    <style>
+        *, ::after, ::before {
+            box-sizing: border-box;
+        }
+        html {
+            font-size: 10px;
+            overflow-y: scroll;
+            overflow-x: hidden;
+        }
+        @media only screen and (max-width: 767px) and (min-width: 320px) {
+            html {
+                font-size: calc( ((100vw - 10px) / 310) * 10);
+            }
+        }
+        @media only screen and (max-width: 991px) and (min-width: 768px) {
+            html {
+                font-size: calc( ((100vw - 30px) / 738) * 10);
+            }
+        }
+        @media only screen and (min-width: 992px), print {
+            html {
+                font-size: calc( ((100vw - 47px) / 945) * 10);
+            }
+        }
+        @media only screen and (min-width: 1157px) {
+            html {
+                font-size: 11.746031746px;
+            }
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            font-family: EvonikProkyon, "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "Tahoma", Arial, sans-serif;
+        }
+        .beocms-container {
+            flex: 1 1 auto;
+            display: flex;
+            flex-direction: column;
+            max-width: 1140px;
+            height: 100vh;
+            padding: 15px 5px 0;
+            padding-left: 15px;
+            padding-right: 15px;
+        }
+        @media only screen and (min-width: 992px), print {
+            .beocms-container {
+                padding-top: 30px;
+            }
+        }
+        @media only screen and (min-width: 768px) {
+            .beocms-container {
+                padding-left: 15px;
+                padding-right: 15px;
+            }
+        }
+        .beocms-logo {
+            flex: 0 0 auto;
+            display: flex;
+        }
+
+        @media only screen and (max-width: 767px) and (min-width: 320px) {
+            .beocms-logo img {
+                height: 3.5rem;
+                margin-left: 0.3rem;
+            }
+        }
+        @media only screen and (min-width: 768px) {
+            .beocms-logo img {
+                height: 5.6rem;
+            }
+        }
+        .wrapper {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-top: calc(100vh / 2);
+        }
+        #text {
+            padding: 1rem 2rem 2rem;
+            font-size: 1.5rem;
+            text-align: center;
+            z-index: 1;
+        }
+        @media only screen and (min-width: 768px) {
+            #text {
+                padding: 1em 4em 2rem;
+                font-size: 2rem;
+            }
+        }
+        .button {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 1rem 2rem;
+            background-color: #991d85;
+            color: white;
+            font-size: 1.5rem;
+            text-decoration: none;
+            text-transform: uppercase;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .button:hover {
+            background-color: black;
+        }
+        #linklogin:not(:empty) {
+            margin-bottom: 1.5rem;
+        }
+        #linkregister {
+            font-size: 1.3rem;
+        }
+        #linkregister a {
+            color: #991d85;
+        }
+        #scene {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: -1;
+        }
+        #infoline {
+            padding-top: 2rem;
+            text-align: center;
+            color: #85847e;
+            word-break: break-all;
+        }
+    </style>
+</head>
+<body id="container">
+
+<div class="beocms-container">
+
+    <canvas id="scene"></canvas>
+
+    <div class="beocms-logo">
+        <a href="https://corporate.evonik.com/">
+            <img src="https://corporate.evonik.com/media/cms-core/img/evonik2020.svg" alt="logo"/>
+        </a>
+    </div>
+
+    <div class="wrapper">
+        <div id="text">Access error</div>
+        <div id="linklogin"></div>
+        <div id="linkregister"></div>
+        <div id="infoline"></div>
+    </div>
+</div>
+
+</body>

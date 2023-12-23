@@ -1,0 +1,2397 @@
+<!doctype html>
+<html lang="sv-SE">
+	<head>
+  <meta charset="utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <link rel="shortcut icon" href="https://www.svenskaturistforeningen.se/app/themes/stf/assets/img/favicon.ico" type="image/x-icon"/>
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-144x144.png?auto=format">
+  <link rel="apple-touch-icon" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="57x57" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-57x57.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="72x72" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-72x72.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="76x76" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-72x72.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="114x114" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-114x114.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="120x120" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-120x120.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="144x144" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-144x144.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="152x152" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-152x152.png?auto=format"/>
+  <link rel="apple-touch-icon" sizes="180x180" href="https://stfturist.imgix.net/app/themes/stf/assets/img/apple-touch-icon-180x180.png?auto=format"/>
+  <link rel="dns-prefetch" href="https://lajka.stfturist.se">
+  <link rel="preconnect" href="//fonts.googleapis.com">
+  <link rel="preconnect" href="//ajax.googleapis.com">
+  <link rel="preconnect" href="//maps.googleapis.com">
+  <link rel="preconnect" href="https://lajka.stfturist.se">
+                       <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-5Q5N9G');</script>
+        <script>
+    document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if (typeof ga === 'function') {
+          ga('send', 'event', 'Contact Form', 'submit');
+        }
+    }, false );
+</script>
+            <script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag("consent", "default", {
+		ad_storage: "denied",
+		analytics_storage: "denied",
+		functionality_storage: "denied",
+		personalization_storage: "denied",
+		security_storage: "granted",
+		wait_for_update: 500,
+	});
+	gtag("set", "ads_data_redaction", true);
+	gtag("set", "url_passthrough", true);
+</script>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="dns-prefetch" href="//stfturist.imgix.net"/><link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//browser.sentry-cdn.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.svenskaturistforeningen.se/wp/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://www.svenskaturistforeningen.se/app/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://www.svenskaturistforeningen.se/app/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.4.6' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 90%; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 24px; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='cf7cf-style-css' href='https://www.svenskaturistforeningen.se/app/plugins/cf7-conditional-fields/style.css?ver=2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='site_css-css' href='https://www.svenskaturistforeningen.se/app/themes/stf/assets/dist/main.min.1702456656.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bundle_css-css' href='https://www.svenskaturistforeningen.se/app/themes/stf/assets/dist/bundle.min.css' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.svenskaturistforeningen.se/wp/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://www.svenskaturistforeningen.se/?p=5408228' />
+<script type="text/javascript">window.wpApiSettings={"root":"https:\/\/www.svenskaturistforeningen.se\/api\/","nonce":"7dbc5621de","versionString":"api\/v1\/"}</script>
+<meta class="swiftype" name="category-id" data-type="integer" content="766" />
+
+<meta class="swiftype" name="category-name" data-type="string" content="BOENDE" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	
+<meta name="st:robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<meta class="swiftype" name="image" data-type="enum" content="https://stfturist-lajka.imgix.net/v1/image/citybreak/7589887" />
+	<!-- This site is optimized with the Yoast SEO plugin v20.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>STF Stigbergsliden vandrarhem i Göteborg, Boende i Göteborg</title>
+	<meta name="description" class="swiftype" data-type="string" content="På STF Stigbergsliden vandrarhem bor du mitt i gemytliga Göteborg. Ät frukost på vår mysiga innergård och ha nära till att staden erbjuder." />
+	<link rel="canonical" href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/" />
+	<meta property="og:locale" content="sv_SE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="STF Stigbergsliden vandrarhem i Göteborg, Boende i Göteborg" />
+	<meta property="og:description" content="På STF Stigbergsliden vandrarhem bor du mitt i gemytliga Göteborg. Ät frukost på vår mysiga innergård och ha nära till att staden erbjuder." />
+	<meta property="og:url" content="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/" />
+	<meta property="og:site_name" content="Svenska Turistföreningen" />
+	<meta property="article:modified_time" content="2023-12-22T19:18:07+00:00" />
+	<meta property="og:image" content="https://stfturist-lajka.imgix.net/v1/image/citybreak/7589887" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="1067" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://stfturist-lajka.imgix.net/v1/image/citybreak/7589887" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/","url":"https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/","name":"STF Stigbergsliden vandrarhem i Göteborg, Boende i Göteborg","isPartOf":{"@id":"https://www.svenskaturistforeningen.se/#website"},"datePublished":"2023-02-13T13:31:41+00:00","dateModified":"2023-12-22T19:18:07+00:00","description":"På STF Stigbergsliden vandrarhem bor du mitt i gemytliga Göteborg. Ät frukost på vår mysiga innergård och ha nära till att staden erbjuder.","breadcrumb":{"@id":"https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/#breadcrumb"},"inLanguage":"sv-SE","potentialAction":[{"@type":"ReadAction","target":["https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/"]}]},{"@type":"BreadcrumbList","@id":"https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.svenskaturistforeningen.se/"},{"@type":"ListItem","position":2,"name":"Accommodations","item":"https://www.svenskaturistforeningen.se/boende/"},{"@type":"ListItem","position":3,"name":"STF Stigbergsliden Vandrarhem Göteborg"}]},{"@type":"WebSite","@id":"https://www.svenskaturistforeningen.se/#website","url":"https://www.svenskaturistforeningen.se/","name":"Svenska Turistföreningen","description":"Upptäck äventyret Sverige","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.svenskaturistforeningen.se/sok/{search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"sv-SE"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+
+</head>
+	<body class="accommodation-template-default single single-accommodation postid-5408228 theme-stf woocommerce-no-js u-flex u-flex-col u-min-h-screen">
+		     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5Q5N9G"
+ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+			<div data-message-before-header class="u-px-8 u-py-5 u-bg-gray-100 u-border-b u-border-gray-200 u-text-center">
+			<div class="alert-text-wrapper">
+				<p class="p1">För närvarande kan vissa uppleva problem med sökfunktionen på vår webb. Vi arbetar med att åtgärda problemet. Tack för ditt tålamod.</p>
+
+			</div>
+		</div>
+	
+
+	
+
+<header data-component-site-header data-swiftype-index="false" class="u-z-[500] theme-white-mono u-bg-theme u-sticky u-text-base 2xl:u-text-base xl:u-relative u-top-0">
+	<div class="u-flex u-items-center u-justify-between u-px-5 u-py-4 xl:u-space-x-4">
+		<div class="u-grow-0">
+			<a id="gaID_header_site_branding" href="https://www.svenskaturistforeningen.se">
+				<svg class="2xl:u-w-48 u-w-44" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 264.987 54.413">
+  <path d="M53.995 27.206c0 14.796-11.995 26.79-26.79 26.79-14.79 0-26.788-11.994-26.788-26.79C.417 12.408 12.414.42 27.205.42c14.795 0 26.79 11.988 26.79 26.786" fill="#f0ab00"/>
+  <path d="M53.995 27.206c0 14.796-11.995 26.79-26.79 26.79-14.79 0-26.788-11.994-26.788-26.79C.417 12.408 12.414.42 27.205.42c14.795 0 26.79 11.988 26.79 26.786z" fill="none" stroke="#f9b200" stroke-width=".83317917" stroke-miterlimit="3.864"/>
+  <path d="M45.325 8.511a25.52 25.52 0 0 0-18.112-7.5c-7.074 0-13.479 2.871-18.12 7.502L27.21 26.625 45.325 8.51M9.09 45.912a25.538 25.538 0 0 0 18.123 7.51 25.544 25.544 0 0 0 18.12-7.506L27.21 27.79 9.09 45.911" fill="#0046ad"/>
+  <path d="M8.513 9.094c-4.634 4.64-7.506 11.05-7.506 18.12a25.52 25.52 0 0 0 7.5 18.114L26.629 27.21 8.513 9.094M45.91 9.094 27.793 27.21l18.124 18.118a25.519 25.519 0 0 0 7.504-18.113c0-7.079-2.87-13.487-7.51-18.121" fill="#f9ff1e"/>
+  <path d="M7.195 33.855c-.505-.015-1.38.177-1.372 1.162-.007.586.342 1.069 1.012 1.064 1.07.007 1.492-1.78 1.495-1.788-.078-.304-1.06-.428-1.135-.438zm3.154-1.712s.305.117.884.548c.134.114.395.26.799.646.708.726 1.233 1.688 1.238 1.68.26-.277.54-.415.634-1.09.14-1.002-1.256-2.534-2.975-3.18l-.58 1.396zm1.07-2.774s1.81.725 2.6 1.719c.76.956.535 2.377.535 2.377l.304-.514s.928-1.885-.556-3.394c-.488-.487-1.692-1.155-2.396-1.323 0 0-.495 1.143-.487 1.135zm-1.614-9.918c-1.886.006-2.306 1.677-2.3 1.885v.417c-.006.25.335 1.046 1.061 1.575.315.234 3.536 1.34 3.543 1.346.17-.38.48-1.178.669-1.654.324-.722.647-1.684.649-1.734-.002-.321-1.013-1.1-1.191-1.218-.333-.187-1.055-.61-1.782-.617zm1.76-1.653c.661.065 1.657.337 2.015.467 1.085.407 1.891.597 1.735 1.084-.128.372-2.177 5.647-2.172 5.637-.005.048.658.32 1.318.619.023.02.869.531 1.268.93 1.192 1.202 1.078 2.516 1.08 2.666v.619c-.002.067.086 1.46-1.65 4.003-.834 1.235-2.39 2.835-3.388 3.549-.112-.104-.55-.98-1.706-2.043-.482-.424-.685-.559-.748-.571-.08.012-.293.725-.906 1.523-.437.566-.845.87-1.528.907-1.442.112-1.89-.606-2.09-1.655-.284-1.29.86-3.607 3.184-3.624a8.83 8.83 0 0 1 1.16.056s.714-1.666.72-1.674c-.006-.027-1.558-.717-1.93-.942-2.578-1.612-1.903-3.894-1.903-3.904.258 1.442 1.86 2.79 4.37 3.599l.465-1.219c-.005-.024-.452-.203-1.369-.592-.295-.102-1.127-.544-1.371-.723-1.851-1.233-1.962-2.614-1.922-3.755.01-.562.261-2.29 1.456-3.504.437-.45 1.105-.868 1.687-1.116 1.016-.42 1.807-.363 2.226-.337M42.823 35.483v-7.727h-1.04v4.59l-1.384 1.08c1.56.582 2.424 2.057 2.424 2.057zm-.895-14.89c-.033.188-.093 3.179-.087 5.04 0 0 1.124-.018.95-.028v-3.448c.47-.525 1.662-1.045 2.007-1.564zm-5.25 14.172c.87-1.962 3.424-1.537 3.424-1.537l.06-5.494h-3.017c.15-.2.985-1.129.995-1.136.396-.417.63-.778.97-.8.087.013.895-.005 1.031 0v-3.583c.036-.22.693-1.596 1.3-1.596-1.368 0-2.971-.016-2.98 0l2.33-2.448h5.775c-.002.01 1.65-.02 1.986-.056 1.193-.108 1.505-.565 1.505-.565.013.01.336.521.453.702l-1.432 2.341h-3.31v4.355c-.006.01-.022.487.086.48.104.011.356.027.57 0-.01.007 1.264-.19 1.478-.254 1.142-.296 1.484-.658 1.484-.658s.224.15.48.31l-2.307 2.908h-1.905c0 .226-.006 6.635 0 6.947-.125.133-2.208 1.71-2.418 1.85-.18.122-1.78 1.352-1.832 1.24-1.665-3.827-4.726-3.006-4.726-3.006M26.87 14.041 26.836 46.8c-.925-.75-1.805-1.084-2.594-1.189l1.437-.988V11.43l3.589.013zm11.94-7.509c-1.599.935-4.935.977-4.935.977H18.417l-3.604 3.91 10.316.01-1.036 1.147-.036 33.008c-1.882-.17-3.188.974-3.188.974 4.318.604 5.475 3.418 5.475 3.418l4.221-3.274V11.444h6.626l2.687-4.245-1.068-.667" fill="#f0ab00"/>
+  <path d="M72.942 11.405c-.502-.849-1.152-1.283-2.184-1.283-1.085 0-2.282.74-2.282 1.933 0 1.07 1.05 1.627 1.904 1.955l.975.38c1.932.76 3.38 1.826 3.38 4.109 0 2.477-1.919 4.246-4.355 4.246-2.208 0-3.927-1.626-4.219-3.82l1.72-.355c-.016 1.498 1.174 2.585 2.64 2.585 1.465 0 2.514-1.23 2.514-2.656 0-1.468-1.173-2.099-2.351-2.588l-.941-.4c-1.556-.666-2.965-1.553-2.965-3.456 0-2.204 1.951-3.527 4.016-3.527 1.52 0 2.767.745 3.51 2.065l-1.362.812M83.636 18.914 87.688 8.82h1.86l-5.912 14.361-5.933-14.36h1.863l4.07 10.093M93.241 8.82h7.325v1.552H94.94v3.822h5.466v1.556H94.94v5.153h5.626v1.557H93.24V8.82M105.032 8.167l10.241 10.729V8.82h1.696v14.2l-10.235-10.727V22.46h-1.702V8.167M127.986 11.405c-.505-.849-1.152-1.283-2.183-1.283-1.092 0-2.282.74-2.282 1.933 0 1.07 1.049 1.627 1.898 1.955l.979.38c1.934.76 3.38 1.826 3.38 4.109 0 2.477-1.915 4.246-4.36 4.246-2.204 0-3.918-1.626-4.212-3.82l1.72-.355c-.018 1.498 1.173 2.585 2.64 2.585 1.465 0 2.514-1.23 2.514-2.656 0-1.468-1.176-2.099-2.35-2.588l-.943-.4c-1.56-.666-2.964-1.553-2.964-3.456 0-2.204 1.948-3.527 4.01-3.527 1.523 0 2.773.745 3.515 2.065l-1.362.812M141.665 8.82h2.224l-6.134 6.13L144 22.46h-2.301l-5.136-6.35-.686.646v5.704h-1.702V8.82h1.702v5.914l5.788-5.914M155.753 19.04l1.558 3.42h1.825l-6.51-14.217-6.517 14.217h1.831l1.559-3.42zm-.702-1.557h-4.854l2.43-5.518zM70.694 45.575h-1.697V33.492h-3.24v-1.556h8.175v1.556h-3.238v12.083M78.74 31.969v8.048c0 2.224.671 4.286 3.291 4.286 2.625 0 3.294-2.062 3.294-4.286V31.97h1.7v8.628c0 3.001-1.861 5.298-4.994 5.298-3.125 0-4.992-2.297-4.992-5.298V31.97h1.701M96.089 39.639c1.97-.234 3.273-1.86 3.273-3.817 0-1.302-.652-2.585-1.79-3.256-1.088-.614-2.386-.63-3.601-.63h-2.063v13.635h1.702v-5.77h.705l4.016 5.77h2.062zm-2.479-6.187h.453c1.68 0 3.706.31 3.706 2.443 0 2.17-1.879 2.497-3.62 2.497h-.539v-4.94M105.883 45.571h-1.702V31.935h1.702V45.57M117.026 34.52c-.508-.85-1.16-1.283-2.19-1.283-1.084 0-2.276.74-2.276 1.936 0 1.071 1.045 1.626 1.896 1.951l.977.38c1.939.76 3.383 1.826 3.383 4.108 0 2.475-1.915 4.25-4.36 4.25-2.207 0-3.924-1.627-4.214-3.817l1.717-.362c-.014 1.501 1.18 2.586 2.643 2.586 1.468 0 2.514-1.232 2.514-2.657 0-1.464-1.174-2.1-2.35-2.587l-.945-.398c-1.554-.67-2.965-1.554-2.965-3.454 0-2.21 1.957-3.528 4.018-3.528 1.518 0 2.766.74 3.506 2.063l-1.354.812M125.372 45.571h-1.702V33.488h-3.235v-1.555h8.175v1.555h-3.238V45.57M133.657 33.504v3.838h4.736v1.552h-4.736v6.691h-1.702V31.95h6.602v1.554h-4.9M148.835 31.64c-3.906 0-7.144 3.198-7.144 7.11 0 4.049 3.202 7.109 7.144 7.109 3.944 0 7.144-3.06 7.144-7.11 0-3.911-3.236-7.109-7.144-7.109zm1.914-3.346a1.094 1.094 0 1 0 1.09 1.083c.001-.593-.491-1.083-1.09-1.083zm-3.812 0a1.094 1.094 0 1 0 0 2.187 1.09 1.09 0 0 0 1.084-1.104c0-.593-.486-1.083-1.084-1.083zm1.898 15.97c-2.947 0-5.442-2.405-5.442-5.514 0-3.005 2.24-5.522 5.442-5.522 3.2 0 5.445 2.517 5.445 5.522 0 3.109-2.499 5.515-5.445 5.515M164.283 39.634c1.973-.236 3.274-1.864 3.274-3.814 0-1.302-.648-2.592-1.788-3.258-1.085-.616-2.388-.634-3.602-.634h-2.06v13.64h1.7v-5.77h.704l4.017 5.77h2.063zm-2.476-6.187h.454c1.679 0 3.704.31 3.704 2.445 0 2.167-1.88 2.495-3.614 2.495h-.544v-4.94M172.435 31.952h7.324v1.558h-5.623v3.818h5.46v1.555h-5.46v5.154h5.623v1.556h-7.324v-13.64M184.252 31.28 194.493 42V31.928h1.702v14.2l-10.239-10.725v10.165h-1.704V31.28M202.816 45.595h-1.697v-13.64h1.697v13.64M207.69 31.306l10.235 10.725V31.955h1.703v14.2l-10.237-10.729v10.169h-1.702V31.306M237.037 38.666v.542c0 3.747-2.644 6.62-6.458 6.62-3.818 0-6.89-3.289-6.89-7.07 0-3.926 3.146-7.147 7.072-7.147 2.115 0 4.211.963 5.55 2.644l-1.192 1.134c-.978-1.336-2.627-2.22-4.287-2.22-3.056 0-5.448 2.477-5.448 5.533 0 2.857 2.352 5.572 5.304 5.572 2.112 0 4.396-1.828 4.465-4.053h-3.526v-1.555h5.41M241.227 31.928h7.328v1.556h-5.631V37.3h5.465v1.557h-5.465v5.154h5.63v1.557h-7.327v-13.64M253.043 31.306l10.24 10.725V31.955h1.7v14.2l-10.238-10.729v10.169h-1.702V31.306"/>
+  <path d="M17.524 18.901h19.474c.002 2.79-.44 5.843-1.54 8.682-1.905 4.946-5.094 8.52-8.507 10.588-3.35-2.457-6.669-6.308-7.974-10.588-1.024-3.34-1.246-5.24-1.453-8.682" fill="#0046ad"/>
+  <path d="M36.655 19.229c-.033 2.914-.545 5.75-1.503 8.233-1.699 4.42-4.605 8.061-8.189 10.3-3.681-2.76-6.546-6.576-7.668-10.273-1-3.254-1.232-5.173-1.418-8.26h18.778zm.343-.659H17.173l.026.35c.196 3.358.405 5.315 1.46 8.757 1.185 3.893 4.208 7.914 8.093 10.763l.175.127.192-.115c3.8-2.302 6.865-6.118 8.647-10.751 1.03-2.653 1.565-5.698 1.557-8.8v-.33h-.325" fill="#fcc000"/>
+  <path d="M36.655 19.229c-.033 2.914-.545 5.75-1.503 8.233-1.699 4.42-4.605 8.061-8.189 10.3-3.681-2.76-6.546-6.576-7.668-10.273-1-3.254-1.232-5.173-1.418-8.26h18.778zm.343-.659H17.173l.026.35c.196 3.358.405 5.315 1.46 8.757 1.185 3.893 4.208 7.914 8.093 10.763l.175.127.192-.115c3.8-2.302 6.865-6.118 8.647-10.751 1.03-2.653 1.565-5.698 1.557-8.8v-.33z" fill="none" stroke="#fcc000" stroke-width=".119997" stroke-miterlimit="3.864"/>
+  <path d="M23.524 26.146c.864 0 1.353.078 1.353.078 0-2.87 1.256-3.533 1.256-3.533-.977-.776-1.898.402-1.898.402 0-.894-.73-1.77-.73-1.77h-.036s-.732.876-.732 1.77c0 0-.92-1.178-1.893-.402 0 0 1.35.853 1.35 3.533 0 0 .425-.078 1.293-.078h.037M30.916 26.146c.86 0 1.353.078 1.353.078 0-2.87 1.25-3.533 1.25-3.533-.973-.776-1.892.402-1.892.402 0-.894-.732-1.77-.732-1.77h-.036s-.73.876-.73 1.77c0 0-.92-1.178-1.895-.402 0 0 1.351.853 1.351 3.533 0 0 .423-.078 1.292-.078h.04M27.182 32.96c.867 0 1.36.075 1.36.075 0-2.87 1.252-3.537 1.252-3.537-.973-.766-1.895.412-1.895.412 0-.896-.73-1.773-.73-1.773h-.039s-.729.877-.729 1.773c0 0-.923-1.178-1.898-.412 0 0 1.354.855 1.354 3.537 0 0 .427-.074 1.291-.074h.034" fill="#f0ab00"/>
+</svg>
+
+				<span class="u-sr-only">Svenska Turistföreningen</span>
+			</a>
+		</div>
+					<div data-main-nav class="
+					u-z-50
+					-u-translate-x-full
+					u-pointer-events-none
+					u-transition-transform
+					u-overflow-hidden
+					u-fixed
+					u-left-0
+					u-right-0
+					u-top-0
+					u-min-h-screen
+					u-bg-white
+					u-p-5
+          u-pt-16
+
+					xl:u-grow
+					xl:u-shrink-0
+					xl:u-flex
+					xl:u-pointer-events-auto
+					xl:u-overflow-visible
+					xl:u-p-0
+					xl:u-static
+					xl:u-transform-none
+					xl:u-transition-none
+					xl:u-min-h-0">
+				<nav
+          class="
+            xl:u-grow
+            xl:u-flex
+            xl:u-justify-center
+					"
+          aria-label="Huvudmeny">
+					<ul class="u-flex u-flex-col u-space-y-4 xl:u-space-y-0 xl:u-flex-row xl:u-space-x-4 xl:u-my-2">
+      <li>
+      <a aria-pressed="false" id="link-id-179171" aria-controls="panel-id-179171" class="hover:u-no-underline u-text-2xl xl:u-text-base xl:u-p-2 xl:hover:u-border-b-8 xl:active:u-border-b-8 xl:u-border-gray-500 xl:u-pb-4 u-font-semibold mf-heatmap-click" href="#">
+        Aktiviteter
+        <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+      </a>
+      <div aria-labelledby="link-id-179171" id="panel-id-179171" class="
+        theme-white-mono
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-6
+        xl:u-transition-none
+        ">
+        <div class="u-p-5 u-max-w-page u-m-auto xl:u-pt-16 xl:u-pb-6">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+            <a href="" data-close class="u-whitespace-nowrap">
+  Stäng meny
+  <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+</a>
+
+          </div>
+
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                        md:u-grid-cols-2
+            xl:u-grid-cols-4
+                        xl:u-gap-x-8 u-mb-4">
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Jag vill uppleva</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/">Vandring</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/skidakning/">Skidåkning</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/kulturupplevelser/">Kulturupplevelser</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/familjeaktiviteter/">Familjeaktiviteter</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/cykling/">Cykling</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/paddling/">Paddling</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/aktiviteter/" class="btn light">Alla upplevelser</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Vandring</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/fjallvandring/">Fjällvandring</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/signaturleder/">STFs signaturleder</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/leder/">Alla vandringsleder</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/nyborjare/">För nybörjare</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/vandring-med-barn/">Vandring med barn</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/" class="btn light">Allt om vandring</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Skidåkning</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/skidakning/turskidakning/">Turskidåkning</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/skidakning/langdskidakning/">Längdskidor</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/skidakning/topptur/">Topptur</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/skidakning/utforsakning/">Utförsåkning</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/aktiviteter/skidakning/" class="btn light">Allt om skidåkning</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">STF på hemmaplan</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/">Upptäck lokala aktiviteter</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/lokala-ungdomsgrupper/">Lokala ungdomsgrupper</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                          </div>
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                         xl:u-grid-cols-1
+                        xl:u-gap-x-8 u-mb-4">
+                                                                                <div class="u-col-span-4">
+      <h3>Upptäck vårt utbud av aktiviteter</h3>
+    <div class="md:u-grid md:u-gap-8 md:u-grid-cols-2 lg:u-grid-cols-4">
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/aktiviteter/storulvan-fjallvistelse-pa-egen-hand-vinter/" target="_blank">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/anette-andersson050317_0728_high-resolution.jpg?auto=format" alt="">
+        </div>
+                          <p>Storulvån - Fjällvistelse på egen hand</p>
+              </a>
+    </article>
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/aktiviteter/abisko-upplev-norrsken-och-polarljus/" target="_blank">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/stf-5461_web-600.jpg?auto=format" alt="">
+        </div>
+                          <p>Upplev Norrsken och Polarljus</p>
+              </a>
+    </article>
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/aktiviteter/saltoluokta-yoga-och-turskidakning/" target="_blank">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/huvudbild-yoga-2.jpg?auto=format" alt="">
+        </div>
+                          <p>Saltoluokta - Yoga och turskidor</p>
+              </a>
+    </article>
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/aktiviteter/stf-valadalen-istidstur-med-guide/" target="_blank">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/valadalen-3.jpg?auto=format" alt="">
+        </div>
+                          <p>Vålådalen - Istidstur med guide</p>
+              </a>
+    </article>
+    </div>
+      <div class="u-flex u-justify-center">
+      <a class="u-text-red-500" href="https://www.svenskaturistforeningen.se/hitta/?aktiviteter" target="_self">Visa alla aktiviteter</a>
+    </div>
+  </div>
+                                                
+                          </div>
+                    <a data-close class="xl:u-hidden u-block u-mb-24" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+        </div>
+      </div>
+    </li>
+      <li>
+      <a aria-pressed="false" id="link-id-179179" aria-controls="panel-id-179179" class="hover:u-no-underline u-text-2xl xl:u-text-base xl:u-p-2 xl:hover:u-border-b-8 xl:active:u-border-b-8 xl:u-border-gray-500 xl:u-pb-4 u-font-semibold mf-heatmap-click" href="#">
+        Guider och tips
+        <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+      </a>
+      <div aria-labelledby="link-id-179179" id="panel-id-179179" class="
+        theme-white-mono
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-6
+        xl:u-transition-none
+        ">
+        <div class="u-p-5 u-max-w-page u-m-auto xl:u-pt-16 xl:u-pb-6">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+            <a href="" data-close class="u-whitespace-nowrap">
+  Stäng meny
+  <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+</a>
+
+          </div>
+
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                        md:u-grid-cols-2
+            xl:u-grid-cols-4
+                        xl:u-gap-x-8 u-mb-4">
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">STF Guidar</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/allemansratten/">Allemansrätten</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/allemansratten/allemansrattsskolan/">Allemansrättsskolan - lättläst</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/packlistor/">Packlistor</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/utrustningstips/">Utrustningstips</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/familjeaktiviteter/">För dig med barn</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/leder/">Samlingssida vandringsleder</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Fjällinformation</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/fjallen/fjallstugornas-butiker/">Handla i fjällbutik</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/fjallen/transport-fjallen/">Transporter i fjällen</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/fjallsakerhet/fjallvader/">Fjällväder</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/fjallen/ledsystemet/">Ledsystemet</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/fjallsakerhet/">Fjällsäkerhet</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/fjallen/serviceavgift/">Tält och serviceavgift</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/guider-tips/fjallen/" class="btn light">Allt om fjällen</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Planera din resa</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/aktiviteter/vandring/fjallvandring/">Fjällvandring</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/leder/">Hitta din vandringsled</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/fjallstuga/">Bo i fjällstuga</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/fjallstation/">Bo på fjällstation</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/vandrarhem/">Bo på vandrarhem</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stfs-hallbarhetsarbete/">Res hållbart</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Så gör du</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/utrustningstips/laga-mat-utomhus/">Laga mat utomhus</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/utrustningstips/vandra-med-talt/">Tälta</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/utrustningstips/sova-sovsack/">Sova i sovsäck</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/utrustningstips/lager-pa-lager-principen/">Klä dig i lager-på-lager</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                          </div>
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                         xl:u-grid-cols-2
+                        xl:u-gap-x-8 u-mb-4">
+                                                                                                                                    <div class="u-aspect-video" data-video-player data-url="https://www.youtube.com/embed/dsR-kxIoZRk">
+    <div class="u-aspect-video u-cursor-pointer u-bg-black u-relative">
+      <img
+        src="https://stfturist.imgix.net/app/uploads/2019/01/fjallstuga.jpg?auto=format"
+        alt="fjällstuga"
+        class="u-block u-w-full u-h-full u-object-cover u-filter u-brightness-90">
+      <button class="hover:u-bg-black u-min-w-min u-absolute u-top-1/2 u-left-1/2 -u-translate-x-1/2 -u-translate-y-1/2 u-bg-red-500 u-rounded-full u-w-16 u-h-16 u-text-white u-flex u-items-center u-justify-center">
+        <svg class="u-w-6 u-h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M361 215C375.3 223.8 384 239.3 384 256C384 272.7 375.3 288.2 361 296.1L73.03 472.1C58.21 482 39.66 482.4 24.52 473.9C9.377 465.4 0 449.4 0 432V80C0 62.64 9.377 46.63 24.52 38.13C39.66 29.64 58.21 29.99 73.03 39.04L361 215z"/></svg>
+
+      </button>
+    </div>
+  </div>
+                                      
+                                                                                                                                    <div class="u-aspect-video" data-video-player data-url="https://www.youtube.com/embed/OK2pVJhIY3A">
+    <div class="u-aspect-video u-cursor-pointer u-bg-black u-relative">
+      <img
+        src="https://stfturist.imgix.net/app/uploads/2019/01/karatakompass.jpg?auto=format"
+        alt="karta och kompass"
+        class="u-block u-w-full u-h-full u-object-cover u-filter u-brightness-90">
+      <button class="hover:u-bg-black u-min-w-min u-absolute u-top-1/2 u-left-1/2 -u-translate-x-1/2 -u-translate-y-1/2 u-bg-red-500 u-rounded-full u-w-16 u-h-16 u-text-white u-flex u-items-center u-justify-center">
+        <svg class="u-w-6 u-h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M361 215C375.3 223.8 384 239.3 384 256C384 272.7 375.3 288.2 361 296.1L73.03 472.1C58.21 482 39.66 482.4 24.52 473.9C9.377 465.4 0 449.4 0 432V80C0 62.64 9.377 46.63 24.52 38.13C39.66 29.64 58.21 29.99 73.03 39.04L361 215z"/></svg>
+
+      </button>
+    </div>
+  </div>
+                                      
+                          </div>
+                    <a data-close class="xl:u-hidden u-block u-mb-24" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+        </div>
+      </div>
+    </li>
+      <li>
+      <a aria-pressed="false" id="link-id-179190" aria-controls="panel-id-179190" class="hover:u-no-underline u-text-2xl xl:u-text-base xl:u-p-2 xl:hover:u-border-b-8 xl:active:u-border-b-8 xl:u-border-gray-500 xl:u-pb-4 u-font-semibold mf-heatmap-click" href="#">
+        Engagera dig
+        <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+      </a>
+      <div aria-labelledby="link-id-179190" id="panel-id-179190" class="
+        theme-white-mono
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-6
+        xl:u-transition-none
+        ">
+        <div class="u-p-5 u-max-w-page u-m-auto xl:u-pt-16 xl:u-pb-6">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+            <a href="" data-close class="u-whitespace-nowrap">
+  Stäng meny
+  <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+</a>
+
+          </div>
+
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                        md:u-grid-cols-2
+            xl:u-grid-cols-4
+                        xl:u-gap-x-8 u-mb-4">
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Stöd vårt arbete</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/stotta-kungsleden/">Stötta Kungsleden</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/insamling/minnesgava/">Minnesgåva</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/insamling/">Ge en gåva</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">STF på hemmaplan</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/">Det här händer nära dig</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/engagera-dig-lokalt/">Engagera dig på hemmaplan</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/lokala-ungdomsgrupper/">Lokala ungdomsgrupper</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/ansokan-ideella-uppdrag/">Sök ideella uppdrag</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/val-medlemsombud/">STFs medlemsombud</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/" class="btn light">Hitta din lokalavdelning</a>
+  </div>
+
+                                                                                
+                                                                                                                    <div class="xl:u-col-span-2 md:u-col-span-4">
+                                      
+  <a class="u-no-underline u-h-80 u-relative u-flex u-flex-row u-justify-center u-items-center" href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/" target="_self">
+    <img class="u-h-full u-w-full u-absolute u-object-cover" src="https://stfturist.imgix.net/app/uploads/2021/01/fikaiskogen.jpg?auto=format" alt="">
+          <div class="u-relative u-px-12 u-text-white u-text-center">
+                  <h3 class="u-text-white u-text-3xl">Upptäck nära</h3>
+                  <div>
+                  </div>
+        <span class="btn" href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/" target="_self">Läs mer</span>
+      </div>
+      </a>
+
+                                      </div>
+                                                  
+                          </div>
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                         xl:u-grid-cols-1
+                        xl:u-gap-x-8 u-mb-4">
+                                                                                <div class="u-col-span-4">
+      <h3>Engagera dig inom STF</h3>
+    <div class="md:u-grid md:u-gap-8 md:u-grid-cols-2 lg:u-grid-cols-4">
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/" target="_self">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/foreningsdemokrati.jpg?auto=format" alt="">
+        </div>
+                  <h4 class="u-text-xl">Påverka STFs framtid</h4>
+                          <p>Engagera dig för STFs framtid. Delta i medlemsdemokratin.</p>
+              </a>
+    </article>
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/engagemang/dugnadsarbete/" target="_self">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/engagera-dig-dugnad.jpg?auto=format" alt="">
+        </div>
+                  <h4 class="u-text-xl">Dugnadsarbete</h4>
+                          <p>För dig som gillar att måla eller snickra - hjälp oss att renovera!</p>
+              </a>
+    </article>
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/engagemang/stugvardsuppdrag/" target="_self">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/engagera-dig-stugvard.jpg?auto=format" alt="">
+        </div>
+                  <h4 class="u-text-xl">Stugvärd</h4>
+                          <p>Vill du ta hand om en fjällstuga och dess gäster? Bli stugvärd!</p>
+              </a>
+    </article>
+      <article class="">
+      <a class="u-no-underline" href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/engagera-dig-lokalt/" target="_self">
+        <div class="u-h-36 u-mb-4 md:u-mb-1">
+          <img class="u-block u-h-full u-w-full u-aspect-16/9 u-object-cover" loading="lazy" src="https://stfturist.imgix.net/app/uploads/2019/01/lokalavdelningar-thumb.jpg?auto=format" alt="Grupp med personer cyklar på skogsväg">
+        </div>
+                  <h4 class="u-text-xl">Engagera dig lokalt</h4>
+                          <p>Vill du berika din och andras frihet? Ge din tid till en lokalavdelning!</p>
+              </a>
+    </article>
+    </div>
+      <div class="u-flex u-justify-center">
+      <a class="u-text-red-500" href="https://www.svenskaturistforeningen.se/engagemang/" target="_self">Visa alla</a>
+    </div>
+  </div>
+                                                
+                          </div>
+                    <a data-close class="xl:u-hidden u-block u-mb-24" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+        </div>
+      </div>
+    </li>
+      <li>
+      <a aria-pressed="false" id="link-id-179197" aria-controls="panel-id-179197" class="hover:u-no-underline u-text-2xl xl:u-text-base xl:u-p-2 xl:hover:u-border-b-8 xl:active:u-border-b-8 xl:u-border-gray-500 xl:u-pb-4 u-font-semibold mf-heatmap-click" href="#">
+        Medlemskapet
+        <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+      </a>
+      <div aria-labelledby="link-id-179197" id="panel-id-179197" class="
+        theme-white-mono
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-6
+        xl:u-transition-none
+        ">
+        <div class="u-p-5 u-max-w-page u-m-auto xl:u-pt-16 xl:u-pb-6">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+            <a href="" data-close class="u-whitespace-nowrap">
+  Stäng meny
+  <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+</a>
+
+          </div>
+
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                         xl:u-grid-cols-2
+                        xl:u-gap-x-8 u-mb-4">
+                                                                                                                    
+  <a class="u-no-underline u-h-80 u-relative u-flex u-flex-row u-justify-center u-items-center" href="https://www.svenskaturistforeningen.se/medlem/" target="_self">
+    <img class="u-h-full u-w-full u-absolute u-object-cover" src="https://stfturist.imgix.net/app/uploads/2019/01/paddling-750x460.jpg?auto=format" alt="">
+          <div class="u-relative u-px-12 u-text-white u-text-center">
+                  <h3 class="u-text-white u-text-3xl">Bli medlem!</h3>
+                  <div>
+                  </div>
+        <span class="btn" href="https://www.svenskaturistforeningen.se/medlem/" target="_self">Bli medlem nu!</span>
+      </div>
+      </a>
+
+                                                  
+                                                                                                                    
+  <a class="u-no-underline u-h-80 u-relative u-flex u-flex-row u-justify-center u-items-center" href="http://www.turist.se" target="_blank">
+    <img class="u-h-full u-w-full u-absolute u-object-cover" src="https://stfturist.imgix.net/app/uploads/2019/01/turist_toppmeny.jpg?auto=format" alt="">
+          <div class="u-relative u-px-12 u-text-white u-text-center">
+                  <h3 class="u-text-white u-text-3xl">Tidningen Turist</h3>
+                  <div>
+                      <p>Nytt nummer ute nu!</p>
+                  </div>
+        <span class="btn" href="http://www.turist.se" target="_blank">Till turist.se</span>
+      </div>
+      </a>
+
+                                                  
+                          </div>
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                        md:u-grid-cols-2
+            xl:u-grid-cols-4
+                        xl:u-gap-x-8 u-mb-4">
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Medlemsförmåner</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/medlemsformaner/medlemsrabatt-tagresor/">Medlemsrabatt på tågresor</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/medlemsrabatt-boende/">Medlemsrabatt på boende</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/medlemsformaner/tidningen-turist/">Tidningen Turist</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/medlem/medlemsformaner/" class="btn light">Alla medlemsförmåner</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Var med och påverka</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/">Föreningsdemokrati – så funkar det</a></dd>
+      <dd class="u-mb-1"><a href=""></a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/riksstamma-2022/">Riksstämma</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/val-medlemsombud/">STFs medlemsombud</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Vanliga frågor</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stf-medlemsservice/faq/nar-far-jag-mitt-medlemskort/">När får jag mitt medlemskort?</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stf-medlemsservice/faq/hur-uppdateras-mitt-medlemskap-i-stf-appen/">Hur uppdateras mitt medlemskap i STF-appen?</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/om-stf/vanliga-fragor/#Medlemskap" class="btn light">Fler vanliga frågor</a>
+  </div>
+
+                                                                                
+                                                                <div class="">
+  <h3 class="heading">Medlemsinloggning</h3>
+  <p>Logga in för att ta del av dina medlemsförmåner och göra enklare ärenden</p>
+
+      <a href="https://www.svenskaturistforeningen.se/medlem/medlemsinloggning/" class="btn light">Logga in här</a>
+  </div>
+
+                                                                
+                          </div>
+                    <a data-close class="xl:u-hidden u-block u-mb-24" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+        </div>
+      </div>
+    </li>
+      <li>
+      <a aria-pressed="false" id="link-id-179206" aria-controls="panel-id-179206" class="hover:u-no-underline u-text-2xl xl:u-text-base xl:u-p-2 xl:hover:u-border-b-8 xl:active:u-border-b-8 xl:u-border-gray-500 xl:u-pb-4 u-font-semibold mf-heatmap-click" href="#">
+        Om STF
+        <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+      </a>
+      <div aria-labelledby="link-id-179206" id="panel-id-179206" class="
+        theme-white-mono
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-6
+        xl:u-transition-none
+        ">
+        <div class="u-p-5 u-max-w-page u-m-auto xl:u-pt-16 xl:u-pb-6">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+            <a href="" data-close class="u-whitespace-nowrap">
+  Stäng meny
+  <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+</a>
+
+          </div>
+
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                        md:u-grid-cols-2
+            xl:u-grid-cols-4
+                        xl:u-gap-x-8 u-mb-4">
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Kontakta oss</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/vanliga-fragor/">Medlemsservice & Bokning</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/press/">Press</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/medlemsformaner/tidningen-turist/kontakta-turist/">Tidningen Turist</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/ledningsgrupp/">Ledningsgrupp</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/styrelse/">Styrelse</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/">Lokalavdelningar</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/om-stf/kontakta-oss/" class="btn light">Alla kontaktuppgifter</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Så här styrs STF</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stadgar/">STFs stadgar</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/verksamhetsinriktning/">STFs verksamhetsinriktning</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/riktlinjer/">Riktlinjer</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/">Föreningsdemokrati – så funkar det</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/medlem/foreningsdemokrati/val-medlemsombud/">STFs medlemsombud</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stfs-valberedning/">Valberedning</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/arsberattelser/">Årsberättelser</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Om organisationen</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/">Om STF</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stfs-hallbarhetsarbete/">Hållbarhetsarbete</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/vart-paverkansarbete/">Påverkansarbete</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stfs-hallbarhetsarbete/markupplatelse-jamtland-harjedalen/">Ny markupplåtelse i Jämtland/Härjedalen</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/engagemang/">Ideellt arbete i STF</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/historia/">STFs historia</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/press/">Pressmeddelanden</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                                <div class="">
+  <h3 class="heading">STF anslutna boenden</h3>
+  <p>Bli en del av STF och av ett unikt nätverk av genuina, personliga och hållbara boenden runt om i Sverige</p>
+
+      <a href="https://www.svenskaturistforeningen.se/om-stf/stf-anslutna-boenden/" class="btn light">Läs mer</a>
+  </div>
+
+                                                                
+                          </div>
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                         xl:u-grid-cols-2
+                        xl:u-gap-x-8 u-mb-4">
+                                                                                                                    
+  <a class="u-no-underline u-h-80 u-relative u-flex u-flex-row u-justify-center u-items-center" href="https://www.svenskaturistforeningen.se/om-stf/jobba-pa-stf/" target="_self">
+    <img class="u-h-full u-w-full u-absolute u-object-cover" src="https://stfturist.imgix.net/app/uploads/2019/01/om-stf-jobba.jpg?auto=format" alt="">
+          <div class="u-relative u-px-12 u-text-white u-text-center">
+                  <h3 class="u-text-white u-text-3xl">Jobba hos oss</h3>
+                  <div>
+                      <p>Vi söker alltid engagerade medarbetare som delar vår syn och som är villiga att ge det lilla extra.</p>
+                  </div>
+        <span class="btn" href="https://www.svenskaturistforeningen.se/om-stf/jobba-pa-stf/" target="_self">Läs mer</span>
+      </div>
+      </a>
+
+                                                  
+                                                                                                                    
+  <a class="u-no-underline u-h-80 u-relative u-flex u-flex-row u-justify-center u-items-center" href="https://www.svenskaturistforeningen.se/om-stf/upptackarbrevet/" target="_self">
+    <img class="u-h-full u-w-full u-absolute u-object-cover" src="https://stfturist.imgix.net/app/uploads/2019/01/om-stf-nyhetsbrev.jpg?auto=format" alt="">
+          <div class="u-relative u-px-12 u-text-white u-text-center">
+                  <h3 class="u-text-white u-text-3xl">Nyhetsbrev</h3>
+                  <div>
+                      <p>Tips, inspiration och aktuell information från STF. Så att du kan upptäcka mer av Sverige.</p>
+                  </div>
+        <span class="btn" href="https://www.svenskaturistforeningen.se/om-stf/upptackarbrevet/" target="_self">Ja tack! (Läs mer här)</span>
+      </div>
+      </a>
+
+                                                  
+                          </div>
+                    <a data-close class="xl:u-hidden u-block u-mb-24" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+        </div>
+      </div>
+    </li>
+      <li>
+      <a aria-pressed="false" id="link-id-179215" aria-controls="panel-id-179215" class="hover:u-no-underline u-text-2xl xl:u-text-base xl:u-p-2 xl:hover:u-border-b-8 xl:active:u-border-b-8 xl:u-border-gray-500 xl:u-pb-4 u-font-semibold mf-heatmap-click" href="#">
+        Hitta och boka boenden
+        <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+      </a>
+      <div aria-labelledby="link-id-179215" id="panel-id-179215" class="
+        theme-white-mono
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-6
+        xl:u-transition-none
+        ">
+        <div class="u-p-5 u-max-w-page u-m-auto xl:u-pt-16 xl:u-pb-6">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+            <a href="" data-close class="u-whitespace-nowrap">
+  Stäng meny
+  <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+</a>
+
+          </div>
+
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                         xl:u-grid-cols-1
+                        xl:u-gap-x-8 u-mb-4">
+                                                                                                                    
+  <a class="u-no-underline u-h-80 u-relative u-flex u-flex-row u-justify-center u-items-center" href="https://www.svenskaturistforeningen.se/boende/" target="_self">
+    <img class="u-h-full u-w-full u-absolute u-object-cover" src="https://stfturist.imgix.net/app/uploads/2019/03/storafjaderaggsfyrplats-1600x530.jpg?auto=format" alt="">
+          <div class="u-relative u-px-12 u-text-white u-text-center">
+                  <h3 class="u-text-white u-text-3xl">Bo nära små och stora äventyr.</h3>
+                  <div>
+                  </div>
+        <span class="btn" href="https://www.svenskaturistforeningen.se/boende/" target="_self">Sök & boka boende</span>
+      </div>
+      </a>
+
+                                                  
+                          </div>
+                      
+            <div class="
+            u-grid
+            u-grid-cols-1
+            u-gap-8
+                        md:u-grid-cols-2
+            xl:u-grid-cols-4
+                        xl:u-gap-x-8 u-mb-4">
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Så vill jag bo</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/vandrarhem/">Vandrarhem</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/hotell/">Hotell</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/pensionat/">Pensionat</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/fjallstation/">Fjällstation</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/boendetyper/fjallstuga/">Fjällstuga</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/hitta/?boende" class="btn light">Alla våra boenden</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Bo i närheten av</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/fjall/">Fjäll</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/kust/">Kust</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/stadsmiljo/">Stad</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/naturnara/">Natur</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Här vill jag bo</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/omraden/osterlen/">Österlen</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/guider-tips/omraden/kungsleden/">Kungsleden</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/omraden/gotland/">Gotland</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/omraden/abiskokebnekaisefjallen/">Abisko – Kebnekaisefjällen</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/omraden/jamtlandsfjallen/">Jämtland – Härjedalsfjällen</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/omraden/">Alla områden</a></dd>
+    </dl>
+      <a href="https://www.svenskaturistforeningen.se/hitta/?boende" class="btn light">Sök boende via karta</a>
+  </div>
+
+                                                                                
+                                                <div class="link-list-module | u-col-span-1">
+  <dl class="u-mb-4">
+    <dt class="heading | u-font-semibold u-text-theme u-text-2xl u-mb-4">Speciella önskemål</dt>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/om-stf/stfs-hallbarhetsarbete/bo-hallbart/">Bo miljömärkt och hållbart</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/tillganglighetsanpassat-boende/">Tillgänglighetsanpassat</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/grupper/">Grupper</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/naturnara-konferenser/">Möten och konferens</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/medlemsrabatt-boende/">Medlemsrabatt på boende</a></dd>
+      <dd class="u-mb-1"><a href="https://www.svenskaturistforeningen.se/boende/nya-boenden/">Nya boenden</a></dd>
+    </dl>
+  </div>
+
+                                                                                
+                          </div>
+                    <a data-close class="xl:u-hidden u-block u-mb-24" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+        </div>
+      </div>
+    </li>
+  </ul>
+				</nav>
+
+				<div class="xl:u-flex xl:u-ml-auto xl:u-justify-self-end xl:u-space-x-2 xl:u-items-center">
+          <ul id="menu-login-menu" class="xl:u-flex u-mb-0 xl:u-divide-x">
+<li class="u-text-lg u-mb-4 xl:u-m-0 xl:u-px-2 xl:u-text-base "><a id="gaID_login_menu_Blimedlem" href="https://www.svenskaturistforeningen.se/medlem/">Bli medlem</a></li>
+
+<li class="u-text-lg u-mb-4 xl:u-m-0 xl:u-px-2 xl:u-text-base "><a id="gaID_login_menu_Loggain" href="https://www.svenskaturistforeningen.se/logga-in/">Logga in</a></li>
+</ul>
+					<ul class="u-fixed u-z-10 u-top-5 u-left-5 xl:u-static u-m-0 u-p-0 u-flex u-items-center u-space-x-4">
+						<li>
+                
+<a aria-controls="id-menu-language-switcher" href="https://www.swedishtouristassociation.com">
+	<span class="u-sr-only">Switch to English</span>
+	<svg class="u-w-5 u-h-5 xl:u-h-4 xl:u-w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M10 .4C4.705.4.399 4.707.399 10c0 5.293 4.306 9.6 9.601 9.6 5.293 0 9.6-4.307 9.6-9.6 0-5.293-4.307-9.6-9.6-9.6zm8.188 9.6c0 1.873-.636 3.6-1.696 4.98-.3-.234-.619-.867-.319-1.523.303-.66.382-2.188.312-2.783-.066-.594-.375-2.025-1.214-2.039-.838-.012-1.413-.289-1.911-1.283-1.033-2.068 1.939-2.465.906-3.609-.289-.322-1.783 1.322-2.002-.869-.014-.157.135-.392.336-.636 3.244 1.09 5.588 4.157 5.588 7.762zM8.875 1.893c-.196.382-.713.537-1.027.824-.684.619-.978.533-1.346 1.127-.371.594-1.567 1.449-1.567 1.879s.604.936.906.838c.302-.1 1.099-.094 1.567.07.469.166 3.914.332 2.816 3.244-.348.926-1.873.77-2.279 2.303-.061.225-.272 1.186-.285 1.5-.025.486.344 2.318-.125 2.318-.471 0-1.738-1.639-1.738-1.936 0-.297-.328-1.338-.328-2.23 0-.891-1.518-.877-1.518-2.062 0-1.068.823-1.6.638-2.113-.181-.51-1.627-.527-2.23-.59a8.213 8.213 0 0 1 6.516-5.172zM7.424 17.77c.492-.26.542-.596.988-.613.51-.023.925-.199 1.5-.326.51-.111 1.423-.629 2.226-.695.678-.055 2.015.035 2.375.689a8.159 8.159 0 0 1-7.089.945z"/></svg>
+</a>
+<div id="id-menu-language-switcher" class="
+		        u-bg-theme
+		        xl:u-sr-only
+		        u-fixed
+		        u-transition-transform
+		        u-translate-x-full
+		        u-overflow-auto
+		        u-bottom-0
+		        u-top-0
+		        u-mt-0
+		        u-left-0
+		        u-right-0
+		        u-w-full
+		        u-z-50
+		        xl:u-shadow-menu
+		        u-border-t
+		        u-border-b
+		        u-border-gray-500
+		        u-border-opacity-50
+		        u-font-normal
+		        xl:u-overflow-visible
+		        xl:u-bottom-auto
+		        xl:u-top-auto
+		        xl:u-absolute
+		        xl:u-mt-7
+		        xl:u-transition-none
+		        ">
+	<div class="u-p-5 u-max-w-page u-m-auto xl:u-py-16">
+		<a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+			<svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+			Till huvudmenyn
+		</a>
+		<div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+			<a href="#" data-close class="u-whitespace-nowrap">
+				Stäng
+				<svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+			</a>
+		</div>
+		<div class="u-max-w-2xl u-mx-auto u-text-lg">
+			<p>Valt språk:
+				<strong>Svenska</strong>
+			</p>
+			<p>
+									<a class="u-underline" href="https://www.swedishtouristassociation.com">Change language to
+						<strong>English</strong>
+						<span class="u-text-sm">(limited content)</span></a>
+							</p>
+		</div>
+	</div>
+</div>
+                </li>
+						<li>
+							<a href="#" aria-controls="id-menu-search-bar">
+								<svg class="u-w-5 u-h-5 xl:u-h-4 xl:u-w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M17.545 15.467l-3.779-3.779a6.15 6.15 0 0 0 .898-3.21c0-3.417-2.961-6.377-6.378-6.377A6.185 6.185 0 0 0 2.1 8.287c0 3.416 2.961 6.377 6.377 6.377a6.15 6.15 0 0 0 3.115-.844l3.799 3.801a.953.953 0 0 0 1.346 0l.943-.943c.371-.371.236-.84-.135-1.211zM4.004 8.287a4.282 4.282 0 0 1 4.282-4.283c2.366 0 4.474 2.107 4.474 4.474a4.284 4.284 0 0 1-4.283 4.283c-2.366-.001-4.473-2.109-4.473-4.474z"/></svg>
+
+							</a>
+							<div id="id-menu-search-bar" class="
+        xl:u-sr-only
+        u-fixed
+        u-transition-transform
+        u-translate-x-full
+        u-overflow-auto
+        u-bottom-0
+        u-top-0
+        u-mt-0
+        u-left-0
+        u-right-0
+        u-bg-white
+        u-w-full
+        u-z-50
+        xl:u-shadow-menu
+        u-border-t
+        u-border-b
+        u-border-gray-500
+        u-border-opacity-50
+        u-font-normal
+        xl:u-overflow-visible
+        xl:u-bottom-auto
+        xl:u-top-auto
+        xl:u-absolute
+        xl:u-mt-7
+        xl:u-transition-none
+        ">
+         <div class="u-p-5 u-max-w-page u-m-auto xl:u-py-16">
+          <a data-close class="xl:u-hidden u-block u-mb-8" href="#">
+            <svg class="u-w-4 u-h-4 xl:u-hidden u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+
+            Till huvudmenyn
+          </a>
+          <div class="u-hidden xl:u-block xl:u-absolute xl:u-right-8 xl:u-top-4 u-text-gray-500 hover:u-text-black">
+          <a href="#" data-close class="u-whitespace-nowrap">
+            Stäng
+            <svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+          </a>
+          </div>
+        
+<div class="">
+  <form action="/" method="get" data-header-search-form class="u-max-w-2xl u-mx-auto u-relative u-flex u-justify-between" data-search-url="https://www.svenskaturistforeningen.se/sok/">
+    <div class="u-shrink-0 u-grow">
+    <label for="search-form-input" class="u-sr-only">Sökfras</label>
+    <input type="text" name="s" id="search-form-input" class="u-text-lg u-text-black u-border-0 u-outline-0 u-rounded-none u-border-b u-border-gray-500 u-border-opacity-50 u-transition focus:u-border-opacity-100 u-w-full u-p-4 u-pl-8" placeholder="Sök">
+    </div>
+    <button type="submit" value="" class="u-grow-0 u-flex u-items-center u-h-full u-absolute u-left-0 u-min-w-0">
+      <span class="u-sr-only">Sök</span>
+      <svg class="u-w-6 u-h-6 u-text-gray-700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M17.545 15.467l-3.779-3.779a6.15 6.15 0 0 0 .898-3.21c0-3.417-2.961-6.377-6.378-6.377A6.185 6.185 0 0 0 2.1 8.287c0 3.416 2.961 6.377 6.377 6.377a6.15 6.15 0 0 0 3.115-.844l3.799 3.801a.953.953 0 0 0 1.346 0l.943-.943c.371-.371.236-.84-.135-1.211zM4.004 8.287a4.282 4.282 0 0 1 4.282-4.283c2.366 0 4.474 2.107 4.474 4.474a4.284 4.284 0 0 1-4.283 4.283c-2.366-.001-4.473-2.109-4.473-4.474z"/></svg>
+
+    </button>
+  </form>
+</div>
+    </div>
+</div>
+						</li>
+						<li id="citybreak_basket_widget_display" class="header-cart u-cursor-pointer u-min-w-[36px]"><svg class="u-w-5 u-h-5 xl:u-h-4 xl:u-w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13 17a2 2 0 1 0 3.999.001A2 2 0 0 0 13 17zM3 17a2 2 0 1 0 4 0 2 2 0 0 0-4 0zm3.547-4.828L17.615 9.01A.564.564 0 0 0 18 8.5V3H4V1.4c0-.22-.181-.4-.399-.4H.399A.401.401 0 0 0 0 1.4V3h2l1.91 8.957.09.943v1.649c0 .219.18.4.4.4h13.2c.22 0 .4-.182.4-.4V13H6.752c-1.15 0-1.174-.551-.205-.828z"/></svg>
+
+            <div id="citybreak_basket_widget_summary" class="u-hidden"></div>
+
+          </li>
+					</ul>
+
+				</div>
+				<label for="menu-toggle-checkbox" class="u-cursor-pointer u-p-0 u-bg-0 u-text-inherit hover:u-text-inherit u-min-w-0 u-fixed u-top-4 u-right-4 xl:u-hidden">
+					<svg class="u-w-8 u-h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+				</label>
+			</div>
+			<div class="xl:u-hidden u-ml-auto u-self-end u-grow-0 u-relative">
+				<input data-menu-toggle type="checkbox" class="u-peer u-hidden" id="menu-toggle-checkbox"/>
+				<label for="menu-toggle-checkbox" class="u-cursor-pointer u-p-0 u-bg-0 u-text-inherit hover:u-text-inherit u-min-w-0">
+					<svg class="u-w-8 u-h-8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M16.4 9H3.6c-.552 0-.6.447-.6 1 0 .553.048 1 .6 1h12.8c.552 0 .6-.447.6-1 0-.553-.048-1-.6-1zm0 4H3.6c-.552 0-.6.447-.6 1 0 .553.048 1 .6 1h12.8c.552 0 .6-.447.6-1 0-.553-.048-1-.6-1zM3.6 7h12.8c.552 0 .6-.447.6-1 0-.553-.048-1-.6-1H3.6c-.552 0-.6.447-.6 1 0 .553.048 1 .6 1z"/></svg>
+
+				</label>
+			</div>
+			</div>
+</header>
+<div data-overlay class="u-hidden u-fixed u-left-0 u-bottom-0 u-right-0 u-top-0 u-bg-black u-z-40 u-pointer-events-none"></div>
+		<div id="content" class="content | site-content theme-white">
+        <div class="u-text-xs u-pt-4 u-pl-4 u-mb-4 lg:u-pl-6">
+    <div class="u-flex u-space-x-1 u-text-gray-700 u-font-normal u-items-center">
+      
+              <a href="https://www.svenskaturistforeningen.se/" class=" u-underline u-text-inherit u-font-normal">Start</a>
+                <svg class="u-w-2 u-h-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+              
+              <a href="https://www.svenskaturistforeningen.se/boende/" class="u-text-inherit u-underline u-font-normal hover:u-underline last:u-no-underline u-whitespace-nowrap last:u-truncate">Boka boende</a>
+                <svg class="u-w-2 u-h-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+                      <a href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/" class="u-text-inherit u-underline u-font-normal hover:u-underline last:u-no-underline u-whitespace-nowrap last:u-truncate">STF Stigbergsliden Vandrarhem Göteborg</a>
+                  </div>
+</div>
+  <div class="u-max-w-page u-mx-auto u-px-5 u-pt-0 lg:u-pt-12 u-pb-8">
+
+          <div
+	data-component-modal data-id="accommodation-booking-terms-modal" class="u-fixed u-top-0 u-left-0 u-bg-black/80 u-h-full u-w-full u-z-[10000] u-flex u-items-start u-justify-center u-overflow-hidden u-transition-all u-invisible u-opacity-0">
+
+		<div
+		class="u-w-full u-h-full sm:u-h-auto sm:u-mt-[10vh] sm:u-max-h-[80vh] sm:u-w-[600px] u-bg-white sm:u-rounded-sm u-overflow-auto">
+
+				<div class="u-flex u-w-full u-h-auto u-p-4 sm:u-p-6 u-pb-0 sm:u-pb-0 u-justify-end">
+			<button data-component-modal-close aria-label="Stäng modal"><svg class="u-h-6 u-w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path fill="currentColor" d="M324.5 411.1c6.2 6.2 16.4 6.2 22.6 0s6.2-16.4 0-22.6L214.6 256 347.1 123.5c6.2-6.2 6.2-16.4 0-22.6s-16.4-6.2-22.6 0L192 233.4 59.5 100.9c-6.2-6.2-16.4-6.2-22.6 0s-6.2 16.4 0 22.6L169.4 256 36.9 388.5c-6.2 6.2-6.2 16.4 0 22.6s16.4 6.2 22.6 0L192 278.6 324.5 411.1z"/></svg></button>
+		</div>
+
+				<div class="u-p-10 u-pt-0 sm:u-p-12 sm:u-pt-0"> 	<h2 class="u-text-center">Flexibla bokningsvillkor</h2>
+Bokningar som avser boende kan avbokas med full återbetalning fram till 7 dagar före ankomst, alternativt fram till 18.00 dagen före ankomst. Vid bokning av aktiviteter gäller särskilda villkor. Aktuella villkor för ditt valda boende eller aktivitet hittar du under rubriken ”Villkor” när du kommer till varukorgen i bokningsflödet. </br></br> <a href="https://www.svenskaturistforeningen.se/boende/flexibla-bokningsvillkor/" target="_blank" rel="noopener">Läs mer</a>
+			</div>
+
+		</div>
+	</div>
+
+        
+
+        
+
+    <div class="u-hidden md:u-block u-text-right u-leading-none u-mb-3">
+                    <a class="u-inline-block u-align-bottom" href="https://www.swedishtouristassociation.com/facilities/stf-goteborg-stigbergsliden-hostel/" alt="Available in English">
+                <img src="https://stfturist.imgix.net/app/themes/stf/assets/img/en-flag.png?auto=format" alt="" width="22" height="22"/>
+                <span class="u-sr-only">Available in English</span>
+            </a>
+            </div>
+
+    <div class="u-mb-8 u-mt-0 -u-mx-5 md:u-mx-0 md:u-grid md:u-gap-4 md:u-grid-cols-2 u-relative">
+
+      <a href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/bilder/" class="btn u-absolute u-right-4 u-bottom-4 u-z-10">
+      Alla bilder
+    </a>
+  
+  <div>
+    <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/7589887?w=500&h=400&fit=crop&crop=faces,focalpoint&auto=format" width="500" height="400" class="u-block u-w-full" alt=""  loading="lazy"/>
+
+  </div>
+
+  <div class="u-hidden md:u-grid md:u-gap-4 md:u-grid-rows-2 u-grid-cols-2 u-objectce">
+                <div class="u-relative">
+              <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/8504517?w=236&h=187&fit=crop&crop=faces,focalpoint&auto=format" width="500" height="400" class="u-absolute u-top-0 u-left-0 u-w-full u-h-full u-object-cover u-object-center" alt=""  loading="lazy"/>
+
+      </div>
+                <div class="u-relative">
+              <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/8504516?w=236&h=187&fit=crop&crop=faces,focalpoint&auto=format" width="500" height="400" class="u-absolute u-top-0 u-left-0 u-w-full u-h-full u-object-cover u-object-center" alt=""  loading="lazy"/>
+
+      </div>
+                <div class="u-relative">
+              <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/8504515?w=236&h=187&fit=crop&crop=faces,focalpoint&auto=format" width="500" height="400" class="u-absolute u-top-0 u-left-0 u-w-full u-h-full u-object-cover u-object-center" alt=""  loading="lazy"/>
+
+      </div>
+                <div class="u-relative">
+              <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/8504514?w=236&h=187&fit=crop&crop=faces,focalpoint&auto=format" width="500" height="400" class="u-absolute u-top-0 u-left-0 u-w-full u-h-full u-object-cover u-object-center" alt=""  loading="lazy"/>
+
+      </div>
+      </div>
+</div>
+
+    <div id=rubrik class="">
+
+	<hgroup>
+					<h1 data-swiftype-name="h1" data-swiftype-type="string" class="u-mb-2">
+				STF Stigbergsliden Vandrarhem Göteborg
+			</h1>
+		
+					<h2 class="u-text-2xl u-font-normal u-mb-2">
+				På gångavstånd från allt Göteborg har att erbjuda 
+			</h2>
+			</hgroup>
+
+</div>
+
+    <a href="#kontakt" class="u-flex u-flex-nowrap u-items-center u-mb-4">
+	<svg class="u-h-4 u-w-4 u-mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M272 192C272 236.2 236.2 272 192 272C147.8 272 112 236.2 112 192C112 147.8 147.8 112 192 112C236.2 112 272 147.8 272 192zM192 240C218.5 240 240 218.5 240 192C240 165.5 218.5 144 192 144C165.5 144 144 165.5 144 192C144 218.5 165.5 240 192 240zM384 192C384 279.4 267 435 215.7 499.2C203.4 514.5 180.6 514.5 168.3 499.2C116.1 435 0 279.4 0 192C0 85.96 85.96 0 192 0C298 0 384 85.96 384 192H384zM192 32C103.6 32 32 103.6 32 192C32 207.6 37.43 229 48.56 255.4C59.47 281.3 74.8 309.4 92.14 337.5C126.2 392.8 166.6 445.7 192 477.6C217.4 445.7 257.8 392.8 291.9 337.5C309.2 309.4 324.5 281.3 335.4 255.4C346.6 229 352 207.6 352 192C352 103.6 280.4 32 192 32z"/></svg>
+	Visa på kartan
+</a>
+
+    
+
+
+
+    <div class="u-mb-6 md:u-hidden u-leading-none">
+                    <a class="u-inline-block u-align-bottom" href="https://www.swedishtouristassociation.com/facilities/stf-goteborg-stigbergsliden-hostel/" alt="Available in English">
+                <img src="https://stfturist.imgix.net/app/themes/stf/assets/img/en-flag.png?auto=format" alt="" width="30" height="30"/>
+                <span class="u-sr-only">Available in English</span>
+            </a>
+            </div>
+
+
+    <div class="lg:u-flex lg:u-space-x-8 u-mt-2 u-mb-8">
+
+      <div class="lg:u-w-2/3">
+        <div data-maybe-sticky class="u-top-0 no-border-on-last-item has-wysiwyg">
+          
+ 
+
+          
+
+                      <div class="u-py-4 u-px-4 u-border u-border-gray-200 u-mb-4 u-rounded-sm u-flex u-items-center">
+	<svg class="u-text-red-500 u-w-5 u-h-5 u-mr-2 u-shrink-0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M255.1 96L267.1 84.02C300.6 51.37 347 36.51 392.6 44.1C461.5 55.58 512 115.2 512 185.1V190.9C512 232.4 494.8 272.1 464.4 300.4L283.7 469.1C276.2 476.1 266.3 480 256 480C245.7 480 235.8 476.1 228.3 469.1L47.59 300.4C17.23 272.1 0 232.4 0 190.9V185.1C0 115.2 50.52 55.58 119.4 44.1C164.1 36.51 211.4 51.37 244 84.02L255.1 96zM255.1 141.3L221.4 106.6C196.1 81.31 160 69.77 124.7 75.66C71.21 84.58 31.1 130.9 31.1 185.1V190.9C31.1 223.6 45.55 254.7 69.42 277L250.1 445.7C251.7 447.2 253.8 448 255.1 448C258.2 448 260.3 447.2 261.9 445.7L442.6 277C466.4 254.7 480 223.6 480 190.9V185.1C480 130.9 440.8 84.58 387.3 75.66C351.1 69.77 315.9 81.31 290.6 106.6L255.1 141.3z"/></svg>
+	<div class="u-grow">Flexibla bokningsvillkor
+
+		<button data-component-modal-open data-modal-id="accommodation-booking-terms-modal" tabindex="0" class="link">Läs mer</a>
+	</div>
+</div>
+
+          
+          
+<div id=introtext class="u-mb-8 u-pb-8 u-border-b u-border-gray-200">
+
+	<h2>Om boendet</h2>
+
+	Bo mitt i gemytliga Göteborg. Ät frukost på vår mysiga innergård och promenera sedan till Järntorget och de charmiga stadsdelarna Haga och Linnéstan med alla butiker, restauranger, caféer och uteliv. Liseberg, Avenyn och skärgårdens badklippor når du med spårvagn. 
+
+			<details>
+			<summary class="link u-mt-4">
+				Läs mer
+			</summary>
+			<div>
+				Välkommen till STF Stigbergsliden Vandrarhem, en oas för vila och spännande möten mitt i stadens brus.<br />
+<br />
+Vi erbjuder prisvärt och trivsamt vandrarhemsboende i vacker och inspirerande miljö. Vi vill vara ditt favoritvandrarhem och strävar därför att ständigt utvecklas, förbättra och miljöanpassa vandrarhemmet.<br />
+<br />
+Hos oss har du nära till allt vad Göteborg har att erbjuda. På gångavstånd ligger restaurang- och cafétäta Linnéstan och Järntorget, hamnstråket med Danmarks- och Tysklandsterminalen samt Sjöfartsmuséet och Gatenhielmska kulturreservatet. Centrum, Brunnsparken och Avenyn når du på tio minuter med spårvagn 3, 9 och 11. Med spårvagn har du också nära till Göteborgsoperan, Liseberg och Svenska Mässan. Spårvagn nr 11 tar dig ut till Saltholmen på 20 minuter, och därifrån kan du åka vidare på samma biljett till en badklippa på någon av öarna i södra skärgården.<br />
+<br />
+Du bor i trivsamma rum med 2-8 bäddar. Även enkelrum finns att tillgå. Alla rum har handfat och det finns gott om duschar och toaletter i nära anslutning till rummen. På varje våning finns självhushåll med matsal och TV hörna. <br />
+<br />
+Vi serverar frukostbuffé med nygräddad bröd varje dag. Husets solsida har en grön utegård för lek och avkoppling skyddad från stadens brus. <br />
+<br />
+Cykelturist? Härligt, då kan du parkera säkert på vår innergård där du också har möjlighet att tvätta av din cykel och meka med den, vi har de vanligaste verktygen.  <br />
+Kattegattleden som går längs med kusten från Helsingborg och norröver avslutas här.  <br />
+Se mer cykeltips under Upplev. <br />
+<br />
+Vandrarhemmet är miljödiplomerat, allergisanerat, rökfritt och tillgänglighetsanpassat. Vill du ta med husdjur kan du EJ göra din bokning här – kontakta oss direkt via mejl eller telefon så ordnar vi det. Om du är du allergiker &#8211; tala om det vid bokningstillfället så vi kan placera dig där inga djur tillåts.<br />
+<br />
+På Stigbergsliden bor du mitt i Göteborgs spännande sjömanshistoria. Masthuggskyrkan ligger som ett sjömärke på berget bakom vandrarhemmet. Sjöfartsmuséet med sin sjömanshustru som oroligt spanar ut över havet ligger ett par hundra meter bort. Det vackra gamla huset har sedan 1854 varit en mötesplats för människor på väg till och från nya äventyr. Då som Göteborgs sjömanshus &#8211; nu som vandrarhem. Hit kom sjömän varje gång de gick av eller på ett fartyg för att mönstra. Idag är vandrarhemmet en oas för vila och spännande möten mitt i stadens brus. <br />
+<br />
+Sänglinne ingår i bokningen, har du inte handduk med dig kan du hyra hos oss. Babysäng finns att hyra. Här finns även tvätt- och torkmöjligheter.<br />
+<br />
+STF Stigbergsliden är helt kontantfria, bättre för miljön och allas säkerhet.
+			</div>
+		</details>
+	
+</div>
+<div id=service class="u-mb-8 u-pb-8 u-border-b u-border-gray-200">
+  <h2 class="u-flex u-gap-2">Vår service
+  <button data-hide-more-services class="u-sr-only"><span class="u-sr-only">Minimera</span><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">    <!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path fill="currentColor" d="M416 352c-8.188 0-16.38-3.125-22.62-9.375L224 173.3l-169.4 169.4c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l192-192c12.5-12.5 32.75-12.5 45.25 0l192 192c12.5 12.5 12.5 32.75 0 45.25C432.4 348.9 424.2 352 416 352z"/>
+</svg></button>
+</h2>
+  
+<ul data-component-services-list class="u-flex u-flex-wrap u-list-none u-p-0  u-mb-4">
+			<li class="u-group u-shrink-0 u-my-1 u-mr-5 ">
+			<div class="u-flex u-space-x-2 u-items-center  u-cursor-pointer"
+        		         			 data-click-to-expand
+        		        		><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M416 112C416 103.2 423.2 96 432 96C440.8 96 448 103.2 448 112C448 120.8 440.8 128 432 128C423.2 128 416 120.8 416 112zM45.62 159.3C54.52 169.7 67.65 176 81.97 176H306.7L331.9 24.81C334.2 10.49 346.6 0 361.2 0C370.5 0 379.3 4.4 384.9 11.88L400 32H444.1C456.8 32 469.1 37.06 478.1 46.06L496 64H528C554.5 64 576 85.49 576 112V128C576 181 533 224 480 224H437.3L432 255.1V456C432 486.9 406.9 512 376 512H360C329.1 512 304 486.9 304 456V375.3C293.7 378.6 283 381 272 382.4C264.1 383.5 256.1 384 248 384C239.9 384 231.9 383.5 224 382.4C212.1 381 202.3 378.6 192 375.3V456C192 486.9 166.9 512 136 512H120C89.07 512 64 486.9 64 456V208C64 207.3 64.02 206.6 64.06 205.1C63.35 205.8 62.64 205.6 61.94 205.5C34.07 198.3 11.59 176.3 4.359 147.4L.4781 131.9C-1.665 123.3 3.547 114.6 12.12 112.5C20.69 110.3 29.38 115.5 31.52 124.1L35.4 139.6C35.75 141 36.16 142.4 36.62 143.7C38.64 149.6 41.72 154.8 45.62 159.3H45.62zM336 331.5V456C336 469.3 346.7 480 360 480H376C389.3 480 400 469.3 400 456V261.9L307.7 208H96V456C96 469.3 106.7 480 120 480H136C149.3 480 160 469.3 160 456V331.5L201.7 344.8C216.3 349.5 231.8 352 248 352C264.2 352 279.7 349.5 294.3 344.8L336 331.5zM410.2 192H480C515.3 192 544 163.3 544 128V112C544 103.2 536.8 96 528 96H482.7L455.4 68.69C452.4 65.69 448.4 64 444.1 64H384L362.5 35.39L337.1 188.1L404.3 227.3L410.2 192z"/></svg>
+
+				<div>Husdjur tillåtna</div>
+			</div>
+			<p class="u-sr-only  u-ml-7 u-pt-2 group-last:u-mb-0 u-text-sm">
+        Ett begränsat antal djurrum finns.
+			</p>
+		</li>
+			<li class="u-group u-shrink-0 u-my-1 u-mr-5 ">
+			<div class="u-flex u-space-x-2 u-items-center  u-cursor-pointer"
+        		         			 data-click-to-expand
+        		        		><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M635.6 165C555.7 80.47 440.7 32 320 32s-235.7 48.47-315.6 133c-6.063 6.438-5.781 16.56 .625 22.62C11.43 193.7 21.53 193.4 27.62 187C101.5 108.8 208.1 64 320 64s218.5 44.84 292.4 123C615.5 190.3 619.8 192 624 192c3.938 0 7.906-1.438 11-4.375C641.4 181.6 641.7 171.4 635.6 165zM320 191.1c-77.75 0-150 30.16-203.4 84.85C110.4 283.1 110.5 293.3 116.8 299.4c6.375 6.219 16.5 6.031 22.63-.25C186.8 250.7 250.9 224 320 224s133.2 26.69 180.6 75.19C503.7 302.4 507.8 304 512 304c4.031 0 8.063-1.5 11.19-4.562c6.313-6.156 6.438-16.31 .25-22.62C470 222.1 397.8 191.1 320 191.1zM319.1 351.1c-35.35 0-64 28.66-64 64.01s28.66 64.01 64 64.01s64-28.66 64-64.01S355.3 351.1 319.1 351.1zM320 448c-17.64 0-32-14.36-32-32S302.4 384 320 384s32 14.36 32 32S337.6 448 320 448z"/></svg>
+
+				<div>Wifi</div>
+			</div>
+			<p class="u-sr-only  u-ml-7 u-pt-2 group-last:u-mb-0 u-text-sm">
+        Wifi i allmänna lokaler och/eller på rummet.
+			</p>
+		</li>
+			<li class="u-group u-shrink-0 u-my-1 u-mr-5 ">
+			<div class="u-flex u-space-x-2 u-items-center  u-cursor-pointer"
+        		         			 data-click-to-expand
+        		        		><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path fill="currentColor" d="M528 32H128C110.3 32 96 46.33 96 64l.0086 224c0 53.02 42.98 96 96 96h192C437 384 480 341 480 288V256h48C589.8 256 640 205.8 640 144S589.8 32 528 32zM448 288c0 35.29-28.71 64-64 64H192c-35.29 0-64-28.71-64-64V64h320V288zM528 224H480V64h48C572.1 64 608 99.88 608 144S572.1 224 528 224zM560 416c-8.844 0-16 7.156-16 16c0 8.812-7.188 16-16 16h-480C39.19 448 32 440.8 32 432C32 423.2 24.84 416 16 416S0 423.2 0 432C0 458.5 21.53 480 48 480h480c26.47 0 48-21.53 48-48C576 423.2 568.8 416 560 416z"/></svg>
+
+				<div>Kaféservering</div>
+			</div>
+			<p class="u-sr-only  u-ml-7 u-pt-2 group-last:u-mb-0 u-text-sm">
+        Enklare mat-och caféservering.
+			</p>
+		</li>
+			<li class="u-group u-shrink-0 u-my-1 u-mr-5 ">
+			<div class="u-flex u-space-x-2 u-items-center  u-cursor-pointer"
+        		         			 data-click-to-expand
+        		        		><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path fill="currentColor" d="M0 96C0 42.98 50.14 0 112 0C167.5 0 213.6 34.6 222.5 80H496C504.8 80 512 87.16 512 96C512 104.8 504.8 112 496 112H222.5C213.6 157.4 167.5 192 112 192C50.14 192 0 149 0 96zM112 160C160.1 160 192 126.9 192 96C192 65.1 160.1 32 112 32C63.01 32 32 65.1 32 96C32 126.9 63.01 160 112 160zM461.1 224C488.7 224 510.6 247.2 509 274.8L508.4 285.2C503.5 369.3 452.5 440.3 380.9 474.4C373.3 496.3 352.5 512 328 512H183.1C159.5 512 138.7 496.3 131.1 474.4C59.47 440.3 8.545 369.3 3.597 285.2L2.989 274.8C1.367 247.2 23.29 224 50.91 224H461.1zM184 480H328C338.4 480 347.4 473.3 350.7 463.9C353.5 455.8 359.4 449.2 367.2 445.5C428.6 416.2 472.2 355.3 476.5 283.3L477.1 272.9C477.6 263.7 470.3 256 461.1 256H50.91C41.7 256 34.39 263.7 34.93 272.9L35.54 283.3C39.78 355.3 83.39 416.2 144.8 445.5C152.6 449.2 158.5 455.8 161.3 463.9C164.6 473.3 173.6 480 184 480H184z"/>
+</svg>
+				<div>Frukost</div>
+			</div>
+			<p class="u-sr-only  u-ml-7 u-pt-2 group-last:u-mb-0 u-text-sm">
+        Frukost ingår i rumspriset eller finns att köpa mot tillägg. Öppettider/utbud kan variera utifrån säsong.
+			</p>
+		</li>
+			<li class="u-group u-shrink-0 u-my-1 u-mr-5 ">
+			<div class="u-flex u-space-x-2 u-items-center  u-cursor-pointer"
+        		         			 data-click-to-expand
+        		        		><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path fill="currentColor" d="M96 328C96 314.7 106.7 304 120 304C133.3 304 144 314.7 144 328C144 341.3 133.3 352 120 352C106.7 352 96 341.3 96 328zM352 328C352 341.3 341.3 352 328 352C314.7 352 304 341.3 304 328C304 314.7 314.7 304 328 304C341.3 304 352 314.7 352 328zM352 0C405 0 448 42.98 448 96V352C448 398 415.6 436.4 372.4 445.8L411.3 484.7C417.6 490.9 417.6 501.1 411.3 507.3C405.1 513.6 394.9 513.6 388.7 507.3L329.4 448H118.6L59.31 507.3C53.07 513.6 42.94 513.6 36.69 507.3C30.44 501.1 30.44 490.9 36.69 484.7L75.55 445.8C32.36 436.4 0 398 0 352V96C0 42.98 42.98 0 96 0H352zM208 32H96C60.65 32 32 60.65 32 96V224H208V32zM240 32V224H416V96C416 60.65 387.3 32 352 32H240zM96 416H352C387.3 416 416 387.3 416 352V256H32V352C32 387.3 60.65 416 96 416z"/>
+</svg>
+				<div>&lt;1 km till tågstation/busshållplats</div>
+			</div>
+			<p class="u-sr-only  u-ml-7 u-pt-2 group-last:u-mb-0 u-text-sm">
+        <span data-sheets-value="{" data-sheets-userformat="{">Närmare än 1 km till tågstation/busshållplats.</span>
+			</p>
+		</li>
+			<li class="u-group u-shrink-0 u-my-1 u-mr-5 ">
+			<div class="u-flex u-space-x-2 u-items-center  u-cursor-pointer"
+        		         			 data-click-to-expand
+        		        		><svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512">    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path fill="currentColor" d="M72 88C72 57.07 97.07 32 128 32C158.9 32 184 57.07 184 88C184 118.9 158.9 144 128 144C97.07 144 72 118.9 72 88zM128 112C141.3 112 152 101.3 152 88C152 74.75 141.3 64 128 64C114.7 64 104 74.75 104 88C104 101.3 114.7 112 128 112zM0 280C0 222.6 46.56 176 104 176H152C165.3 176 178.1 178.5 189.8 183.1C198.1 186.3 202.1 195.6 198.9 203.8C195.7 212.1 186.4 216.1 178.2 212.9C170.1 209.7 161.3 208 152 208H104C101.3 208 98.63 208.1 96 208.4V416H160V384C160 375.2 167.2 368 176 368C184.8 368 192 375.2 192 384V424C192 437.3 181.3 448 168 448H88C74.75 448 64 437.3 64 424V376C26.44 360.4 .0003 323.3 .0003 280L0 280zM64 339.9V220.1C44.7 233 32 255 32 280C32 304.9 44.69 326.1 64 339.9zM512 144C481.1 144 456 118.9 456 88C456 57.07 481.1 32 512 32C542.9 32 568 57.07 568 88C568 118.9 542.9 144 512 144zM536 88C536 74.75 525.3 64 512 64C498.7 64 488 74.75 488 88C488 101.3 498.7 112 512 112C525.3 112 536 101.3 536 88zM576 376V424C576 437.3 565.3 448 552 448H472C458.7 448 448 437.3 448 424V384C448 375.2 455.2 368 464 368C472.8 368 480 375.2 480 384V416H544V208.4C541.4 208.1 538.7 208 536 208H488C478.7 208 469.9 209.7 461.8 212.9C453.6 216.1 444.3 212.1 441.1 203.8C437.9 195.6 441.1 186.3 450.2 183.1C461.9 178.5 474.7 175.1 488 175.1H536C593.4 175.1 640 222.6 640 279.1C640 323.3 613.6 360.4 576 376L576 376zM608 280C608 255 595.3 233 576 220.1V339.9C595.3 326.1 608 304.9 608 280zM384 96C384 131.3 355.3 160 320 160C284.7 160 256 131.3 256 96C256 60.65 284.7 32 320 32C355.3 32 384 60.65 384 96zM320 64C302.3 64 288 78.33 288 96C288 113.7 302.3 128 320 128C337.7 128 352 113.7 352 96C352 78.33 337.7 64 320 64zM336 192C393.4 192 440 238.6 440 296C440 336.1 417.3 370.9 384 388.3V456C384 469.3 373.3 480 360 480H280C266.7 480 256 469.3 256 456V388.3C222.7 370.9 200 336.1 200 296C200 238.6 246.6 192 304 192H336zM232 296C232 317.3 241.3 336.5 256 349.7V242.3C241.3 255.5 232 274.7 232 296zM352 448V225.8C346.9 224.6 341.5 224 336 224H304C298.5 224 293.1 224.6 288 225.8V448H352zM408 296C408 274.7 398.7 255.5 384 242.3V349.7C398.7 336.5 408 317.3 408 296z"/>
+</svg>
+				<div>Grupper</div>
+			</div>
+			<p class="u-sr-only  u-ml-7 u-pt-2 group-last:u-mb-0 u-text-sm">
+        <span data-sheets-value="{" data-sheets-userformat="{">Boendet har möjlighet att ta emot grupper om minst 10 personer.</span>
+			</p>
+		</li>
+	</ul>
+	<button data-show-more-services data-toggle-text="Minimera" class="link can-expand">Läs mer</button>
+
+</div>
+
+	<div id=lankar>
+		<ul class="u-grid u-grid-cols-1 u-divide-y u-divide-gray-200 u-mb-8 u-p-0 u-border-b u-border-gray-200 u-list-none">
+			
+
+
+			<li id="" class="first-of-type:-u-mt-8">
+			<a class="u-py-4 u-flex u-space-x-8 u-justify-between u-items-center hover:u-no-underline u-group" href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/boende/" target="" rel="">
+				<div class="u-overflow-hidden">
+											<h3 class="u-m-0 u-font-bold group-hover:u-underline">Mer om boendet</h3>
+					
+									</div>
+				<div class="u-flex-grow-0 u-pr-2">
+					<svg class="u-w-4 u-h-4 u-text-red-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+				</div>
+			</a>
+		</li>
+	
+
+
+
+
+			<li id="" class="first-of-type:-u-mt-8">
+			<a class="u-py-4 u-flex u-space-x-8 u-justify-between u-items-center hover:u-no-underline u-group" href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/upplev/" target="" rel="">
+				<div class="u-overflow-hidden">
+											<h3 class="u-m-0 u-font-bold group-hover:u-underline">Upplev mer</h3>
+					
+									</div>
+				<div class="u-flex-grow-0 u-pr-2">
+					<svg class="u-w-4 u-h-4 u-text-red-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+				</div>
+			</a>
+		</li>
+	
+
+
+
+
+			<li id="" class="first-of-type:-u-mt-8">
+			<a class="u-py-4 u-flex u-space-x-8 u-justify-between u-items-center hover:u-no-underline u-group" href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/fragor-svar/" target="" rel="">
+				<div class="u-overflow-hidden">
+											<h3 class="u-m-0 u-font-bold group-hover:u-underline">Frågor &amp; svar</h3>
+					
+									</div>
+				<div class="u-flex-grow-0 u-pr-2">
+					<svg class="u-w-4 u-h-4 u-text-red-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+				</div>
+			</a>
+		</li>
+	
+
+
+
+
+			<li id="" class="first-of-type:-u-mt-8">
+			<a class="u-py-4 u-flex u-space-x-8 u-justify-between u-items-center hover:u-no-underline u-group" href="https://www.svenskaturistforeningen.se/boende/stf-goteborg-stigbergsliden-vandrarhem/grupper/" target="" rel="">
+				<div class="u-overflow-hidden">
+											<h3 class="u-m-0 u-font-bold group-hover:u-underline">Gruppbokning</h3>
+					
+									</div>
+				<div class="u-flex-grow-0 u-pr-2">
+					<svg class="u-w-4 u-h-4 u-text-red-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+				</div>
+			</a>
+		</li>
+	
+
+
+		
+
+			<li id="" class="first-of-type:-u-mt-8">
+			<a class="u-py-4 u-flex u-space-x-8 u-justify-between u-items-center hover:u-no-underline u-group" href="https://boka.svenskaturistforeningen.se/sv/boende/2150925/stf-stigbergsliden-vandrarhem-g%c3%b6teborg/recensioner" target="_blank" rel="noreferrer">
+				<div class="u-overflow-hidden">
+											<h3 class="u-m-0 u-font-bold group-hover:u-underline">Gästrecensioner</h3>
+					
+									</div>
+				<div class="u-flex-grow-0 u-pr-2">
+					<svg class="u-w-4 u-h-4 u-text-red-500" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+
+				</div>
+			</a>
+		</li>
+	
+
+
+		</ul>
+	</div>
+	<div class="group-booking-form u-mb-8 u-pb-8 u-border-b u-border-gray-200 ">
+		    <h2>Gruppförfrågan</h2>
+    		<p>Är ni fler än 10 personer och planerar en konferens, släktträff, läger eller skolresa? Fyll i formuläret så kommer din förfrågan att skickas till ditt valda boende, som återkommer med ett prisförslag för just din grupp!</p>
+
+									<details>
+					<summary class="link">
+						Visa
+					</summary>
+							<div class="u-mt-4">
+										
+<div class="wpcf7 no-js" id="wpcf7-f139877-p5408228-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/boende/stf-goteborg-stigbergsliden-vandrarhem/#wpcf7-f139877-p5408228-o1" method="post" class="wpcf7-form init wpcf7-acceptance-as-validation" aria-label="Contact form" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="139877" />
+<input type="hidden" name="_wpcf7_version" value="5.8.2" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f139877-p5408228-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="5408228" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_wpcf7cf_hidden_group_fields" value="[]" />
+<input type="hidden" name="_wpcf7cf_hidden_groups" value="[]" />
+<input type="hidden" name="_wpcf7cf_visible_groups" value="[]" />
+<input type="hidden" name="_wpcf7cf_repeaters" value="[]" />
+<input type="hidden" name="_wpcf7cf_steps" value="{}" />
+<input type="hidden" name="_wpcf7cf_options" value="{&quot;form_id&quot;:139877,&quot;conditions&quot;:[{&quot;then_field&quot;:&quot;group-form-type-text&quot;,&quot;and_rules&quot;:[{&quot;if_field&quot;:&quot;collect-form-event-type&quot;,&quot;operator&quot;:&quot;equals&quot;,&quot;if_value&quot;:&quot;\u00d6vrigt&quot;}]}],&quot;settings&quot;:{&quot;animation&quot;:&quot;yes&quot;,&quot;animation_intime&quot;:200,&quot;animation_outtime&quot;:200,&quot;conditions_ui&quot;:&quot;normal&quot;,&quot;notice_dismissed&quot;:false}}" />
+</div>
+<label>Ankomstdatum <span>*</span></label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-date-arrival"><input class="wpcf7-form-control wpcf7-date wpcf7-validates-as-required wpcf7-validates-as-date" aria-required="true" aria-invalid="false" value="" type="date" name="collect-form-date-arrival" /></span> 
+
+<label>Avresedatum <span>*</span> </label>
+ <span class="wpcf7-form-control-wrap" data-name="collect-form-date-departure"><input class="wpcf7-form-control wpcf7-date wpcf7-validates-as-required wpcf7-validates-as-date" aria-required="true" aria-invalid="false" value="" type="date" name="collect-form-date-departure" /></span> 
+
+<label>Antal deltagare <span>*</span></label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-count-persons"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="collect-form-count-persons" /></span> 
+
+
+<label>Kontaktperson <span>*</span></label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-contact-person"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="collect-form-contact-person" /></span> 
+
+<label>Förening/företag </label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-company"><input size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" value="" type="text" name="collect-form-company" /></span>
+
+<label> E-post <span>*</span></label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-email"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="collect-form-email" /></span>
+
+<label>Telefon <span>*</span></label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-phone"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" value="" type="tel" name="collect-form-phone" /></span>
+
+<div class="form-group" >
+<label>Typ av arrangemang <span class="required">*</span></label>
+<span class="wpcf7-form-control-wrap" data-name="collect-form-event-type"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input type="radio" name="collect-form-event-type" value="Konferens" /><span class="wpcf7-list-item-label">Konferens</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="collect-form-event-type" value="Skolresa" /><span class="wpcf7-list-item-label">Skolresa</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="collect-form-event-type" value="Förening" /><span class="wpcf7-list-item-label">Förening</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="collect-form-event-type" value="Idrottsklubb" /><span class="wpcf7-list-item-label">Idrottsklubb</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="collect-form-event-type" value="Privat sammankomst" /><span class="wpcf7-list-item-label">Privat sammankomst</span></label></span><span class="wpcf7-list-item"><label><input type="radio" name="collect-form-event-type" value="Läger" /><span class="wpcf7-list-item-label">Läger</span></label></span><span class="wpcf7-list-item last"><label><input type="radio" name="collect-form-event-type" value="Övrigt" /><span class="wpcf7-list-item-label">Övrigt</span></label></span></span></span>
+<div data-id="group-form-type-text" data-orig_data_id="group-form-type-text"  data-class="wpcf7cf_group">
+Specificera gärna vilken typ av arrangemang: <span class="wpcf7-form-control-wrap" data-name="collect-form-event-type-text"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="collect-form-event-type-text" /></span>
+</div>
+</div>
+
+<div class="form-group" >
+<label>Speciella önskemål <span class="wpcf7-form-control-wrap" data-name="collect-form-message"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" name="collect-form-message"></textarea></span> </label>
+</div>
+
+<a href="https://www.svenskaturistforeningen.se/integritetspolicy/" target="_blank">Läs om hur vi hanterar dina personuppgifter.</a><br><br>
+
+<div>
+<input class="wpcf7-form-control wpcf7-hidden" value="Gruppförfrågan" type="hidden" name="subject" />
+<input class="wpcf7-form-control wpcf7-hidden" value="facility-offer" type="hidden" name="collect-form-action" />
+<input class="wpcf7-form-control wpcf7-hidden" value="stigbergsliden@stfturist.se" type="hidden" name="collect-form-facility-offer-email" />
+<input class="wpcf7-form-control wpcf7-hidden" value="STF Stigbergsliden Vandrarhem Göteborg" type="hidden" name="collect-form-facility-name" />
+<button class="wpcf7-form-control wpcf7-submit collect-form-submit" type="submit"><span class="loader"></span><span class="text">Skicka</span></button>
+</div><p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="204"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+
+				</div>
+							</details>
+						</div>
+
+	<div id=erbjudanden class="u-mb-8 u-pb-8 u-border-b u-border-gray-200">
+		<h2>Medlemserbjudanden</h2>
+		<div class=" u-overflow-hidden -u-mx-4">
+			<ul class="u-list-none u-flex u-gap-5 u-pl-4 u-pr-5 u-overflow-x-auto u-snap-x u-snap-mandatory -u-mb-6 u-pb-10  md:u-grid md:u-grid-cols-2 md:u-gap-8 md:u-items-stretch">
+														
+
+
+<li class="u-flex-grow u-flex-shrink-0 u-w-10/12 md:u-w-full u-snap-center u-relative u-text-black u-shadow-card" data-activity-category="" data-activity-name="Boka minst två nätter och få 25 % rabatt med kampanjkoden "STFMEDLEM"">
+	
+					<p class="u-m-0"><img decoding="async" class="u-aspect-2.35/1 u-min-w-full" width="" height="" src="https://stfturist-lajka.imgix.net/v1/image/citybreak/7589887?w=300&#038;h=130&#038;fit=crop&#038;ar=2.35:1&#038;dpr=2" alt="" loading="lazy"/></p>
+		
+        
+		<div class="u-p-4">
+
+			<h3 class="u-mb-0.5 u-leading-tight group-hover:u-underline u-text-base">Boka minst två nätter och få 25 % rabatt med kampanjkoden &#8221;STFMEDLEM&#8221;</h3>
+
+                            <p class="u-text-sm u-mt-2 u-mb-2"><strong>Välj datum:</strong></p>
+
+                <ul class="u-list-none u-p-0 u-text-sm u-leading-none u-m-0">
+                                                                        <li class="">
+                                <a class="u-block u-py-1" href="https://boka.svenskaturistforeningen.se/sv/boende/2150925/stf-g%c3%b6teborgstigbergsliden-vandrarhem/boka?filter=c%3D22409%3Bp%3D2150925">1 okt &#8211; 29 dec 2023</a>
+                            </li>
+                                                                                                <li class="">
+                                <a class="u-block u-py-1" href="https://boka.svenskaturistforeningen.se/sv/boende/2150925/stf-g%c3%b6teborgstigbergsliden-vandrarhem/boka?">1 jan &#8211; 31 mar 2024</a>
+                            </li>
+                                                            </ul>
+            
+		</div>
+
+        
+	
+</li>
+														
+
+
+<li class="u-flex-grow u-flex-shrink-0 u-w-10/12 md:u-w-full u-snap-center u-relative u-text-black u-shadow-card" data-activity-category="" data-activity-name="Boka söndag-torsdag och få 25 % rabatt med kampanjkoden "STFMEDLEM"">
+	
+					<p class="u-m-0"><img decoding="async" class="u-aspect-2.35/1 u-min-w-full" width="" height="" src="https://stfturist-lajka.imgix.net/v1/image/citybreak/7589887?w=300&#038;h=130&#038;fit=crop&#038;ar=2.35:1&#038;dpr=2" alt="" loading="lazy"/></p>
+		
+        
+		<div class="u-p-4">
+
+			<h3 class="u-mb-0.5 u-leading-tight group-hover:u-underline u-text-base">Boka söndag-torsdag och få 25 % rabatt med kampanjkoden &#8221;STFMEDLEM&#8221;</h3>
+
+                            <p class="u-text-sm u-mt-2 u-mb-2"><strong>Välj datum:</strong></p>
+
+                <ul class="u-list-none u-p-0 u-text-sm u-leading-none u-m-0">
+                                                                        <li class="">
+                                <a class="u-block u-py-1" href="https://boka.svenskaturistforeningen.se/sv/boende/2150925/stf-g%c3%b6teborgstigbergsliden-vandrarhem/boka?">1 okt &#8211; 22 dec 2024</a>
+                            </li>
+                                                            </ul>
+            
+		</div>
+
+        
+	
+</li>
+							</ul>
+		</div>
+	</div>
+
+        </div>
+      </div>
+
+      	<div data-accommodation-booking-popup class="
+		u-overflow-hidden
+		u-fixed
+		u-z-40
+		u-bottom-0
+		u-left-0
+		u-right-0
+		u-bg-theme
+		u-p-4
+		u-shadow-above
+		lg:u-overflow-visible
+		lg:u-top-auto
+		lg:u-w-1/3
+		lg:u-p-0
+		lg:u-shadow-none
+		lg:u-relative
+		lg:u-z-auto
+		">
+		<div class="lg:u-top-4">
+
+							<div data-show-popup-wrapper class="lg:u-hidden">
+					<p class="u-text-center u-mb-2">
+						<span>Se tillgänglighet och boka.</span>
+													<span class="u-text-red-500">Från</span>
+							<span class="u-text-red-500 u-font-bold">235 kr</span>
+											</p>
+
+					<button data-show-popup class="btn u-w-full">Sök &amp; boka</button>
+
+				</div>
+			
+			<button data-hide-popup class="u-whitespace-nowrap u-hidden u-pt-16 lg:u-pt-0 lg:u-hidden u-mb-5 u-ml-auto">
+				Stäng
+				<svg class="u-w-5 u-h-5 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M14.348 14.849a1.2 1.2 0 0 1-1.697 0L10 11.819l-2.651 3.029a1.2 1.2 0 1 1-1.697-1.697l2.758-3.15-2.759-3.152a1.2 1.2 0 1 1 1.697-1.697L10 8.183l2.651-3.031a1.2 1.2 0 1 1 1.697 1.697l-2.758 3.152 2.758 3.15a1.2 1.2 0 0 1 0 1.698z"/></svg>
+
+			</button>
+			<div class="u-sr-only lg:u-not-sr-only" data-widget-wrapper>
+
+									<div class="u-bg-theme u-p-4 u-shadow-card">
+						<h2>Sök &amp; boka</h2>
+						<div id="citybreak_accommodation_property_widget"></div>
+					</div>
+				
+				
+			</div>
+		</div>
+	</div>
+
+
+    </div>
+
+    <div id=kontakt>
+	<div class="u-mb-8 u-grid md:u-grid-cols-2 u-gap-8">
+		<div>
+			<div data-component-map data-long="11.937633" data-lat="57.699326 " data-zoom="7" class="u-aspect-square u-z-10"></div>
+		</div>
+		<div>
+
+			<h2>Kontakt och öppettider</h2>
+
+							<h3 class="u-mb-0">Adress:</h3>
+
+				<p class="u-mb-0">
+											Stigbergsliden 10<br/>
+										414 63
+					Göteborg
+				</p>
+			
+			<details>
+				<summary class="link u-my-3">
+					Hitta till boendet
+				</summary>
+
+									<div class="u-mb-4">
+						Med bil: <br />
+Kör mot centrum. Följ skyltar mot Fredrikshamn E45. Välj avfarten vid Fiskhamnsmotet mot Stenaterminalen och kör mot Majorna. Sväng vänster vid första ljussignalen på Djurgårdsgatan in på Karl Johansgatan. Fortsätt uppför backen tills gatan byter namn till Stigbergsliden. Vi finns på nummer 10. <br />
+<br />
+Gott om parkeringsmöjligheter på allmänna P-platser. Vandrarhemmet har ingen egen parkering. <br />
+<br />
+Kommunalt: <br />
+Tag spårvagn nummer 3, 9 eller 11 till "Stigbergstorget". Resan tar 10 min från Centralstationen, Centrum och Avenyn.<br />
+<br />
+Med cykel: <br />
+Följ skyltning mot Centrum och Järntorget och cykla in på Första Långgatan som efter ca 1 km byter namn till Stigbergsliden, vandrarhemmet ligger på vänster sida<br />
+<br />
+Med flyg: <br />
+Tag flygbussen till centralstationen/Nils Ericssonterminalen och därifrån spårvagn 3, 9 eller 11 till "Stigbergstorget".
+					</div>
+				
+									<div class="u-mb-4">
+						<h3 class="u-mb-0">GPS-koordinater:</h3>
+						N57.699326&#176;, E11.937633&#176;
+					</div>
+							</details>
+
+			<h3 class="u-mb-0 u-mt-4">Kontakt:</h3>
+
+							<p>
+											<a class="u-ml-4 first:u-ml-0" href="tel://+46 101902480">
+							+46
+							101902480
+						</a>
+					
+																		<a class="u-ml-4 first:u-ml-0" href="mailto:stigbergsliden@stfturist.se?subject=STF%20Stigbergsliden%20Vandrarhem%20G%C3%B6teborg">stigbergsliden@stfturist.se</a>
+															</p>
+			
+			
+							<div class="u-border-b u-border-gray-200 u-pb-6">
+					<h3 class="u-mb-0">In- och utcheckningstider:</h3>
+					<div class="u-flex u-flex-col sm:u-flex-row md:u-flex-col lg:u-flex-row u-gap-4 u-gap-y-2">
+
+													<div class="u-mb-0 u-flex u-gap-2 u-items-center u-justify-start">
+								  <div class="u-w-5 u-h-5 u-rounded-full u-bg-red-500 u-relative u-transition-transform">
+        <div class="u-absolute u-w-[2px] u-rounded-[2px] u-h-1/3 u-bg-white u-top-1/2 u-left-1/2 -u-ml-[1px] u-origin-top" style="transform: rotate(240deg)"></div>
+        <div class="u-absolute u-w-[2px] u-rounded-[2px] u-h-2/5 u-bg-white u-top-1/2 u-left-1/2 -u-ml-[1px] u-origin-top" style="transform: rotate(180deg)"></div>
+        <div class="u-absolute u-h-[2px] u-rounded-full u-w-[2px] u-bg-white u-top-1/2 u-left-1/2 -u-translate-y-1/2 -u-translate-x-1/2 u-z-10"></div>
+  </div>
+
+								<strong>Incheckning (tidigast):</strong>
+								14:00
+							</div>
+						
+													<div class="u-mb-0 u-flex u-gap-2 u-items-center u-justify-start">
+								  <div class="u-w-5 u-h-5 u-rounded-full u-bg-red-500 u-relative u-transition-transform">
+        <div class="u-absolute u-w-[2px] u-rounded-[2px] u-h-1/3 u-bg-white u-top-1/2 u-left-1/2 -u-ml-[1px] u-origin-top" style="transform: rotate(510deg)"></div>
+        <div class="u-absolute u-w-[2px] u-rounded-[2px] u-h-2/5 u-bg-white u-top-1/2 u-left-1/2 -u-ml-[1px] u-origin-top" style="transform: rotate(180deg)"></div>
+        <div class="u-absolute u-h-[2px] u-rounded-full u-w-[2px] u-bg-white u-top-1/2 u-left-1/2 -u-translate-y-1/2 -u-translate-x-1/2 u-z-10"></div>
+  </div>
+
+								<strong>Utcheckning (senast):</strong>
+								<span>11:00</span>
+							</div>
+						
+					</div>
+				</div>
+			
+													<div class="u-border-b u-border-gray-200 u-pb-6 u-mt-6">
+					
+											<div>
+							<h3 class="u-mb-0">Öppettider reception
+							</h3>
+							<p class="u-mb-2">8.00-20.00 </p>
+						</div>
+					
+
+					
+											<div>
+							<h3 class="u-mb-0">Antal bäddar</h3>
+							<p class="u-mb-2">
+								100 >
+							</p>
+						</div>
+					
+				</div>
+			
+							<p class="u-mt-6">
+					<h3 class="u-mb-0">Följ
+						STF Stigbergsliden Vandrarhem Göteborg</h3>
+					<ul>
+													<li class="u-ml-4 first:u-ml-0 u-inline-block">
+								<a href="https://www.facebook.com/Stigbergsliden" target="_blank" rel="noreferrer">
+									<svg class="u-w-5 u-h-5 u-mr-1 u-text-red-500 u-inline-block" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">    <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/>
+</svg>
+									Facebook
+								</a>
+							</li>
+																			<li class="u-ml-4 first:u-ml-0 u-inline-block">
+								<a href="https://www.instagram.com/stfstigbergsliden/" target="_blank" rel="noreferrer">
+									<svg class="u-w-5 u-h-5 u-mr-1 u-text-red-500 u-inline-block" width="20" height="20" viewBox="0 0 20 20" fill="currentColor"
+    xmlns="http://www.w3.org/2000/svg">
+    <rect width="20" height="20" rx="10" fill="#E66969"/>
+    <path d="M10 5.90361C11.3253 5.90361 11.506 5.90361 12.0482 5.90361C12.5301 5.90361 12.7711 6.0241 12.9518 6.08434C13.1928 6.20482 13.3735 6.26506 13.5542 6.44578C13.7349 6.62651 13.8554 6.80723 13.9157 7.04819C13.9759 7.22892 14.0361 7.46988 14.0964 7.95181C14.0964 8.49398 14.0964 8.61446 14.0964 10C14.0964 11.3855 14.0964 11.506 14.0964 12.0482C14.0964 12.5301 13.9759 12.7711 13.9157 12.9518C13.7952 13.1928 13.7349 13.3735 13.5542 13.5542C13.3735 13.7349 13.1928 13.8554 12.9518 13.9157C12.7711 13.9759 12.5301 14.0361 12.0482 14.0964C11.506 14.0964 11.3855 14.0964 10 14.0964C8.61446 14.0964 8.49398 14.0964 7.95181 14.0964C7.46988 14.0964 7.22892 13.9759 7.04819 13.9157C6.80723 13.7952 6.62651 13.7349 6.44578 13.5542C6.26506 13.3735 6.14458 13.1928 6.08434 12.9518C6.0241 12.7711 5.96386 12.5301 5.90361 12.0482C5.90361 11.506 5.90361 11.3855 5.90361 10C5.90361 8.61446 5.90361 8.49398 5.90361 7.95181C5.90361 7.46988 6.0241 7.22892 6.08434 7.04819C6.20482 6.80723 6.26506 6.62651 6.44578 6.44578C6.62651 6.26506 6.80723 6.14458 7.04819 6.08434C7.22892 6.0241 7.46988 5.96386 7.95181 5.90361C8.49398 5.90361 8.6747 5.90361 10 5.90361ZM10 5C8.61446 5 8.49398 5 7.95181 5C7.40964 5 7.04819 5.12048 6.74699 5.24096C6.44578 5.36145 6.14458 5.54217 5.84337 5.84337C5.54217 6.14458 5.42169 6.38554 5.24096 6.74699C5.12048 7.04819 5.06024 7.40964 5 7.95181C5 8.49398 5 8.6747 5 10C5 11.3855 5 11.506 5 12.0482C5 12.5904 5.12048 12.9518 5.24096 13.253C5.36145 13.5542 5.54217 13.8554 5.84337 14.1566C6.14458 14.4578 6.38554 14.5783 6.74699 14.759C7.04819 14.8795 7.40964 14.9398 7.95181 15C8.49398 15 8.6747 15 10 15C11.3253 15 11.506 15 12.0482 15C12.5904 15 12.9518 14.8795 13.253 14.759C13.5542 14.6386 13.8554 14.4578 14.1566 14.1566C14.4578 13.8554 14.5783 13.6145 14.759 13.253C14.8795 12.9518 14.9398 12.5904 15 12.0482C15 11.506 15 11.3253 15 10C15 8.6747 15 8.49398 15 7.95181C15 7.40964 14.8795 7.04819 14.759 6.74699C14.6386 6.44578 14.4578 6.14458 14.1566 5.84337C13.8554 5.54217 13.6145 5.42169 13.253 5.24096C12.9518 5.12048 12.5904 5.06024 12.0482 5C11.506 5 11.3855 5 10 5Z" fill="white"/>
+    <path d="M10 7.40964C8.55422 7.40964 7.40964 8.55422 7.40964 10C7.40964 11.4458 8.55422 12.5904 10 12.5904C11.4458 12.5904 12.5904 11.4458 12.5904 10C12.5904 8.55422 11.4458 7.40964 10 7.40964ZM10 11.6867C9.09639 11.6867 8.31325 10.9639 8.31325 10C8.31325 9.09639 9.03615 8.31325 10 8.31325C10.9036 8.31325 11.6867 9.03615 11.6867 10C11.6867 10.9036 10.9036 11.6867 10 11.6867Z" fill="white"/>
+    <path d="M12.6506 7.95181C12.9833 7.95181 13.253 7.6821 13.253 7.3494C13.253 7.0167 12.9833 6.74699 12.6506 6.74699C12.3179 6.74699 12.0482 7.0167 12.0482 7.3494C12.0482 7.6821 12.3179 7.95181 12.6506 7.95181Z" fill="white"/>
+</svg>
+
+									Instagram
+								</a>
+							</li>
+											</ul>
+				</p>
+			
+		</div>
+	</div>
+</div>
+
+    
+	
+	<div class="u-mb-16" id=hallbarhetsmarkningar>
+
+		<h2>
+			Vårt hållbarhetsarbete
+		</h2>
+
+		<ul class="u-flex u-gap-6 u-justify-start u-flex-nowrap u-flex-col md:u-flex-row">
+							<li class="u-flex u-gap-4 u-flex-row u-items-start u-text-left md:u-flex-1 md:u-min-w-0">
+					<div class="u-shrink-0">
+													<img src="https://stfturist.imgix.net/app/themes/stf/assets/img/certification-green-key.png?auto=format" alt="Green Key" class="u-h-auto u-w-10 sm:u-w-12 md:u-h-12 md:u-w-auto">
+											</div>
+					<div>
+						<h3 class="u-break-words">Green Key</h3>
+						<p>Boendet uppfyller strikta hållbarhetskriterier med tyngdpunkt på miljö som granskas årligen och kräver ständig förbättring. <a href="https://www.svenskaturistforeningen.se/om-stf/stfs-hallbarhetsarbete/bo-hallbart/" target="_blank" rel="noopener">Läs mer här.</a></p>
+					</div>
+				</li>
+							<li class="u-flex u-gap-4 u-flex-row u-items-start u-text-left md:u-flex-1 md:u-min-w-0">
+					<div class="u-shrink-0">
+													<img src="https://stfturist.imgix.net/app/themes/stf/assets/img/certification-hallbarhetslofte.png?auto=format" alt="Hållbarhetslöftet" class="u-h-auto u-w-10 sm:u-w-12 md:u-h-12 md:u-w-auto">
+											</div>
+					<div>
+						<h3 class="u-break-words">Hållbarhetslöftet</h3>
+						<p>Boendet har avgett STFs Hållbarhetslöfte om att arbeta hållbart i den dagliga driften samt tipsa om hur du som gäst kan bidra i arbetet.</p>
+					</div>
+				</li>
+					</ul>
+		
+	</div>
+
+
+    <div class="u-overflow-hidden -u-ml-5 -u-mr-5 u-mb-14" data-carousel data-carousel-length="3">
+<div class="u-mx-5 u-flex u-gap-4 u-items-baseline">
+<h2>Vandringstips</h2><div class="u-ml-auto u-flex u-justify-end u-gap-4" data-carousel-controls>
+<button data-control-prev value="-1" class="u-transition-opacity u-opacity-100 disabled:u-opacity-0"><svg class="u-w-4 u-h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+</button>
+<button data-control-next value="1" class="u-transition-opacity u-opacity-100 disabled:u-opacity-0"><svg class="u-w-4 u-h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+</button>
+</div>
+</div>
+	<div data-carousel-wrapper  class="u-px-2.5 u-pr-2.5 md:u-px-1 u-flex u-flex-nowrap u-overflow-x-auto u-snap-x u-snap-mandatory
+  			        -u-mb-6
+			        u-pb-10
+			        ">
+        		<div data-index="1" class="u-group u-snap-center u-snap-always lg:u-snap-normal u-flex u-basis-5/6 u-px-2.5 lg:u-px-4 u-max-w-full lg:u-basis-1/3 lg:u-max-w-1/3 u-grow-0 u-shrink-0 u-items-stretch">
+			    <div class="u-w-full u-flex u-items-stretch u-justify-stretch">
+            <a href="https://www.svenskaturistforeningen.se/guider-tips/leder/sjuharadsleden/" target=_blank class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-text-inherit u-group">
+   <div class="u-aspect-1.85/1">
+  <img src="https://stfturist.imgix.net/app/uploads/2023/02/sjuharadsleden.jpg?auto=format"   class="u-object-cover u-w-full u-h-full u-block" alt=""  loading="lazy"/>
+
+  </div>
+  <div class="u-pt-2">
+    
+
+<p>Sjuhäradsleden</p>
+
+
+  </div>
+</a>
+
+          </div>
+		    </div>
+        		<div data-index="2" class="u-group u-snap-center u-snap-always lg:u-snap-normal u-flex u-basis-5/6 u-px-2.5 lg:u-px-4 u-max-w-full lg:u-basis-1/3 lg:u-max-w-1/3 u-grow-0 u-shrink-0 u-items-stretch">
+			    <div class="u-w-full u-flex u-items-stretch u-justify-stretch">
+            <a href="https://www.svenskaturistforeningen.se/guider-tips/leder/signaturled-goteborg/" target=_blank class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-text-inherit u-group">
+   <div class="u-aspect-1.85/1">
+  <img src="https://stfturist.imgix.net/app/uploads/2023/02/signaturled_goteborg_1000x700.jpg?auto=format"   class="u-object-cover u-w-full u-h-full u-block" alt=""  loading="lazy"/>
+
+  </div>
+  <div class="u-pt-2">
+    
+
+<p>Signaturled Göteborg</p>
+
+
+  </div>
+</a>
+
+          </div>
+		    </div>
+        		<div data-index="3" class="u-group u-snap-center u-snap-always lg:u-snap-normal u-flex u-basis-5/6 u-px-2.5 lg:u-px-4 u-max-w-full lg:u-basis-1/3 lg:u-max-w-1/3 u-grow-0 u-shrink-0 u-items-stretch">
+			    <div class="u-w-full u-flex u-items-stretch u-justify-stretch">
+            <a href="https://www.svenskaturistforeningen.se/guider-tips/leder/" target=_blank class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-text-inherit u-group">
+   <div class="u-aspect-1.85/1">
+  <img src="https://stfturist.imgix.net/app/uploads/2023/05/vandrare_1000x700.jpg?auto=format"   class="u-object-cover u-w-full u-h-full u-block" alt=""  loading="lazy"/>
+
+  </div>
+  <div class="u-pt-2">
+    
+
+<p>Vandringsleder i Sverige</p>
+
+
+  </div>
+</a>
+
+          </div>
+		    </div>
+    	</div>
+
+</div>
+
+        <div class="u-mb-20">
+    <div class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-shadow-card md:u-grid md:u-grid-cols-3 md:u-gap-8 u-items-center u-mb-8">
+
+   <img decoding="async" src="https://stfturist.imgix.net/app/uploads/2023/05/promenad_vid_rapsfalt.jpg?auto=format"   class="u-object-cover u-aspect-4/3 u-min-w-full u-block" alt=""  loading="lazy"/>
+
+  <div class="u-p-4 md:u-p-0 md:u-pr-4 u-col-span-2">
+    
+
+<h2 class="wp-block-heading">Hjälp oss göra skillnad</h2>
+
+
+
+<p>Vi tror att ju fler som upptäcker vår vackra natur, desto fler blir vi som värnar den. Som medlem bidrar du till hållbar turism och ett friluftsliv för alla. <a href="https://www.svenskaturistforeningen.se/medlem/" data-type="page" data-id="190522" target="_blank" rel="noreferrer noopener">Bli medlem idag.</a></p>
+
+
+  </div>
+</div>
+
+    </div>
+        <div class="u-overflow-hidden -u-ml-5 -u-mr-5 u-mb-14" data-carousel data-carousel-length="3">
+<div class="u-mx-5 u-flex u-gap-4 u-items-baseline">
+<h2>Upptäck fler boenden</h2><div class="u-ml-auto u-flex u-justify-end u-gap-4" data-carousel-controls>
+<button data-control-prev value="-1" class="u-transition-opacity u-opacity-100 disabled:u-opacity-0"><svg class="u-w-4 u-h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.891 17.418a.697.697 0 0 1 0 .979.68.68 0 0 1-.969 0l-7.83-7.908a.697.697 0 0 1 0-.979l7.83-7.908a.68.68 0 0 1 .969 0 .697.697 0 0 1 0 .979L6.75 10l7.141 7.418z"/></svg>
+</button>
+<button data-control-next value="1" class="u-transition-opacity u-opacity-100 disabled:u-opacity-0"><svg class="u-w-4 u-h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M13.25 10L6.109 2.58a.697.697 0 0 1 0-.979.68.68 0 0 1 .969 0l7.83 7.908a.697.697 0 0 1 0 .979l-7.83 7.908a.68.68 0 0 1-.969 0 .697.697 0 0 1 0-.979L13.25 10z"/></svg>
+</button>
+</div>
+</div>
+	<div data-carousel-wrapper  class="u-px-2.5 u-pr-2.5 md:u-px-1 u-flex u-flex-nowrap u-overflow-x-auto u-snap-x u-snap-mandatory
+  			        -u-mb-6
+			        u-pb-10
+			        ">
+        		<div data-index="1" class="u-group u-snap-center u-snap-always lg:u-snap-normal u-flex u-basis-5/6 u-px-2.5 lg:u-px-4 u-max-w-full lg:u-basis-1/3 lg:u-max-w-1/3 u-grow-0 u-shrink-0 u-items-stretch">
+			    <div class="u-w-full u-flex u-items-stretch u-justify-stretch">
+            <a href="https://www.svenskaturistforeningen.se/boende/stf-wendelsberg-hotell-vandrarhem-goteborg/" class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-text-inherit u-group">
+<div class="u-aspect-1.85/1">
+   <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/7223527"   class="u-object-cover u-w-full u-h-full" alt=""  loading="lazy"/>
+
+</div>
+  <div class="u-pt-2">
+    <p class="u-mb-0 group-hover:u-underline">
+      STF Wendelsberg Hotell & Vandrarhem Göteborg
+    </p>
+    
+
+<p></p>
+
+
+  </div>
+</a>
+
+          </div>
+		    </div>
+        		<div data-index="2" class="u-group u-snap-center u-snap-always lg:u-snap-normal u-flex u-basis-5/6 u-px-2.5 lg:u-px-4 u-max-w-full lg:u-basis-1/3 lg:u-max-w-1/3 u-grow-0 u-shrink-0 u-items-stretch">
+			    <div class="u-w-full u-flex u-items-stretch u-justify-stretch">
+            <a href="https://www.svenskaturistforeningen.se/boende/stf-kajkanten-vrango/" class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-text-inherit u-group">
+<div class="u-aspect-1.85/1">
+   <img src="https://stfturist-lajka.imgix.net/v1/image/citybreak/7691560"   class="u-object-cover u-w-full u-h-full" alt=""  loading="lazy"/>
+
+</div>
+  <div class="u-pt-2">
+    <p class="u-mb-0 group-hover:u-underline">
+      STF Kajkanten Vrångö
+    </p>
+    
+
+<p></p>
+
+
+  </div>
+</a>
+
+          </div>
+		    </div>
+        		<div data-index="3" class="u-group u-snap-center u-snap-always lg:u-snap-normal u-flex u-basis-5/6 u-px-2.5 lg:u-px-4 u-max-w-full lg:u-basis-1/3 lg:u-max-w-1/3 u-grow-0 u-shrink-0 u-items-stretch">
+			    <div class="u-w-full u-flex u-items-stretch u-justify-stretch">
+            
+<p><a href="https://www.svenskaturistforeningen.se/boende/stf-lotstornet-aspo/"></a></p>
+
+
+<a href="https://www.svenskaturistforeningen.se/hitta/?boende"  class="u-flex-[1_0_0%] u-mb-8 last:u-mb-0 u-text-inherit u-group">
+   <div class="u-aspect-1.85/1">
+  <img src="https://stfturist.imgix.net/app/uploads/2023/02/stora_fjaderagg_1000x700.jpg?auto=format"   class="u-object-cover u-w-full u-h-full u-block" alt=""  loading="lazy"/>
+
+  </div>
+  <div class="u-pt-2">
+    
+
+<p>Sök boende via karta</p>
+
+
+  </div>
+</a>
+
+          </div>
+		    </div>
+    	</div>
+
+</div>
+
+
+  </div>
+  <div class="u-max-w-article u-m-auto u-px-5 has-wysiwyg">
+  <div class="u-mb-8">
+  
+
+<h2 class="alignwide wp-block-heading">Upplev mer</h2>
+
+
+
+<div class="u-grid u-gap-8 u-mb-16 md:u-grid-cols-3 -u-mx-wide">
+  
+<div class="u-flex u-flex-col u-items-stretch">
+  
+
+<p></p>
+
+
+<div class="u-w-full u-shadow-card first:last:u-h-full">
+			<a href="https://www.svenskaturistforeningen.se/aktiviteter/ " target="_blank" class="u-no-underline u-group">
+						<img src="https://stfturist.imgix.net/app/uploads/2023/02/upplevelser.jpg?auto=format"   class="u-object-cover u-h-52 u-min-w-full" alt=""  loading="lazy"/>
+
+				<div class="u-p-4 ">
+							<h3 class="group-hover:u-underline">Upplevelser i Sverige </h3>
+										<p class="u-font-normal u-text-black">Det finns mycket att uppleva och göra över hela landet. Oavsett om du är erfaren eller nybörjare. Välkommen att uppleva Sverige med oss. Här ger vi tips och inspiration - allt från guidade vandringar till grottäventyr.</p>
+			      		</div>
+			</a>
+	</div>
+
+
+</div>
+
+
+<div class="u-flex u-flex-col u-items-stretch">
+  
+
+<p></p>
+
+
+<div class="u-w-full u-shadow-card first:last:u-h-full">
+			<a href="https://www.svenskaturistforeningen.se/om-stf/stfs-hallbarhetsarbete/" target="_blank" class="u-no-underline u-group">
+						<img src="https://stfturist.imgix.net/app/uploads/2023/02/upptack-hallbart.jpg?auto=format"   class="u-object-cover u-h-52 u-min-w-full" alt=""  loading="lazy"/>
+
+				<div class="u-p-4 ">
+							<h3 class="group-hover:u-underline">Turista hållbart</h3>
+										<p class="u-font-normal u-text-black">Vi inspirerar till upplevelser som visar hänsyn för platsens natur- och kulturmiljöer och som bygger på nyfikenhet och upptäckarglädje. Läs mer om du hur du planerar en mer hållbar semester. </p>
+			      		</div>
+			</a>
+	</div>
+
+
+</div>
+
+
+<div class="u-flex u-flex-col u-items-stretch">
+  
+
+<p></p>
+
+
+<div class="u-w-full u-shadow-card first:last:u-h-full">
+			<a href="https://www.svenskaturistforeningen.se/boende/medlemsrabatt-boende/" target="_blank" class="u-no-underline u-group">
+						<img src="https://stfturist.imgix.net/app/uploads/2023/02/bli-medlem-ej-fjall.jpg?auto=format"   class="u-object-cover u-h-52 u-min-w-full" alt=""  loading="lazy"/>
+
+				<div class="u-p-4 ">
+							<h3 class="group-hover:u-underline">Bo till medlemspris</h3>
+										<p class="u-font-normal u-text-black">Som medlem i STF är du med och bidrar i arbetet att göra det möjligt för fler att upptäcka Sverige. Som tack bor du alltid till rabatterat pris när du bokar ditt boende i STFs bokningskanaler.</p>
+			      		</div>
+			</a>
+	</div>
+
+
+</div>
+
+
+</div>
+
+
+
+  </div>
+</div>
+
+		</div>
+		<footer data-swiftype-index="false" class="site-footer | u-mt-auto theme-blue u-text-theme u-bg-theme u-font-normal u-text-sm">
+
+	<div class="u-py-16 u-px-5 u-max-w-page u-m-auto u-grid u-gap-4 u-grid-cols-2 md:u-grid-cols-12">
+
+					<div class="u-text-2xl u-leading-relaxed md:u-col-span-3 u-font-semibold">
+				<ul class="main-navigation">
+<li class=""><a id="gaID_header_menu_footer_Aktiviteter" href="https://www.svenskaturistforeningen.se/aktiviteter/">Aktiviteter</a></li>
+
+<li class=""><a id="gaID_header_menu_footer_Guider_amp_Tips" href="https://www.svenskaturistforeningen.se/guider-tips/">Guider &amp; Tips</a></li>
+
+<li class=""><a id="gaID_header_menu_footer_Engageradig" href="https://www.svenskaturistforeningen.se/engagemang/">Engagera dig</a></li>
+
+<li class=""><a id="gaID_header_menu_footer_Medlemskapet" href="https://www.svenskaturistforeningen.se/medlem/">Medlemskapet</a></li>
+
+<li class=""><a id="gaID_header_menu_footer_OmSTF" href="https://www.svenskaturistforeningen.se/om-stf/">Om STF</a></li>
+
+<li class=""><a id="gaID_header_menu_footer_Hitta_amp_bokaboenden" href="https://www.svenskaturistforeningen.se/boende/">Hitta &amp; boka boenden</a></li>
+</ul>
+			</div>
+			<div class="u-text-base u-leading-loose md:u-col-span-3">
+				<ul class="secondary-navigation">
+<li class=""><a id="gaID_footer_Blimedlem" href="https://www.svenskaturistforeningen.se/medlem/">Bli medlem</a></li>
+
+<li class=""><a id="gaID_footer_Bokningen" href="https://www.svenskaturistforeningen.se/om-stf/vanliga-fragor/">Bokningen</a></li>
+
+<li class=""><a id="gaID_footer_Kontaktaoss" href="https://www.svenskaturistforeningen.se/om-stf/kontakta-oss/">Kontakta oss</a></li>
+
+<li class=""><a id="gaID_footer_Ledigajobb" href="https://www.svenskaturistforeningen.se/om-stf/jobba-pa-stf/">Lediga jobb</a></li>
+
+<li class=""><a id="gaID_footer_Lokalavdelningar" href="https://www.svenskaturistforeningen.se/engagemang/stfs-lokalavdelningar/">Lokalavdelningar</a></li>
+
+<li class=""><a id="gaID_footer_Medlemsservice" href="https://www.svenskaturistforeningen.se/om-stf/vanliga-fragor/">Medlemsservice</a></li>
+
+<li class=""><a id="gaID_footer_Press" href="https://www.svenskaturistforeningen.se/om-stf/press/">Press</a></li>
+
+<li class=""><a id="gaID_footer_Presentkort" href="https://www.svenskaturistforeningen.se/om-stf/presentkort/">Presentkort</a></li>
+</ul>
+			</div>
+		
+		<div class="u-border-t md:u-border-0 u-col-span-2 md:u-col-span-6">
+
+			<div class="u-mb-8 u-mt-8 md:u-mt-0">
+																						<a id="gaID_footer_stotta" href="/medlem/" class="u-flex u-flex-col md:u-flex-row u-items-center u-text-center md:u-items-start md:u-text-left u-space-y-6 md:u-space-y-0 md:u-space-x-6 hover:u-no-underline u-group">
+					<div class="u-w-28 u-flex-grow-0 u-flex-shrink-0">
+						<img src="https://stfturist.imgix.net/app/themes/stf/assets/img/stf-membershipcard.png?auto=format" alt="Medlemskort">
+					</div>
+					<div>
+						<p class="u-uppercase u-mb-2 u-text-sm u-tracking-wider u-font-semibold">Bli medlem</p>
+						<p class="group-hover:u-underline">Stötta vårt arbete för naturen och din rätt att turista i Sverige. Dessutom får du rabatter och erbjudanden.</p>
+					</div>
+				</a>
+			</div>
+
+			<div class="md:u-grid md:u-grid-cols-2 u-border-t md:u-border-0 u-text-center md:u-text-left">
+
+				<div class="u-my-8 md:u-my-0">
+					<p class="u-uppercase u-mb-2 u-text-sm u-tracking-wider u-font-semibold">Följ STF</p>
+					<a id="gaID_footer_facebook" class="u-rounded-full u-border u-inline-block u-p-2 u-mr-2" target="_blank" href="https://www.facebook.com/SvenskaTuristforeningen/" rel="noopener noreferrer">
+						<span class="u-sr-only">Facebook</span>
+						<svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path fill="currentColor" d="M17 1H3c-1.1 0-2 .9-2 2v14c0 1.101.9 2 2 2h7v-7H8V9.525h2v-2.05c0-2.164 1.212-3.684 3.766-3.684l1.803.002v2.605h-1.197c-.994 0-1.372.746-1.372 1.438v1.69h2.568L15 12h-2v7h4c1.1 0 2-.899 2-2V3c0-1.1-.9-2-2-2z"/></svg>
+
+					</a>
+					<a id="gaID_footer_instagram" class="u-rounded-full u-border u-inline-block u-p-2" target="_blank" href="https://instagram.com/stfturist/" rel="noopener noreferrer">
+						<span class="u-sr-only">Instagram</span>
+						<svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+  <path xmlns="http://www.w3.org/2000/svg" fill="currentColor" d="M17.946 5.29a6.606 6.606 0 0 0-.418-2.185 4.412 4.412 0 0 0-1.039-1.594A4.412 4.412 0 0 0 14.895.472a6.606 6.606 0 0 0-2.184-.418C11.75.01 11.444 0 9 0S6.25.01 5.29.054a6.606 6.606 0 0 0-2.185.418A4.412 4.412 0 0 0 1.51 1.511 4.412 4.412 0 0 0 .472 3.105a6.606 6.606 0 0 0-.418 2.184C.01 6.25 0 6.556 0 9s.01 2.75.054 3.71a6.606 6.606 0 0 0 .418 2.185 4.412 4.412 0 0 0 1.039 1.594 4.411 4.411 0 0 0 1.594 1.039 6.606 6.606 0 0 0 2.184.418C6.25 17.99 6.556 18 9 18s2.75-.01 3.71-.054a6.606 6.606 0 0 0 2.185-.418 4.602 4.602 0 0 0 2.633-2.633 6.606 6.606 0 0 0 .418-2.184C17.99 11.75 18 11.444 18 9s-.01-2.75-.054-3.71zm-1.62 7.347a4.978 4.978 0 0 1-.31 1.67 2.98 2.98 0 0 1-1.708 1.709 4.979 4.979 0 0 1-1.671.31c-.95.043-1.234.052-3.637.052s-2.688-.009-3.637-.052a4.979 4.979 0 0 1-1.67-.31 2.788 2.788 0 0 1-1.036-.673 2.788 2.788 0 0 1-.673-1.035 4.978 4.978 0 0 1-.31-1.671c-.043-.95-.052-1.234-.052-3.637s.009-2.688.052-3.637a4.979 4.979 0 0 1 .31-1.67 2.788 2.788 0 0 1 .673-1.036 2.788 2.788 0 0 1 1.035-.673 4.979 4.979 0 0 1 1.671-.31c.95-.043 1.234-.052 3.637-.052s2.688.009 3.637.052a4.979 4.979 0 0 1 1.67.31 2.788 2.788 0 0 1 1.036.673 2.788 2.788 0 0 1 .673 1.035 4.979 4.979 0 0 1 .31 1.671c.043.95.052 1.234.052 3.637s-.009 2.688-.052 3.637zM9 4.378A4.622 4.622 0 1 0 13.622 9 4.622 4.622 0 0 0 9 4.378zM9 12a3 3 0 1 1 3-3 3 3 0 0 1-3 3zm5.884-7.804a1.08 1.08 0 1 1-1.08-1.08 1.08 1.08 0 0 1 1.08 1.08z"/>
+</svg>
+
+					</a>
+				</div>
+
+									<div class="u-mb-8">
+						<p class="u-uppercase u-mb-2 u-text-sm u-tracking-wider u-font-semibold">Vårt nyhetsbrev</p>
+						<a href="/om-stf/upptackarbrevet/" id="newsletter-footer-link" class="md:u-flex md:u-items-center">
+							<span class="u-rounded-full u-border u-inline-block u-p-2 u-mr-2">
+								<svg class="u-w-5 u-h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
+  <path fill="currentColor" d="M1.574 5.286l7.5 4.029c.252.135.578.199.906.199.328 0 .654-.064.906-.199l7.5-4.029c.489-.263.951-1.286.054-1.286H1.521c-.897 0-.435 1.023.053 1.286zm17.039 2.203l-7.727 4.027c-.34.178-.578.199-.906.199s-.566-.021-.906-.199-7.133-3.739-7.688-4.028C.996 7.284 1 7.523 1 7.707V15c0 .42.566 1 1 1h16c.434 0 1-.58 1-1V7.708c0-.184.004-.423-.387-.219z"/>
+</svg>
+
+							</span>
+							<span class="u-hidden md:u-block md:item-">Prenumerera</span>
+						</a>
+					</div>
+				
+			</div>
+
+							<div class="md:u-grid md:u-grid-cols-2 u-text-center md:u-text-left">
+					<div class="u-col-start-2">
+						<p class="u-uppercase u-mb-2 u-text-sm u-tracking-wider u-font-semibold">Bokningsinformation</p>
+												<a target="_blank" class="md:u-flex md:u-items-center" href="//boka.svenskaturistforeningen.se/sv/min-sida/logga-in/" id="my-booking-link" rel="noopener noreferrer">
+							<span class="u-rounded-full u-border u-inline-block u-p-2 u-mr-2">
+								<img class="u-w-5 u-h-5" src="https://stfturist.imgix.net/app/themes/stf/assets/img/icon-my-booking.png?auto=format" alt="Min bokning">
+							</span>
+							<span class="u-hidden md:u-block">Min bokning</span>
+						</a>
+					</div>
+				</div>
+			
+		</div>
+	</div>
+		<div class="u-flex u-justify-center u-px-5 u-flex-wrap u-space-x-4 md:u-space-x-8 u-pb-32 lg:u-pb-8 u-text-sm">
+					<a class="u-font-normal" href="/cookies/">Cookies</a>
+			<a class="u-font-normal" href="/personuppgifter">Integritetspolicy</a>
+			<a class="u-font-normal" target="_blank" href="http://login.stfturist.se" rel="noopener noreferrer">Login för medarbetare</a>
+			<a class="u-font-normal" href="/visselblasning">Visselblåsning</a>
+			</div>
+</footer>
+
+                            
+          
+	    <script type="text/javascript">
+        (function () {
+            var widget = document.createElement('script'); widget.type = 'text/javascript'; widget.async = true;
+            widget.src = '//boka.svenskaturistforeningen.se/sv/basketwidget/widget';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(widget, s);
+        })();
+        (function() {
+  if(document.querySelector('#citybreak_accommodation_property_widget')) {
+    try{
+    var widget = document.createElement('script');
+    widget.type = 'text/javascript';
+    widget.async = true;
+    widget.src = '//boka.svenskaturistforeningen.se/sv/AccommodationPropertyWidget/searchform?productid=2150925';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(widget, s);
+    } catch {return;} }
+    })();
+
+    		(function () {
+        if(document.querySelector('#citybreak_accommodation_searchform_widget')) {
+			    const widget = document.createElement('script'); widget.type = 'text/javascript'; widget.async = true;
+			    widget.src = '//boka.svenskaturistforeningen.se/sv/accommodationwidget/searchform?defaultArrivalDate=2023-12-23&css=https://www.svenskaturistforeningen.se/app/themes/stf/assets/cb/citybreak.css';
+			    const s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(widget, s);
+        }
+		})();
+
+  </script>
+
+
+
+	<div data-old-browser class="u-fixed u-bottom-0 u-bg-gray-100 u-w-full u-pt-6 u-pb-12 u-px-7 u-shadow-above u-my-0 u-mx-auto u-z-[10000] u-translate-y-full">
+
+		<div class="u-mx-auto u-max-w-article">
+			<div class="u-flex u-flex-col-reverse sm:u-flex-row u-items-end sm:u-justify-between sm:u-items-start u-mb-4">
+				<h2 class="u-mb-0">Det kan vara svårt att skiljas från en trogen följeslagare...</h2>
+				<button data-old-browser-close class="close u-mb-4 sm:u-mb-0">Stäng</button>
+			</div>
+			<p>Men för att du inte skall gå miste om funktioner på vår webbplats rekommenderar vi att du byter till en av följande webbläsare och aktiverar automatiska uppdateringar.</p>
+
+						<ul class="u-flex u-items-center u-justify-center u-flex-wrap">
+				<li class="u-inline-block u-m-3">
+					<a class="u-flex u-flex-col u-items-center u-gap-2" href="https://www.google.com/chrome/" target="_blank"><img class="u-w-10 sm:u-w-16" src="/app/themes/stf/assets/img/browser-icons/chrome_256x256.png" alt="Google Chrome">
+						<span>Google Chrome</span>
+					</a>
+				</li>
+				<li class="u-inline-block u-m-3">
+					<a class="u-flex u-flex-col u-items-center u-gap-2" href="https://www.mozilla.org/firefox/new/" target="_blank"><img class="u-w-10 sm:u-w-16" src="/app/themes/stf/assets/img/browser-icons/firefox_256x256.png" alt="Mozilla Firefox">
+						<span>Mozilla Firefox</span>
+					</a>
+				</li>
+				<li class="u-inline-block u-m-3">
+					<a class="u-flex u-flex-col u-items-center u-gap-2" href="https://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank"><img class="u-w-10 sm:u-w-16" src="/app/themes/stf/assets/img/browser-icons/edge-tile_256x256.png" alt="Internet Explorer">
+						<span>Microsoft Edge</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+				<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" id="jquery-js"></script>
+<script type="text/javascript" id="wpcf7cf-scripts-js-extra">
+/* <![CDATA[ */
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/www.svenskaturistforeningen.se\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.svenskaturistforeningen.se/app/plugins/cf7-conditional-fields/js/scripts.js?ver=2.4" id="wpcf7cf-scripts-js"></script>
+<script type="text/javascript" src="https://www.svenskaturistforeningen.se/app/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.svenskaturistforeningen.se\/api\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.svenskaturistforeningen.se/app/plugins/contact-form-7/includes/js/index.js?ver=5.8.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.svenskaturistforeningen.se/app/themes/stf/assets/js/legacy-js/modules/swiftype/jquery.swiftype.search.js" id="swiftypeSearch-js"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?language=sv&amp;key=AIzaSyAgV8SaTlp4ZGxv5GGbzoxR__xUJn5WiWM" id="google-maps-js"></script>
+<script type="text/javascript" src="https://browser.sentry-cdn.com/6.13.3/bundle.min.js" id="sentry-js"></script>
+<script type="text/javascript" id="bundle_js-js-extra">
+/* <![CDATA[ */
+var translations = {"datepicker":{"i18n":{"previousMonth":"F\u00f6reg\u00e5ende m\u00e5nad","nextMonth":"N\u00e4sta m\u00e5nad","months":["Januari","Februari","Mars","April","Maj","Juni","Juli","Augusti","September","Oktober","November","December"],"weekdays":["S\u00f6ndag","M\u00e5ndag","Tisdag","Onsdag","Torsdag","Fredag","L\u00f6rdag"],"weekdaysShort":["S\u00f6n","M\u00e5n","Tis","Ons","Tor","Fre","L\u00f6r"]}},"show_as_list":"Visa som lista","show_on_map":"Visa p\u00e5 karta","all_accommodations":"Alla boenden","all_activities":"Alla aktiviteter och paket","whole_sweden":"Hela Sverige","close":"St\u00e4ng","change":"\u00c4ndra","accommodation_included":"Boende ing\u00e5r","from":"Fr\u00e5n","to":"Till","You_must_fill_all_required_fields":"Du m\u00e5ste fylla i alla r\u00f6dmarkerade f\u00e4lt ovanf\u00f6r att kunna forts\u00e4tta. "};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.svenskaturistforeningen.se/app/themes/stf/assets/dist/bundle.min.1702456656.js" id="bundle_js-js"></script>
+	<!--	script from visit  -->
+	<script type="text/javascript">
+		var trackcmp_email = '';
+		var trackcmp = document.createElement("script");
+		trackcmp.async = true;
+		trackcmp.type = 'text/javascript';
+		trackcmp.src = '//trackcmp.net/visit?actid=475294967&e=' + encodeURIComponent(trackcmp_email) + '&r=' + encodeURIComponent(document.referrer) + '&u=' + encodeURIComponent(window.location.href);
+		var trackcmp_s = document.getElementsByTagName("script");
+		if (trackcmp_s.length) {
+			trackcmp_s[0].parentNode.appendChild(trackcmp);
+		} else {
+			var trackcmp_h = document.getElementsByTagName("head");
+			trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+		}
+	</script>
+
+		<script>
+		if ( typeof window.Sentry !== 'undefined') {
+			Sentry.init({
+				dsn: 'https://92e3def01487410b95f7172c02f58700@sentry.io/5024291',
+				environment: 'production',
+				release: '20231213083802',
+				whitelistUrls: [/www\.svenskaturistforeningen\.se/],
+				ignoreErrors: [
+					// https://github.com/getsentry/sentry/issues/5267
+					/Blocked a frame with origin/,
+				]
+			});
+		}
+	</script>
+	
+	</body>
+</html>

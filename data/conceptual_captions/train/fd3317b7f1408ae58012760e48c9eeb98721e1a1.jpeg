@@ -1,0 +1,893 @@
+
+
+<!DOCTYPE html>
+<!-- Shared\CommonRzLayout.cshtml -->
+
+
+<html lang="en">
+	<head>
+		
+		<!-- UoiViewSupport.Across21CommonHeadContent -->
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="msapplication-TileColor" content="#191919">
+<meta name="theme-color" content="#ffffff">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.uidaho.edu/apple-touch-icon.png?v=2" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.uidaho.edu/favicon-32x32.png?v=2" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.uidaho.edu/favicon-16x16.png?v=2" />
+<link rel="mask-icon" href="https://www.uidaho.edu/safari-pinned-tab.svg?v=2" color="#191919" />
+<link rel="shortcut icon" href="https://www.uidaho.edu/favicon.ico?v=2" />
+
+
+		
+		<script src="/Scripts/uoi/UidahoModule.js?v=220721" type="module"></script>
+
+		
+		<!-- UidViewSupport.GetCommonHeadHtml() -->
+<script src="https://www.google.com/recaptcha/enterprise.js?render=6LdSu58kAAAAAKKMm_k55G6928_6HAu4PxpRSBt5">
+</script>
+
+
+		
+		<meta name="robots" content="noindex, nofollow" />
+
+
+		<meta name="author"      content="" />
+		<meta name="description" content="" />
+
+		
+		<meta property="og:url" content="https://www.uidaho.edu/404" />
+
+		
+		<link rel="manifest" href="https://www.uidaho.edu/manifest.json?v=180808" />
+
+		<!-- RenderSection( "HeadAddlHtml" ) -->
+		 <!-- Across21GeneralRzLayout.cshtml > section HeadAddlHtml -->
+
+
+
+	<title>404 - University of Idaho</title>
+
+
+	
+	<meta name="GaCategory" content="404" />
+
+	
+
+	<meta property="og:title" content="" />
+
+	<meta property="og:description" 
+			content="" />
+
+	<meta property="og:image" content="https://www.uidaho.edu" />
+
+	
+	<script src="/bundles/head?v=SO079hoysuNvlDHfX9T44EQ-q3xDdq3IXtlTiBisPGA1"></script>
+
+
+	
+	<script>
+		(function() {
+			var cx = '003722609249022682995:ko1icfwpoom';
+			var gcse = document.createElement('script');
+			gcse.type = 'text/javascript';
+			gcse.async = true;
+			gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(gcse, s);
+		})();
+	</script>
+
+	<script>
+		// Init UIdaho object, for .Design.JavaScript.UIdahoObject.  -CMA 180314.
+		window.UIdaho = window.UIdaho || {};
+		UIdaho.q      = [];
+	</script>
+
+	
+	<!-- RenderSection( "HeadAddlHtml" ) -->
+	 <!-- Chrome.cshtml > section HeadAddlHtml -->
+
+
+	 <!-- ChromeLayoutHead() -->
+	<!-- UidahoHelpers.Pre21OnlyCommonHeadContent() -->
+<!-- UoiViewSupport.Pre21OnlyCommonHeadContent -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" 
+			href="/css/styles.min.css?v=230505">
+	<!-- VisitorIdentification -->
+
+
+
+	
+	<!-- Fields[ "Head" ] ) -->
+	<style type="text/css">
+.ui-page {
+	background: #191919;
+}
+
+.ui-page:before {
+    content:' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    background-image: url('/~/media/68640E4FCF9F44DE9271C9084AF7B0A7.ashx');
+    background-repeat: repeat;
+    background-size: 70px;
+}
+.ui-page .ui-page-title {
+	display: none;
+}
+.obj-basic-column {
+    margin:0;
+}
+.custom-content {
+	width: 100%;
+    padding:5% 7%;
+}
+
+.help-banner {
+	margin-bottom: 1em;
+}
+
+.help-btn-container p,
+.help-banner p {
+	color: #fff;
+}
+
+.help-banner p {
+	text-align: right;
+	font-weight: 700;
+	width: 70%;
+	float: right;
+	margin:-11% 3% 0;
+}
+
+.help-btn-container {
+    margin-top:1em;
+}
+
+.help-btn-container a {
+	display: block;
+	margin: 0 0 45%;
+}
+.help-btn-container a:hover {
+	-webkit-box-shadow: 0 3px 0 0 #f1b300;
+    box-shadow: 0 3px 0 0 #f1b300;
+	text-decoration: none;
+}
+
+.help-btn-container p {
+    text-align:center;
+	margin-top: .2em;
+}
+
+.help-btn-container svg {
+	width: 60%;
+	display: block;
+	margin: 0 auto;
+}
+.help-btn-az svg {
+	width: 85%;
+}
+.help-btn-search svg {
+	width: 58%;
+}
+
+
+@media screen and (min-width: 480px) {
+	
+
+}
+
+
+@media screen and (min-width: 768px) {
+	.ui-page:before {
+		background-size: 100px;
+	}
+	
+	.custom-content {
+        padding:6% 0 5%;
+    }
+	.help-banner p {
+		font-size: 1.2em;
+		width: 60%;
+	}
+	.help-btn-container {
+		margin-top:40%;
+	}
+	.help-btn-az svg {
+		width: 70%;
+	}
+	.help-btn-search svg {
+		width: 60;
+	}
+	
+}
+
+@media screen and (min-width: 992px) {
+	
+	
+
+}
+
+@media screen and (min-width: 1200px) {
+	.custom-content {
+        padding:5% 5% 7%;
+    }
+	.help-banner p {
+		font-size: 1.5em;
+	}
+
+}
+
+
+@media screen and (min-width: 1450px) {
+
+
+}
+</style>
+	<!-- Fields[ "Javascript" ] ) -->
+	
+
+	</head>
+
+	<!-- RenderBody() -->
+	
+
+
+
+
+<!-- Shared\Across21GeneralRzLayout.cshtml -->
+<body class="">
+
+<!-- Google Tag Manager -->
+<noscript>
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-NRPFL7"
+						height="0" width="0" style="display:none;visibility:hidden">
+	</iframe>
+</noscript>
+<script>
+	(function (w, d, s, l, i) {
+		w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+				new Date().getTime(), event: 'gtm.js'
+		}); 
+		var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; 
+		j.async = true; 
+		j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; 
+		f.parentNode.insertBefore(j, f);
+	})(window, document, 'script', 'dataLayer', 'GTM-NRPFL7');
+</script>
+<!-- End Google Tag Manager -->
+
+
+<div class="ui-obj-animation-wrapper">
+	<!-- RenderBody() -->
+	
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+<!-- Views\Chrome.cshtml -->
+
+<!-- Placeholder( "header" ) -->
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+<!-- GlobalHeader.cshtml -->
+
+<header class="ui-obj-header">
+    <nav class="ghf-cta">
+        
+        <div id="ghf-sb-search" class="ghf-sb-search">
+            <span class="ghf-sb-icon-search icon-magnifying-glass"></span>
+            <input class="ghf-sb-search-input" placeholder="Search..." type="search" value="" name="ghf-search" id="ghf-search">
+            <div class="ghf-search-button icon-magnifying-glass"></div>
+        </div>
+        <ul>
+            
+                    <li><a href="/admissions/apply">Apply</a></li>
+                    <li><a href="/giving">Give</a></li>
+                    <li><a href="/admissions/visit-idaho">Visit</a></li>
+        </ul>
+    </nav>
+
+		 <!-- Masthead() -->
+	<div class="ghf-masthead">
+
+		<a href="/" class="ghf-logo-link">
+			
+			<img class="ghf-logo" src="/-/media/UIdaho-Responsive/Images/default-placeholders/u-of-i-logo-2018.svg" 
+					alt="University of Idaho official logo" 
+					style="" />
+
+			<img class="ghf-logo-mobile" src="/-/media/UIdaho-Responsive/Images/default-placeholders/i-banner-gold-2018.svg" 
+					alt="University of Idaho - I Banner" style="" />
+		</a>
+
+		<div class="ghf-hamburger-menu">
+			<a href="#">
+				<span class="icon-hamburger"></span>
+				<span class="ghf-menu-text">Menu</span>
+			</a>
+		</div>
+
+		<nav class="ghf-primary-nav">
+			<ul class="ghf-primary-nav-top-level">
+						<li>
+								<div class="ghf-nav-text"><a data-menu="#mm-prospective-students" href="/admissions">Prospective Students <span class="icon-down-arrow"></span></a></div>
+						</li>
+						<li>
+								<div class="ghf-nav-text"><a data-menu="#mm-current-students" href="/current-students">Current Students <span class="icon-down-arrow"></span></a></div>
+						</li>
+						<li>
+								<div class="ghf-nav-text"><a data-menu="#mm-parents" href="/student-affairs/parents">Parents <span class="icon-down-arrow"></span></a></div>
+						</li>
+						<li>
+								<div class="ghf-nav-text"><a data-menu="#mm-alumni" href="/alumni">Alumni <span class="icon-down-arrow"></span></a></div>
+						</li>
+						<li>
+								<div class="ghf-nav-text"><a data-menu="#mm-faculty-staff" href="/governance/faculty-staff">Faculty &amp; Staff <span class="icon-down-arrow"></span></a></div>
+						</li>
+			</ul>
+		</nav>
+
+		 <!-- MegaMenus() -->
+	<div class="gfh-mega-menus">
+				<div class="ghf-mega-menu" id="mm-prospective-students">
+					<span class="mm-caret"></span>
+					<div class="ghf-mega-menu-content">
+						<div class="ghf-mega-menu-promo">
+							<img src="/-/media/UIdaho-Responsive/Images/home/Global-Headers/3d-tour.jpg" alt="An aerial view of the University of Idaho&#39;s Moscow campus."/>
+							<div class="ghf-mega-menu-promo-text">
+								<h3>Virtual Tour</h3>
+								<p>Experience University of Idaho with a virtual tour.   <a href="/admissions/visit-idaho/virtual-tour">Explore now</a></p>
+							</div>
+						</div>
+
+								<div class="ghf-mega-menu-list">
+										<h3>Explore</h3>
+										<ul>
+													<li><a href="https://uidaho.emsicc.com">Discover a Career</a></li>
+													<li><a href="/degree-finder">Find a Major</a></li>
+													<li><a href="/student-life">Experience U of I Life</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>More Resources</h3>
+										<ul>
+													<li><a href="/admissions/admitted">Admitted Students</a></li>
+													<li><a href="/admissions/international">International Students</a></li>
+													<li><a href="/student-affairs/parents">Parents</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Take Action</h3>
+										<ul>
+													<li><a href="/financial-aid">Find Financial Aid</a></li>
+													<li><a href="/registrar/calendar">View Deadlines</a></li>
+													<li><a href="/admissions/apply/admissions-counselors">Find Your Rep</a></li>
+										</ul>
+								</div>
+
+						<div class="ghf-mega-menu-buttons">
+									<a class="ghf-mega-button" href="/admissions/apply">Apply</a>
+									<a class="ghf-mega-button" href="/admissions/rfi">Request Info</a>
+									<a class="ghf-mega-button" href="/admissions/visit-idaho">Visit</a>
+						</div>
+					</div>
+				</div>
+				<div class="ghf-mega-menu" id="mm-current-students">
+					<span class="mm-caret"></span>
+					<div class="ghf-mega-menu-content">
+						<div class="ghf-mega-menu-promo">
+							<img src="/-/media/UIdaho-Responsive/Images/home/Global-Headers/cs-bikes.jpg" alt="Two students ride down Greek Row in the fall, amid changing leaves."/>
+							<div class="ghf-mega-menu-promo-text">
+								<h3>Title IX</h3>
+								<p>Helping to ensure U of I is a safe and engaging place for students to learn and be successful.  <a href="/ocri/title-nine">Read about Title IX.</a></p>
+							</div>
+						</div>
+
+								<div class="ghf-mega-menu-list">
+										<h3>Get Involved</h3>
+										<ul>
+													<li><a href="/current-students/student-involvement">Clubs &amp; Volunteer Opportunities</a></li>
+													<li><a href="/current-students/recwell">Recreation and Wellbeing</a></li>
+													<li><a href="/current-students/student-involvement/asui">Student Government</a></li>
+													<li><a href="/current-students/sustainability">Student Sustainability Cooperative</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Resources</h3>
+										<ul>
+													<li><a href="/current-students/academic-support">Academic Assistance</a></li>
+													<li><a href="/infrastructure/pss">Safety &amp; Security</a></li>
+													<li><a href="/current-students/career-services">Career Services</a></li>
+													<li><a href="/current-students/health-wellness">Health &amp; Wellness Services</a></li>
+													<li><a href="/ocri/title-nine">Title IX</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Top Links</h3>
+										<ul>
+													<li><a href="/registrar/registration">Register for Classes</a></li>
+													<li><a href="/registrar/calendar">Dates &amp; Deadlines</a></li>
+													<li><a href="/financial-aid">Financial Aid</a></li>
+													<li><a href="/sustainability">Sustainable Solutions</a></li>
+													<li><a href="http://www.lib.uidaho.edu/">U of I Library</a></li>
+										</ul>
+								</div>
+
+						<div class="ghf-mega-menu-buttons">
+									<a class="ghf-mega-button" href="https://canvas.uidaho.edu/">Access Canvas</a>
+									<a class="ghf-mega-button" href="https://vandals.uidaho.edu/?utm_source=vandalmail&amp;utm_medium=button&amp;utm_campaign=saem-global">Check Email</a>
+									<a class="ghf-mega-button" href="https://vandalweb.uidaho.edu/">Log in to VandalWeb</a>
+									<a class="ghf-mega-button" href="https://vandalstar.uidaho.edu/">Log In To VandalStar</a>
+						</div>
+					</div>
+				</div>
+				<div class="ghf-mega-menu" id="mm-parents">
+					<span class="mm-caret"></span>
+					<div class="ghf-mega-menu-content">
+						<div class="ghf-mega-menu-promo">
+							<img src="/-/media/UIdaho-Responsive/Images/home/Global-Headers/parents.jpg" alt="A mother and son stand on the practice field of the ASUI-Kibbie Activity Center."/>
+							<div class="ghf-mega-menu-promo-text">
+								<h3>Upcoming Events</h3>
+								<p>  <a href="/student-affairs/events">Review the events calendar.</a></p>
+							</div>
+						</div>
+
+								<div class="ghf-mega-menu-list">
+										<h3>Stay Connected</h3>
+										<ul>
+													<li><a href="/events">Upcoming Events</a></li>
+													<li><a href="/student-affairs/parents/newsletter">Vandal Family Newsletter</a></li>
+													<li><a href="/news/here-we-have-idaho">Here We Have Idaho Magazine</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Resources</h3>
+										<ul>
+													<li><a href="/financial-aid">Financial Aid</a></li>
+													<li><a href="/student-life/live-on-campus">Living on Campus</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>More Resources</h3>
+										<ul>
+													<li><a href="/student-affairs/parents/safety">Campus Safety </a></li>
+													<li><a href="/about/locations/moscow">About Moscow</a></li>
+										</ul>
+								</div>
+
+						<div class="ghf-mega-menu-buttons">
+									<a class="ghf-mega-button" href="/current-students/student-involvement">Get Involved</a>
+									<a class="ghf-mega-button" href="/student-affairs/dean-of-students">Contact the Dean of Students</a>
+						</div>
+					</div>
+				</div>
+				<div class="ghf-mega-menu" id="mm-alumni">
+					<span class="mm-caret"></span>
+					<div class="ghf-mega-menu-content">
+						<div class="ghf-mega-menu-promo">
+							<img src="/-/media/UIdaho-Responsive/Images/home/Global-Headers/homecoming.jpg" alt="The homecoming fireworks"/>
+							<div class="ghf-mega-menu-promo-text">
+								<h3>Homecoming</h3>
+								<p>The largest Vandal Family reunion of the year.  <a href="/events/signature-events/homecoming">Check dates.</a></p>
+							</div>
+						</div>
+
+								<div class="ghf-mega-menu-list">
+										<h3>Benefits and Services</h3>
+										<ul>
+													<li><a href="/current-students/career-services">Career Services</a></li>
+													<li><a href="/alumni/get-involved/travel">Vandal Voyagers Program</a></li>
+													<li><a href="/alumni/benefits-and-services/vandal-license-plate">Vandal License Plate</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Get Involved</h3>
+										<ul>
+													<li><a href="/alumni/benefits-and-services/class-notes">Submit Class Notes</a></li>
+													<li><a href="/giving">Make a Gift</a></li>
+													<li><a href="/alumni/events">View Events</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Stay Connected</h3>
+										<ul>
+													<li><a href="/alumni/get-involved/chapters">Alumni Chapters</a></li>
+													<li><a href="/news/here-we-have-idaho">University Magazine</a></li>
+													<li><a href="/alumni/benefits-and-services/vibe">Alumni Newsletter</a></li>
+										</ul>
+								</div>
+
+						<div class="ghf-mega-menu-buttons">
+									<a class="ghf-mega-button" href="/alumni/update">Update Your Info</a>
+									<a class="ghf-mega-button" href="/alumni/get-involved/grow-the-gold">Nominate a Future Vandal</a>
+						</div>
+					</div>
+				</div>
+				<div class="ghf-mega-menu" id="mm-faculty-staff">
+					<span class="mm-caret"></span>
+					<div class="ghf-mega-menu-content">
+						<div class="ghf-mega-menu-promo">
+							<img src="/-/media/UIdaho-Responsive/Images/home/Global-Headers/vandalstar.jpg" alt="A student works at a computer"/>
+							<div class="ghf-mega-menu-promo-text">
+								<h3>VandalStar</h3>
+								<p>U of I&#39;s web-based retention and advising tool provides an efficient way to guide and support students on their road to graduation.  <a href="https://vandalstar.uidaho.edu/">Login to VandalStar.</a></p>
+							</div>
+						</div>
+
+								<div class="ghf-mega-menu-list">
+										<h3>Common Tools</h3>
+										<ul>
+													<li><a href="/governance/policy/policies/apm">Administrative Procedures Manual (APM)</a></li>
+													<li><a href="https://canvas.uidaho.edu/">Canvas</a></li>
+													<li><a href="https://bannerssb4.uidaho.edu:8445/StudentRegistrationSsb/ssb/term/termSelection?mode=search">Class Schedule</a></li>
+													<li><a href="https://support.uidaho.edu/TDClient/40/Portal/Home/">OIT Tech Support</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Resources</h3>
+										<ul>
+													<li><a href="/registrar/calendar">Academic Dates &amp; Deadlines</a></li>
+													<li><a href="/governance">Governance</a></li>
+													<li><a href="http://www.lib.uidaho.edu/">U of I Library</a></li>
+													<li><a href="/infrastructure/pss">Safety &amp; Security</a></li>
+										</ul>
+								</div>
+								<div class="ghf-mega-menu-list">
+										<h3>Services</h3>
+										<ul>
+													<li><a href="/governance/faculty-staff/uira">U of I Retirees Association</a></li>
+													<li><a href="/governance/faculty-senate">Faculty Senate</a></li>
+													<li><a href="/governance/staff-council">Staff Council</a></li>
+										</ul>
+								</div>
+
+						<div class="ghf-mega-menu-buttons">
+									<a class="ghf-mega-button" href="http://mail.uidaho.edu">Access Email</a>
+									<a class="ghf-mega-button" href="https://vandalweb.uidaho.edu/">Access VandalWeb</a>
+									<a class="ghf-mega-button" href="/human-resources">Visit Human Resources</a>
+						</div>
+					</div>
+				</div>
+	</div>
+  
+	</div>
+  
+
+    <div class="ghf-small-search">
+        <input type="search" placeholder="Search..." />
+        <div class="ghf-search-button icon-magnifying-glass"></div>
+    </div>
+    <div class="ghf-auxillary-nav-wrapper">
+        <div class="ghf-auxillary-nav-inner">
+            <nav class="ghf-secondary-nav">
+                <ul>
+                            <li><a href="/academics">Academics</a></li>
+                            <li><a href="/admissions">Admissions</a></li>
+                            <li><a href="/student-life">Student Life</a></li>
+                            <li><a href="/research">Research</a></li>
+                            <li><a href="/outreach">Outreach</a></li>
+                            <li><a href="/about">About</a></li>
+                            <li><a href="/president">Leadership</a></li>
+                </ul>
+            </nav>
+            <nav class="ghf-tertiary-nav">
+                <ul>
+                            <li><a href="/diversity">Diversity</a></li>
+                            <li><a href="http://govandals.com/">Athletics</a></li>
+                            <li><a href="/events">Events</a></li>
+                            <li><a href="/news">News</a></li>
+                            <li><a href="https://directory.uidaho.edu/">Directory</a></li>
+                            <li><a href="/az-index">A - Z</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</header>
+
+<div class="ui-obj-mobile-nav">
+	<nav>
+		<ul class="ghf-mobilenav-primary">
+					<li>
+							<a href="/admissions">Prospective Students</a>
+					</li>
+					<li>
+							<a href="/current-students">Current Students</a>
+					</li>
+					<li>
+							<a href="/student-affairs/parents">Parents</a>
+					</li>
+					<li>
+							<a href="/alumni">Alumni</a>
+					</li>
+					<li>
+							<a href="/governance/faculty-staff">Faculty &amp; Staff</a>
+					</li>
+		</ul>
+
+		
+		<div class="ghf-mobilenav-secondary">
+			<div class="ghf-secondary-nav-group">
+				<h3>Topic Areas</h3>
+				<ul>
+									<li><a href="/academics">Academics</a></li>
+									<li><a href="/admissions">Admissions</a></li>
+									<li><a href="/student-life">Student Life</a></li>
+									<li><a href="/research">Research</a></li>
+									<li><a href="/outreach">Outreach</a></li>
+									<li><a href="/about">About</a></li>
+									<li><a href="/president">Leadership</a></li>
+				</ul>
+			</div>
+			<div class="ghf-secondary-nav-group">
+				<h3>Resources</h3>
+				<ul>
+									<li><a href="/diversity">Diversity</a></li>
+									<li><a href="http://govandals.com/">Athletics</a></li>
+									<li><a href="/events">Events</a></li>
+									<li><a href="/news">News</a></li>
+									<li><a href="https://directory.uidaho.edu/">Directory</a></li>
+									<li><a href="/az-index">A - Z</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+</div>
+
+
+<!-- Placeholder( "emergency" ) -->
+
+
+
+
+
+<div id="content">
+	<!-- Placeholder( "body" ) -->
+		
+<div class="ui-universal-home-page ui-page">
+    <div class="ui-page-title">
+        <div class="ui-contain">
+            <h2>404</h2>
+        </div>
+    </div>
+
+    <style type="text/css">
+        
+    </style>
+
+    <div class="obj-basic-column">
+        <div class="ui-page-wrapper-inner">
+	<div id="ui-404" class="custom-content">
+		<div class="row">
+			<div class="col-xs-12 col-sm-9 help-banner">
+				<img class="joe-banner" class="img-responsive" alt="Whoops! It's a 404" src="/~/media/98C92527AEFB4D5C92FF9970836FC3FB.ashx" />
+				<p>The page or item you requested doesn't exist at this location.</p>
+			</div>
+			<div class="col-xs-12 col-sm-2 col-sm-offset-1">
+				<div class="row help-btn-container">
+					<div class="col-xs-4 col-sm-12">
+						<a class="help-btn-az" href="https://www.uidaho.edu/azindex">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 163.63 111.72"><title>a-z</title><path d="M159.54,0,38.53.05h-3l-.9,2.84-33,103.5L0,111.72H43.64l.85-3L48,96.64H64.26l3.48,12.13.85,3h94.33v-41H132.84l30-43,.74-1.05V0Zm0,25.44L125,74.83h33.83v32.81H71.66L67.33,92.56H44.89l-4.33,15.08h-35l33-103.51,121,0ZM36.77,102.6,41.1,87.52h30l4.33,15.08h78.35V79.86H115.35l39.16-56V9.12h-71V31h37.34L91.93,72.46l-5.7-18.08h-18V40.31H81.79l4.44,14.07h14V40.31H81.79L72,9.17H42.22L12.47,102.6ZM56,36h.28L66,69.78H46.27Z" style="fill:#f1b300"/></svg>
+							<p>A-Z Index</p>
+						</a>
+					</div>
+					<div class="col-xs-4 col-sm-12">
+						<a class="help-btn-directory" href="https://directory.uidaho.edu">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115.51 112"><title>directory</title><path d="M106.36,9.16H9.16v93.68h97.2ZM41.07,87H25.55V73.85H41.07Zm0-24.44H25.55V49.4H41.07Zm0-24.45H25.55V25H41.07ZM90,87H46.5V73.85H90ZM90,62.6H46.5V49.4H90Zm0-24.45H46.5V25H90ZM111.41,0H0V112H115.51V0Zm0,107.9H4.1V4.1H111.41Z" style="fill:#f1b300"/></svg>
+							<p>Directory</p>
+						</a>
+					</div>
+					<div class="col-xs-4 col-sm-12">
+						<a class="help-btn-search" href="https://www.uidaho.edu/search">
+							<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 111.02 111.67"><title>search</title><path d="M68.72,0A42.28,42.28,0,0,0,30.55,60.49L2.66,88.39,0,91,2.66,93.7,18,109l2.65,2.66L23.28,109,51.41,80.88A42.29,42.29,0,1,0,68.72,0Zm0,80.83a38.4,38.4,0,0,1-18.07-4.5l-30,30L5.31,91,35.15,61.2a38.53,38.53,0,1,1,72.11-18.91A38.58,38.58,0,0,1,68.72,80.83Zm0-72.44A33.9,33.9,0,0,0,41.05,61.86L11.87,91l8.75,8.76L49.93,70.5A33.9,33.9,0,1,0,68.72,8.39Zm0,52.78A18.88,18.88,0,1,1,87.6,42.29,18.87,18.87,0,0,1,68.72,61.17Z" style="fill:#f1b300"/></svg>
+							<p>Search</p>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+    </div>
+
+</div>
+
+</div>
+
+<!-- Placeholder( "footer" ) -->
+
+
+
+
+<footer class="ui-obj-footer">
+    <div class="ghf-global-footer-inner">
+        
+        <ul class="ghf-social">
+                <li><a class="ghf-facebook icon-facebook" data-network="Facebook" href="https://www.facebook.com/uidaho"><span class="sr-only">Facebook</span></a></li>
+                <li><a class="ghf-twitter icon-twitter" data-network="Twitter" href="https://twitter.com/uidaho"><span class="sr-only">Twitter</span></a></li>
+                <li><a class="ghf-instagram icon-instagram" data-network="instagram" href="http://instagram.com/uidaho"><span class="sr-only">Instagram</span></a></li>
+                <li><a class="ghf-youtube icon-youtube" data-network="YouTube" href="https://www.youtube.com/user/uidahovideo"><span class="sr-only">YouTube</span></a></li>
+                <li><a class="ghf-linkedin icon-linkedin" data-network="linkedin" href="https://www.linkedin.com/school/10313"><span class="sr-only">LinkedIn</span></a></li>
+        </ul>
+        
+        
+        <nav>
+            <ul>
+                        <li><a href="/">U of I Home</a></li>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/academics">Academics</a></li>
+                        <li><a href="/admissions">Admissions</a></li>
+                        <li><a href="/events/arts">Arts</a></li>
+                        <li><a href="http://govandals.com/">Athletics</a></li>
+                        <li><a href="/diversity">Diversity</a></li>
+                        <li><a href="/events">Events</a></li>
+                        <li><a href="/governance">Governance</a></li>
+                        <li><a href="/outreach">Outreach</a></li>
+                        <li><a href="/governance/policy/policies/privacy-statement">Privacy</a></li>
+                        <li><a href="/research">Research</a></li>
+                        <li><a href="/student-life">Student Life</a></li>
+                        <li><a href="/brand/ucm/web-and-digital/web-accessibility">Web Accessibility</a></li>
+            </ul>
+        </nav>
+
+        <address>
+            875 Perimeter Drive | Moscow, ID 83844<br />
+p. 208-885-6111 | <a href="mailto:info@uidaho.edu">info@uidaho.edu</a><br />
+        </address>
+        <p class="ghf-copyright">
+            &#169; 2023 University of Idaho All Rights Reserved.
+        </p>
+    </div>
+</footer>
+
+
+
+
+
+
+
+  
+
+
+</div>
+						
+
+
+<script src="/bundles/common?v=BudEFDSRKsa7Yi6X3cqyJqq8s76anJ1Sgq5BHXdOjZY1"></script>
+
+
+<script>
+	// Configure RequireJS, for .Design.JavaScript.RequireJS.  -CMA 191122.
+	requirejs.config({
+		baseUrl: '/Scripts/',
+		bundles: {
+				'/bundles/common?v=BudEFDSRKsa7Yi6X3cqyJqq8s76anJ1Sgq5BHXdOjZY1': [
+						'jquery',
+						'objects/*',
+						'plugins/*'
+				]
+		},
+		paths: {
+				bootstrap: "/Scripts/bootstrap.min",
+				order: '/Scripts/order.min',
+				vimeo: '//f.vimeocdn.com/js/froogaloop2.min',
+
+				// Make some scripts available to page-content JavaScript, for 
+				// .Spec.ContentFeatures.JavaScriptSupport.  Note that this [paths] 
+				// property does not cause these scripts to be *loaded*; that happens 
+				// only if page content calls require( [ "module_name" ], ... ).
+				// -CMA 230208.
+
+				Uid_CanvasModule: "/Scripts/External/CanvasJs/canvasjs.min", 
+
+				Uid_SlickModule:
+						"//cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min", 
+
+				// Note, the "youtube" module name defined here is referenced by
+				// *data*, not code.  Our Sitecore Video items can specify this module 
+				// name in their "Source" field; then our Components\Video.cshtml 
+				// "requires" the module specified by that "Source" field.  
+				// -CMA 210603.
+				youtube: "//www.youtube.com/player_api?noext",
+
+		},
+		shim: {
+				bootstrap: ['jquery'],
+				vimeo: { exports: '$f' },
+				youtube: { exports: 'YT' }
+		}
+	});
+
+	// Load generally required scripts for .Design.JavaScript.RequireJS, as 
+	// well as scripts from paths added to UIdaho.q, for 
+	// .Design.JavaScript.UIdahoObject.  -CMA 191122.
+
+	var requiredScripts = 
+                [ 'order!jquery', 'order!bootstrap', 'order!objects/global' ];
+
+	require(requiredScripts.concat(UIdaho.q));
+</script>
+
+
+
+
+<script>
+		// Facebook's script which we load below uses the window.fbAsyncInit value 
+		// we set here.  -CMA 210824.
+		window.fbAsyncInit = function () {
+			FB.init( { appId: '710401015743819', xfbml: true, version: 'v2.2' } );
+		};
+
+		// This IIFE loads the Facebook API into <script id="facebook-jssdk">, 
+		// which it creates if necessary.  -CMA 190605.
+		(function (d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) { return; }
+				js = d.createElement(s); js.id = id;
+				js.src = "//connect.facebook.net/en_US/sdk.js";
+				fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));
+</script>
+<script>
+	window.twttr = (function (d, s, id) { 
+		var js, fjs = d.getElementsByTagName(s)[0], t = window.twttr || {}; 
+		if (d.getElementById(id)) return; 
+		js = d.createElement(s); 
+		js.id = id; 
+		js.src = "https://platform.twitter.com/widgets.js"; 
+		fjs.parentNode.insertBefore(js, fjs); t._e = []; 
+		t.ready = function (f) { t._e.push(f); }; 
+		return t; 
+	}(document, "script", "twitter-wjs"));
+</script>
+
+
+
+
+
+
+</body>
+
+
+
+
+
+  
+
+
+</html>

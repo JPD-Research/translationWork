@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Christo and Jeanne-Claude</title>
+    <meta
+      data-vue-meta="1"
+      name="description"
+      content="Official website of artists Christo and Jeanne-Claude. Features photographs and texts about all major projects, early works, and works in progress. Includes biographical and bibliographical information as well as past, current, and upcoming exhibitions."
+    />
+    <meta
+      data-vue-meta="1"
+      name="keywords"
+      content="Christo, Jeanne-Claude, Javacheff, Artist, Wrapping, Wrapped, Installation, Land Art, Environmental Art, Nouveau Réalisme, Nouveaux Réalistes"
+    />
+    <script
+      defer
+      src="https://www.googletagmanager.com/gtag/js?id=G-2MH9KXFKL7"
+    ></script>
+    <script defer src="/ga.js"></script>
+    <link rel="icon" href="/favicon.ico" />
+    <link
+      href="/css/chunk-02dfdcac.1125719e.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/chunk-057999f7.729e1ba9.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/chunk-0a0e1bbc.234123db.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/chunk-18a11763.bf68f5c5.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/chunk-204d5dda.3d6de060.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/chunk-6144bec6.81c2dfd8.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/chunk-c10d21e6.b64e00ed.css"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-02dfdcac.f07ad258.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-057999f7.e6fa325d.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-0a0e1bbc.755ac1e4.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-18a11763.60861de0.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-204d5dda.f6f80996.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-2d21a3d2.e050b5e2.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-6144bec6.12df5263.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-c10d21e6.07b7c3b3.js"
+      rel="prefetch"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/app.a2b0738e.css"
+      rel="preload"
+      as="style"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/app.4b0b790a.js"
+      rel="modulepreload"
+      as="script"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/js/chunk-vendors.d2ddf2cd.js"
+      rel="modulepreload"
+      as="script"
+      crossorigin="anonymous"
+    />
+    <link
+      href="/css/app.a2b0738e.css"
+      rel="stylesheet"
+      crossorigin="anonymous"
+    />
+    <style>
+      .ADT {
+        display: none;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      <strong>
+        We're sorry but this Website doesn't work properly without JavaScript
+        enabled. Please enable it to continue.
+      </strong>
+    </noscript>
+    <div id="app"></div>
+    <script
+      type="module"
+      src="/js/chunk-vendors.d2ddf2cd.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      type="module"
+      src="/js/app.4b0b790a.js"
+      crossorigin="anonymous"
+    ></script>
+    <script>
+      !(function () {
+        var e = document,
+          t = e.createElement("script");
+        if (!("noModule" in t) && "onbeforeload" in t) {
+          var n = !1;
+          e.addEventListener(
+            "beforeload",
+            function (e) {
+              if (e.target === t) n = !0;
+              else if (!e.target.hasAttribute("nomodule") || !n) return;
+              e.preventDefault();
+            },
+            !0
+          ),
+            (t.type = "module"),
+            (t.src = "."),
+            e.head.appendChild(t),
+            t.remove();
+        }
+      })();
+    </script>
+    <script
+      src="/js/chunk-vendors-legacy.b8234986.js"
+      crossorigin="anonymous"
+      nomodule
+    ></script>
+    <script
+      src="/js/app-legacy.ec14db71.js"
+      crossorigin="anonymous"
+      nomodule
+    ></script>
+  </body>
+</html>

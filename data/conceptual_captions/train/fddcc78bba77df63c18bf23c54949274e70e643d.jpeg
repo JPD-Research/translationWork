@@ -1,0 +1,518 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+
+    
+    
+    
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="profile" href="https://gmpg.org/xfn/11" />
+
+
+   
+    
+<link rel="icon" href="https://awe365.com/wp-content/themes/awenewtheme/images/favicon.ico" />
+
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+		.sub-menu-show{display:block !important;}
+        .more {display: none;}
+    </style>
+    <script>
+    function myFunction(counter) {
+      var dots = document.getElementById("dots_"+counter);
+      var moreText = document.getElementById("more_"+counter);
+      var btnText = document.getElementById("myBtn_"+counter);
+
+      if (dots.style.display === "none") {
+        dots.style.display = "inline";
+        //btnText.innerHTML = "More";
+        moreText.style.display = "none";
+      } else {
+        dots.style.display = "none";
+        //btnText.innerHTML = "Less";
+        moreText.style.display = "inline";
+      }
+    }
+
+    function showMobileSearch(){
+        $("#mobile-search-blok").toggle();
+    }
+    </script>
+    <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.11 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Page Not Found - AWE365</title><link rel="preload" href="https://awe365.com/wp-content/uploads/2019/07/logo.png" as="image" /><link rel='preload' href='https://awe365.com/wp-content/uploads/2022/07/Poppins.woff2' as='font' type='font/woff2' crossorigin><link rel='preload' href='https://awe365.com/wp-content/uploads/2022/07/RobotoCondensed.woff2' as='font' type='font/woff2' crossorigin><link rel='preload' href='https://awe365.com/wp-content/uploads/2022/07/dashicons.woff' as='font' type='font/woff' crossorigin>
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:title" content="Page Not Found - AWE365" />
+	<meta property="og:site_name" content="AWE365" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://awe365.com/#website","url":"https://awe365.com/","name":"AWE365","description":"Awe inspiring adventures everyday","publisher":{"@id":"https://awe365.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://awe365.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https://awe365.com/#organization","name":"AWE365","url":"https://awe365.com/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https://awe365.com/#/schema/logo/image/","url":"https://awe365.com/wp-content/uploads/2020/04/AWE365-cropped.jpg","contentUrl":"https://awe365.com/wp-content/uploads/2020/04/AWE365-cropped.jpg","width":663,"height":176,"caption":"AWE365"},"image":{"@id":"https://awe365.com/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="AWE365 &raquo; Feed" href="https://awe365.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="AWE365 &raquo; Comments Feed" href="https://awe365.com/comments/feed/" />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:"0 0 1em 0"}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://awe365.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='bootsnav-css' href='https://awe365.com/wp-content/themes/awenewtheme/css/bootsnav.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://awe365.com/wp-content/themes/awenewtheme/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='styles-css' href='https://awe365.com/wp-content/themes/awenewtheme/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='megamenu-css' href='https://awe365.com/wp-content/uploads/maxmegamenu/style.css?ver=307781' type='text/css' media='all' />
+<link rel='stylesheet' id='searchwp-forms-css' href='https://awe365.com/wp-content/plugins/searchwp/assets/css/frontend/search-forms.css?ver=4.3.5' type='text/css' media='all' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(https://cdn.statically.io/img/awe365.com/wp-content/plugins/wp-rocket/assets/img/youtube.png?quality=100) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}.wp-embed-responsive .wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0}
+</style>
+<script type='text/javascript' src='https://awe365.com/wp-content/themes/awenewtheme/js/jquery.min.js' id='jquery-min-js'></script>
+<script type="text/javascript" id="jqueryui-js" data-pmdelayedscript="https://awe365.com/wp-content/themes/awenewtheme/js/jquery-ui.min.js" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1" data-rocketlazyloadscript="1"></script>
+<script type="text/javascript" id="bootstrapjs-js" data-pmdelayedscript="https://awe365.com/wp-content/themes/awenewtheme/js/bootstrap.min.js" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1" data-rocketlazyloadscript="1"></script>
+<link rel="https://api.w.org/" href="https://awe365.com/wp-json/" />				<style type="text/css" id="cst_font_data">
+					@font-face {font-family: "Dashicons";font-display: swap;font-fallback: ;font-weight: 400;src: url(https://awe365.com/wp-content/uploads/2022/07/dashicons.woff) format('woff'), url(https://awe365.com/wp-content/uploads/2022/07/dashicons.ttf) format('TrueType');} @font-face {font-family: "Poppins";font-display: swap;font-fallback: San-serif;font-weight: 400;src: url(https://awe365.com/wp-content/uploads/2022/07/Poppins.woff2) format('woff2'), url(https://awe365.com/wp-content/uploads/2022/07/Poppins.woff) format('woff');} @font-face {font-family: "Roboto Condensed";font-display: swap;font-fallback: San-serif;font-weight: 700;src: url(https://awe365.com/wp-content/uploads/2022/07/RobotoCondensed.woff2) format('woff2'), url(https://awe365.com/wp-content/uploads/2022/07/RobotoCondensed.woff) format('woff'), url(https://awe365.com/wp-content/uploads/2022/07/RobotoCondensed.ttf) format('TrueType');}				</style>
+				<link rel="dns-prefetch" href="https://cdn.statically.io/" >
+<link rel="preconnect" href="https://cdn.statically.io/" crossorigin>
+        
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3CN9SK97MY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3CN9SK97MY');
+</script>
+<!-- Analytics by WP Statistics v13.2.8 - https://wp-statistics.com/ -->
+<script>
+                let WP_Statistics_Dnd_Active = parseInt(navigator.msDoNotTrack || window.doNotTrack || navigator.doNotTrack, 10);                
+                if (WP_Statistics_Dnd_Active !== 1) {
+                    var WP_Statistics_http = new XMLHttpRequest();
+                    WP_Statistics_http.open("GET", "https://awe365.com/wp-json/wp-statistics/v2/hit?wp_statistics_hit_rest=yes&exclusion_match=yes&exclusion_reason=CrawlerDetect&track_all=0&current_page_type=404&current_page_id=0&search_query&page_uri=/content/uploads/2013/03/Overland-adventures-US-route-50-in-Nevada-one-of-the-3-loneliest-roads-in-the-world-Wikimedia-commons-image-by-Ron-Reiring-680x400.jpg" + "&referred=" + encodeURIComponent(document.referrer) + "&_=" + Date.now(), true);
+                    WP_Statistics_http.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
+                    WP_Statistics_http.send(null);
+                }
+            </script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://awe365.com/wp-content/uploads/2020/04/AWE365-emblem-200x200-1-100x100.jpg" sizes="32x32" />
+<link rel="icon" href="https://awe365.com/wp-content/uploads/2020/04/AWE365-emblem-200x200-1.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://awe365.com/wp-content/uploads/2020/04/AWE365-emblem-200x200-1.jpg" />
+<meta name="msapplication-TileImage" content="https://awe365.com/wp-content/uploads/2020/04/AWE365-emblem-200x200-1.jpg" />
+<style type="text/css">/** Mega Menu CSS: fs **/</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body class="error404 wp-custom-logo wp-embed-responsive theme-awenewtheme woocommerce-no-js mega-menu-top">
+
+    <header>
+        <div class="container">
+            <div class="col-md-4 col-sm-12 col-xs-12 logoblok">
+                <a href="https://awe365.com" class="logo"><img data-perfmatters-preload src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" sizes="(max-width: 202px) 100vw, 202px" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/uploads/2019/07/logo.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/awe365.com/wp-content/uploads/2019/07/logo.png?w=202&quality=100&f=auto 202w,
+"></a>
+                <a href="javascript:void(0)" onclick="myFunction(1)" id="myBtn_1" class="search_mobile"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" width="16" height="16" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/search-icon.png?quality=100&f=auto"></a>
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                    <i class="fa fa-bars"></i> <span class="flt-r">MENU</span>
+                </button>
+                </div>
+            </div>
+
+
+            <div class="col-md-8 col-sm-12 col-xs-12 top-lowblok">
+                <div class="col-md-3 col-sm-3 col-xs-12 social">
+                                <a href="https://www.facebook.com/AWE365/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/1.png?quality=100&f=auto" ></a>
+                                <a href="https://twitter.com/AWE365" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/2.png?quality=100&f=auto" ></a>
+                                <a href="https://www.linkedin.com/groups/3798645" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/3.png?quality=100&f=auto" ></a>
+                                <a href="https://www.instagram.com/awe365/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/4.png?quality=100&f=auto" ></a>
+                                <a href="https://www.pinterest.co.uk/awe365/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/5.png?quality=100&f=auto" ></a>
+                                </div>
+                <div class="col-md-5 col-sm-5 col-xs-12 searchbloktop-desktop">
+                    <div class="search">
+                        <form role="search" method="get" id="searchform" class="searchform" action="https://awe365.com">
+                        <input type="text" value="" name="s" id="s" placeholder="Search">
+                        <input type="submit" id="searchsubmit" value="Search">
+                        </form>
+
+                                            </div>
+                </div>
+                <div class="col-md-5 col-sm-5 col-xs-12 mobile_only searchbloktop-mobile">
+                    <div class="search">
+                        <form role="search" method="get" id="searchform" class="searchform" action="https://awe365.com">
+
+                        <a href="javascript:" onclick="showMobileSearch()"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" width="16" height="16" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/search-icon.png?quality=100&f=auto"></a>
+
+                        <div class="mobile-search-blok" id="mobile-search-blok">
+                            <input type="text" value="" name="s" id="s" placeholder="Search">
+                            <input type="submit" id="searchsubmit" value="Search">
+                        </div>
+
+                        </form>
+
+
+
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-4 col-xs-12 no-padding topbuttonblok">
+                                    <a href="https://awe365.com/login/" class="login"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/login-icon.png?quality=100&f=auto"> Login</a>
+                    <a href="https://awe365.com/registration/" class="register"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/register-icon.png?quality=100&f=auto"> Register</a>
+                    
+                </div>
+            </div>
+
+
+            <span id="dots_1"></span>
+            <span class="more" id="more_1">
+
+            <div id="mobile_search" class="col-md-12 col-sm-12 col-xs-12 mobile_only">
+                <form role="search" method="get" id="searchform" class="searchform" action="https://awe365.com">
+                <div class="col-md-8 col-sm-8 col-xs-8 no-padding">
+                    <input type="text" value="" name="s" id="s" placeholder="Search">
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-4">
+                    <input type="submit" value="search">
+                </div>
+                </form>
+            </div>
+
+            </span>
+        </div>
+        <div class="col-md-12 col-sm-12 col-xs-12 top_nav">
+            <div class="container">
+                <nav class="navbar bootsnav">
+
+                    <div class="collapse navbar-collapse" id="navbar-menu">
+
+                        <div id="mega-menu-wrap-top" class="mega-menu-wrap"><div class="mega-menu-toggle"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1' tabindex='0'><span class='mega-toggle-label' role='button' aria-expanded='false'><span class='mega-toggle-label-closed'>MENU</span><span class='mega-toggle-label-open'>MENU</span></span></div></div></div><ul id="mega-menu-top" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="0" data-mobile-force-width="false" data-second-click="go" data-document-click="collapse" data-vertical-behaviour="accordion" data-breakpoint="767" data-unbind="false" data-mobile-state="collapse_all" data-hover-intent-timeout="300" data-hover-intent-interval="100"><li class='mega-sociallink_mobile mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-110194 sociallink_mobile' id='mega-menu-item-110194'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Social Links<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-110194-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-4-of-12' id='mega-menu-110194-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-widget widget_custom_html mega-menu-item-custom_html-2' id='mega-menu-item-custom_html-2'><div class="textwidget custom-html-widget"><div class="social"><a href="https://www.facebook.com/AWE365/" target="_blank" rel="noopener"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/1.png?quality=100&f=auto"></a><a href="https://twitter.com/AWE365" target="_blank" rel="noopener"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/2.png?quality=100&f=auto"></a><a href="https://www.linkedin.com/groups/3798645" target="_blank" rel="noopener"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/3.png?quality=100&f=auto"></a><a href="https://www.instagram.com/awe365/" target="_blank" rel="noopener"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/4.png?quality=100&f=auto"></a><a href="https://www.pinterest.co.uk/awe365/" target="_blank" rel="noopener"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/5.png?quality=100&f=auto"></a><div class="login_mobile_only"><a href="https://awe365.com/login/" class="login"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/login-icon.png?quality=100&f=auto"> Login</a><a href="https://awe365.com/registration/" class="register"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/register-icon.png?quality=100&f=auto"> Register</a></div></div></div></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-109231' id='mega-menu-item-109231'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Activities<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-109231-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-109231-0-0'></li>	</ul>
+</li><li class='mega-menu-row' id='mega-menu-109231-1'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109231-1-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110772' id='mega-menu-item-110772'><a class="mega-menu-link" href="/activity/bungee-jumping/">Bungee Jumping</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109314' id='mega-menu-item-109314'><a class="mega-menu-link" href="/activity/camping/">Camping</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109316' id='mega-menu-item-109316'><a class="mega-menu-link" href="/activity/cycling/">Cycling</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109322' id='mega-menu-item-109322'><a class="mega-menu-link" href="/activity/kayaking/">Kayaking</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109310' id='mega-menu-item-109310'><a class="mega-menu-link" href="/activity/kitesurfing/">Kitesurfing</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109312' id='mega-menu-item-109312'><a class="mega-menu-link" href="/activity/mountain-biking/">Mountain Biking</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109231-1-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110771' id='mega-menu-item-110771'><a class="mega-menu-link" href="/activity/mountaineering/">Mountaineering</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109319' id='mega-menu-item-109319'><a class="mega-menu-link" href="/activity/multi-activity/">Multi Activity</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109317' id='mega-menu-item-109317'><a class="mega-menu-link" href="/activity/overlanding/">Overlanding</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109320' id='mega-menu-item-109320'><a class="mega-menu-link" href="/activity/paragliding/">Paragliding</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110767' id='mega-menu-item-110767'><a class="mega-menu-link" href="/activity/rafting/">Rafting</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109313' id='mega-menu-item-109313'><a class="mega-menu-link" href="/activity/rock-climbing/">Rock Climbing</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109231-1-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109321' id='mega-menu-item-109321'><a class="mega-menu-link" href="/activity/hiking/">Hiking</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110768' id='mega-menu-item-110768'><a class="mega-menu-link" href="/activity/sailing/">Sailing</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109323' id='mega-menu-item-109323'><a class="mega-menu-link" href="/activity/scuba-diving/">Scuba Diving</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109324' id='mega-menu-item-109324'><a class="mega-menu-link" href="/activity/skiing/">Skiing</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109311' id='mega-menu-item-109311'><a class="mega-menu-link" href="/activity/skydiving/">Skydiving</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110765' id='mega-menu-item-110765'><a class="mega-menu-link" href="/activity/snowboarding/">Snowboarding</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109231-1-3'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110770' id='mega-menu-item-110770'><a class="mega-menu-link" href="/activity/snowkiting/">Snowkiting</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110773' id='mega-menu-item-110773'><a class="mega-menu-link" href="/activity/sup/">SUP</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109315' id='mega-menu-item-109315'><a class="mega-menu-link" href="/activity/surfing/">Surfing</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109325' id='mega-menu-item-109325'><a class="mega-menu-link" href="/activity/trekking/">Trekking</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110769' id='mega-menu-item-110769'><a class="mega-menu-link" href="/activity/wakeboarding/">Wakeboarding</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109318' id='mega-menu-item-109318'><a class="mega-menu-link" href="/activity/windsurfing/">Windsurfing</a></li>		</ul>
+</li>	</ul>
+</li><li class='mega-menu-row' id='mega-menu-109231-2'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-{font-weight:bold; mega-font-size:26px} mega-menu-columns-3-of-12 {font-weight:bold; font-size:26px}' id='mega-menu-109231-2-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110766' id='mega-menu-item-110766'><a class="mega-menu-link" href="/activities/">View all 85+ activities</a></li>		</ul>
+</li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-menu-megamenu mega-align-bottom-left mega-menu-grid mega-menu-item-109232' id='mega-menu-item-109232'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">Destinations<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-row' id='mega-menu-109232-0'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109232-0-0'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109326' id='mega-menu-item-109326'><a class="mega-menu-link" href="/destination/africa/">Africa</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109327' id='mega-menu-item-109327'><a class="mega-menu-link" href="/destination/antarctica/">Antarctica</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110774' id='mega-menu-item-110774'><a class="mega-menu-link" href="/destination/arctic/">Arctic</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109232-0-1'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109328' id='mega-menu-item-109328'><a class="mega-menu-link" href="/destination/asia/">Asia</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110775' id='mega-menu-item-110775'><a class="mega-menu-link" href="/destination/oceania/">Oceania</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109337' id='mega-menu-item-109337'><a class="mega-menu-link" href="/destination/caribbean/">Caribbean</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109232-0-2'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109330' id='mega-menu-item-109330'><a class="mega-menu-link" href="/destination/central-america/">Central America</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109336' id='mega-menu-item-109336'><a class="mega-menu-link" href="/destination/europe/">Europe</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-109335' id='mega-menu-item-109335'><a class="mega-menu-link" href="/destination/middle-east/">Middle East</a></li>		</ul>
+</li><li class='mega-menu-column mega-menu-column-a mega-menu-columns-3-of-12 menu-column-a' id='mega-menu-109232-0-3'>
+		<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110776' id='mega-menu-item-110776'><a class="mega-menu-link" href="/destination/north-america/">North America</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110777' id='mega-menu-item-110777'><a class="mega-menu-link" href="/destination/south-america/">South America</a></li>		</ul>
+</li>	</ul>
+</li><li class='mega-menu-row' id='mega-menu-109232-1'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-109232-1-0'></li>	</ul>
+</li><li class='mega-menu-row' id='mega-menu-109232-2'>
+	<ul class="mega-sub-menu">
+<li class='mega-menu-column mega-menu-columns-3-of-12' id='mega-menu-109232-2-0'></li>	</ul>
+</li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-109271' id='mega-menu-item-109271'><a class="mega-menu-link" href="/category/holidays/" tabindex="0">Holidays</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-109272' id='mega-menu-item-109272'><a class="mega-menu-link" href="/category/courses/" tabindex="0">Courses</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-109273' id='mega-menu-item-109273'><a class="mega-menu-link" href="/category/experiences/" tabindex="0">Experiences</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-109274' id='mega-menu-item-109274'><a class="mega-menu-link" href="/category/accommodation/" tabindex="0">Accommodation</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-109275' id='mega-menu-item-109275'><a class="mega-menu-link" href="/category/discounts/" tabindex="0">Discounts</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-has-children mega-align-bottom-left mega-menu-flyout mega-menu-item-130650' id='mega-menu-item-130650'><a class="mega-menu-link" href="#" aria-haspopup="true" aria-expanded="false" tabindex="0">About<span class="mega-indicator"></span></a>
+<ul class="mega-sub-menu">
+<li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-110044' id='mega-menu-item-110044'><a class="mega-menu-link" href="https://awe365.com/about/">About Us</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-110043' id='mega-menu-item-110043'><a class="mega-menu-link" href="/advertise-for-free/">Advertise</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-110808' id='mega-menu-item-110808'><a class="mega-menu-link" href="https://awe365.com/content-marketing/">Content Marketing</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-110809' id='mega-menu-item-110809'><a class="mega-menu-link" href="https://awe365.com/page-sponsorship/">Page sponsorship</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-110041' id='mega-menu-item-110041'><a class="mega-menu-link" href="https://awe365.com/contact-us/">Contact Us</a></li><li class='mega-menu-item mega-menu-item-type-post_type mega-menu-item-object-page mega-menu-item-110810' id='mega-menu-item-110810'><a class="mega-menu-link" href="https://awe365.com/action-sport-adventure-travel-copywriting-service/">Copywriting service</a></li></ul>
+</li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-109270' id='mega-menu-item-109270'><a class="mega-menu-link" href="/category/blog/" tabindex="0">Blog</a></li></ul></div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        </header>
+   
+
+    <div class="col-md-12 col-sm-12 col-xs-12 enquiry">
+        <div class="container">
+            <h2>404!</h2>
+            <p>Page not found.</p>
+            
+        </div>
+    </div>
+    
+
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 no-padding mobile_only">
+                    <div class="col-md-2 col-sm-6 col-xs-12">
+                        <div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-110056" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110056"><a href="/activities/">Activities</a></li>
+<li id="menu-item-110057" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110057"><a href="/destinations/">Destinations</a></li>
+<li id="menu-item-110058" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110058"><a href="/tags/">Tags</a></li>
+</ul></div>                    </div>
+                    <div class="col-md-2 col-sm-6 col-xs-12">
+                        <div class="menu-footer-menu-2-container"><ul id="menu-footer-menu-2" class="menu"><li id="menu-item-110059" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110059"><a href="/category/holidays/">Holidays</a></li>
+<li id="menu-item-110060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110060"><a href="/category/courses/">Courses</a></li>
+<li id="menu-item-110061" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110061"><a href="/category/experiences/">Experiences</a></li>
+<li id="menu-item-110062" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110062"><a href="/category/accommodation/">Accommodation</a></li>
+<li id="menu-item-110063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110063"><a href="/category/discounts/">Discounts</a></li>
+<li id="menu-item-110064" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110064"><a href="/category/blog/">Blog</a></li>
+</ul></div>                    </div>
+                </div>
+                <div class="col-md-2 col-sm-2 col-xs-6">
+                    <!--<ul class="last">
+                        <li><a href="#">Advertise</a></li>
+                        <li><a href="https://awe365.com/about/">About us</a></li>
+                        <li><a href="https://awe365.com/contact-us/">Contact Us</a></li>
+                                            <li><a href="https://awe365.com/registration/">Register</a></li>
+                        <li><a href="https://awe365.com/login/">Login</a></li>
+                                            </ul>-->
+                    <div class="menu-footer-menu-3-container"><ul id="menu-footer-menu-3" class="menu"><li id="menu-item-110071" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110071"><a href="https://awe365.com/advertise-for-free/">Advertise</a></li>
+<li id="menu-item-110066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110066"><a href="/about/">About Us</a></li>
+<li id="menu-item-110067" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110067"><a href="/contact-us/">Contact</a></li>
+<li id="menu-item-110068" class="nmr-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-110068"><a href="/registration/">Register</a></li>
+<li id="menu-item-110069" class="nmr-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-110069"><a href="/login/">Login</a></li>
+<li id="menu-item-110843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110843"><a href="https://awe365.com/terms-and-conditions/">T&#8217;s &#038; C&#8217;s</a></li>
+<li id="menu-item-110844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-110844"><a href="https://awe365.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div>                </div>
+                <div class="col-md-2 col-sm-2 col-xs-12"></div>
+                <div class="col-md-4 col-sm-4 col-xs-12 last-block">
+                    
+                    <div class="footer-search">
+                            <form role="search" method="get" id="searchform" class="footer-searchform" action="https://awe365.com">
+                            <input type="text" value="" name="s" id="s" placeholder="Search">
+                            <input type="submit" id="searchsubmit" value="Search">
+                            </form>                            
+                        </div>
+                    
+                    <div class="col-md-12 no-padding footer-logo">
+                        <a href="https://awe365.com"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" sizes="(max-width: 258px) 100vw, 258px" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/uploads/2019/07/footer-logo.png?quality=100&f=auto" data-srcset="https://cdn.statically.io/img/awe365.com/wp-content/uploads/2019/07/footer-logo.png?w=202&quality=100&f=auto 202w,
+https://cdn.statically.io/img/awe365.com/wp-content/uploads/2019/07/footer-logo.png?w=258&quality=100&f=auto 258w,
+"></a>
+                    </div>
+                    <span>Copyright © 2020 AWE365® LTD</span>
+                    <div class="social">
+                                                <a href="https://www.facebook.com/AWE365/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/footer-social-01.png?quality=100&f=auto" ></a>
+                                                <a href="https://twitter.com/AWE365" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/footer-social-02.png?quality=100&f=auto" ></a>
+                                                <a href="https://www.linkedin.com/groups/3798645" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/footer-social-03.png?quality=100&f=auto" ></a>
+                                                <a href="https://www.instagram.com/awe365/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/footer-social-04.png?quality=100&f=auto" ></a>
+                                                <a href="https://www.pinterest.co.uk/awe365/" target="_blank"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="" data-loading="lazy" data-src="https://cdn.statically.io/img/awe365.com/wp-content/themes/awenewtheme/images/footer-social-05.png?quality=100&f=auto" ></a>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+  
+    
+    <script type="">
+    /* !!!!!! My account page jquery !!!!!!!!!!!!*/
+    function addPageSponsor(posttype,product_id,sponsor_id){
+        //$(".add-new-post").toggle();
+        //tinyMCE.remove();
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/ajax-add-page-sponsor.php',   
+            type:'POST',
+            data:{ 'posttype': posttype, 'product_id': product_id, 'sponsor_id': sponsor_id },
+            dataType:'html',
+            success:function(msg){
+                //alert(msg);
+                $("#editPosts").html(msg);
+                $("#editPosts").css("display","block"); 
+                $("#my-posts-loader").css("display","none");
+            } 
+        });
+    }
+    function editPageSponsor(id,posttype){
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/ajax-edit-page-sponsor.php',   
+            type:'POST',
+            data:{ 'id': id, 'posttype': posttype },
+            dataType:'html',
+            success:function(msg){
+                //alert(msg);
+                $("#editPosts").html(msg);
+                $("#editPosts").css("display","block"); 
+                $("#my-posts-loader").css("display","none");
+            } 
+        });
+    }
+    
+    function showCompanyForm(posttype){
+        //$(".add-new-post").toggle();
+        //tinyMCE.remove();
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/ajax-add-company.php',   
+            type:'POST',
+            data:{ 'posttype': posttype },
+            dataType:'html',
+            success:function(msg){
+                //alert(msg);
+                $("#editPosts").html(msg);
+                $("#editPosts").css("display","block"); 
+                $("#my-posts-loader").css("display","none");
+                $('html, body').animate({
+                    scrollTop: parseInt($("#companyForm").offset().top)
+                }, 2000);
+            } 
+        });
+    }
+    function editCompanyPost(id,posttype){
+        //alert(posttype)
+        //tinyMCE.remove();
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/ajax-edit-company.php',   
+            type:'POST',
+            data:{ 'id': id, 'posttype': posttype },
+            dataType:'html',
+            success:function(msg){
+                //alert(msg);
+                $("#editPosts").html(msg);
+                $("#editPosts").css("display","block"); 
+                $("#my-posts-loader").css("display","none");
+                $('html, body').animate({
+                    scrollTop: parseInt($("#holidayForm").offset().top)
+                }, 2000);
+            } 
+        });
+    }
+    
+    function showHolidayForm(posttype){
+        //$(".add-new-post").toggle();
+        //tinyMCE.remove();
+        if(posttype == "discount"){
+            var pagename = 'ajax-add-discount.php';
+        }else{
+            var pagename = 'ajax-add-holiday.php';
+        }
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/'+pagename,   
+            type:'POST',
+            data:{ 'posttype': posttype },
+            dataType:'html',
+            success:function(msg){
+                //alert(msg);
+                $("#editPosts").html(msg);
+                $("#editPosts").css("display","block"); 
+                $("#my-posts-loader").css("display","none");
+                $('html, body').animate({
+                    scrollTop: parseInt($("#holidayForm").offset().top)
+                }, 2000);
+            } 
+        });
+    }
+    function editMyPost(id,posttype){
+        //alert(posttype)
+        //tinyMCE.remove();
+        if(posttype == "discount"){
+            var pagename = 'ajax-edit-discount.php';
+        }else{
+            var pagename = 'ajax-edit-holiday.php';
+        }
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/'+pagename,   
+            type:'POST',
+            data:{ 'id': id, 'posttype': posttype },
+            dataType:'html',
+            success:function(msg){
+                //alert(msg);
+                $("#editPosts").html(msg);
+                $("#editPosts").css("display","block"); 
+                $("#my-posts-loader").css("display","none");
+                $('html, body').animate({
+                    scrollTop: parseInt($("#holidayForm").offset().top)-100
+                }, 2000);
+            } 
+        });
+    }
+    
+    function viewEnqDetails(eid,uid,post_id){
+        $("#my-posts-loader").css("display","block");
+        $.ajax({
+            url:'https://awe365.com/wp-content/themes/awenewtheme/ajax-enquiry-detail.php',   
+            type:'POST',
+            data:{ 'eid':eid, 'uid':uid, 'post_id':post_id },
+            dataType:'html',
+            success:function(msg){
+                $("#my-posts-loader").css("display","none");
+                $("#enqDetails").html(msg);
+                //alert(msg);
+                 $('#viewEnquiry').modal('show');
+            } 
+        });
+    }
+    
+    function myStatLise(v,mn,py){
+        window.location.href = "https://awe365.com/my-account/view-statistics/?stat="+v+"&mn="+mn+"&py="+py;
+    }
+    
+        /* !!!!!! My account page jquery !!!!!!!!!!!!*/
+    
+    </script>
+    
+    <!--<script type="text/javascript" src="https://www.quackit.com/html/online-html-editor/tinymce/js/tinymce/tinymce.min.js"></script>-->
+    <!--<script type="text/javascript" src="https://awe365.com/wp-content/themes/awenewtheme/js/tinymce.min.js"></script>-->
+    
+<!-- Bootsnavs -->
+<script data-pmdelayedscript="https://awe365.com/wp-content/themes/awenewtheme/js/bootsnav.js" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1" data-rocketlazyloadscript="1"></script>
+
+<!-- <script src="https://awe365.com/wp-content/themes/awenewtheme/js/bootstrap.min.maxcdn.js"></script>
+ -->
+
+<script>
+	$("#mega-toggle-block-1").click(function(){
+		$("#mega-menu-top").toggleClass('sub-menu-show');
+	});
+	$(".mega-menu-item-has-children").click(function() {
+	  $(this).find('.mega-sub-menu').toggleClass('sub-menu-show');
+	});
+</script>
+
+<!-- query_stat: 104Queries -->	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/javascript" id="flying-images">"use strict";window.FIConfig={lazyMethod:"nativejavascript",lazyMargin:500};var flyingImages=function(){var a=document.querySelectorAll("[data-loading=\"lazy\"]");if(window.FIConfig.lazyMethod.includes("native")&&"loading"in HTMLImageElement.prototype)a.forEach(function(a){a.removeAttribute("data-loading"),a.setAttribute("loading","lazy"),a.dataset.srcset&&(a.srcset=a.dataset.srcset),a.src=a.dataset.src});else if(window.IntersectionObserver){var b=new IntersectionObserver(function(a){a.forEach(function(a){a.isIntersecting&&(b.unobserve(a.target),a.target.dataset.srcset&&(a.target.srcset=a.target.dataset.srcset),a.target.src=a.target.dataset.src,a.target.classList.add("lazyloaded"),a.target.removeAttribute("data-loading"))})},{rootMargin:window.FIConfig.lazyMargin+"px"});a.forEach(function(a){b.observe(a)})}else for(var c=0;c<a.length;c++)a[c].dataset.srcset&&(a[c].srcset=a[c].dataset.srcset),a[c].src=a[c].dataset.src};flyingImages();function throttle(a,b){var c=!1;return function(){c||(a.apply(null,arguments),c=!0,setTimeout(function(){c=!1},b))}}var dynamicContentObserver=new MutationObserver(throttle(flyingImages,125));dynamicContentObserver.observe(document.body,{attributes:!0,childList:!0,subtree:!0}),function(){var a=document.querySelectorAll("[data-loading=\"lazy-background\"]");if(window.IntersectionObserver){var d=new IntersectionObserver(function(a){a.forEach(function(a){if(a.isIntersecting){d.unobserve(a.target);var b=a.target.getAttribute("style"),c=b.replace("background:none;","");a.target.setAttribute("style",c),a.target.removeAttribute("data-loading")}})},{rootMargin:window.FIConfig.lazyMargin+"px"});a.forEach(function(a){d.observe(a)})}else for(var e=0;e<a.length;e++){var b=a[e].target.getAttribute("style"),c=b.replace("background:none;","");a[e].target.setAttribute("style",c),a[e].target.removeAttribute("data-loading")}}();</script>
+    <script type="text/javascript" id="perfmatters-delayed-scripts-js">const perfmattersDelayTimer = setTimeout(pmLoadDelayedScripts,10*1000);const perfmattersUserInteractions=["keydown","mousemove","wheel","touchmove","touchstart","touchend"];perfmattersUserInteractions.forEach(function(event){window.addEventListener(event,pmTriggerDelayedScripts,{passive:!0})});function pmTriggerDelayedScripts(){pmLoadDelayedScripts();clearTimeout(perfmattersDelayTimer);perfmattersUserInteractions.forEach(function(event){window.removeEventListener(event, pmTriggerDelayedScripts,{passive:!0});});}function pmLoadDelayedScripts(){document.querySelectorAll("script[data-pmdelayedscript]").forEach(function(elem){elem.setAttribute("src",elem.getAttribute("data-pmdelayedscript"));});}</script><script>window.lazyLoadOptions={elements_selector:"iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://awe365.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script><script>function lazyLoadThumb(e){var t='<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360">',a='<button class="play" aria-label="play Youtube video"></button>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="ID?autoplay=1";t+=0===this.parentNode.dataset.query.length?'':'&'+this.parentNode.dataset.query;e.setAttribute("src",t.replace("ID",this.parentNode.dataset.src)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.parentNode.replaceChild(e,this.parentNode)}document.addEventListener("DOMContentLoaded",function(){var e,t,p,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.setAttribute("data-src", a[t].dataset.src),e.innerHTML=lazyLoadThumb(a[t].dataset.id),a[t].appendChild(e),p=e.querySelector('.play'),p.onclick=lazyLoadYoutubeIframe});</script>    
+</body>
+</html>

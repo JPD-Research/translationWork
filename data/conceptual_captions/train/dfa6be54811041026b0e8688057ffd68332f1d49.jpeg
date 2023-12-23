@@ -1,0 +1,1767 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><link rel="alternate" type="application/rss+xml" href="https://frontline.thehindu.com/feeder/default.rss"><title>
+	India’s National Fortnightly Magazine | Frontline
+</title><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="title" content="India’s National Fortnightly Magazine" /><meta name="description" content="Frontline, the fortnightly English magazine from The Hindu, since 1984. Covering politics, social issues, environment, finance, business, economy, science, technology, art, culture, movies, entertainment, and social media." /><meta name="keywords" content="indian magazine, fortnightly magazine, national magazine, the nation news, environment news, world affairs news, science &amp; technology news, social issues news, arts &amp; culture news, latest books, current political news, indian economy news, breaking political news, politics news, literature news today, news on art and culture" /><meta name="robots" content="index, follow" /><meta name="robots" content="max-image-preview:large"><meta name="atdlayout" content="homepage" /><meta name="twitter:title" content="India’s National Fortnightly Magazine"><meta name="twitter:description" content="Frontline, the fortnightly English magazine from The Hindu, since 1984. Covering politics, social issues, environment, finance, business, economy, science, technology, art, culture, movies, entertainment, and social media."><meta name="twitter:image" content="https://frontline.thehindu.com/theme/images/og-image.png"><meta property="og:title" content="India’s National Fortnightly Magazine" /><meta property="og:description" content="Frontline, the fortnightly English magazine from The Hindu, since 1984. Covering politics, social issues, environment, finance, business, economy, science, technology, art, culture, movies, entertainment, and social media." /><meta property="og:image" content="https://frontline.thehindu.com/theme/images/og-image.png" /><meta property="og:url" content="https://frontline.thehindu.com/" /><meta property="al:android:url" content="https://frontline.thehindu.com/" /><meta property="og:type" content="website" /><meta name="ahrefs-site-verification" content="6df5b97abf2ea60f2d4123265496b92b4faa009ceff5444e0b8482ebddd508d6" /><meta name="google-site-verification" content="WY1FmWvKRVS0orKhLIaom7dbGrniILc-sHUaRmeR6cs" /><meta name="msvalidate:01" content="A0ACE607D11E08C87CE9AEB4F809133F" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:domain" content="frontline.in" /><meta name="twitter:site" content="@frontline_india" /><meta property="fb:app_id" content="304083423879211" /><meta property="og:site_name" content="Frontline" /><link rel="shortcut icon" type="image/x-icon" href="https://frontline.thehindu.com/favicon.ico" /><link rel="icon" type="image/ico" href="https://frontline.thehindu.com/favicon.ico" /><link rel="apple-touch-icon" href="https://frontline.thehindu.com/apple-touch-icon.png" /><link rel="apple-touch-icon-precomposed" href="https://frontline.thehindu.com/apple-touch-icon-precomposed.png" /><link rel="canonical" href="https://frontline.thehindu.com/" /><link href="https://www.googletagmanager.com" rel="dns-prefetch"><link href="https://www.googletagmanager.com" rel="preconnect"><link href="https://cdn.tinypass.com" rel="dns-prefetch"><link href="https://cdn.tinypass.com" rel="preconnect"><link href="https://cdn.cxense.com" rel="dns-prefetch"><link href="https://cdn.cxense.com" rel="preconnect"><link href="https://fonts.googleapis.com" rel="dns-prefetch"><link href="https://fonts.googleapis.com" rel="preconnect"><link href="https://experience.tinypass.com" rel="dns-prefetch"><link href="https://experience.tinypass.com" rel="preconnect"><link href="https://consent.trustarc.com" rel="dns-prefetch"><link href="https://consent.trustarc.com" rel="preconnect"><link href="https://buy.tinypass.com" rel="dns-prefetch"><link href="https://buy.tinypass.com" rel="preconnect"><link href="https://trustarc.mgr.consensu.org" rel="dns-prefetch"><link href="https://trustarc.mgr.consensu.org" rel="preconnect"><link href="https://connect.facebook.net" rel="dns-prefetch"><link href="https://connect.facebook.net" rel="preconnect"><link href="https://paywall.fewcents.co" rel="dns-prefetch"><link href="https://paywall.fewcents.co" rel="preconnect"><script>
+		var dataLayer = window.dataLayer || [];
+dataLayer.push({
+		'pageDetails' : {
+			'pageType' : 'home' ,'contentCategory' : ''
+
+		} });
+</script><script>
+	var dataLayer = window.dataLayer || [];
+tp = window["tp"] || [];
+tp.push(["init", function () {
+if (tp.user.isUserValid()) {
+dataLayer.push({
+'data' : {
+'email': tp.pianoId.getUser().email,
+'uid': tp.pianoId.getUser().uid,
+'platform': thgpiplatform()
+} });
+}
+}]);
+</script><link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap&family=Playfair+Display:wght@400;600;700;800;900&display=swap&family=Faustina:wght@300;400;500;600;700;800&display=swap" crossorigin="anonymous"><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap&family=Playfair+Display:wght@400;600;700;800;900&display=swap&family=Faustina:wght@300;400;500;600;700;800&display=swap" crossorigin="anonymous"><style>
+@charset "UTF-8";
+@font-face {
+  font-family: "Publico Extra Bold Italic";
+  src: url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-BlackItalic-Web.woff2") format("woff2"), url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-BlackItalic-Web.woff") format("woff");
+  font-weight: 800;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Publico Extra Bold";
+  src: url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Black-Web.woff2") format("woff2"), url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Black-Web.woff") format("woff");
+  font-weight: 800;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Publico Bold Italic";
+  src: url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-BoldItalic-Web.woff2") format("woff2"), url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-BoldItalic-Web.woff") format("woff");
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Publico Bold";
+  src: url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Bold-Web.woff2" ) format("woff2"), url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Bold-Web.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Publico Italic";
+  src: url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Italic-Web.woff2") format("woff2"), url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Italic-Web.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Publico";
+  src: url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Roman-Web.woff2") format("woff2"), url("https://assetsfl.thehindu.com/theme/css/FLRX/fonts/PublicoBanner-Roman-Web.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+}
+</style><link rel="preload" as="style" href="https://assetsfl.thehindu.com/theme/css/fl-online/bootstrap.min.css?ver=1703251874" as="style"><link rel="stylesheet" type="text/css" href="https://assetsfl.thehindu.com/theme/css/fl-online/bootstrap.min.css?ver=1703251874" /><link rel="preload" type="text/css" href="https://assetsfl.thehindu.com/theme/css/fl-online.min.css?ver=1703252042" as="style" /><link rel="stylesheet" type="text/css" href="https://assetsfl.thehindu.com/theme/css/fl-online.min.css?ver=1703252042" as="style" /><link rel="preload" href="https://assetsfl.thehindu.com/theme/js/require.min.js?ver=1703251804" as="script"><script src="https://assetsfl.thehindu.com/theme/js/require.min.js?ver=1703251804" data-cfasync="false"></script><script data-cfasync="false">
+         require.config({
+         // Local Directory
+         baseUrl: "https://assetsfl.thehindu.com/theme/js",
+         // Script Locations
+         paths: {
+         "jquery": "3.4.1/jquery.min",
+         "bootstrap":"fl-online/bootstrap.bundle.min",
+         "swiper": "fl-online/swiper.min",
+         "jplayer": "fl-online/jquery.jplayer.min",
+         "jplayerlist": "fl-online/jplayer.playlist.min",
+         "bootstrap-datepicker": "fl-online/bootstrap-datepicker.min",
+         "owlCarousel":"fl-online/owl.carousel.min",
+         "ua-parser": "ua-parser.min",
+      	"custom":"https://assetsfl.thehindu.com/theme/js/fl-online/custom.js?ver=1703251804",
+         "jquery-ui" : "jquery-ui-1.13.2.min"
+         },
+         shim: {	
+         'swiper': ['jquery'],
+         'bootstrap': ['jquery'],
+         'jplayerlist': ['jquery','jplayer']
+         },
+         waitSeconds:0
+         });
+      </script><script data-cfasync="false">
+			require(['jquery','bootstrap','custom']);
+		</script><script type="text/javascript">
+(function(w,d,s,r,k,h,m){
+    if(w.performance && w.performance.timing && w.performance.navigation) {
+        w[r] = w[r] || function(){(w[r].q = w[r].q || []).push(arguments)};
+        (w[r].q = w[r].q || []).push(['trackConsoleEvents',true]);
+        (w[r].q = w[r].q || []).push(['addBreadCrumbs',"setTimeoutFunction"]);
+        tp = window["tp"] || [];
+        tp.push(["init", function () {
+			if (tp.user.isUserValid()) {
+          	  (w[r].q = w[r].q || []).push(['userId',tp.pianoId.getUser().email]);
+			}
+        }]);
+        h=d.createElement('script');h.async=true;h.setAttribute('src',s+k);
+        d.getElementsByTagName('head')[0].appendChild(h);
+        (m = window.onerror),(window.onerror = function (b, c, d, f, g) {
+        m && m(b, c, d, f, g),g || (g = new Error(b)),(w[r].q = w[r].q || []).push(["captureException",g]);})
+    }
+})(window,document,'//static.site24x7rum.in/beacon/site24x7rum-min.js?appKey=','s247r','53c4badd3a20139b36f250cd54fc9004');
+</script><script data-cfasync="false">
+if(!(window.fetch&&window.Promise&&[].includes&&Object.assign&&window.Map)){
+	document.write('<script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,fetch"></scr'+'ipt>');
+}
+</script><script type="text/javascript" data-cfasync="false">
+!function(){const e=()=>{const e="__tcfapiLocator",t=[],n=window;let o,s,a=n;for(;a;){try{if(a.frames[e]){o=a;break}}catch(c){}if(a===n.top)break;a=a.parent}o||(!function t(){const o=n.document,s=!!n.frames[e];if(!s)if(o.body){const t=o.createElement("iframe");t.style.cssText="display:none",t.name=e,o.body.appendChild(t)}else setTimeout(t,5);return!s}(),n.__tcfapi=function(...e){if(!e.length)return t;"setGdprApplies"===e[0]?e.length>3&&2===parseInt(e[1],10)&&"boolean"==typeof e[3]&&(s=e[3],"function"==typeof e[2]&&e[2]("set",!0)):"ping"===e[0]?"function"==typeof e[2]&&e[2]({gdprApplies:s,cmpLoaded:!1,cmpStatus:"stub"}):t.push(e)},n.addEventListener("message",(function(e){const t="string"==typeof e.data;let n={};if(t)try{n=JSON.parse(e.data)}catch(c){}else n=e.data;const o="object"==typeof n&&null!==n?n.__tcfapiCall:null;o&&window.__tcfapi(o.command,o.version,(function(n,s){let a={__tcfapiReturn:{returnValue:n,success:s,callId:o.callId}};e&&e.source&&e.source.postMessage&&e.source.postMessage(t?JSON.stringify(a):a,"*")}),o.parameter)}),!1))};"undefined"!=typeof module?module.exports=e:e()}();
+</script><script type="text/javascript" data-cfasync="false">
+var thgCookieConsent = new Promise(function(resolve, reject) {
+    let script = document.createElement('script');
+    script.src = "https://consent.truste.com/notice?domain=thehindugroup.com&c=teconsent&gtm=1&pcookie&js=nj&noticeType=bb&privacypolicylink=https%3A%2F%2Fwww.thehindugroup.com%2Fprivacy.html";
+    script.async = true;
+    script.onload = function(){
+    	 resolve(script);
+    }
+    script.onerror =function(){
+   		 resolve(script);
+   	}
+    document.head.append(script);
+  });
+</script><script type="text/javascript" data-cfasync="false">
+function appURL(){	
+	return "https://frontline.thehindu.com/";
+}
+function pageType(){	return "sec";
+}
+function pageTypeName(){	return "Home";}
+var DevIdf = {
+	isMobile: false,
+	isTablet: false,
+	isDesktop: false,
+	isMobileAndroid: false,
+	isMobileIos: false,
+	isLargeDesktop: false
+};
+var ClientdeviceType = {
+	"xlarge": "(min-width: 1600px)",
+	"large": "(min-width: 1024px) and (max-width: 1599px)",
+	"small": "(max-width: 767px)",
+	"medium": "(min-width: 768px) and (max-width: 1023px)"
+};
+
+var userAgent = navigator.userAgent || navigator.vendor || window.opera;    
+
+
+function isDeviceEnabled(DeviceValue) {if (DeviceValue == "large" && (DevIdf.isDesktop || DevIdf.isLargeDesktop)) {
+		return true;
+	}else if (DeviceValue == "medium" && DevIdf.isTablet) {
+		return true;
+	} else if (DeviceValue == "small" && DevIdf.isMobile) {
+		return true;
+	} else if (DeviceValue == "twa" && (DevIdf.isMobileAndroid || DevIdf.isMobileIos)) {
+		return true;	
+	}
+	else if (DeviceValue == "all") {
+		return true;	
+	}
+	return false;
+}
+for (var type in ClientdeviceType) {
+	if (window.matchMedia(ClientdeviceType[type]).matches) {
+		switch (type) {
+			case "xlarge":
+				DevIdf.isLargeDesktop = true;
+				break;
+			case "large":
+				DevIdf.isDesktop = true;
+				break;
+			case "medium":
+				DevIdf.isTablet = true;
+				break;
+			case "small":
+				DevIdf.isMobile = true;
+				if( userAgent.match( /iPad/i ) || userAgent.match( /iPhone/i ) || userAgent.match( /iPod/i ) ){
+					DevIdf.isMobileIos = true;
+				}else{
+					DevIdf.isMobileAndroid = true;
+				}
+				break;
+		}
+		break;
+	}
+}
+function loadScript(url) {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = url;
+		var x = document.getElementsByTagName('script')[0];
+		x.appendChild(s);
+}
+
+function loadCSS(url) {
+		var link = document.createElement('link');
+		link.rel = 'stylesheet';
+		link.href = url;
+		link.type = 'text/css';
+		var el = document.getElementsByTagName('link')[0];
+		el.parentNode.insertBefore(link, el);
+} 
+function getUrlParameter( name, url ) {
+if (!url) url = location.href;
+name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+var regexS = "[\\?&]"+name+"=([^&#]*)";
+var regex = new RegExp(regexS,"i");
+var results = regex.exec( url );
+return results == null ? null : results[1];
+}
+function createCookie(name,value,days) { if (days) {
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; path=/";
+}
+function eraseCookie(name) {
+createCookie(name,"",-1);
+}
+function readCookie(name) {
+var nameEQ = name + "=";
+var ca = document.cookie.split(';');
+for(var i=0;i < ca.length;i++) {
+var c = ca[i];
+while (c.charAt(0)==' ') c = c.substring(1,c.length);
+if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+}
+return null;
+}
+function deleteCookie(name) {
+createCookiewithdomain(name,null,-1);
+}
+function createCookiewithdomain(name,value,days) {
+if (days) {
+var date = new Date();
+date.setTime(date.getTime()+(days*24*60*60*1000));
+var expires = "; expires="+date.toGMTString();
+}
+else var expires = "";
+document.cookie = name+"="+value+expires+"; domain="+document.location.host.match(/\.[.\w]*/)+";path=/";
+}
+function getStorage(name){	if(typeof(Storage) !== "undefined" && 'localStorage' in window && window.localStorage !== null) {	if (localStorage.getItem(name)){	cookieObj = JSON.parse(localStorage.getItem(name));
+if (cookieObj !== undefined && (cookieObj.e == null || cookieObj.e > new Date())){return cookieObj.v === undefined ? null : cookieObj.v ; }	else{localStorage.removeItem(name);}	}
+return null;	} else {return readCookie(name);}	}
+function setStorage(name,value,days){
+if(typeof(Storage) !== "undefined" && 'localStorage' in window && window.localStorage !== null) {
+var date = new Date();	localStorage.setItem(name,JSON.stringify({"v":value, "e":date.setTime(date.getTime()+(days*24*60*60*1000))}))
+} else {createCookie(name,value,days);}	}
+function eraseStorage(name){ if(typeof(Storage) !== "undefined" && 'localStorage' in window && window.localStorage !== null) {localStorage.removeItem(name);}
+else{eraseCookie(name)}
+}
+var isNonSubcribed = true;function isNonSubcribedUser(){return isNonSubcribed;}
+var myUserStatus = "anon";function UserCurrentStatus(){return myUserStatus;}var imageSizes = [80, 100, 115, 140, 155 ,170, 215, 230, 240, 300, 320, 355,385, 435, 460, 480,560, 615, 660, 730, 810, 960, 1080, 1140, 1200];function imglazyload(selector){
+	var lazyImages = [];
+   if(typeof selector !== 'undefined' && selector){
+	lazyImages = [].slice.call(document.querySelectorAll(selector +" img.lazy"));
+   }
+   else{
+	lazyImages = [].slice.call(document.querySelectorAll("img.lazy"))
+   }
+
+ if ("IntersectionObserver" in window) {
+   let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+	 entries.forEach(function(entry) {
+	   if (entry.isIntersecting) {
+		 let lazyImage = entry.target
+		 lazyImageloader(lazyImage);
+		 lazyImageObserver.unobserve(lazyImage);
+	   }
+	 });
+   });
+
+   lazyImages.forEach(function(lazyImage) {
+	 lazyImageObserver.observe(lazyImage);
+   });
+ } else {
+	lazyImages.forEach(function(lazyImage) {
+	 lazyImageloader(lazyImage);
+	});
+ }
+	window.__thgimgloaded = true;
+ }
+function lazyImageloader(lazyImage){
+	let variant = lazyImage.dataset.deviceVariant;
+	let imagesrc =  lazyImage.dataset.srcTemplate;
+	if(typeof imagesrc !="undefined" && imagesrc != ""){
+	if(typeof variant !="undefined" && variant != ""){
+	let position = 0;
+	if(DevIdf.isDesktop){
+	  position = 1;
+	}
+	else if(DevIdf.isTablet){
+		 position = 2;
+	}
+	else if(DevIdf.isMobile){
+		 position = 3;
+	}
+	variant = variant.split("~")[position];
+	var selected = Math.max.apply(null, imageSizes);
+	for (var i = 0; i < imageSizes.length; i++) {
+	  if (lazyImage.offsetWidth <= imageSizes[i]) {
+		selected = imageSizes[i];
+		break;
+	  }
+	}
+	 var alterRegEx = new RegExp("alternates\/[a-z0-9_]*", "ig");
+	 imagesrc = imagesrc.replace(alterRegEx,"alternates/"+variant + "_" + selected);
+	
+	 lazyImage.src = imagesrc;
+	}
+	else{
+	  lazyImage.src = imagesrc;
+	}
+	}
+	lazyImage.classList.remove("lazy");
+}var promiseResolve, promiseReject;userIdentify = new Promise(function(resolve, reject){promiseResolve = resolve;promiseReject = reject;});var thg={required:!0,functional:!1,advertising:!1,requiredCookie:function(){return thg.required},functionalCookie:function(){return thg.functional},advertisingCookie:function(){return thg.advertising}};thgCookieConsent.then(function(){var constentbehavior=readCookie("notice_behavior"),cookieconsent=readCookie("cmapi_cookie_privacy");null==cookieconsent&&null!=constentbehavior&&-1==constentbehavior.indexOf("eu")?(thg.functional=!0,thg.advertising=!0):null!==cookieconsent?(cookieconsent.indexOf("permit")>-1&&cookieconsent.indexOf("2")>-1&&(thg.functional=!0),cookieconsent.indexOf("permit")>-1&&cookieconsent.indexOf("3")>-1&&(thg.advertising=!0)):null==constentbehavior&&(thg.functional=!0,thg.advertising=!0);});
+</script><script data-cfasync="false">
+var _paq = window._paq || [];
+var _thg_config = window["_thg_config"] || {};
+window._thg_config.ufenpoint = "https://uf.thehindu.com/";
+window._thg_config.ufsiteId= "fl"
+</script><script data-cfasync="false">
+    document.cookie = "__adblocker=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/";
+    var setNptTechAdblockerCookie = function(adblocker) {
+        var d = new Date();
+        d.setTime(d.getTime() + 60 * 5 * 1000);
+        document.cookie = "__adblocker=" + (adblocker ? "true" : "false") + "; expires=" + d.toUTCString() + "; path=/";
+    };
+    var script = document.createElement("script");
+    script.setAttribute("async", true);
+    script.setAttribute("src", "//www.npttech.com/advertising.js");
+    script.setAttribute("onerror", "setNptTechAdblockerCookie(true);");
+    document.getElementsByTagName("head")[0].appendChild(script);
+</script><script type="text/javascript" data-cfasync="false" src="https://cdn.cxense.com/cx.cce.js" async></script><script data-cfasync="false" type="text/javascript"> 
+var cX = window.cX = window.cX || { callQueue: [], options: { dataLayer: { cookie: { domain: '.frontline.thehindu.com' } }}}; 
+cX.CCE = cX.CCE || {}; cX.CCE.callQueue = cX.CCE.callQueue || []; 
+cX.callQueue.push(["setSiteId","1128458718543440953"]); 
+cX.CCE.callQueue.push(["sendPageViewEvent", "thg", "6ccaf530673bc21409a43a45300ef01e63095338"]); 
+</script><script data-cfasync="false">(function(src) { var a = document.createElement("script"); a.type = "text/javascript"; a.async = true; a.src = src; var b = document.getElementsByTagName("script")[0]; b.parentNode.insertBefore(a, b) })("https://experience.tinypass.com/xbuilder/experience/load?aid=7JJs2o4rpu"); 
+tp = window["tp"] || [];</script><script>
+var dataLayer = window.dataLayer || [];
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N24644H');
+</script><script type="text/javascript">thgCookieConsent.then(function() {if(thg.functionalCookie()){var userconsent = 1 ;var _comscore = _comscore || [];  _comscore.push({ c1: "2", c2: "11398210",cs_ucfr: userconsent});  (function() {    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src=(document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";    el.parentNode.insertBefore(s, el);  })();}});</script><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=123456&cs_ucfr=1&cv=2.0&cj=1" /></noscript><style>
+/* removed spoltlight in article page */
+.article-top-center-align .label.environment{display:none;}
+/*package article issue */
+@media screen and (max-width: 570px){
+.row.mobile-row-element.element-inside-article .packageType h3.title.big {
+    margin-left: 115px !important;
+}
+.article-section .hide-mobile {
+    visibility: visible;
+    height: unset !important;
+    max-height: unset !important;
+}
+
+}
+@media(max-width:767px){
+.gsiOverlay{ z-index: 9999 !important;}
+}
+@media screen and (max-width: 767px) {
+  .oTO-Text-points {
+    display: none;
+  }
+}
+</style></head><body class="base-font bg-white ece_frontpage"><span itemscope itemtype="https://schema.org/Organization"><meta itemprop="name" content="Frontline" /><meta itemprop="url" content="https://frontline.thehindu.com/" /><meta itemprop="logo" content="https://frontline.thehindu.com/theme/images/fl-online/fl-logo-amp-new.png" /><span itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"><meta itemprop="streetAddress" content="Kasturi Building, Anna Salai, 859-860, Mount Road" /><meta itemprop="addressLocality" content="Chennai" /><meta itemprop="addressRegion" content="Tamil Nadu" /><meta itemprop="postalCode" content="600002" /><meta itemprop="Telephone" content="+91-44-2857 6300" /></span><meta itemprop="sameAs" content="https://www.facebook.com/frontline" /><meta itemprop="sameAs" content="https://twitter.com/frontline_india" /><meta itemprop="sameAs" content="https://www.instagram.com/frontline.magazine/" /><meta itemprop="sameAs" content="https://www.youtube.com/channel/UCWxdhSIVMreBHJTQlVdg9lA" /></span><span itemscope itemtype="https://schema.org/NewsMediaOrganization"><meta itemprop="name" content="Frontline" /><meta itemprop="url" content="https://frontline.thehindu.com/" /><meta itemprop="logo" content="https://frontline.thehindu.com/theme/images/fl-online/fl-logo-amp-new.png" /><span itemtype="https://schema.org/ImageObject" itemscope="itemscope" itemprop="logo" /><meta content="https://frontline.thehindu.com/theme/images/fl-online/fl-logo-amp-new.png" itemprop="url" /><meta content="278" itemprop="width" /><meta content="49" itemprop="height" /></span><meta itemprop="sameAs" content="https://www.facebook.com/frontline" /><meta itemprop="sameAs" content="https://twitter.com/frontline_india" /><meta itemprop="sameAs" content="https://www.instagram.com/frontline.magazine/" /><meta itemprop="sameAs" content="https://www.youtube.com/channel/UCWxdhSIVMreBHJTQlVdg9lA" /></span><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N24644H"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><header class="header logout"><div class="container"><div class="menu-part"><div class="logo"><a href="/"><a href="/"><img src="https://assetsfl.thehindu.com/theme/images/FLRX/frontline-logo.svg" alt="Return to frontpage" width="100%" height="100%"></a><h1 class="slogan">Leading the Debate <span>Since 1984</span></h1></a></div><div class="open-in-app"><button type="button" class="btn open-app-btn"><a rel="nofollow">
+Open in App
+</a></button></div><script>
+	require(['jquery'], function ($) {
+if (DevIdf.isDesktop || DevIdf.isLargeDesktop || DevIdf.isTablet) {
+$(".open-app-btn a").attr('href', 'https://frontline.thehindu.com/app/mobile-app/?utm_source=web&utm_medium=header')
+} else if (DevIdf.isMobileIos) {
+$(".open-app-btn a").attr('href', 'https://apps.apple.com/app/frontline-magazine/id6447624894?utm_source=fl_web_header&utm_medium=banner')
+} else if (DevIdf.isMobileAndroid) {
+$(".open-app-btn a").attr('href', 'https://play.google.com/store/apps/details?id=com.thehindu.frontline&referrer=utm_source%3Dfl_website%26utm_medium%3Dbanner%26utm_campaign%3Dfl_website_header')
+}
+
+$(".open-app-btn a").show();
+0
+});
+</script> <div class="mobile-short-link">
+<ul class="menu-list">
+<li class="active">
+<a href="https://frontline.thehindu.com/" target="_self">Home</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/current-issue/" target="_self">Current Issue</a>
+</li>
+</ul>
+</div>
+<div class="nav-line"><div class="overlay-gradient"></div> <ul class="menu-list">
+<li class="active">
+<a href="https://frontline.thehindu.com/" target="_self">Home</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/current-issue/" target="_self">Current Issue</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/news/" target="_self">Latest</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/the-nation/" target="_self">The Nation</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/politics/" target="_self">Politics</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/columns/" target="_self">Columns</a>
+</li>
+</ul>
+</div><div class="btns-part"><a class="red-link header-buttons" href="/newsletter-subscription/">Newsletters</a><span style="color: #dddddd;">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a class="red-link header-buttons" href="http://www.thehindugroup.in/subscribe/frontline/">Buy Print</a><div class="menuuserdetect" style="display: none"><button type="button" class="btn basic-btn login header-buttons thgsignin">Login</button><a href="/myaccount/" class="accountdec"><button type="button" class="btn basic-btn account header-buttons">
+Account
+</button></a><a href="https://frontline.thehindu.com/online-subscription/?utm_source=frontline_website&amp;utm_medium=Subscribe_button"><button class="btn basic-btn subscribe header-buttons">Subscribe</button></a></div></div><div class="search-hammer"><a href="/search/"><button class="btn search-btn">Go to Search<img src="https://assetsfl.thehindu.com/theme/images/FLRX/search-gray-icon.svg" alt="search-icon" /></button></a><button class="btn menu-icon"><img src="https://assetsfl.thehindu.com/theme/images/FLRX/menu-hamber-icon.svg" alt="hamberIcon"></button></div></div></div><div class="dropdown"><div class="drop-header"><div class="container"><div class="logo"><a href="/"><img src="https://assetsfl.thehindu.com/theme/images/FLRX/frontline-thumb.svg" alt="Frontline logo" /></a></div><div class="btns-part"><button type="button" class="btn basic-btn login header-buttons thgsignin">Login</button><a href="/myaccount/" class="accountdec"><button type="button" class="btn basic-btn account header-buttons">
+Account
+</button></a><a href="https://frontline.thehindu.com/online-subscription/?utm_source=frontline_website&amp;utm_medium=Subscribe_button"><button class="btn basic-btn subscribe header-buttons">Subscribe</button></a></div></div></div><div class="container"><div class="dropdown-content"><div class="mobile-search"><a href="/search/"><button class="btn search-btn header-search-button"> Go to Search<img src="https://assetsfl.thehindu.com/theme/images/FLRX/search-gray-icon.svg" alt="Search"></button></a></div> <div class="col">
+<div class="list-title">Sections</div>
+<ul class="sub-menu-list hamburger-sections">
+<li class>
+<a href="https://frontline.thehindu.com/news/">
+News
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/the-nation/">
+The Nation
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/politics/">
+Politics
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/economy/">
+Economy
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/arts-and-culture/">
+Arts &amp; Culture
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/social-issues/">
+Social Issues
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/science-and-technology/">
+Science &amp; Technology
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/environment/">
+Environment
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/books/">
+Books
+</a>
+</li>
+<li class="no-border ">
+<a href="https://frontline.thehindu.com/the-nation/public-health/">
+Health
+</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<div class="list-title">Features</div>
+<ul class="sub-menu-list hamburger-sections">
+<li class>
+<a href="https://frontline.thehindu.com/other/travel/">
+Travel
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/other/letters/">
+Letters
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/other/data-card/">
+Data Stories
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/columns/">
+Columns
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/interviews/">
+Interviews
+</a>
+</li>
+<li class="no-border ">
+<a href="https://frontline.thehindu.com/photo-essay/">
+Photo Essay
+</a>
+</li>
+</ul>
+</div>
+<div class="col">
+<div class="list-title">Essentials</div>
+<ul class="sub-menu-list hamburger-sections">
+<li class>
+<a class="mobile-red-font" href="https://frontline.thehindu.com/newsletter-subscription/">
+Newsletter Sign-up
+</a>
+</li>
+<li class="no-border ">
+<a class="mobile-red-font" href="http://www.thehindugroup.in/subscribe/frontline/">
+Print Subscription
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/online-subscription/">
+Digital Subscription
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/sitemap/">
+Sitemap
+</a>
+</li>
+<li class>
+<a href="https://frontline.thehindu.com/rssfeeds/">
+RSS feeds
+</a>
+</li>
+<li class="no-border ">
+<a href="https://frontline.thehindu.com/archive/">
+Digital Exclusive Stories
+</a>
+</li>
+</ul>
+</div>
+<div class="col print-edition"><div class="list-title">Print Edition</div><div class="book"><div class="book-img"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/k8brsb/article67653856.ece/alternates/LANDSCAPE_615/FL%20Dec%2029%20Cover.jpg" data-original="https://fl-i.thgim.com/public/incoming/k8brsb/article67653856.ece/alternates/LANDSCAPE_615/FL%20Dec%2029%20Cover.jpg" alt="FL Dec 29 Cover.jpg" title="FL Dec 29 Cover.jpg" data-device-variant="PORTRAIT~PORTRAIT~PORTRAIT~PORTRAIT" class="media-object adaptive placeholder lazy" width="100%" height="100%" /></div><div class="book-links"><a href="/current-issue/">Current Issue</a><a href="/magazine/">Past Issues </a></div></div></div><ul class="social-icons"><li class="text">CONNECT WITH US</li><li><a href="https://www.facebook.com/frontlineindia/" title="Facebook" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-fb.svg" width="42px" height="34px" class="lazy"></a></li><li><a href="https://twitter.com/frontline_india" title="Twitter" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-tw.svg" width="42px" height="34px" class="lazy"></a></li><li><a href="https://www.instagram.com/frontline.magazine/" title="Instagram" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-insta.svg" width="42px" height="34px" class="lazy"></a></li><li><a href="https://www.youtube.com/channel/UCWxdhSIVMreBHJTQlVdg9lA" title="Youtube" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-youtube.svg" width="42px" height="34px" class="lazy"></a></li><li><a href="https://t.me/FrontlineIndia" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/telegram-icon.svg" width="42px" height="34px" class="lazy" alt="Telegram" title="Telegram"></a></li></ul></div></div></div></header><div class="header-end"></div><script>
+require(['jquery'], function($) {
+ var offset1 = $(".header-end").outerHeight();
+    var offset2 = $(".header").outerHeight();
+    var offset3 = $(".header").offset().top;
+    var prevScrollpos = window.pageYOffset;
+        $(this).scroll(function() {
+            if ($(window).scrollTop() > offset1) {
+                $(".header").addClass("on-scroll");
+            }
+            else if ($(window).scrollTop() < offset2){
+                $(".header").removeClass("on-scroll");
+            }
+        });
+  });
+	tp = window["tp"] || [];
+	tp.push(['init', function () {
+		tp.pianoId.init({
+		loggedIn: function (data) {
+		thgloggedIn(data)
+		},
+		loggedOut: function () {
+		location.reload();
+		}
+		});
+	}
+	]);
+	function thgloggedIn(data) {
+		if(document.getElementsByTagName("header").length > 0) {
+			document.getElementsByTagName("header")[0].classList.remove("logout");
+			document.getElementsByTagName("header")[0].classList.add("login");
+		}
+	}
+	function thgLogout() {
+	typeof __thg_event != "undefined" ?  __thg_event.triggerLogOut(tp.pianoId.getUser()): null;
+	   tp.push(["init", function () {
+	        tp = window.tp || [];
+	        tp.pianoId.logout()
+	        location.reload();
+	   }]);
+    }
+	userIdentify.then(function() {
+	var list = document.querySelectorAll(".menuuserdetect");
+		for (var i = 0; i < list.length; ++i) {
+			list[i].style.display = "block" ;
+		}
+	});
+</script><link rel="stylesheet" type="text/css" href="https://assetsfl.thehindu.com/theme/css/FLRX/common-styles.min.css?ver=1703252318" /><section class="full-width-section mob-mt-0"><div class="container"><div class="row xs-reverse equal-height"><div class="col-xl-3 col-lg-3 col-md-6 col-12 col-sm-12 col-12 after-border-right" data-ga-label="Lead-Stories"><div class="element smaller "><div class="picture vertical"><a href="https://frontline.thehindu.com/news/dmk-minister-ponmudi-sentenced-by-madras-high-court-for-disproportionate-assets-case/article67662426.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/959hya/article67662508.ece/alternates/LANDSCAPE_80/Ponmudi.jpg" data-original="https://fl-i.thgim.com/public/incoming/959hya/article67662508.ece/alternates/LANDSCAPE_80/Ponmudi.jpg" data-device-variant="SQUARE~SQUARE~LANDSCAPE~LANDSCAPE" alt="Ponmudi.jpg" title="Ponmudi.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="label news"><a href="https://frontline.thehindu.com/news/dmk-minister-ponmudi-sentenced-by-madras-high-court-for-disproportionate-assets-case/article67662426.ece">Tamil Nadu</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/news/dmk-minister-ponmudi-sentenced-by-madras-high-court-for-disproportionate-assets-case/article67662426.ece" title="Updated: December 22, 2023 12:04 IST
+Published: December 21, 2023 19:27 IST">
+DMK Minister Ponmudi sentenced in disproportionate assets case </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/R-K--Radhakrishnan-12423/" class="person-name lnk">R.K. Radhakrishnan </a></div></div></div><div class="element smaller tab-no-bottom-border"><div class="picture"><a href="https://frontline.thehindu.com/arts-and-culture/essay-moving-body-still-photo-reflection-on-relationship-between-dance-and-photography/article67661559.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/8qo3u3/article67661508.ece/alternates/LANDSCAPE_80/Martha%20Graham%20Lamentations%20Barbara%20Morgan.jpg" data-original="https://fl-i.thgim.com/public/incoming/8qo3u3/article67661508.ece/alternates/LANDSCAPE_80/Martha%20Graham%20Lamentations%20Barbara%20Morgan.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~LANDSCAPE" alt="Martha Graham Lamentations Barbara Morgan.jpg" title="Martha Graham Lamentations Barbara Morgan.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="label arts-and-culture"><a href="https://frontline.thehindu.com/arts-and-culture/essay-moving-body-still-photo-reflection-on-relationship-between-dance-and-photography/article67661559.ece">Essay</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/arts-and-culture/essay-moving-body-still-photo-reflection-on-relationship-between-dance-and-photography/article67661559.ece" title="Updated: December 21, 2023 18:52 IST
+Published: December 21, 2023 18:30 IST">
+Moving body, still photo: Reflections on the relationship between dance and photography </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Sadanand-Menon-20358/" class="person-name lnk">Sadanand Menon</a></div></div></div></div><div class=" col-xl-6 col-lg-6 col-md-12 col-12 col-sm-12 col-12 after-border-right tab-no-side-border full-width" data-ga-label="Lead-Stories"><div class="element bigger main-element no-border mob-mt-0 home-main-story-sub"><div class="picture mob-mt-0"><a href="https://frontline.thehindu.com/arts-and-culture/cinema/indian-cinema-ambedkar-on-screen-new-dalit-movies-study/article67666820.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/nhchku/article67667060.ece/alternates/LANDSCAPE_80/IMG_22EPBS_Jai_Bhim2_2_1_BJ9FV84P.jpg" data-original="https://fl-i.thgim.com/public/incoming/nhchku/article67667060.ece/alternates/LANDSCAPE_80/IMG_22EPBS_Jai_Bhim2_2_1_BJ9FV84P.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~PORTRAIT" alt="IMG_22EPBS_Jai_Bhim2_2_1_BJ9FV84P.jpg" title="IMG_22EPBS_Jai_Bhim2_2_1_BJ9FV84P.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="content"><div class="label cinema"><a href="https://frontline.thehindu.com/arts-and-culture/cinema/indian-cinema-ambedkar-on-screen-new-dalit-movies-study/article67666820.ece">Popular Culture</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/arts-and-culture/cinema/indian-cinema-ambedkar-on-screen-new-dalit-movies-study/article67666820.ece" title="Updated: December 22, 2023 21:58 IST
+Published: December 22, 2023 21:57 IST"><strong> Ambedkar, on a device near you </strong></a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/arts-and-culture/cinema/indian-cinema-ambedkar-on-screen-new-dalit-movies-study/article67666820.ece">
+From Bollywood blockbusters to regional films and OTT originals, Ambedkar’s image and message are finding new resonance in Indian popular culture.
+</a></div><div class="author"><div class="author-name noimg"><a href="https://frontline.thehindu.com/profile/author/Harish-S--Wankhede-19770/" class="person-name lnk">Harish S. Wankhede</a></div></div></div></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-12 col-sm-12 col-12"><div data-ga-label="Current issue Article"><div><div data-ga-label="Current issue Article"><div class="read-book mb-4"><div class="book"><div class="book-img"><a href="https://frontline.thehindu.com/current-issue/?utm_source=home_page_current_issue&amp;utm_medium=current_issue_panel"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/k8brsb/article67653856.ece/alternates/LANDSCAPE_80/FL%20Dec%2029%20Cover.jpg" data-original="https://fl-i.thgim.com/public/incoming/k8brsb/article67653856.ece/alternates/LANDSCAPE_80/FL%20Dec%2029%20Cover.jpg" data-device-variant="FREE~FREE~FREE~FREE" alt="FL Dec 29 Cover.jpg" title="FL Dec 29 Cover.jpg" class="lazy" width="100%" height="100%" /></a></div><a class="small-link" href="https://frontline.thehindu.com/current-issue/?utm_source=home_page_current_issue&amp;utm_medium=current_issue_panel"><span class="text">Read the Latest Issue<span class="slider"></span></span></a></div></div></div></div><div data-ga-label="Lead-Stories"><div class="element smaller"><div class="label news"><a href="https://frontline.thehindu.com/news/mohini-giri-womens-rights-icon-ncw-war-widows-gender-justice-activist-obituary/article67661510.ece">Tribute</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/news/mohini-giri-womens-rights-icon-ncw-war-widows-gender-justice-activist-obituary/article67661510.ece" title="Updated: December 21, 2023 16:26 IST
+Published: December 21, 2023 16:22 IST">
+Mohini Giri (1938-2023): A dauntless voice for women’s rights </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/T-K--Rajalakshmi-12412/" class="person-name lnk">T.K. Rajalakshmi </a></div></div></div><div class="element smaller no-border"><div class="label environment"><a href="https://frontline.thehindu.com/environment/how-the-amended-biological-diversity-act-puts-profits-over-people/article67657862.ece">Legislation</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/environment/how-the-amended-biological-diversity-act-puts-profits-over-people/article67657862.ece" title="Updated: December 21, 2023 13:18 IST
+Published: December 20, 2023 20:01 IST">
+The amended Biological Diversity Act puts profits over people </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Priyansha--Chouhan-20239/" class="person-name lnk">Priyansha Chouhan</a></div></div></div></div></div></div></div></div></section><div class="fragmentcontent lazy" id="fragmentcontenthomevideo" data-fragment-url="https://frontline.thehindu.com/fragment/featuredstory?count=1&amp;variant=homevideo&amp;test&amp;instance=3"></div><section class="home-editors-pick" data-ga-label="Editor&#039;s Pick"><div class="container"><h2 class="section-sub-title"><a href="https://frontline.thehindu.com/editors-pick/">Editor&#039;s Pick</a></h2><div class="row equal-height"><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 after-border-right"><div class="element"><div class="picture"><a href="https://frontline.thehindu.com/politics/chief-ministers-mohan-yadav-madhya-pradesh-bhajan-lal-sharma-rajasthan-vishnu-sai-chhattisgarh-revanth-reddy-telangana-lalduhoma-mizoram/article67650272.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/dz2jib/article67650534.ece/alternates/SQUARE_80/PTI12_13_2023_000141A.jpg" data-original="https://fl-i.thgim.com/public/incoming/dz2jib/article67650534.ece/alternates/SQUARE_80/PTI12_13_2023_000141A.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~LANDSCAPE" alt="PTI12_13_2023_000141A.jpg" title="PTI12_13_2023_000141A.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="label politics"><a href="https://frontline.thehindu.com/politics/chief-ministers-mohan-yadav-madhya-pradesh-bhajan-lal-sharma-rajasthan-vishnu-sai-chhattisgarh-revanth-reddy-telangana-lalduhoma-mizoram/article67650272.ece">Profiles</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/chief-ministers-mohan-yadav-madhya-pradesh-bhajan-lal-sharma-rajasthan-vishnu-sai-chhattisgarh-revanth-reddy-telangana-lalduhoma-mizoram/article67650272.ece" title="Updated: December 18, 2023 18:55 IST
+Published: December 18, 2023 18:55 IST">
+The five new Chief Ministers </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/politics/chief-ministers-mohan-yadav-madhya-pradesh-bhajan-lal-sharma-rajasthan-vishnu-sai-chhattisgarh-revanth-reddy-telangana-lalduhoma-mizoram/article67650272.ece">
+Who are the new faces who have taken charge of five important States in India and what does their elevation portend?
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/TEAM--FRONTLINE-16592/" class="person-name lnk">TEAM FRONTLINE</a></div></div></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 after-border-right tab-no-side-border"><div class="element"><div class="label the-nation"><a href="https://frontline.thehindu.com/the-nation/supreme-courts-moral-failure-in-manipur/article67654986.ece">PERSPECTIVE | MANIPUR CRISIS </a></div><h3 class="title"><a href=" https://frontline.thehindu.com/the-nation/supreme-courts-moral-failure-in-manipur/article67654986.ece" title="Updated: December 19, 2023 22:04 IST
+Published: December 19, 2023 22:02 IST">
+Supreme Court’s moral failure in Manipur </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/the-nation/supreme-courts-moral-failure-in-manipur/article67654986.ece">
+The court’s failure to enforce state accountability and assess the power imbalances between communities has deepened the humanitarian crisis.
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/John-Simte-21248/" class="person-name lnk">John Simte</a></div></div></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 after-border-right"><div class="element"><div class="picture"><a href="https://frontline.thehindu.com/the-nation/india-has-lost-its-moral-compass-arundhati-roy-on-israel-palestian-gaza-war/article67639421.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/8yqwdo/article67641133.ece/alternates/SQUARE_80/IMG_4245.jpg" data-original="https://fl-i.thgim.com/public/incoming/8yqwdo/article67641133.ece/alternates/SQUARE_80/IMG_4245.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~LANDSCAPE" alt="IMG_4245.jpg" title="IMG_4245.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="label the-nation"><a href="https://frontline.thehindu.com/the-nation/india-has-lost-its-moral-compass-arundhati-roy-on-israel-palestian-gaza-war/article67639421.ece">Gaza War</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/the-nation/india-has-lost-its-moral-compass-arundhati-roy-on-israel-palestian-gaza-war/article67639421.ece" title="Updated: December 15, 2023 16:04 IST
+Published: December 15, 2023 14:25 IST">
+‘Our country has lost its moral compass’: Arundhati Roy </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/the-nation/india-has-lost-its-moral-compass-arundhati-roy-on-israel-palestian-gaza-war/article67639421.ece">
+From Arundhati Roy’s acceptance speech at the P. Govinda Pillai award function held in Thiruvananthapuram on December 13.
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Arundhati-Roy-21344/" class="person-name lnk">Arundhati Roy</a></div></div></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12"><div class="element smaller"><h3 class="title"><a href=" https://frontline.thehindu.com/politics/profile-vk-pandian-will-he-succeed-naveen-patnaik-as-odisha-chief-minister/article67586111.ece" title="Updated: December 22, 2023 12:18 IST
+Published: December 14, 2023 11:00 IST">
+V.K. Pandian: Odisha’s Chief Minister-in-waiting? </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Aishwarya--Mohanty-19757/" class="person-name lnk">Aishwarya Mohanty</a></div></div></div><div class="element smaller"><h3 class="title"><a href=" https://frontline.thehindu.com/environment/climate-change-cop-28-west-asia-warming-up-is-bad-news-for-india/article67637591.ece" title="Updated: December 18, 2023 11:53 IST
+Published: December 14, 2023 21:34 IST">
+West Asia warming up is bad news for India </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Raghu-Murtugudde--20061/" class="person-name lnk">Raghu Murtugudde </a></div></div></div><div class="element smaller"><h3 class="title"><a href=" https://frontline.thehindu.com/politics/why-zionism-rules-the-hearts-of-hindutva-acolytes/article67637346.ece" title="Updated: December 14, 2023 17:24 IST
+Published: December 14, 2023 16:17 IST">
+Why Zionism rules the hearts of Hindutva acolytes </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Shreevatsa--Nevatia-18915/" class="person-name lnk">Shreevatsa Nevatia</a></div></div></div><div class="element smaller no-border"><h3 class="title"><a href=" https://frontline.thehindu.com/arts-and-culture/art/homage-to-leisure-g-reghu-sculptures-on-display-seagull-bookstore-kolkata-november-december-2023/article67654771.ece" title="Updated: December 21, 2023 12:00 IST
+Published: December 20, 2023 18:04 IST">
+Homage to leisure: G. Reghu’s sculptures find a home at Seagull </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Ishita--Sengupta-19756/" class="person-name lnk">Ishita Sengupta</a></div></div></div></div></div></div></section><section class="full-width-img-banner politics-bg left home-spotlight" data-ga-label="Spotlight"><div class="container"><div class="row align-items-center"><h3 class="section-sub-title for-mobile">Spotlight</h3><div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12"><div class="banner-img"><div class="picture"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/n5qj6q/article67647300.ece/alternates/LANDSCAPE_80/Parliament%20smoke.jpg" data-original="https://fl-i.thgim.com/public/incoming/n5qj6q/article67647300.ece/alternates/LANDSCAPE_80/Parliament%20smoke.jpg" alt="Parliament smoke.jpg" title="Parliament smoke.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~PORTRAIT" class=" lazy" width="100%" height="100%" /></div></div></div><div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12"><div class="text-part"><h3 class="section-sub-title hide-mobile">Spotlight</h3><div class="element"><div class="label "><a href="https://frontline.thehindu.com/politics/parliament-security-breach-smoke-bombs-modi-amit-sha-congress-controversy-analysis/article67647267.ece">Parliament Security Breach</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/parliament-security-breach-smoke-bombs-modi-amit-sha-congress-controversy-analysis/article67647267.ece" title="Updated: December 18, 2023 12:16 IST
+Published: December 17, 2023 12:49 IST">
+What the smoke bombs exposed </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/politics/parliament-security-breach-smoke-bombs-modi-amit-sha-congress-controversy-analysis/article67647267.ece">
+A nation’s disillusionment exploded in its temple of power, revealing the deep fractures in the country’s besieged democratic edifice.
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Sanjay-Jha-21357/" class="person-name lnk">Sanjay Jha</a></div></div></div></div></div></div></div></section><div id="hp-piano-top1"></div><div class="fragmentcontent lazy" id="fragmentcontentcolumns" data-fragment-url="https://frontline.thehindu.com/columns/fragment/topstory?count=6&amp;variant=columns"></div><div id="hp-piano-top2"></div><div class="fragmentcontent lazy" id="fragmentcontentpackage" data-fragment-url="https://frontline.thehindu.com//fragment/specialstory?count=6&amp;variant=package"></div><section class="full-width-img-banner environment-bg right home-photo-essay"><div class="container" data-ga-label="Photo Essay"><div class="row align-items-center"><h3 class="section-sub-title for-mobile">Photo Essay</h3><div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12"><div class="text-part"><h3 class="section-sub-title hide-mobile">Photo Essay</h3><div class="element"><div class="label art"><a href="https://frontline.thehindu.com/arts-and-culture/art/musui-magic-sculptor-ks-radhakrishnan-first-ever-retrospective-on-the-open-road-metaphor-for-remarkable-artistic-journey-over-five-decades/article67586106.ece">Art</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/arts-and-culture/art/musui-magic-sculptor-ks-radhakrishnan-first-ever-retrospective-on-the-open-road-metaphor-for-remarkable-artistic-journey-over-five-decades/article67586106.ece" title="Updated: December 21, 2023 13:19 IST
+Published: December 14, 2023 11:00 IST">
+K.S. Radhakrishnan’s ‘On the Open Road’ a metaphor for his remarkable journey </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/arts-and-culture/art/musui-magic-sculptor-ks-radhakrishnan-first-ever-retrospective-on-the-open-road-metaphor-for-remarkable-artistic-journey-over-five-decades/article67586106.ece">
+The debut retrospective reiterates the strongest points of his oeuvre: exploration, fluidity, transgression, and unstinted joy in the force of life.
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Juhi-Saklani-16418/" class="person-name lnk">Juhi Saklani</a></div></div></div></div></div><div class="col-xl-6 col-lg-6 col-md-12 col-sm-12 col-12 banner-img"><div class="picture"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/hgyzvw/article67634014.ece/alternates/LANDSCAPE_80/k_s_radhakrishnan_02.jpg" data-original="https://fl-i.thgim.com/public/incoming/hgyzvw/article67634014.ece/alternates/LANDSCAPE_80/k_s_radhakrishnan_02.jpg" alt="k_s_radhakrishnan_02.jpg" title="k_s_radhakrishnan_02.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~PORTRAIT" class=" lazy" width="100%" height="100%" /></div></div></div></div></section><section><div class="container"><div class="row"><h2 class="section-sub-title"><a href="https://frontline.thehindu.com/arts-and-culture/">Arts & Culture</a></h2><div class="row equal-height"><div class=" col-xl-9 col-lg-9 col-md-12 col-12 col-sm-12 col-12 after-border-right" data-ga-label="Arts & Culture"><div class="fragmentcontent lazy" id="fragmentcontentartsandculture" data-fragment-url="https://frontline.thehindu.com/arts-and-culture/fragment/topstory?count=1&amp;variant=arts-and-culture"></div></div><div class="col-xl-3 col-lg-3 col-md-12 col-12 col-sm-12 col-12" data-ga-label="books"><div class="fragmentcontent lazy" id="fragmentcontentbooks" data-fragment-url="https://frontline.thehindu.com/books/fragment/topstory?count=4&amp;variant=books"></div></div></div></div></div></section><div id="piano-subscribe-box"></div><section class="home-sections"><div class="container topnewstoday" data-ga-label="Home sections"> <div class="dark-spliter pt-4 mb-3"></div>
+<h2 class="section-title">Sections</h2>
+<nav class="tab-nav">
+<div class="nav nav-tabs" id="nav-tab" role="tablist">
+<button class="nav-link active sectiondynamicContent" type="button" data-link-url="https://frontline.thehindu.com/news/" data-fragment-url="https://frontline.thehindu.com/news/fragment/latestsections?count=5&amp;variant=homepagetab">
+News
+</button>
+<button class="nav-link  sectiondynamicContent" type="button" data-link-url="https://frontline.thehindu.com/environment/" data-fragment-url="https://frontline.thehindu.com/environment/fragment/latestsections?count=5&amp;variant=homepagetab">
+Environment
+</button>
+<button class="nav-link  sectiondynamicContent" type="button" data-link-url="https://frontline.thehindu.com/world-affairs/" data-fragment-url="https://frontline.thehindu.com/world-affairs/fragment/latestsections?count=5&amp;variant=homepagetab">
+World Affairs
+</button>
+<button class="nav-link  sectiondynamicContent" type="button" data-link-url="https://frontline.thehindu.com/science-and-technology/" data-fragment-url="https://frontline.thehindu.com/science-and-technology/fragment/latestsections?count=5&amp;variant=homepagetab">
+Science &amp; Technology
+</button>
+<button class="nav-link  sectiondynamicContent" type="button" data-link-url="https://frontline.thehindu.com/social-issues/" data-fragment-url="https://frontline.thehindu.com/social-issues/fragment/latestsections?count=5&amp;variant=homepagetab">
+Social Issues
+</button>
+</div>
+</nav>
+<div class="fl-loader" style="display:none;"><div class="center-load"></div><div class="center-icon"><img class="lazy" data-src-template="https://assetsfl.thehindu.com/theme/images/FLRX/f-logo-circle-red.svg" alt="The FL Logo" src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" /></div></div><div class="tab-content" id="nav-tabContent"></div><a id="discoverwidget1" style="display:none;" class="small-link see-more center-align-load-more"><span class="text">+SEE ALL STORIES<span class="slider"></span></span></a></div></div></section><script>
+    var dynamiccontnetScrolled = false;
+        window.addEventListener('scroll', function() {
+    if (!dynamiccontnetScrolled) {
+        dynamiccontnetScrolled = true; 
+        var activeDynamicUrl = document.querySelector(".sectiondynamicContent.active").getAttribute('data-fragment-url') || '';
+        var linkUrl = document.querySelector(".sectiondynamicContent.active").getAttribute('data-link-url') || '';
+        if(typeof activeDynamicUrl !="undefined" && activeDynamicUrl.length > 0){
+        fetch(activeDynamicUrl).then(function(response) {
+            if(response.ok && (response.status >= 200 &&  response.status < 400)) {     
+                dynamiccontnetScrolled = true;     
+                return response.text();
+            }
+            else{
+                dynamiccontnetScrolled = false;
+            }
+        }).then(function(respone) {
+            document.querySelector("#nav-tabContent").innerHTML = respone;
+            imglazyload("#nav-tabContent");
+            dynamicadwidgetdisplay("dynamicadwidget");
+            if(typeof linkUrl !="undefined" && linkUrl.length > 0 && linkUrl != ''){
+                document.querySelector("#discoverwidget1").href = linkUrl;
+                document.querySelector("#discoverwidget1").style.display= "block";
+            }
+            
+        }).catch(function(error) {
+            dynamiccontnetScrolled = false;
+        });
+        }
+        }
+        });
+        var myFunction = function() {
+            var hasactive = $(this).hasClass('active');
+            $(this).parent().children().removeClass("active")
+            this.classList.add("active")
+            var fragmentUrl = this.getAttribute("data-fragment-url");
+            var linkUrlnew = this.getAttribute("data-link-url");
+            if(!hasactive){
+                showLoader(".topnewstoday .fl-loader")
+                $("#discoverwidget3").hide();
+            fetch(fragmentUrl).then(function(response) {
+            if(response.ok && (response.status >= 200 &&  response.status < 400)) {    
+                    
+                return response.text();
+            }
+            else{
+                
+            }
+        }).then(function(respone) {
+            hideLoader(".topnewstoday .fl-loader")
+            document.querySelector("#nav-tabContent").innerHTML = respone;
+            imglazyload("#nav-tabContent");
+            dynamicadwidgetdisplay("dynamicadwidget");
+            if(typeof linkUrlnew !="undefined" && linkUrlnew.length > 0 && linkUrlnew != ''){
+                document.querySelector("#discoverwidget1").href = linkUrlnew;
+                document.querySelector("#discoverwidget1").style.display= "block";
+            }
+        }).catch(function(error) {
+            
+        });
+            }
+        };
+        setTimeout(function(){
+        var elements = document.getElementsByClassName("sectiondynamicContent");
+        
+
+        for (var i = 0; i < elements.length; i++) {
+            
+            elements[i].addEventListener('click', myFunction, false);
+        }
+        }, 1000);
+        function dynamicadwidgetdisplay(selector){
+            userIdentify.then(function() {
+                if(isDeviceEnabled("") &&  isNonSubcribedUser()) {
+                    googletag.cmd.push(function() { googletag.display(selector); });
+                    var googletagslots = googletag.pubads().getSlots();
+                    var refreshslots = googletagslots.find(element => element.getSlotId().toString().indexOf("") > -1);
+                    if (typeof refreshslots !="undefined"){
+                        googletag.cmd.push(function() {
+                            googletag.pubads().refresh([refreshslots]);
+                        });
+                    }
+                }
+            });
+        }
+
+</script><section><div class="container" data-ga-label="Current Issue"><div class="dark-spliter pt-4 mb-3"></div><h2 class="section-sub-title"><a href="https://frontline.thehindu.com/current-issue/">Current Issue</a></h2><div class="row equal-height"><div class=" col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 after-border-right"><div class="element"><div class="picture"><a href="https://frontline.thehindu.com/politics/five-state-assembly-elections-2023-bjp-modi-congreess-india-regional-parties-analysis/article67620925.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/efr1p9/article67620940.ece/alternates/SQUARE_80/405113627.jpg" data-original="https://fl-i.thgim.com/public/incoming/efr1p9/article67620940.ece/alternates/SQUARE_80/405113627.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~LANDSCAPE" alt="405113627.jpg" title="405113627.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="label politics"><a href="https://frontline.thehindu.com/politics/five-state-assembly-elections-2023-bjp-modi-congreess-india-regional-parties-analysis/article67620925.ece">Assembly Elections 2023 — The Lede</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/five-state-assembly-elections-2023-bjp-modi-congreess-india-regional-parties-analysis/article67620925.ece" title="Updated: December 14, 2023 18:51 IST
+Published: December 10, 2023 15:10 IST">
+Modi’s heartland sweep a warning sign for complacent Congress </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/politics/five-state-assembly-elections-2023-bjp-modi-congreess-india-regional-parties-analysis/article67620925.ece">
+Despite being widely seen as the frontrunner, Congress lost three key States due to its inability to adapt, a weakness it must address before 2024.
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Anand-Mishra-20161/" class="person-name lnk">Anand Mishra</a></div></div></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 after-border-right tab-no-side-border"><div class="read-book tab-no-border-bottom"><div class="book mx-auto"><div class="book-img medium"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/k8brsb/article67653856.ece/alternates/SQUARE_80/FL%20Dec%2029%20Cover.jpg" data-original="https://fl-i.thgim.com/public/incoming/k8brsb/article67653856.ece/alternates/SQUARE_80/FL%20Dec%2029%20Cover.jpg" alt="FL Dec 29 Cover.jpg" title="FL Dec 29 Cover.jpg" data-device-variant="FREE~FREE~FREE~FREE" class="picture lazy" width="100%" height="100%" /></div><a href="/online-subscription/"><button class="basic-btn subscribe">Subscribe</button></a></div><a class="small-link" href="https://frontline.thehindu.com/magazine/issue/vol40-25"><span class="text">READ EBOOK<span class="slider"></span></span></a></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12 after-border-right"><div class="element tab-no-border-bottom"><div class="picture"><a href="https://frontline.thehindu.com/politics/editors-note-vaishna-roy-on-assembly-elections-results-2023-the-rot-runs-deep-in-the-congress/article67618095.ece"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://fl-i.thgim.com/public/incoming/qrkfg7/article67634356.ece/alternates/SQUARE_80/286762b6-4d54-42b0-bdfe-ebf377b30ee0.jpg" data-original="https://fl-i.thgim.com/public/incoming/qrkfg7/article67634356.ece/alternates/SQUARE_80/286762b6-4d54-42b0-bdfe-ebf377b30ee0.jpg" data-device-variant="LANDSCAPE~LANDSCAPE~LANDSCAPE~LANDSCAPE" alt="286762b6-4d54-42b0-bdfe-ebf377b30ee0.jpg" title="286762b6-4d54-42b0-bdfe-ebf377b30ee0.jpg" class="lazy" width="100%" height="100%" /></a></div><div class="label politics"><a href="https://frontline.thehindu.com/politics/editors-note-vaishna-roy-on-assembly-elections-results-2023-the-rot-runs-deep-in-the-congress/article67618095.ece">Assembly Elections 2023</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/editors-note-vaishna-roy-on-assembly-elections-results-2023-the-rot-runs-deep-in-the-congress/article67618095.ece" title="Updated: December 14, 2023 15:07 IST
+Published: December 14, 2023 11:00 IST">
+Editor’s Note: The rot runs deep in the Congress </a></h3><div class="sub-text"><a href="https://frontline.thehindu.com/politics/editors-note-vaishna-roy-on-assembly-elections-results-2023-the-rot-runs-deep-in-the-congress/article67618095.ece">
+Can the party reclaim its democratic space by shedding its white elephants and rogue commanders?
+</a></div><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Vaishna-Roy-16745/" class="person-name lnk">Vaishna Roy</a></div></div></div></div><div class="col-xl-3 col-lg-3 col-md-6 col-sm-6 col-12"><div class="element"><div class="label politics"><a href="https://frontline.thehindu.com/politics/madhya-pradesh-assembly-election-result-2023-analysis-congress-comeback-chances-spoiled-by-obc-focus-caste-census-kamal-nath-shivraj-singh-chouhan/article67618440.ece">Assembly Elections 2023</a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/madhya-pradesh-assembly-election-result-2023-analysis-congress-comeback-chances-spoiled-by-obc-focus-caste-census-kamal-nath-shivraj-singh-chouhan/article67618440.ece" title="Updated: December 15, 2023 13:34 IST
+Published: December 12, 2023 18:27 IST">
+How Congress faltered in Madhya Pradesh despite respectable vote share </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Anando-Bhakto-12441/" class="person-name lnk">Anando Bhakto</a></div></div></div><div class="element"><div class="label politics"><a href="https://frontline.thehindu.com/politics/rajasthan-assembly-election-2023-desert-state-goes-back-to-bjp/article67618878.ece">Assembly Elections 2023 </a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/rajasthan-assembly-election-2023-desert-state-goes-back-to-bjp/article67618878.ece" title="Updated: December 15, 2023 16:55 IST
+Published: December 9, 2023 21:24 IST">
+How BJP’s aggressive campaign exploited Congress’ weaknesses to secure decisive victory in Rajasthan </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/T-K--Rajalakshmi-12412/" class="person-name lnk">T.K. Rajalakshmi </a></div></div></div><div class="element no-border"><div class="label politics"><a href="https://frontline.thehindu.com/politics/chhattisgarh-election-results-analysis-tribal-anger-bjp-campaign-modi-factor/article67617690.ece">Assembly Elections 2023 </a></div><h3 class="title"><a href=" https://frontline.thehindu.com/politics/chhattisgarh-election-results-analysis-tribal-anger-bjp-campaign-modi-factor/article67617690.ece" title="Updated: December 15, 2023 16:55 IST
+Published: December 12, 2023 14:34 IST">
+In Chhattisgarh, tribal discontent and unfulfilled promises seal Congress’ fate </a></h3><div class="by-line"><div class="author-name"><a href="https://frontline.thehindu.com/profile/author/Ashutosh--Sharma-17952/" class="person-name lnk">Ashutosh Sharma</a></div></div></div></div></div></div></section><div id="piano-newsletter-box"></div><div id="piano-hp-bottom1"></div><script>
+widgets = [];
+widgets.push({
+    widgetParams: {
+    widgetId: '373b17ee1852b5ab48cbcff5807098a03c0dcd3c',
+    targetElementId: 'hp-piano-top1'
+    }
+});
+ widgets.push({
+    widgetParams: {
+    widgetId: 'f352d67cc54a840811367295b5c124bd758989c9',
+    targetElementId: 'piano-hp-bottom1'
+    }
+});
+cX.CCE.callQueue.push(['runMulti', widgets, true]);
+ </script><div id="piano-hp-bottom2"></div><footer class="footWrap footborder "><div id="artmeterwrap"></div><div class="container"><div class="row footer-logo"><div class="col-xl-6 col-md-6 col-sm-6 col-xs-12 col-12"><a href="https://frontline.thehindu.com/"><img src="https://assetsfl.thehindu.com/theme/images/FLRX/frontline-logo.svg" class="img-fluid mobile-logo" alt="The Hindu frontline Logo" width="100%" height="100%"></a></div><div class="col-xl-6 col-md-6 col-sm-6 col-xs-12 col-12"><div class="app-icon"><a href="https://play.google.com/store/apps/details?id=com.thehindu.frontline&referrer=utm_source%3Dfl_website%26utm_medium%3Dbanner%26utm_campaign%3Dfl_website_footer" title="Google Play"><img src="https://assetsfl.thehindu.com/theme/images/FLRX/google-playstore-icon.svg"></a><a href="https://apps.apple.com/app/frontline-magazine/id6447624894?utm_source=fl_web_footer&utm_medium=banner" title="Apple Store"><img src="https://assetsfl.thehindu.com/theme/images/FLRX/apple-store-icon.svg"></a></div></div></div><div class="row footer-menu">
+<div class="col-xl-2 col-md-2 col-sm-3 col-xs-12 col-12">
+<ul class="footer-list">
+<li class="title">
+<h5><span class="footer-arrow">Frontline</span></h5>
+<ul class="footer-sub-list">
+<li class>
+<a class href="https://frontline.thehindu.com/aboutus/">About us</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/magazine/">Magazine Archives</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/archive/">Digital Exclusive Stories</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/current-issue/">Current Issue</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/sitemap/">Sitemap</a>
+</li>
+<li class>
+<a class href="http://www.thehindugroup.in/subscribe/frontline/">Print Subscription</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/online-subscription/">Digital Subscription</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/rssfeeds/">RSS feeds</a>
+</li>
+</ul>
+</li>
+<li class="title mt-4">
+<h5 class="no-border"><span class="footer-arrow">Contact us</span></h5>
+<ul class="footer-sub-list">
+<li class>
+<a class href="https://frontline.thehindu.com/contacts/">Customer care</a>
+</li>
+<li class>
+<a class href="https://in.linkedin.com/school/the-hindu/jobs?trk=nav_type_jobs">Careers</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-xl-2 col-md-2 col-sm-3 col-xs-12 col-12">
+<ul class="footer-list">
+<li class="title">
+<h5><span class="footer-arrow">Group News Sites</span></h5>
+<ul class="footer-sub-list">
+<li class>
+<a class href="https://www.thehindu.com/">The Hindu</a>
+</li>
+<li class>
+<a class href="https://bloncampus.thehindubusinessline.com/">BL on Campus</a>
+</li>
+<li class>
+<a class href="https://sportstar.thehindu.com/">Sportstar</a>
+</li>
+<li class>
+<a class href="https://www.thehindubusinessline.com/">Businessline</a>
+</li>
+<li class>
+<a class href="https://www.hindutamil.in/">இந்து தமிழ் திசை</a>
+</li>
+<li class>
+<a class href="https://www.thehinducentre.com/">The Hindu Centre</a>
+</li>
+<li class>
+<a class href="https://ywc.thehindu.com/">Young World Club</a>
+</li>
+<li class>
+<a class href="https://epaper.thehindu.com/">The Hindu ePaper</a>
+</li>
+<li class>
+<a class href="https://epaper.thehindubusinessline.com/">Business Line ePaper</a>
+</li>
+<li class>
+<a class href="https://crossword.thehindu.com/">Crossword + Free Games</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-xl-2 col-md-2 col-sm-3 col-xs-12 col-12">
+<ul class="footer-list">
+<li class="title">
+<h5><span class="footer-arrow">Other Products</span></h5>
+<ul class="footer-sub-list">
+<li class>
+<a class href="https://roofandfloor.thehindu.com/">RoofandFloor</a>
+</li>
+<li class>
+<a class href="https://step.thehindu.com/">STEP</a>
+</li>
+<li class>
+<a class href="https://thehinduimages.com/">Images</a>
+</li>
+<li class>
+<a class href="https://classifieds.thehindu.com/">Classifieds</a>
+</li>
+<li class>
+<a class href="https://www.thehindu.com/publications/">Special Publications</a>
+</li>
+<li class>
+<a class href="https://www.thehindu.com/ebooks/">eBooks</a>
+</li>
+<li class>
+<a class href="https://www.thehindu.com/coupons/">The Hindu Coupons</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-xl-2 col-md-2 col-sm-3 col-xs-12 col-12">
+<ul class="footer-list">
+<li class="title">
+<h5><span class="footer-arrow">Popular Sections</span></h5>
+<ul class="footer-sub-list">
+<li class>
+<a class href="https://frontline.thehindu.com/news/">News</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/columns/">Columns</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/social-issues/">Social Issues</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/economy/">Economy</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/books/">Books</a>
+</li>
+<li class>
+<a class href="https://frontline.thehindu.com/arts-and-culture/">Arts &amp; Culture</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="col-xl-4 col-md-4 col-sm-12 col-xs-12 col-12 mobile-footer-pad"><h5 class="footer-top-border"><span>Trending on frontline.thehindu.com</span></h5>
+<ul class="footer-menu-list">
+<li class="border-full-bottom">
+<a href="https://frontline.thehindu.com/news/dmk-minister-ponmudi-sentenced-by-madras-high-court-for-disproportionate-assets-case/article67662426.ece" class="trendLinkCls"><span class="trendTitleSpanCls"><span class="trendsubTitleSpanCLs">DMK Minister Ponmudi sentenced in disproportionate assets case</span></span><span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span></a>
+</li>
+<li class="border-full-bottom">
+<a href="https://frontline.thehindu.com/world-affairs/yoga-maldives-china-belt-road-initiative-india-mohamed-muizzu-ibu-solih/article67457703.ece" class="trendLinkCls"><span class="trendTitleSpanCls"><span class="trendsubTitleSpanCLs">How BJP’s yoga misadventure in Maldives paved the way for China to assert its dominance</span></span><span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span></a>
+</li>
+<li class="border-full-bottom">
+<a href="https://frontline.thehindu.com/the-nation/controversy-young-indian-parents-are-losing-their-children-to-foster-care-abroad-for-incompetent-parenting-mrs-chatterjee-vs-norway-case-sagarika-chakraborty-dhara-shah-priyadarshini-lingaraj-patil/article67343742.ece" class="trendLinkCls"><span class="trendTitleSpanCls"><span class="trendsubTitleSpanCLs">Young Indian parents are losing their children to foster care abroad</span></span><span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span></a>
+</li>
+<li class="border-full-bottom">
+<a href="https://frontline.thehindu.com/environment/how-the-amended-biological-diversity-act-puts-profits-over-people/article67657862.ece" class="trendLinkCls"><span class="trendTitleSpanCls"><span class="trendsubTitleSpanCLs">The amended Biological Diversity Act puts profits over people</span></span><span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span></a>
+</li>
+<li class="border-full-bottom">
+<a href="https://frontline.thehindu.com/the-nation/supreme-courts-moral-failure-in-manipur/article67654986.ece" class="trendLinkCls"><span class="trendTitleSpanCls"><span class="trendsubTitleSpanCLs">Supreme Court’s moral failure in Manipur</span></span><span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span></a>
+</li>
+</ul>
+<h5 class="footer-top-border"><span>Trending on our Group sites</span></h5> <div class="col-md-12 col-xs-12 col-sm-12 col-lg-12 ps-0 groupsite-bt">
+<ul class="footer-menu-list">
+<li class="border-full-bottom">
+<a href="https://www.thehindu.com/news/national/lok-sabha-witnesses-sharp-exchange-between-speaker-om-birla-and-union-minister-hardeep-singh-puri/article67662094.ece" target="_blank">
+<span class="trendTitleSpanCLs">
+<span class="trendsubTitleSpanCls">Lok Sabha witnesses sharp exchange between Speaker Om Birla and Minister Hardeep Singh Puri </span>
+</span>
+<span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span>
+</a>
+</li>
+<li class="border-full-bottom">
+<a href="https://www.thehindu.com/news/national/doctors-will-face-up-to-two-years-imprisonment-for-death-due-to-negligence-under-new-criminal-law/article67662958.ece" target="_blank">
+<span class="trendTitleSpanCLs">
+<span class="trendsubTitleSpanCls">Under new law, doctors face two years of imprisonment for death due to negligence</span>
+</span>
+<span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span>
+</a>
+</li>
+<li class="border-full-bottom">
+<a href="https://www.thehindubusinessline.com/markets/stocks-that-will-see-action-today-december-21-2023/article67660656.ece" target="_blank">
+<span class="trendTitleSpanCLs">
+<span class="trendsubTitleSpanCls">Stocks that will see action today: December 21, 2023</span>
+</span>
+<span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span>
+</a>
+</li>
+<li class="border-full-bottom">
+<a href="https://www.thehindubusinessline.com/economy/logistics/allcargo-logistics-and-allcargo-gati-approve-scheme-for-business-restructuring/article67664781.ece" target="_blank">
+<span class="trendTitleSpanCLs">
+<span class="trendsubTitleSpanCls">Allcargo Logistics and Allcargo Gati approve scheme for business restructuring </span>
+</span>
+<span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span>
+</a>
+</li>
+<li class="border-full-bottom">
+<a href="https://sportstar.thehindu.com/cricket/ipl/ipl-news/csk-squad-2024-ipl-auction-full-list-of-players-bought-chennai-super-kings-team-purse-remaining/article67652070.ece" target="_blank">
+<span class="trendTitleSpanCLs">
+<span class="trendsubTitleSpanCls">CSK squad IPL 2024: Chennai Super Kings full list of players after auction; purse remaining</span>
+</span>
+<span class="trendImage">
+<img class="lazy" src="/theme/images/fl-online/1x1_spacer.png" data-src-template="/theme/images/fl-online/graph-arrow-icon.svg" alt="arrow-icon">
+</span>
+</a>
+</li>
+</ul>
+</div>
+</div></div><div class="row pb-5"><div class="col-12"><ul class="footer-social-icon"><li><a href="https://www.facebook.com/frontlineindia/" title="Facebook" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-fb.svg" alt="Facebook" width="42px" height="34px" class="lazy"></a></li><li><a href="https://twitter.com/frontline_india" title="Twitter" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-tw.svg" alt="Twitter" width="42px" height="34px" class="lazy"></a></li><li><a href="https://www.youtube.com/channel/UCWxdhSIVMreBHJTQlVdg9lA" title="Youtube" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-youtube.svg" alt="Youtube" width="42px" height="34px" class="lazy"></a></li><li><a href="https://www.instagram.com/frontline.magazine/" title="Instagram" target="_blank" rel="noopener"><img src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/footer-icon-insta.svg" alt="Instagram" width="42px" height="34px" class="lazy"></a></li></ul><div class="deskBottomNav"> <ol class="breadcrumb">
+<li class="breadcrumb-item">
+<a class href="https://www.thehindugroup.com/privacy.html">Privacy policy</a>
+</li>
+<li class="breadcrumb-item">
+<a class href="https://www.thehindugroup.com/termsofuse.html">Terms of Use</a>
+</li>
+</ol>
+</div><div class="copyrights"><a href="mailto:flcomments@thehindu.co.in" class="comm" title="Comments to: flcomments@thehindu.co.in.">Copyright &#169; 2023, THG PUBLISHING PVT LTD. or its affiliated companies. All rights reserved.</a></div><div class="back-to-top"><p>BACK TO TOP<img class="lazy" data-src-template="https://assetsfl.thehindu.com/theme/images/fl-online/back-to-top-arrow.svg" src="https://assetsfl.thehindu.com/theme/images/fl-online/1x1_spacer.png" alt="back-to-top"></p></div></div><div class="col-12"></div></div></div></footer><script>
+   loadCSS("https://assetsfl.thehindu.com/theme/css/font-awesome.min.css?ver=1703251874");
+</script><script src="https://assetsfl.thehindu.com/theme/js/thgevnt.min.js?ver=1703252319" async defer></script><script>
+function fragmentlazyload(selector){
+      var fragmentcontent = [];
+     if(typeof selector !== 'undefined' && selector){
+      fragmentcontent = [].slice.call(document.querySelectorAll(selector +" .fragmentcontent.lazy"));
+     }
+     else{
+      fragmentcontent = [].slice.call(document.querySelectorAll(".fragmentcontent.lazy"))
+     }
+   if ("IntersectionObserver" in window) {
+     let lazyContentObserver = new IntersectionObserver(function(entries, observer) {
+       entries.forEach(function(entry) {
+         if (entry.isIntersecting) {
+           let lazycontent = entry.target;
+
+           let fragmentUrl =  lazycontent.dataset.fragmentUrl;
+           
+           fetch(fragmentUrl).then(function(response) {
+            if(response.ok && (response.status >= 200 &&  response.status < 400)) {        
+                return response.text();
+            }
+        }).then(function(resp) {
+           if(typeof resp !="undefined"){
+            lazycontent.innerHTML = resp;
+            delete lazycontent.dataset.fragmentUrl;
+            imglazyload("#"+lazycontent.id); 
+            lazycontent.classList.remove("lazy");
+            lazyContentObserver.unobserve(lazycontent);
+           }
+
+           
+        }).catch(function(error) {
+          console.error(error)
+        });
+           
+         }
+       });
+     });
+ 
+     fragmentcontent.forEach(function(content) {
+      lazyContentObserver.observe(content);
+     });
+   } else {
+     fragmentcontent.forEach(function(lazycontent) {
+        let fragmentUrl =  lazycontent.dataset.fragmentUrl;
+           
+        fetch(fragmentUrl).then(function(response) {
+         if(response.ok && (response.status >= 200 &&  response.status < 400)) {        
+             return response.text();
+         }
+          }).then(function(resp) {
+              if(typeof resp !="undefined"){
+              lazycontent.innerHTML = resp;
+              delete lazycontent.dataset.fragmentUrl;
+              imglazyload("#"+lazycontent.id); 
+              lazycontent.classList.remove("lazy");
+              }
+
+              
+          }).catch(function(error) {
+            console.error(error)
+          });
+      });
+   }
+   }
+  function imglazyload(selector){
+    var lazyImages = [];
+    if(typeof selector !== 'undefined' && selector){
+      lazyImages = [].slice.call(document.querySelectorAll(selector +" img.lazy"));
+    }
+    else{
+      lazyImages = [].slice.call(document.querySelectorAll("img.lazy"))
+    }var imageSizes = [80, 100, 115, 140, 170, 215, 230, 240, 300, 320, 355,385, 435, 460, 480,560, 615, 660, 730, 810, 960, 1080, 1140, 1200];if ("IntersectionObserver" in window) {
+      let lazyImageObserver = new IntersectionObserver(function(entries, observer) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            let lazyImage = entry.target;
+            let variant = lazyImage.dataset.deviceVariant;
+            let imagesrc =  lazyImage.dataset.srcTemplate;
+            if(typeof imagesrc !="undefined" && imagesrc != ""){
+            if(typeof variant !="undefined" && variant != ""){
+            let position = 0;
+            if(DevIdf.isDesktop){
+              position = 1;
+            }
+            else if(DevIdf.isTablet){
+                 position = 2;
+            }
+            else if(DevIdf.isMobile){
+                 position = 3;
+            }
+            variant = variant.split("~")[position];
+            var selected = Math.max.apply(null, imageSizes);
+            for (var i = 0; i < imageSizes.length; i++) {
+              if (lazyImage.offsetWidth <= imageSizes[i]) {
+                selected = imageSizes[i];
+                break;
+              }
+            }
+             var alterRegEx = new RegExp("alternates\/[a-z0-9_]*", "ig");
+             imagesrc = imagesrc.replace(alterRegEx,"alternates/"+variant + "_" + selected);
+            
+             lazyImage.src = imagesrc;
+            }
+            else{
+              lazyImage.src = imagesrc;
+            }
+            }
+            lazyImage.classList.remove("lazy");
+            lazyImageObserver.unobserve(lazyImage);
+          }
+        });
+      });
+  
+      lazyImages.forEach(function(lazyImage) {
+        lazyImageObserver.observe(lazyImage);
+      });
+    } else {
+          lazyImages.forEach(function(lazyImage) {
+         let variant = lazyImage.dataset.deviceVariant;
+            let imagesrc =  lazyImage.dataset.srcTemplate;
+            if(typeof imagesrc !="undefined" && imagesrc != ""){
+            if(typeof variant !="undefined" && variant != ""){
+            let position = 0;
+            if(DevIdf.isDesktop){
+              position = 1;
+            }
+            else if(DevIdf.isTablet){
+                 position = 2;
+            }
+            else if(DevIdf.isMobile){
+                 position = 3;
+            }
+            variant = variant.split("~")[position];
+            var selected = Math.max.apply(null, imageSizes);
+            for (var i = 0; i < imageSizes.length; i++) {
+              if (lazyImage.offsetWidth <= imageSizes[i]) {
+                selected = imageSizes[i];
+                break;
+              }
+            }
+             var alterRegEx = new RegExp("alternates\/[a-z0-9_]*", "ig");
+             imagesrc = imagesrc.replace(alterRegEx,"alternates/"+variant + "_" + selected);
+            
+             lazyImage.src = imagesrc;
+            }
+            else{
+              lazyImage.src = imagesrc;
+            }
+            }
+            lazyImage.classList.remove("lazy");
+       });
+    }
+    }
+   document.addEventListener("DOMContentLoaded", function (event) {
+    imglazyload();
+    fragmentlazyload();});
+   
+  </script><script>
+    const _disallow_params = ["gaa_at", "gaa_n", "gaa_ts", "gaa_sig"]
+    tp.push(['init', function() {
+      const current_url = new URL(window.location.href)
+      const matched_params = _disallow_params.filter(el => current_url.searchParams.has(el))
+
+      if (!tp.pianoId.isUserValid() && matched_params.length == 0){
+                loadScript("https://accounts.google.com/gsi/client")
+              } 
+    }])
+  </script><div id="g_id_onload" data-client_id="123036381837-pvm923k0juvf1g7sk4me0u8oga9tnd47.apps.googleusercontent.com" data-callback="handleGoogleSignIn" data-skip_prompt_cookie="__utp" data-ux_mode="popup" data-moment_callback="logMomentNotification" data-auto_prompt="false"></div><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Faustina:wght@300;400;500;600;700;800&display=swap" crossorigin="anonymous"><style>
+	#gsi_overlay {
+		display: none;
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 9999;
+		width: 100%;
+		height: 100%;
+		background: rgba(0, 0, 0, 0.8);
+	}
+	#oneTapOverlay {
+		position: fixed;
+		top: 0;
+		left: 0;
+		z-index: 9998;
+		width: 100%;
+		height: 100%;
+		background: rgba(0, 0, 0, 0.9);
+	}
+	.oneTapOverlay-inner {
+		margin-right: 420px;
+		margin-left: auto;
+		width: calc(100% - 420px);
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-end;
+		margin-top: 80px;
+	}
+	.oTO-Text-Logo img {
+		width: 59px;
+		height: 59px;
+	}
+	.oneTapOverlay-text {
+		display: flex;
+		flex-direction: row;
+		margin-top: 57px;
+		max-width: 550px;
+	}
+	.oTO-Text {
+		padding: 0 16px;
+		color: #FFFFFF;
+	}
+	.oTO-Text-title {
+		font-size: 20px;
+		line-height: 28px;
+		font-family: "Merriweather", serif;
+		font-weight: bold;
+		margin: 15px 0;
+	}
+	.oTO-Text-subtitle {
+		font-size: 20px;
+		margin: 16px 0 8px;
+		font-family: "Merriweather", serif;
+		font-weight: bold;
+	}
+	.oTO-Text-points {
+		padding: 0;
+		position: absolute;
+	}
+	.oTO-Text-points li {
+		font-size: 16px;
+		line-height: 22px;
+		margin-bottom: 8px;
+		font-family: "Faustina", serif;
+		list-style-type: none;
+		position: relative;
+		display: flex;
+		align-items: flex-start;
+	}
+	.oTO-Text-points li::before {
+		content: '';
+		display: block;
+		padding: 8px 7px;
+		background: url('https://assetsfl.thehindu.com/theme/images/google-signin/arrow-819.svg') no-repeat center center;
+		background-size: contain;
+		margin-right: 8px;
+		margin-top: 6px;
+	}
+	.oneTapOverlay-arrow img {
+		max-width: 100%;
+	}
+	@media screen and(max-width: 1250px) {
+		.oneTapOverlay-arrow {
+			display: none
+		}
+	}
+	@media screen and(max-width: 820px) {
+		.oTO-Text-title {
+			font-size: 24px;
+		}
+		.oTO-Text-subtitle {
+			font-size: 18px;
+		}
+		.oTO-Text-points li {
+			font-size: 16px;
+		}
+		.oneTapOverlay-text {
+			flex-direction: column;
+			align-items: center;
+		}
+	}
+
+	@media screen and(max-height: 500px) {
+		.oneTapOverlay-text {
+			margin-top: 0;
+		}
+		.oTO-Text-title {
+			font-size: 24px;
+		}
+		.oTO-Text-subtitle {
+			font-size: 18px;
+		}
+		.oTO-Text-points li {
+			font-size: 16px;
+		}
+	}
+
+	@media(max-width: 767px) {
+		#gsi_overlay {
+			z-index: 9999 !important;
+		}
+		.oTO-Text-points {
+			display: none !important;
+		}
+	}
+
+	body.headersticky iframe#credential_picker_iframe {
+		bottom: 85px !important;
+	}
+	div#credential_picker_container {
+		z-index: 99999999999999999999 !important;
+	}
+</style><div id="gsi_overlay"><div class="oneTapOverlay-inner"><div class="oneTapOverlay-text"><div class="oTO-Text-Logo"><img src="https://assetsfl.thehindu.com/theme/images/google-signin/fl-online-icon.svg" alt="Frontline" /></div><div class="oTO-Text"><div class="oTO-Text-title">Sign in to Unlock member-only benefits!</div><ul class="oTO-Text-points"><li>Bookmark stories to read later.</li><li>Comment on stories to start conversations.</li><li>Subscribe to our newsletters.</li><li>Get notified about discounts and offers to our products.</li></ul></div></div><div class="oneTapOverlay-arrow"><img src="https://assetsfl.thehindu.com/theme/images/google-signin/group-12945.svg" alt="Sign in" /></div></div></div><script>
+    const gsi_container = document.getElementById("g_id_onload")
+    const auth_ep = "https://madhyama.thehindu.com/api/gni";
+    const response_ep = "https://madhyama.thehindu.com/api/sociallogin"
+    handleResponseUrl()
+
+    function logMomentNotification(v) {
+      const gsi_overlay = document.getElementById("gsi_overlay")
+      if(v.g == 'display' && v.h === true) {
+        gsi_overlay.style.display = "block";
+
+        dataLayer = window.dataLayer || [];
+        dataLayer.push ({
+          'event' : 'onetap_signin',
+          'data' : {
+            'click':'view',
+            'click_type' : '',
+            'general_placement':'body',
+            'detailed_placement':'',
+            'goal_type':'onetap_signin_view'
+          }
+        });
+      }
+      else gsi_overlay.style.display = "none"
+    }
+
+    function loginCallback(res) {
+      handleGoogleSignIn()
+    }
+
+    function pushLoginEventToDataLayer() {
+      dataLayer = window.dataLayer || [];
+      dataLayer.push ({
+        'event' : 'onetap_signin',
+        'data' : {
+          'click':'sign_in',
+          'click_type' : 'action',
+          'general_placement':'body',
+          'detailed_placement':'',
+          'goal_type':'onetap_signin'
+        }
+      });
+    }
+
+    function handleGoogleSignIn(user) {
+      console.log('handleGoogleSignIn');
+      const clean_url = cleanArticleUrl();
+      const options = {
+        method: "POST",
+        headers: getHeaders(),
+        body: JSON.stringify({
+          "token": user.credential,
+          "article_url": clean_url,
+          "pubId": "FL",
+        })
+      };
+
+      fetch(auth_ep, options)
+      .then(function(res) {
+        if (!res.ok) throw new Error(res.statusText)
+        return res.json()
+      })
+      .then(function(res) {
+        if (res.redirect_uri) {
+          pushLoginEventToDataLayer();
+          setTimeout(() => {
+            window.location.replace(res.redirect_uri);
+          }, 0200);
+        }
+        else if (!res.token || res.token.trim() === "") return
+        else if(res.token && window.tp.pianoId)
+          tp.push(['init', function() {
+            tp.pianoId.loginByToken(res.token);
+            pushLoginEventToDataLayer();
+            setTimeout(() => window.location.reload(), 0700);
+          }])
+        else {
+          console.log("Nothing happened...")
+        }
+      })
+      .catch(err => console.error(err));
+    }
+
+    function cleanArticleUrl() {
+      const params_to_remove = ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content"]
+
+      const url_obj = new URL(`${window.location.href}`)
+      url_obj.searchParams.forEach((v, k) =>
+        {if (params_to_remove.includes(k)) url_obj.searchParams.delete(k)}
+      )
+
+      return url_obj.toString()
+    }
+
+    function handleResponseUrl() {
+      const url_obj = new URL(window.location.href)
+      const response_id = url_obj.searchParams.get("response_id")
+      const redirect_uri = url_obj.searchParams.get("internal_redirect_uri")
+      if (!response_id || !redirect_uri) {
+        gsi_container.setAttribute('data-auto_prompt', "true")
+        return
+      }
+       // If user is already logged in, Do nothing with response_id or redirect_uri
+      // else if (window.tp && window.tp.pianoId.isUserValid()) return;
+
+      const options = {
+        method: 'POST',
+        headers: getHeaders(),
+        body: JSON.stringify({
+            "response_id": response_id,
+            "pubId": "FL"
+        })
+      }
+
+      fetch(response_ep, options)
+      .then(function(res) {
+        if (!res.ok) throw new Error(res.statusText)
+        return res.json()
+      })
+      .then(function(res) {
+        console.log(res)
+        // return if response is not ok OR no access token is present
+        if (!res.data.status === "ok" || !res.data.access_token) return
+        if(window.tp.pianoId)
+          tp.push(['init', function() {
+            tp.pianoId.loginByToken(res.data.access_token)
+            window.location.replace(res.data.redirect_uri)
+          }])
+        else window.location.replace(res.data.redirect_uri)
+      })
+      .catch(err => console.error("Error: ", err));
+    }
+
+    function getHeaders() {
+      return {
+        "Accept": "application/json, text/plain, */*",
+        "Authorization": "Basic dGhlaGluZHU6a251cl9DSC1BNVBZVSU4Vw==",
+        "Content-Type": "application/json",
+      }
+    }
+
+  </script><script>
+window.tp.push([
+  "init",
+  function () {
+	if (window.tp.pianoId.isUserValid()) loadScript("https://assetsfl.thehindu.com/theme/js/vue-petite.min.js?ver=1703251804")
+  }
+])
+</script><style>
+	.link a {
+		color: white !important;
+	}
+
+	.device-info {
+		margin-right: 4px;
+	}
+
+	.popup-background {
+		background: rgba(0, 0, 0, 0.4);
+		position: fixed;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		z-index: 99999;
+	}
+
+	[v-cloak] {
+		display: none;
+	}
+
+	.popup {
+		width: 100%;
+		max-width: 800px;
+		height: auto;
+		background: #000000;
+		padding: 50px 100px 50px 150px;
+		color: #ffffff;
+		position: relative;
+	}
+
+	.popup .popup-close {
+		color: white;
+		border: none;
+		background: none;
+		padding: 0;
+		margin: 0;
+		position: absolute;
+		top: 10px;
+		right: 10px;
+		font-size: 20px;
+		font-weight: 200;
+		line-height: 20px;
+	}
+
+	.popup .title {
+		font-family: "Merriweather", serif;
+		font-size: 18px;
+		line-height: normal;
+		text-align: left;
+		display: flex;
+		align-items: center;
+		position: relative;
+		min-height: 50px;
+	}
+
+	.popup .title::before {
+		content: "";
+		width: 50px;
+		height: 50px;
+		/* background: url("../../public/icons/h-circle-white.svg") no-repeat center; */
+		background-size: 50px 50px;
+		display: block;
+		position: absolute;
+		left: -65px;
+	}
+
+	.popup .sub-text {
+		font-family: "Merriweather", serif;
+		font-size: 18px;
+		line-height: normal;
+		margin: 15px 0;
+	}
+
+	.popup .popup-btn {
+		background-color: #ffffff !important;
+		color: #000000 !important;
+		font-weight: bold;
+		width: max-content;
+		min-width: 130px;
+		height: 34px;
+		text-align: center;
+		box-sizing: border-box;
+		border-radius: 4px;
+		border: none;
+		cursor: pointer;
+		font-size: 12px;
+		padding: 9px 10px 13px 20px;
+		text-transform: uppercase;
+		margin: 25px auto;
+		display: block;
+		font-family: "Merriweather Sans", sans-serif;
+		transition: all 0.3s;
+	}
+
+	.popup .popup-btn:focus {
+		box-shadow: none;
+		outline: none;
+	}
+
+	.popup .popup-btn:after {
+		content: "→";
+		position: relative;
+		opacity: 0;
+		top: -1px;
+		right: 15%;
+		transition: 0.3s;
+	}
+
+	.popup .popup-btn:hover {
+		padding-right: 20px;
+		padding-left: 10px;
+		color: #000000;
+		text-decoration: none;
+		outline: none;
+	}
+
+	.popup .popup-btn:hover::after {
+		opacity: 1;
+		right: -8px;
+	}
+
+	.popup .device-list {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	.popup .device-list li {
+		width: 100%;
+		padding: 10px 0;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.popup .device-list li > div {
+		display: flex;
+		justify-content: left;
+		align-items: flex-start;
+	}
+
+	.popup .device-list li .s-no {
+		font-family: "Merriweather Sans", sans-serif;
+		font-size: 16px;
+		text-align: right;
+		width: 10px;
+	}
+
+	.popup .device-list li .icon {
+		content: "";
+		width: 20px;
+		height: 20px;
+		/* background: url("../../public/icons/profile-white.svg") no-repeat center; */
+		background-size: 20px 20px;
+		display: block;
+		margin: 4px 10px 0;
+	}
+
+	.popup .device-list li .device {
+		font-family: "Merriweather Sans", sans-serif;
+		font-size: 16px;
+		text-align: left;
+		line-height: normal;
+	}
+
+	.popup .device-list li .device span {
+		display: block;
+		font-family: inherit;
+	}
+
+	.popup .device-list li .popup-btn {
+		margin: 0;
+	}
+
+	.popup p.link {
+		font-family: "Merriweather Sans", sans-serif;
+		font-weight: 200;
+		text-align: center;
+		font-size: 14px;
+		margin: 20px auto 0;
+	}
+
+	.popup p.link a {
+		font-weight: inherit;
+		font-family: inherit;
+		text-decoration: underline;
+		text-underline-offset: 3px;
+		transition: all 0.3s;
+	}
+
+	.popup p.link a:hover {
+		text-decoration: none;
+	}
+
+	.popup p.link span {
+		color: #555555;
+		font-size: 18px;
+		line-height: 0;
+		position: relative;
+		top: 3px;
+	}
+
+	@media screen and(max-width: 700px) {
+		.popup {
+			padding: 40px 40px 40px 90px;
+		}
+	}
+
+	@media screen and(max-width: 570px) {
+		.popup {
+			width: 100%;
+			max-width: 100%;
+			padding: 35px 25px;
+		}
+
+		.popup .popup-close {
+			font-size: 17px;
+			line-height: 17px;
+		}
+
+		.popup .title {
+			font-size: 14px;
+			min-height: auto;
+			padding-left: 60px;
+			margin-bottom: 25px;
+			line-height: 24px;
+		}
+
+		.popup .title::before {
+			left: 0;
+		}
+
+		.popup .sub-text {
+			font-size: 14px;
+			margin: 15px 0;
+			line-height: 24px;
+		}
+
+		.popup .popup-btn {
+			/* width: 80px; */
+			height: 30px;
+			font-size: 10px;
+			padding: 9px 0 13px 10px;
+			margin: 15px auto;
+		}
+
+		.popup .popup-btn:hover {
+			padding-right: 10px;
+			padding-left: 0;
+		}
+
+		.popup .device-list {
+			list-style: none;
+			margin: 0;
+			padding: 0;
+		}
+
+		.popup .device-list li {
+			padding: 7px 0;
+		}
+
+		.popup .device-list li .s-no {
+			font-size: 13px;
+			width: 5px;
+		}
+
+		.popup .device-list li .icon {
+			width: 15px;
+			height: 15px;
+			background-size: 15px 15px;
+			margin: 2px 7px 0;
+		}
+
+		.popup .device-list li .device {
+			font-size: 12px;
+			font-weight: normal;
+		}
+
+		.popup p.link {
+			font-size: 12px;
+			margin: 15px auto 0;
+		}
+
+		.popup p.link a {
+			text-underline-offset: 2px;
+		}
+
+		.popup p.link span {
+			color: #555555;
+			font-size: 18px;
+			line-height: 0;
+			position: relative;
+			top: 3px;
+		}
+	}
+</style><div class="popup-background" id="user-session-popup" v-show="store.session_limit_exceeded === true" v-scope v-cloak><div class="popup" style="padding: 25px;"><button class="popup-close" onclick="window.tp.pianoId.logout()">&#10005;</button><div class="title">Looks like you are already logged in from more than 3 devices!</div><div class="sub-text">To continue logging in, remove at least one device from the below list</div><ul class="device-list"><li v-for="device_detail, index in store.device_info" :key="index"><div class="device-info" v-scope="DeviceInfoComponent({index, ...device_detail})"></div><button class="btn popup-btn" @click="sendDeleteRequest([device_detail.payload], 'single')">Log out</button></li></ul><button class="btn popup-btn" @click="sendDeleteRequest(store.device_info.map(di => di.payload), 'all')">Log Out from all devices</button><p class="link"><a href="https://www.thehindugroup.com/privacy.html" target="_blank">Terms & conditions</a><span>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="https://forms.office.com/r/tz7UETzxUs" target="_blank">Institutional Subscriber</a></p></div></div><template id="device-info"><span class="s-no">${ ind + 1 }</span><span class="icon"></span><span class="device">
+${ device }<span class="duration">Last active - ${ la }</span></span></template><script>const us_api_domain = "/";</script><script src="https://assetsfl.thehindu.com/theme/js/user_session.min.js?ver=1703252318"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"839afcffce87e267","b":1,"version":"2023.10.0","token":"eaed15cee0874f9fad025889fee44b63"}' crossorigin="anonymous"></script>
+</body></html>
