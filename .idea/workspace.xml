@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="updated to finish the definition of the model and caption generator - not yet trained">
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="trained and captioning arbitrary images.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-captioning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image-captioning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +46,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "demastri"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;demastri&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -73,22 +72,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/LocalResearch/JPD-Research/translationWork",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/LocalResearch/JPD-Research/translationWork&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="translationWork" sdk-home="r:\LocalResearch\CondaEnvs\xfmr_tf\python.exe">
@@ -114,10 +113,6 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="" />
-      <changelist id="" name="lfs-changes" comment="" />
-      <changelist id="" name="ImageChanges" comment="" />
-      <changelist id="" name="Image Changes" comment="" />
-      <changelist id="" name="Unstored changes" comment="" />
       <created>1702951052421</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -136,7 +131,8 @@
       <workItem from="1703018518842" duration="4004000" />
       <workItem from="1703085636096" duration="3189000" />
       <workItem from="1703089399031" duration="1026000" />
-      <workItem from="1703090684949" duration="44124000" />
+      <workItem from="1703090684949" duration="45052000" />
+      <workItem from="1703432421108" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -386,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703294630853</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="trained and captioning arbitrary images.">
+      <option name="closed" value="true" />
+      <created>1703303238282</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1703303238282</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +445,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="seq2seq work - decoder and overall model, training and some simple tests" />
     <MESSAGE value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
     <MESSAGE value="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff" />
     <MESSAGE value="completed the code for the subword tokenizer - saved model for translator usage" />
@@ -466,7 +469,8 @@
     <MESSAGE value="flickr data 2/3" />
     <MESSAGE value="flickr data 3/3" />
     <MESSAGE value="updated to finish the definition of the model and caption generator - not yet trained" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated to finish the definition of the model and caption generator - not yet trained" />
+    <MESSAGE value="trained and captioning arbitrary images." />
+    <option name="LAST_COMMIT_MESSAGE" value="trained and captioning arbitrary images." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
