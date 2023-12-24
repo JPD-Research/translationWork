@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="trained and captioning arbitrary images.">
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="added location for arbitrary images and cell at end to caption from that location">
+      <change afterPath="$PROJECT_DIR$/data/captioning/random_images/20191027_173645.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/captioning/random_images/20220513_163459.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-captioning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image-captioning.ipynb" afterDir="false" />
     </list>
@@ -132,7 +134,7 @@
       <workItem from="1703085636096" duration="3189000" />
       <workItem from="1703089399031" duration="1026000" />
       <workItem from="1703090684949" duration="45052000" />
-      <workItem from="1703432421108" duration="1474000" />
+      <workItem from="1703432421108" duration="1706000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -390,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703303238282</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added location for arbitrary images and cell at end to caption from that location">
+      <option name="closed" value="true" />
+      <created>1703437066605</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437066605</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,7 +455,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="seq2seq - completed model, added dynamic translate, saved models, transformer placeholder, small edits to rnn" />
     <MESSAGE value="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff" />
     <MESSAGE value="completed the code for the subword tokenizer - saved model for translator usage" />
     <MESSAGE value="completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete" />
@@ -470,14 +479,15 @@
     <MESSAGE value="flickr data 3/3" />
     <MESSAGE value="updated to finish the definition of the model and caption generator - not yet trained" />
     <MESSAGE value="trained and captioning arbitrary images." />
-    <option name="LAST_COMMIT_MESSAGE" value="trained and captioning arbitrary images." />
+    <MESSAGE value="added location for arbitrary images and cell at end to caption from that location" />
+    <option name="LAST_COMMIT_MESSAGE" value="added location for arbitrary images and cell at end to caption from that location" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook://C:/LocalResearch/JPD-Research/translationWork/image-captioning.ipynb</url>
-          <line>59</line>
+          <line>60</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

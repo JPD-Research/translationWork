@@ -57,3 +57,5 @@
   - <**> checkins for conceptual captions and flickr data
   - <**> checkin after final model is coded
   - <**> checkin after final model is trained and running!
+  - (24-Dec-23) added arbitrary file location to caption from and added a cell to use it
+  - <**> can start to integrate with paper at this point.  Changes as needed for documentation and gpu enhancement
