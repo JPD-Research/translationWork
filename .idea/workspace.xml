@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="added location for arbitrary images and cell at end to caption from that location">
-      <change afterPath="$PROJECT_DIR$/data/captioning/random_images/20191027_173645.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/captioning/random_images/20220513_163459.jpg" afterDir="false" />
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="functionally complete - gpu and documentation to come">
+      <change afterPath="$PROJECT_DIR$/GPU-extensions.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deviceQuery.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/translationWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/translationWork.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RNN-text-generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RNN-text-generation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/image-captioning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image-captioning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/translator/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/models/translator/saved_model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/translator/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/models/translator/variables/variables.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seq2seq-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq-translation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subword-tokenizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/subword-tokenizer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transformer-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformer-translation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +95,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -103,6 +112,11 @@
         <option name="myModuleName" value="translationWork" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\LocalResearch\JPD-Research\translationWork\data\captioning\random_images" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -134,7 +148,18 @@
       <workItem from="1703085636096" duration="3189000" />
       <workItem from="1703089399031" duration="1026000" />
       <workItem from="1703090684949" duration="45052000" />
-      <workItem from="1703432421108" duration="1706000" />
+      <workItem from="1703432421108" duration="6149000" />
+      <workItem from="1703636083423" duration="161000" />
+      <workItem from="1703637088750" duration="5458000" />
+      <workItem from="1703661004380" duration="2172000" />
+      <workItem from="1703663316176" duration="377000" />
+      <workItem from="1703664185098" duration="201000" />
+      <workItem from="1703664916548" duration="212000" />
+      <workItem from="1703665768176" duration="270000" />
+      <workItem from="1703666872842" duration="2104000" />
+      <workItem from="1703669901985" duration="112000" />
+      <workItem from="1703697148448" duration="2115000" />
+      <workItem from="1703699368958" duration="5391000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -400,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703437066605</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="functionally complete - gpu and documentation to come">
+      <option name="closed" value="true" />
+      <created>1703437299746</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1703437299746</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="validated that s2s works with tfds loaded, added subword tokenizer nb as a preface to starting the transformer stuff" />
     <MESSAGE value="completed the code for the subword tokenizer - saved model for translator usage" />
     <MESSAGE value="completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete" />
     <MESSAGE value="add git lfs for large variable files and recommit" />
@@ -480,17 +512,7 @@
     <MESSAGE value="updated to finish the definition of the model and caption generator - not yet trained" />
     <MESSAGE value="trained and captioning arbitrary images." />
     <MESSAGE value="added location for arbitrary images and cell at end to caption from that location" />
-    <option name="LAST_COMMIT_MESSAGE" value="added location for arbitrary images and cell at end to caption from that location" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook://C:/LocalResearch/JPD-Research/translationWork/image-captioning.ipynb</url>
-          <line>60</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="functionally complete - gpu and documentation to come" />
+    <option name="LAST_COMMIT_MESSAGE" value="functionally complete - gpu and documentation to come" />
   </component>
 </project>

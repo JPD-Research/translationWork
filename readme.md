@@ -59,3 +59,18 @@
   - <**> checkin after final model is trained and running!
   - (24-Dec-23) added arbitrary file location to caption from and added a cell to use it
   - <**> can start to integrate with paper at this point.  Changes as needed for documentation and gpu enhancement
+- (25-27-Dec-23) enabled the GPU to see what improvements were possible locally
+  - significant difficulty configuring the environment - 4070 GPU locally 7680 cores
+  - to run under Windows 11, limited to TensorFlow 2.10, CUDA toolkit 11.2, and cuDNN at 8.1 
+    - current versions are CUDA 12.3, cuDNN 8.9
+    - had many issues completely removing the 12.x version of the toolkit from my dev machine
+    - tried running a linux distro as a workaround (to use most current tooling), but memory limitations caused this to fail earlier
+  - eventually got everything configured properly
+    - about 40x improvement in performance, trained the translation transformer model in about 24 min vs 19 hrs on CPU
+    - reconfigured and reran all 5 notebooks on the GPU
+    - added code to all notebooks to properly control GPU memory growth
+      - reran to completion so that timings are represented properly in the notebooks
+    - updated the environment yaml appropriately
+      - added deviceQuery.exe to the repo to quickly tell in any (Win) environment what nVidia GPUs should be available
+  - <**> check into github with this updated data
+  - 
