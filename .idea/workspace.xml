@@ -4,20 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="functionally complete - gpu and documentation to come">
-      <change afterPath="$PROJECT_DIR$/GPU-extensions.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/deviceQuery.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/translationWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/translationWork.iml" afterDir="false" />
+    <list default="true" id="f49d6271-905f-4be3-b2f6-a2ff7688b1ba" name="Changes" comment="many updates, see readme - code now runs on GPU, controlled memory growth to stop resource errors - yml updated appropriately referenced env is xfmr-gpu from xfmr-tf - no GPU still runs in this env too - all notebooks rerun and comments updated to show difference, close to functionally complete, will mod code as report requires.  added deviceQuery.exe to allow query of Win environment for available GPU OUTSIDE of python/tf environments.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RNN-text-generation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/RNN-text-generation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image-captioning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/image-captioning.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/translator/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/models/translator/saved_model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/translator/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/models/translator/variables/variables.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seq2seq-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/seq2seq-translation.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subword-tokenizer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/subword-tokenizer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transformer-translation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/transformer-translation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +84,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -159,7 +148,8 @@
       <workItem from="1703666872842" duration="2104000" />
       <workItem from="1703669901985" duration="112000" />
       <workItem from="1703697148448" duration="2115000" />
-      <workItem from="1703699368958" duration="5391000" />
+      <workItem from="1703699368958" duration="6707000" />
+      <workItem from="1705357106799" duration="6412000" />
     </task>
     <task id="LOCAL-00001" summary="first commit - setup environment with jupyter and tensorflow with RNN notebook">
       <option name="closed" value="true" />
@@ -433,7 +423,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703437299746</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="many updates, see readme - code now runs on GPU, controlled memory growth to stop resource errors - yml updated appropriately referenced env is xfmr-gpu from xfmr-tf - no GPU still runs in this env too - all notebooks rerun and comments updated to show difference, close to functionally complete, will mod code as report requires.  added deviceQuery.exe to allow query of Win environment for available GPU OUTSIDE of python/tf environments.">
+      <option name="closed" value="true" />
+      <created>1703705863515</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1703705863515</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -488,7 +486,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="completed the code for the subword tokenizer - saved model for translator usage" />
     <MESSAGE value="completed the code for the transformer - running now (30 hrs...) will likely need tweaking when complete" />
     <MESSAGE value="add git lfs for large variable files and recommit" />
     <MESSAGE value="saved trained transformer model - runs well enough - also have attention plots for review" />
@@ -513,6 +510,7 @@
     <MESSAGE value="trained and captioning arbitrary images." />
     <MESSAGE value="added location for arbitrary images and cell at end to caption from that location" />
     <MESSAGE value="functionally complete - gpu and documentation to come" />
-    <option name="LAST_COMMIT_MESSAGE" value="functionally complete - gpu and documentation to come" />
+    <MESSAGE value="many updates, see readme - code now runs on GPU, controlled memory growth to stop resource errors - yml updated appropriately referenced env is xfmr-gpu from xfmr-tf - no GPU still runs in this env too - all notebooks rerun and comments updated to show difference, close to functionally complete, will mod code as report requires.  added deviceQuery.exe to allow query of Win environment for available GPU OUTSIDE of python/tf environments." />
+    <option name="LAST_COMMIT_MESSAGE" value="many updates, see readme - code now runs on GPU, controlled memory growth to stop resource errors - yml updated appropriately referenced env is xfmr-gpu from xfmr-tf - no GPU still runs in this env too - all notebooks rerun and comments updated to show difference, close to functionally complete, will mod code as report requires.  added deviceQuery.exe to allow query of Win environment for available GPU OUTSIDE of python/tf environments." />
   </component>
 </project>
